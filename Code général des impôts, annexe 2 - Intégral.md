@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-07-01
+Version Consolidée au 1982-07-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -269,8 +269,8 @@ Version Consolidée au 1982-07-01
         - [REGIME ECONOMIQUE DE L'ALCOOL. (art. 269 à 273)](#266)
         - [MONOPOLES FISCAUX (art. 275 B)](#267)
           - [TABACS. (art. 275 B)](#268)
-      - [MONOPOLES FISCAUX (art. 283 à 286 C)](#269)
-        - [TABACS. (art. 283 à 286 C)](#270)
+      - [MONOPOLES FISCAUX (art. 286 C)](#269)
+        - [TABACS. (art. 286 C)](#270)
       - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 294 A à 294 C)](#271)
         - [LES TARIFS ET LEUR APPLICATION (art. 294 A à 294 C)](#272)
           - [MUTATIONS A TITRE GRATUIT (art. 294 A à 294 C)](#273)
@@ -9785,6 +9785,36 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 283
+
+Tout débitant préposé à la gestion d'un débit de tabacs est seul responsable de l'exploitation de ce débit, notamment des
+commandes passées aux fournisseurs et du paiement des livraisons qui en résultent.
+
+Dans les débits, la publicité en faveur des tabacs manufacturés, qui obéit aux règles de l'article 2 de la loi n° 76-616 du 9
+juillet 1976 relative à la lutte contre le tabagisme, ne peut se faire en dehors des vitrines désignées par l'administration
+fiscale. Toute autre forme de publicité ou de promotion est interdite à l'intérieur des débits, notamment dans les
+rayonnages, ces derniers étant destinés à la simple présentation des produits.
+
+Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
+aucun avantage, direct ou indirect, autre que la remise prévue à l'article 570-3° du code général des impôts.
+
+La répartition des espaces publicitaires entre les différentes marques est arrêtée, sur le plan national, par un accord entre
+les fabricants, les fournisseurs et les débitants. A défaut d'accord, le litige est soumis à l'arbitrage dans les conditions
+prévues au décret n° 80-354 du 14 mai 1980 relatif à l'arbitrage.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 570 3°
+  - Loi n°76-616 1976-07-09 ART. 2
+  - Décret n°80-354 1980-05-14
+
+_Modifié par_:
+
+  - Décret n°82-616 du 16 juillet 1982 - art. 1 (V) JORF 20 JUILLET 1982
+
+
 ###### Article 284
 
 Les prix de vente au détail des tabacs sont fixés par arrêté du ministre de l'économie et des finances.
@@ -15837,36 +15867,6 @@ _Codifié par_:
 ### MONOPOLES FISCAUX<a id=269></a>
 
 #### TABACS.<a id=270></a>
-
-###### Article 283
-
-Tout débitant préposé à la gestion d'un débit de tabacs est seul responsable de l'exploitation de ce débit, notamment des
-commandes passées aux fournisseurs et du paiement des livraisons qui en résultent.
-
-Dans les débits, la publicité en faveur des tabacs manufacturés, qui obéit aux règles de l'article 2 de la loi n° 76-616 du 9
-juillet 1976 relative à la lutte contre le tabagisme, ne peut se faire en dehors des vitrines désignées par l'administration
-fiscale. Toute autre forme de publicité ou de promotion est interdite à l'intérieur des débits, notamment dans les
-rayonnages, ces derniers étant destinés à la simple présentation des produits.
-
-Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
-aucun avantage, direct ou indirect, autre que la remise prévue à l'article 570-3° du code général des impôts.
-
-La répartition des espaces publicitaires entre les différentes marques est arrêtée, sur le plan national, par un accord entre
-les fabricants, les fournisseurs et les débitants ou, à défaut d'accord, par arrêté du ministre de l'économie et des
-finances. Toutefois les modalités actuelles de publicité dans les débits restent en vigueur jusqu'au 1er juillet 1977.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 570 3°
-  - Loi n°76-616 1976-07-09 ART. 2
-  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 286 C
 
