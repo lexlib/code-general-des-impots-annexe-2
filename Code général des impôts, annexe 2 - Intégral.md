@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-01-19
+Version Consolidée au 1980-02-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -12306,6 +12306,32 @@ _Cité par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 140 JA
+
+Le versement prévu à l'article 226 A du code général des impôts est assis sur le montant brut de la contribution incombant à
+l'employeur au titre de la taxe d'apprentissage.
+
+Son taux est fixé à 7 %.
+
+Ce versement est effectué par l'employeur à toutes les exonérations autres que celles prévues au titre de la fraction de la
+taxe d'apprentissage visée à l'article L. 118-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 226 A
+  - Code du travail - art. L118-1 (M)
+
+_Créé par_:
+
+  - Décret n°80-106 1980-02-01 ART. 1 JORF 2 FEVRIER 1980
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
 
 
 ###### Article 140 N
