@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-03-30
+Version Consolidée au 1982-05-11
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -277,7 +277,7 @@ Version Consolidée au 1982-03-30
         - [AUTRES DROITS ET TAXES. (art. 303 à 310 C)](#274)
         - [REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE. (art. 310 F ter à 310 G)](#275)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 310 HA à 310 HT)](#276)
-      - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES. (art. 310 HA à 317 quinquies)](#277)
+      - [IMPOSITIONS COMMUNALES ET DEPARTEMENTALES. (art. 310 HA à 310 I)](#277)
       - [IMPOSITIONS COMMUNALES (art. 310 HO à 310 HT)](#278)
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 310 HC à 310 HT)](#279)
     - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS. (art. 317 A à 327-0 A)](#280)
@@ -13942,9 +13942,9 @@ Le reçu de l'organisme bénéficiaire des versements est daté du jour où le v
 souches, porte un numéro d'ordre et indique la somme réellement affectée aux frais énumérés à l'article 5 du décret mentionné
 à l'article 140-D-5o, ainsi que l'année à laquelle il se rapporte.
 
-Dans le délai de quinze jours à compter de la délivrance du reçu, l'organisme bénéficiaire du versement adresse au préfet
-dont il relève la copie de ce reçu. Cette copie porte l'indication du montant total des sommes que l'organisme a touchées au
-titre de la taxe d'apprentissage depuis le 1er janvier de l'année en cours.
+Dans le délai de quinze jours à compter de la délivrance du reçu, l'organisme bénéficiaire du versement adresse au
+commissaire de la République dont il relève la copie de ce reçu. Cette copie porte l'indication du montant total des sommes
+que l'organisme a touchées au titre de la taxe d'apprentissage depuis le 1er janvier de l'année en cours.
 
 **Liens relatifs à cet article**
 
@@ -13953,35 +13953,47 @@ _Cite_:
   - CGIAN2 140 D 5°
   - Décret n°72-283 du 12 avril 1972 - art. 5 (M)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
 
 
 ###### Article 140 F
 
-Les demandes d'exonération [*de taxe d'apprentissage*] sont transmises par le service des impôts au préfet qui en saisit le
-comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi.
+Les demandes d'exonération [*de taxe d'apprentissage*] sont transmises par le service des impôts au commissaire de la
+République qui en saisit le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi.
 
 Ce comité est, dans tous les cas, celui du département du lieu de dépôt de la déclaration [*compétence*].
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
 
 
 ###### Article 140 G
 
 La décision du comité départemental [*de la formation professionnelle, de la promotion sociale et de l'emploi*] est motivée.
-Elle est notifiée par le préfet à l'intéressé et au service des impôts.
+Elle est notifiée par le commissaire de la République à l'intéressé et au service des impôts.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
 
 
 ###### Article 140 H
@@ -13990,8 +14002,8 @@ L'intéressé peut, dans un délai de deux mois à compter de la notification [*
 décision du comité départemental [*de la formation professionnelle, de la promotion sociale et de l'emploi*], devant la
 commission spéciale prévue à l'article 227 du code général des impôts.
 
-Le préfet peut également former un recours contre les décisions du comité départemental dans les deux mois suivant l'adoption
-de ces décisions.
+Le commissaire de la République peut également former un recours contre les décision du comité départemental dans les deux
+mois suivant l'adoption de ces décisions.
 
 **Liens relatifs à cet article**
 
@@ -13999,9 +14011,13 @@ _Cite_:
 
   - CGI 227
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
 
 
 ###### Article 140 JA
@@ -16216,23 +16232,6 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 317 quinquies
-
-La liste des zones d'aménagement concerté au sens de l'article L 311-1 du code de l'urbanisme dans lesquelles les
-constructions sont exclues du champ d'application de la taxe locale d'équipement est arrêtée, dans chaque département, par le
-préfet et publiée au recueil des actes administratifs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L311-1 (M)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ### IMPOSITIONS COMMUNALES<a id=278></a>
 
 ###### Article 310 HO
@@ -16394,6 +16393,35 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°85-1007 1985-09-24
+
+
+###### Article 317 quinquies
+
+La liste des zones d'aménagement concerté au sens de l'article L 311-1 du code de l'urbanisme dans lesquelles les
+constructions sont exclues du champ d'application de la taxe locale d'équipement est arrêtée, dans chaque département, par le
+commissaire de la République et publiée au recueil des actes administratifs.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L311-1 (M)
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+
+_Abrogé par_:
+
+  - Décret n°87-285 du 22 avril 1987 - art. 6 (V) JORF 25 avril 1987
 
 
 ###### Article 317 septies
@@ -20423,10 +20451,10 @@ _Cite_:
 
 ###### Article 384 F
 
-Comme il est dit à l'article R 333-9 du code de l'urbanisme, l'intervention d'une décision du préfet ou, en cas d'application
-de l'article R 421-22 du code précité d'une décision du maire, constatant la péremption soit du permis de construire, soit de
-la déclaration préalable à la construction, entraîne de plein droit la restitution du versement pour dépassement du plafond
-légal de densité.
+Comme il est dit à l'article R 333-9 du code de l'urbanisme, l'intervention d'une décision du commissaire de la République
+ou, en cas d'application de l'article R 421-22 du code précité d'une décision du maire, constatant la péremption soit du
+permis de construire, soit de la déclaration préalable à la construction, entraîne de plein droit la restitution du versement
+pour dépassement du plafond légal de densité.
 
 Sans préjudice de l'application de l'article L 333-13 du même code, lorsque l'auteur de la déclaration préalable renonce à la
 construction projetée et obtient le retrait de sa déclaration avant que le versement ait été recouvré, il doit bénéficier du
@@ -20442,14 +20470,18 @@ l'article R 421-22 précité, par le maire.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
 _Cite_:
 
   - Code de l'urbanisme - art. L333-13 (Ab)
   - Code de l'urbanisme - art. R421-22 (M)
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°83-899 1983-10-06
 
 
 ###### Article 384 quater
