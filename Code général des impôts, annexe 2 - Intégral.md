@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2000-05-12
+Version Consolidée au 2000-06-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -53,7 +53,7 @@ Version Consolidée au 2000-05-12
             - [III : Épargne investie. (art. 85 à 86)](#50)
               - [*PERSONNES BENEFICIAIRES DE LA DEDUCTION* (art. 86)](#51)
             - [IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés (art. 91 bis à 91 ter)](#52)
-            - [V : Plan d'épargne populaire (art. 91 quater à 91 quater D)](#53)
+            - [V : Plan d'épargne populaire (art. 91 quater à 91 quater B)](#53)
             - [VI : Déduction des pensions alimentaires (art. 91 quinquies)](#54)
             - [VII : Déduction des investissements réalisés outre-mer. (art. 91 decies à 91 sexies)](#55)
           - [Section III : Calcul de l'impôt (art. 91 A à 95)](#56)
@@ -4225,82 +4225,6 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 157 (V)
   - Code général des impôts, CGI. - art. 242 ter (V)
-
-
-###### Article 91 quater C
-
-Pour l'application de l'article 91 I du code général des impôts, le transfert de sommes ou contrats d'assurance d'un compte
-d'épargne-retraite sur un plan d'épargne populaire doit s'opérer selon les modalités ci-après :
-
-I. - Le transfert porte sur toutes les sommes qui figurent sur le plan d'épargne en vue de la retraite et sur la contrevaleur
-des titres ou contrats qui y sont inscrits au jour de l'opération. Il entraîne la clôture du plan d'épargne en vue de la
-retraite.
-
-Lorsque le remboursement par l'Etat des avoirs fiscaux et des crédits d'impôt visé à l'article 41 ZC de l'annexe III
-intervient postérieurement au transfert, son montant est viré par l'établissement gestionnaire du plan d'épargne en vue de la
-retraite au crédit du plan d'épargne populaire.
-
-II. - Les sommes sont transférées par virement de numéraire du plan d'épargne en vue de la retraite au plan d'épargne
-populaire. Cependant, le titulaire d'un contrat d'assurance affecté à un plan d'épargne en vue de la retraite peut choisir de
-le transférer au plan d'épargne populaire. Le capital acquis dans le cadre de ce contrat est transféré à concurrence du
-montant de la provision mathématique constituée au moyen des primes versées dans le cadre du plan d'épargne en vue de la
-retraite.
-
-III. - Le titulaire remet à l'organisme gestionnaire du plan d'épargne en vue de la retraite un certificat d'identification
-du plan d'épargne populaire sur lequel le transfert doit avoir lieu ; ce certificat est établi par l'organisme auprès duquel
-le plan d'épargne populaire est ouvert.
-
-IV. - La déclaration déposée en application de l'article 41 ZO de l'annexe III indique que le compte d'épargne en vue de la
-retraite a été transféré sur un plan d'épargne populaire et le montant du transfert.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 91 I
-  - CGIAN3 41 ZC, 41 ZO
-
-_Créé par_:
-
-  - Décret n°90-116 du 5 février 1990 - art. 12 (Ab) JORF 6 février 1990
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
-  - Décret n°2000-477 2000-06-02
-
-**Liens**:
-
-  - HISTO: Edition du 15 juin 1990
-  - HISTO: Edition du 31 mars 2000
-  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999 en vigueur le 30 juin 2000
-
-
-###### Article 91 quater D
-
-Le transfert de sommes ou de contrats d'assurance mentionné à l'article 91 quater C est considéré comme un versement sur le
-plan d'épargne populaire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 91 quater C
-
-_Créé par_:
-
-  - Décret n°90-116 du 5 février 1990 - art. 13 (Ab) JORF 6 février 1990
-
-_Codifié par_:
-
-  - Décret n°90-798 1990-09-10
-  - Décret n°2000-477 2000-06-02
-
-**Liens**:
-
-  - HISTO: Edition du 15 juin 1990
-  - HISTO: Edition du 31 mars 2000
-  - PEREMPTION: Loi - art. 12 (V) JORF du 31 décembre 1999 en vigueur le 30 juin 2000
 
 
 ##### VI : Déduction des pensions alimentaires<a id=54></a>
