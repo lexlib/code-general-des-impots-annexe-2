@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-01-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -9535,11 +9535,18 @@ Pour les entreprises soumises à la taxe sur la valeur ajoutée selon le régime
 les biens et services utilisés pour les besoins de l'exploitation est évaluée lors de la fixation du forfait en tenant compte
 des règles prévues pour les entreprises assujetties sur le chiffre d'affaires réel.
 
+Toutefois, pour les biens ne constituant pas des immobilisations et les services, la déduction de la taxe est effectuée selon
+les modalités prévues à l'article 208.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Cite_:
 
-  - HISTO: EDITION 1979-07-01
+  - CGIAN2 208
+
+_Modifié par_:
+
+  - Décret n°93-117 du 28 janvier 1993 - art. 1 () JORF 29 janvier 1993
 
 
 ###### Article 204
@@ -9651,6 +9658,18 @@ montant de la taxe déductible relative aux investissements réalisés au cours 
 versements afférents aux autres taxes sur le chiffre d'affaires est calculé au moyen de coefficients propres à chacune de ces
 taxes.
 
+Une des sommes versées en 1993 en application de l'alinéa précédent peut être diminuée d'une somme égale à 10 p. 100 du
+montant de la taxe déductible sur les biens ne constituant pas des immobilisations et les services afférente au dernier mois
+de la période concernée. En cas d'option pour le dépôt d'une déclaration mensuelle, la taxe déductible à prendre en compte
+pour le calcul de cette diminution est celle du mois concerné.
+
+Pour 1994, le calcul du coefficient prévu au premier alinéa est effectué par le redevable sans tenir compte du supplément de
+taxe déductible constaté en 1993 en application du deuxième alinéa de l'article 217.
+
+Les dispositions des deux alinéas précédents ne s'appliquent pas aux redevables nouvellement admis à compter du 1er janvier
+1993 à un régime simplifié d'imposition à la T.V.A. ; ces derniers calculent leur coefficient provisoire selon les règles
+posées à l'article 217.
+
 II  Pour l'année du début de leur activité, les entreprises nouvelles peuvent calculer le montant de leurs versements en
 appliquant des coefficients provisoires déterminés sous leur responsabilité.
 
@@ -9663,17 +9682,19 @@ le service des impôts à procéder à l'ajustement des coefficients visés au I
 
 _Cite_:
 
+  - CGIAN2 217
   - CGIAN2 242 quater
   - CGIAN2 242 septies G
   - CGIAN2 267 quinquies
 
+_Modifié par_:
+
+  - Décret n°93-117 du 28 janvier 1993 - art. 3 () JORF 29 janvier 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
+
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1694 bis (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 204 ter A
@@ -10169,11 +10190,24 @@ La déduction de la taxe ayant grevé les biens ne constituant pas des immobilis
 imputation sur la taxe due par l'entreprise au titre du mois qui suit celui pendant lequel le droit à déduction a pris
 naissance.
 
+Toutefois, à concurrence de 10 p. 100 de son montant, cette déduction peut être opérée par imputation sur la taxe due au
+titre du mois pendant lequel le droit à déduction a pris naissance.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°93-117 du 28 janvier 1993 - art. 2 () JORF 29 janvier 1993
+
+_Codifié par_:
+
+  - Décret n°99-382 1999-05-18
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 mars 1999
+  - PEREMPTION: Loi n°93-859 1993-06-22 art. 2 Finances rectificative pour 1993 JORF 31 décembre 1998
 
 
 ###### Article 218
