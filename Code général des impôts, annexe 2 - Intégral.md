@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-07-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -155,7 +155,7 @@ Version Consolidée au 2003-01-01
               - [1° : Entreprises dont l'exercice comptable coïncide avec l'année civile (art. 242 septies à 242 sexies)](#152)
               - [2° : Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile (art. 242 septies A à 242 septies L)](#153)
             - [II : Organismes sans but lucratif (art. 242 octies)](#154)
-            - [III : Factures (art. 242 nonies)](#155)
+            - [III : Factures (art. 242 nonies à 242 nonies A)](#155)
             - [IV : Personnes ne remplissant plus les conditions pour bénéficier du régime dérogatoire prévu au 2° du I de l'article 256 bis (art. 242 decies)](#156)
             - [V : Opérations intracommunautaires portant sur des moyens de transport neufs ou d'occasion (art. 242 duodecies à 242 undecies)](#157)
           - [Section IV : Dispositions particulières aux opérations concourant à la production ou à la livraison d'immeubles (art. 243 à 260)](#158)
@@ -13447,6 +13447,81 @@ _Cité par_:
 **Liens**:
 
   - HISTO: Edition du 18 août 1993
+
+
+###### Article 242 nonies A
+
+Les mentions obligatoires qui doivent figurer sur les factures en application du II de l'article 289 du code général des
+impôts sont les suivantes :
+
+1° Le nom complet et l'adresse de l'assujetti et de son client ;
+
+2° Le numéro individuel d'identification attribué à l'assujetti en application de l'article 286 ter du code général des
+impôts et sous lequel il a effectué la livraison de biens ou la prestation de services ;
+
+3° Les numéros d'identification à la taxe sur la valeur ajoutée du vendeur et de l'acquéreur pour les livraisons désignées au
+I de l'article 262 ter du code général des impôts ;
+
+4° Le numéro d'identification à la taxe sur la valeur ajoutée du prestataire ainsi que celui fourni par le preneur pour les
+prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 259 A du code général des impôts ;
+
+5° Lorsque le redevable de la taxe est un représentant fiscal au sens de l'article 289 A du code général des impôts, le
+numéro individuel d'identification attribué à ce représentant fiscal en application de l'article 286 ter du même code, ainsi
+que son nom complet et son adresse ;
+
+6° Sa date de délivrance ou d'émission pour les factures transmises par voie électronique ;
+
+7° Un numéro unique basé sur une séquence chronologique et continue ; la numérotation peut être établie dans ces conditions
+par séries distinctes lorsque les conditions d'exercice de l'activité de l'assujetti le justifient ; l'assujetti doit faire
+des séries distinctes un usage conforme à leur justification initiale ;
+
+8° Pour chacun des biens livrés ou des services rendus, la quantité, la dénomination précise, le prix unitaire hors taxes et
+le taux de taxe sur la valeur ajoutée légalement applicable ou, le cas échéant, le bénéfice d'une exonération ;
+
+9° Tous rabais, remises, ristournes ou escomptes acquis et chiffrables lors de l'opération et directement liés à cette
+opération ;
+
+10° La date à laquelle est effectuée, ou achevée, la livraison de biens ou la prestation de services ou la date à laquelle
+est versé l'acompte visé au c du 1 du I de l'article 289 du code général des impôts, dans la mesure où une telle date est
+déterminée et qu'elle est différente de la date d'émission de la facture ;
+
+11° Le montant de la taxe à payer et, par taux d'imposition, le total hors taxe et la taxe correspondante mentionnés
+distinctement ;
+
+12° En cas d'exonération ou lorsque le client est redevable de la taxe ou lorsque l'assujetti applique le régime de la marge
+bénéficiaire, la référence à la disposition pertinente du code général des impôts ou à la disposition correspondante de la
+directive 77/388/CEE du 17 mai 1977 ou à toute autre mention indiquant que l'opération bénéficie d'une mesure d'exonération,
+d'un régime d'autoliquidation ou du régime de la marge bénéficiaire ;
+
+13° Les caractéristiques du moyen de transport neuf telles qu'elles sont définies au III de l'article 298 sexies du code
+général des impôts pour les livraisons mentionnées au II de ce même article ;
+
+14° De manière distincte, le prix d'adjudication du bien, les impôts, droits, prélèvements et taxes ainsi que les frais
+accessoires tels que les frais de commission, d'emballage, de transport et d'assurance demandés par l'organisateur à
+l'acheteur du bien, pour les livraisons aux enchères publiques visées au d du 1 du I de l'article 289 du code général des
+impôts effectuées par un organisateur de ventes aux enchères publiques agissant en son nom propre, soumises au régime de la
+marge bénéficiaire mentionné à l'article 297 A du même code. Cette facture ne doit pas mentionner de taxe sur la valeur
+ajoutée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+
+_Cité par_:
+
+  - Décret n°2011-1937 du 22 décembre 2011 - art. 1 (VT)
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AZA sexies (V)
+  - Code de commerce - art. L441-3 (M)
+  - Code de commerce - art. L441-9 (V)
+  - Code de commerce - art. L954-3-3 (V)
+  - Code général des collectivités territoriales - art. Sommaire (V)
+
+_Cite_:
+
+  - CGI 289, 286 ter, 262 ter, 259 A, 289 A, 298 sexies, 297 A
+  - Directive 77-388 CEE 1977-05-17 (Conseil)
 
 
 ##### IV : Personnes ne remplissant plus les conditions pour bénéficier du régime dérogatoire prévu au 2° du I de l'article 256 bis<a id=156></a>
