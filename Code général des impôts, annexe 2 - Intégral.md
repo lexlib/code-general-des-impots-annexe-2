@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-01-24
+Version Consolidée au 1984-01-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -206,7 +206,7 @@ Version Consolidée au 1984-01-24
             - [Base d'imposition. (art. 310 HF)](#203)
             - [IV : Disposition transitoire (art. 310 HJ)](#204)
             - [Répartition des bases. (art. 310 HK)](#205)
-            - [V : Répartition des bases (art. 310 HL à 310 HN)](#206)
+            - [V : Répartition des bases (art. 310 HL à 310 HO)](#206)
             - [VI : Etablissement de la taxe (art. 310 HP à 310 HR)](#207)
             - [VII : Annualité de la taxe (art. 310 HS)](#208)
           - [Section III : Règles d'évaluation de la valeur locative des biens imposables (art. 310 I à 310 unvicies)](#209)
@@ -264,7 +264,7 @@ Version Consolidée au 1984-01-24
           - [OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES. (art. 145 bis à 145 ter)](#261)
         - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE. (art. 163 quindecies)](#262)
         - [TAXE SUR LES ENCOURS DE CREDITS. (art. 163 A à 163 G)](#263)
-        - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES. (art. 167 à 171-0 bis G)](#264)
+        - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES. (art. 171 à 171-0 bis G)](#264)
       - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 178 A à 255)](#265)
         - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 178 A à 255)](#266)
           - [CHAMP D'APPLICATION (art. 178 A à 194)](#267)
@@ -281,8 +281,8 @@ Version Consolidée au 1984-01-24
       - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 310 C à 310 G)](#278)
         - [AUTRES DROITS ET TAXES. (art. 310 C)](#279)
         - [REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE. (art. 310 G)](#280)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 310 HO à 317 septdecies)](#281)
-      - [IMPOSITIONS COMMUNALES (art. 310 HO à 310 HT)](#282)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 311 à 317 septdecies)](#281)
+      - [IMPOSITIONS COMMUNALES (art. 311 à 310 HT)](#282)
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 310 HC à 310 HT)](#283)
       - [IMPOSITIONS DEPARTEMENTALES (art. 317 nonies à 317 terdecies)](#284)
       - [IMPOSITIONS LOCALES (art. 317 quindecies)](#285)
@@ -1887,6 +1887,57 @@ _Codifié par_:
 
   - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
   - HISTO: Edition du 22 avril 1998
+
+
+###### Article 75-0 J
+
+Les actions, les certificats, les droits ou bons mentionnés au a de l'article 75-0 E ci-dessus sont déposés chez les
+intermédiaires agréés ci-après désignés :
+
+la Banque de France ;
+
+la caisse des dépôts et consignations pour ses opérations et pour celles des caisses d'épargne réalisées dans le cadre de
+leurs statuts ;
+
+le crédit foncier de France ;
+
+le crédit foncier communal d'Alsace et de Lorraine ;
+
+la caisse nationale de crédit agricole et les caisses régionales de crédit agricole mutuel ;
+
+la caisse centrale de crédit coopératif ;
+
+les banques populaires ;
+
+la banque française du commerce extérieur (1);
+
+la caisse centrale de crédit mutuel, pour ses opérations et pour celles des caisses fédérales ;
+
+les établissements de crédit.
+
+(1) Loi 97-1239 1997-12-29 art. 41 V Finances rectificative pour 1997 : les mots "Banque française du commerce extérieur"
+sont remplaçés par les mots : "la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la
+loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 75-0 E
+
+_Codifié par_:
+
+  - Décret n°98-400 1998-05-22
+
+**Liens**:
+
+  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+  - HISTO: Edition du 20 juillet 1985
+  - HISTO: Edition du 22 avril 1998
+
+_Modifié par_:
+
+  - Loi n°84-46 1984-01-24 art. 15, art. 94 II JORF 25 janvier 1985
 
 
 ###### Article 75-0 K
@@ -5597,6 +5648,65 @@ de la construction et de l'habitation sont remplies.
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L261-10 (V)
+
+
+###### Article 167
+
+Lorsque la cession d'actions ou de parts de sociétés visées à l'article 1655 ter du code général des impôts [*sociétés
+immobilières de copropriété*] porte sur des titres donnant droit à l'attribution d'immeuble ou de fraction d'immeuble non
+encore achevé, cette cession peut néanmoins être assimilée à une vente d'immeuble achevé pour l'application des articles 219-
+II, 235 quater-I, I bis et I ter et 238 octies dudit code lorsque les conditions suivantes sont remplies :
+
+a. La cession est postérieure à l'achèvement des fondations de l'immeuble;
+
+b. Le contrat de cession - qui devra revêtir la forme d'un acte authentique à compter d'une date qui sera fixée par arrêté du
+ministre de l'économie et des finances (1) - précise :
+
+1o La consistance et les conditions techniques d'exécution des travaux;
+
+2o Le prix à payer au cédant tant pour la cession des titres que pour le remboursement des sommes qu'il a déjà versées à la
+société;
+
+3o Les versements qui restent à faire à la société pour achever l'immeuble ou la fraction d'immeuble auquel les actions ou
+parts cédées donnent vocation à la date de la cession, sous réserve de l'application au coût de construction des clauses de
+variation stipulées dans les marchés et les contrats conclus par la société;
+
+c. Le cédant s'engage vis-à-vis du cessionnaire à couvrir les appels de fonds de la société correspondant au coût de
+construction dans la mesure où les versements exigés à ce titre excéderaient le montant des versements définis au b-3o.
+
+Cet engagement doit être garanti par une caution solidaire donnée par un établissement de crédit ou une société de caution
+mutuelle constituée conformément aux dispositions de la loi modifiée du 13 mars 1917.
+
+A défaut de pouvoir fournir cette caution, l'intéressé doit constituer un cautionnement en numéraire dans un organisme
+habilité à cet effet et désigné dans le contrat. Le montant de ce cautionnement doit être au moins égal à 10 % du montant des
+versements restant à faire à la société tels qu'ils sont définis au b-3o. Le cautionnement doit être maintenu jusqu'à la date
+de règlement des comptes de construction de la société [*durée*]. Toutefois, il peut être libéré à l'expiration d'un délai
+d'un an après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions ou parts cédées, si le
+cessionnaire n'a intenté aucune action dans ce délai à l'encontre du cédant;
+
+d. La société de construction doit intervenir à l'acte de cession et justifier qu'elle bénéficie de l'engagement pris par un
+établissement de crédit ou une société de caution mutuelle constituée conformément aux dispositions de la loi modifiée du 13
+mars 1917, de répondre aux appels de fonds de la société en cas de défaillance des associés.
+
+1)  Arrêté à émettre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1655 ter
+  - CGI 219 II
+  - CGI 235 quater I, I bis, I ter
+  - CGI 238 octies
+  - Loi n°1917-03-13 MODIFIEE
+
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+
+_Modifié par_:
+
+  - Loi n°84-46 1984-01-24 art. 15, art. 94 II JORF 25 janvier 1984
 
 
 ###### Article 168
@@ -11601,6 +11711,34 @@ communes où l'entreprise dispose à titre permanent de locaux ou de terrains.
 
 
 
+###### Article 310 HO
+
+Lorsqu'ils exercent leur activité dans plus de cent communes, les établissements de crédit et les entreprises de vente à
+succursales multiples répartissent la valeur locative de leurs biens mobiliers entre les communes d'imposition
+proportionnellement aux salaires versés.
+
+Toutefois, les valeurs locatives des centres d'informatique et les salaires de leur personnel demeurent en dehors de cette
+répartition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+
+_Abrogé par_:
+
+  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+
+**Liens**:
+
+  - HISTO: Edition du 20 juillet 1984
+
+_Modifié par_:
+
+  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+
 ##### VI : Etablissement de la taxe<a id=207></a>
 
 ###### Article 310 HP
@@ -14108,9 +14246,9 @@ _Cite_:
 
 ###### Article 39 H
 
-Les agents de change, les banques et les établissements financiers ou organismes habilités à détenir et à négocier des
-valeurs mobilières pour le compte des particuliers doivent, avant le 1er février de chaque année, adresser à la direction des
-services fiscaux de leur résidence les documents suivants :
+Les agents de change, les établissements de crédit ou organismes habilités à détenir et à négocier des valeurs mobilières
+pour le compte des particuliers doivent, avant le 1er février de chaque année, adresser à la direction des services fiscaux
+de leur résidence les documents suivants :
 
 1° (Abrogé)     2° Pour ceux de leurs clients qui ont réalisé, l'année précédente, des cessions d'un montant supérieur  à
 50.000 F, un relevé indiquant le montant global, compte non tenu des frais, des ventes, quel qu'en soit le montant, des
@@ -14124,11 +14262,11 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°83-899 1983-10-06
+  - Décret n°84-875 1984-10-01
 
 _Modifié par_:
 
-  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+  - Loi n°84-46 1984-01-24 ART. 94 II JORF 25 janvier 1984
 
 
 ###### Article 58
@@ -14243,47 +14381,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°83-1 1983-01-03 ART. 47 JORF 4 JANVIER 1983
-
-
-###### Article 75-0 J
-
-Les actions, les certificats, les droits ou bons mentionnés au a de l'article 75-0 E ci-dessus sont déposés chez les
-intermédiaires agréés ci-après désignés :
-
-la Banque de France;
-
-la caisse des dépôts et consignations pour ses opérations et pour celles des caisses d'épargne réalisées dans le cadre de
-leurs statuts;
-
-le crédit foncier de France;
-
-le crédit foncier communal d'Alsace et de Lorraine;
-
-la caisse nationale de crédit agricole et les caisses régionales de crédit agricole mutuel;
-
-la caisse centrale de crédit coopératif;
-
-les banques populaires;
-
-la banque française du commerce extérieur;
-
-la caisse centrale de crédit mutuel, pour ses opérations et pour celles des caisses fédérales;
-
-les banques inscrites par le conseil national du crédit;
-
-les établissements financiers enregistrés au conseil national du crédit autorisés à effectuer des opérations sur titres;
-
-les agents de change.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 75-0 E
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 75-0 N
@@ -15386,7 +15483,7 @@ _Codifié par_:
 ###### Article 163 A
 
 Les crédits [*définition*] mentionnés à l'article 235 ter N du code général des impôts s'entendent des crédits définis à la
-classe 2 de l'annexe au règlement comptable des banques établi par la commission de contrôle des banques.
+classe 2 de l'annexe au règlement comptable des établissements de crédit établi par la commission bancaire.
 
 Ces crédits sont comptabilisés à la date du 31 décembre de l'année précédant celle de l'imposition, après règlement de
 l'échéance.
@@ -15397,9 +15494,18 @@ _Cite_:
 
   - CGI 235 ter N
 
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+  - Décret n°89-801 1989-10-27
+
+_Modifié par_:
+
+  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
 
 
 ###### Article 163 B
@@ -15562,63 +15668,6 @@ _Codifié par_:
 
 
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES.<a id=264></a>
-
-###### Article 167
-
-Lorsque la cession d'actions ou de parts de sociétés visées à l'article 1655 ter du code général des impôts [*sociétés
-immobilières de copropriété*] porte sur des titres donnant droit à l'attribution d'immeuble ou de fraction d'immeuble non
-encore achevé, cette cession peut néanmoins être assimilée à une vente d'immeuble achevé pour l'application des articles 219-
-II, 235 quater-I, I bis et I ter et 238 octies dudit code lorsque les conditions suivantes sont remplies :
-
-a. La cession est postérieure à l'achèvement des fondations de l'immeuble;
-
-b. Le contrat de cession - qui devra revêtir la forme d'un acte authentique à compter d'une date qui sera fixée par arrêté du
-ministre de l'économie et des finances (1) - précise :
-
-1o La consistance et les conditions techniques d'exécution des travaux;
-
-2o Le prix à payer au cédant tant pour la cession des titres que pour le remboursement des sommes qu'il a déjà versées à la
-société;
-
-3o Les versements qui restent à faire à la société pour achever l'immeuble ou la fraction d'immeuble auquel les actions ou
-parts cédées donnent vocation à la date de la cession, sous réserve de l'application au coût de construction des clauses de
-variation stipulées dans les marchés et les contrats conclus par la société;
-
-c. Le cédant s'engage vis-à-vis du cessionnaire à couvrir les appels de fonds de la société correspondant au coût de
-construction dans la mesure où les versements exigés à ce titre excéderaient le montant des versements définis au b-3o.
-
-Cet engagement doit être garanti par une caution solidaire donnée par une banque, un établissement financier spécialement
-agréé à cet effet par le conseil national du crédit ou une société de caution mutuelle constituée conformément aux
-dispositions de la loi modifiée du 13 mars 1917.
-
-A défaut de pouvoir fournir cette caution, l'intéressé doit constituer un cautionnement en numéraire dans un organisme
-habilité à cet effet et désigné dans le contrat. Le montant de ce cautionnement doit être au moins égal à 10 % du montant des
-versements restant à faire à la société tels qu'ils sont définis au b-3o. Le cautionnement doit être maintenu jusqu'à la date
-de règlement des comptes de construction de la société [*durée*]. Toutefois, il peut être libéré à l'expiration d'un délai
-d'un an après l'achèvement de l'immeuble ou de la fraction d'immeuble représenté par les actions ou parts cédées, si le
-cessionnaire n'a intenté aucune action dans ce délai à l'encontre du cédant;
-
-d. La société de construction doit intervenir à l'acte de cession et justifier qu'elle bénéficie de l'engagement pris par une
-banque, un établissement financier spécialement agréé à cet effet par le conseil national du crédit ou une société de caution
-mutuelle constituée conformément aux dispositions de la loi modifiée du 13 mars 1917, de répondre aux appels de fonds de la
-société en cas de défaillance des associés.
-
-1)  Arrêté à émettre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1655 ter
-  - CGI 219 II
-  - CGI 235 quater I, I bis, I ter
-  - CGI 238 octies
-  - Loi n°1917-03-13 MODIFIEE
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 171
 
@@ -16766,23 +16815,6 @@ _Cité par_:
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=281></a>
 
 ### IMPOSITIONS COMMUNALES<a id=282></a>
-
-###### Article 310 HO
-
-Lorsqu'elles exercent leur activité dans plus de cent communes, les banques et les entreprises de vente à succursales
-multiples répartissent la valeur locative de leurs biens mobiliers entre les communes d'imposition proportionnellement aux
-salaires versés.
-
-Toutefois, les valeurs locatives des centres d'informatique et les salaires de leur personnel demeurent en dehors de cette
-répartition.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 311
 
