@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-04-24
+Version Consolidée au 2004-05-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -23739,21 +23739,25 @@ _Codifié par_:
 
 Le contribuable qui dispose d'un compte de dépôt ou d'épargne dans un des établissements énumérés à l'article 1681 D du code
 général des impôts peut opter pour le paiement mensuel de l'impôt. Il doit faire connaître son choix à l'administration au
-plus tard le 10 mai s'il souhaite opter pour l'année en cours.
+plus tard le 30 juin s'il souhaite opter pour l'année en cours.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1681 D
-
 _Modifié par_:
 
-  - Décret n°98-16 du 7 janvier 1998 - art. 1 () JORF 9 janvier 1998
+  - Décret n°2004-411 du 13 mai 2004 - art. 1 () JORF 15 mai 2004
+
+_Abrogé par_:
+
+  - Décret n°2017-975 du 10 mai 2017 - art. 2
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1681 D (VT)
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 376 octies
@@ -23789,13 +23793,13 @@ _Cite_:
 
 ###### Article 376 quater
 
-I. Si l'option est formulée du 1er janvier au 10 mai, les prélèvements sont effectués dès l'année en cours ou, au choix du
+I. Si l'option est formulée du 1er janvier au 30 juin, les prélèvements sont effectués dès l'année en cours ou, au choix du
 contribuable, à compter du 1er janvier de l'année suivante. Dans le premier cas, le premier prélèvement est effectué le
-deuxième mois qui suit celui au cours duquel le contribuable formule son option. Lorsque l'option est formulée avant la date
-d'exigibilité d'un acompte, cet acompte n'est pas dû.
+premier mois qui suit celui au cours duquel le contribuable formule son option. Lorsque l'option est formulée avant la date
+limite de paiement d'un acompte, cet acompte n'est pas dû.
 
-II. Si l'option est formulée après le 10 mai, les prélèvements sont effectués à compter du 1er janvier de l'année suivante.
-Toutefois, lorsque l'option est formulée au cours du mois de décembre, la mensualité due au titre du mois de janvier est
+II. Si l'option est formulée après le 30 juin, les prélèvements sont effectués à compter du 1er janvier de l'année suivante.
+Toutefois, lorsque l'option est formulée du 16 décembre au 31 décembre, la mensualité due au titre du mois de janvier est
 perçue avec le prélèvement effectué au mois de février.
 
 III. L'option est valable pour l'année au cours de laquelle sont effectués les premiers prélèvements et, sous réserve des
@@ -23809,11 +23813,15 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°98-16 du 7 janvier 1998 - art. 2 () JORF 9 janvier 1998
+  - Décret n°2004-411 du 13 mai 2004 - art. 1 () JORF 15 mai 2004
+
+_Abrogé par_:
+
+  - Décret n°2017-975 du 10 mai 2017 - art. 2
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 376 quater A
@@ -23845,18 +23853,22 @@ _Abrogé par_:
 ###### Article 376 quinquies
 
 Le contribuable peut renoncer au système du paiement mensuel. Il doit à cette fin adresser par écrit à l'administration une
-dénonciation de son option soit avant le 1er juin, soit avant le 1er décembre. Dans le premier cas, cette renonciation prend
-effet le 1er juillet suivant, dans le second cas, le 1er janvier suivant.
+dénonciation de son option avant le 30 juin pour l'impôt sur le revenu, la taxe d'habitation et la taxe foncière, et avant le
+30 septembre pour la taxe professionnelle. La résiliation prend effet le premier mois qui suit celui au cours duquel le
+contribuable formule sa demande. Lorsque la dénonciation est exercée entre le 1er juillet et le 15 décembre inclus pour
+l'impôt sur le revenu, la taxe d'habitation et la taxe foncière, et entre le 1er octobre et le 15 décembre inclus pour la
+taxe professionnelle, elle prend effet à compter du mois de janvier de l'année suivante. Lorsqu'elle est exercée du 16
+décembre au 31 décembre, elle prend effet à compter du mois de février de l'année suivante.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°98-16 du 7 janvier 1998 - art. 4 () JORF 9 janvier 1998
+  - Décret n°2004-411 du 13 mai 2004 - art. 1 () JORF 15 mai 2004
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 376 septies
@@ -23878,18 +23890,21 @@ _Cite_:
 
 ###### Article 376 sexies
 
-Les prélèvements mensuels sont effectués le 15 de chaque mois ou, s'il s'agit d'un dimanche, d'un jour férié ou d'un jour de
-fermeture de l'établissement dépositaire, le premier jour ouvrable suivant.
+Les prélèvements mensuels sont effectués le 15 de chaque mois.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2003-787 du 21 août 2003 - art. 1 () JORF 24 août 2003 en vigueur le 1er janvier 2004
+  - Décret n°2004-411 du 13 mai 2004 - art. 1 () JORF 15 mai 2004
+
+_Abrogé par_:
+
+  - Décret n°2017-975 du 10 mai 2017 - art. 2
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 376 ter
