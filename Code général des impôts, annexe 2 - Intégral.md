@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1993-03-24
+Version Consolidée au 1993-03-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -10504,9 +10504,10 @@ _Codifié par_:
 ###### Article 230
 
 1 La taxe sur la valeur ajoutée [*TVA*] ayant grevé les biens et services que les assujettis à cette taxe acquièrent ou
-qu'ils se livrent à eux-mêmes n'est déductible que si ces biens et services sont nécessaires à l'exploitation. Jusqu'au 31
-décembre 1992, la taxe ayant grevé les dépenses relatives à des biens et à des services ne peut donner lieu à déduction
-lorsque le pourcentage de l'utilisation privée de ces biens et services est supérieur à 90 p. 100 de leur utilisation totale.
+qu'ils se livrent à eux-mêmes n'est déductible que si ces biens et services sont nécessaires à l'exploitation. [**] Jusqu'au
+31 décembre 1996, la taxe ayant grevé les dépenses relatives à des biens et à des services ne peut donner lieu à déduction
+lorsque le pourcentage de l'utilisation de ces biens et services pour les besoins privés de l'assujetti ou pour ceux de son
+personnel ou plus généralement à des fins étrangères à son entreprise est supérieur à 90 p. 100 de leur utilisation totale.
 
 2 En outre, l'exercice du droit à déduction est limité ou réduit dans les conditions fixées ci-après en ce qui concerne
 certaines entreprises et certains biens ou services.
@@ -10515,7 +10516,7 @@ certaines entreprises et certains biens ou services.
 
 _Modifié par_:
 
-  - Décret n°89-885 du 14 décembre 1989 - art. 3 (V) JORF 15 décembre 1989, modification directe incorporée dans l'édition du 15 juin 1990
+  - Décret n°93-641 du 27 mars 1993 - art. 1 (V) JORF 28 mars 1993
 
 
 ##### A : Limitations concernant certaines entreprises<a id=148></a>
@@ -11065,16 +11066,17 @@ _Cite_:
 1. Les assujettis établis à l'étranger peuvent obtenir le remboursement de la taxe sur la valeur ajoutée qui leur a été
 régulièrement facturée si, au cours du trimestre civil ou de l'année civile auquel se rapporte la demande de remboursement,
 ils n'ont pas eu en France le siège de leur activité ou un établissement stable ou, à défaut, leur domicile ou leur résidence
-habituelle et n'y ont pas réalisé, durant la même période, d'opérations entrant dans le champ d'application de la taxe sur la
-valeur ajoutée au sens des articles 256 à 259 C du code général des impôts.
+habituelle et n'y ont pas réalisé, durant la même période, de livraisons de biens ou de prestations de services entrant dans
+le champ d'application de la taxe sur la valeur ajoutée au sens des articles 256, 256 A à 258 B, 259 à 259 C du code général
+des impôts.
 
 2. Pour l'application du 1, ne sont pas considérés comme réalisés en France :
 
-a. les transports et prestations accessoires exonérés en application du premier alinéa du I, des 7° à 11°, 13° et 14° du II
-de l'article 262 du code général des impôts ainsi que des 1° et 1° bis du II de l'article 291 du même code;
+a. les transports et prestations accessoires exonérés en application du premier alinéa du I, des 7° à 11° bis, 13° et 14° du
+II de l'article 262 du code général des impôts ainsi que du 2° du III de l'article 291 du même code;
 
-b. les prestations pour lesquelles la taxe est due par le bénéficiaire assujetti en vertu des articles 259 B et 283-2 du même
-code.
+b. les prestations mentionnées aux 3°, 5° et 6° de l'article 259 A et à l'article 259 B du code général des impôts, pour
+lesquelles la taxe est due par le preneur en vertu du 2° de l'article 283 du même code.
 
 III. La suspension est autorisée, après avis du ministre du développement industriel et scientifique, par une décision du
 ministre de l'économie et des finances [*autorité compétente*], qui fixe les modalités et conditions conformément aux
@@ -11084,8 +11086,8 @@ dispositions des articles 274 à 276 du code général des impôts et des textes
 
 _Cite_:
 
-  - CGI 256 à CGI 259 C
-  - CGI 259 B
+  - CGI 256, 256 A à 258 B
+  - CGI 259  à 259 C
   - CGI 262 I al. 1, II 7° à 11°, 13°, 14°
   - CGI 283 2
   - CGI 291 II 1°, 1° bis
@@ -11093,12 +11095,9 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°85-1404 1985-12-30 art. 18 II, III, IV Finances rectificative pour 1985 JORF 31 décembre 1985
-  - Loi n°85-1404 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - Décret n°93-638 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+  - Décret n°93-638 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 _Cité par_:
 
@@ -13022,13 +13021,8 @@ _Modifié par_:
 Tout débitant préposé à la gestion d'un débit de tabacs est seul responsable de l'exploitation de ce débit, notamment des
 commandes passées aux fournisseurs et du paiement des livraisons qui en résultent.
 
-Dans les débits, la publicité en faveur des tabacs manufacturés, qui obéit aux règles de l'article 2 de la loi n° 76-616 du 9
-juillet 1976 relative à la lutte contre le tabagisme, ne peut se faire en dehors des vitrines désignées par l'administration
-des douanes et droits indirects. Toute autre forme de publicité ou de promotion est interdite à l'intérieur des débits,
-notamment dans les rayonnages, ces derniers étant destinés à la simple présentation des produits.
-
 Les débitants ne peuvent recevoir pour la commercialisation des tabacs manufacturés et la publicité concernant ces produits,
-aucun avantage, direct ou indirect, autre que la remise prévue à l'article 570-3° du code général des impôts.
+aucun avantage, direct ou indirect, autre que la remise prévue au 3° de l'article 570 du code général des impôts.
 
 La répartition des espaces publicitaires entre les différentes marques est arrêtée, sur le plan national, par un accord entre
 les fabricants, les fournisseurs et les débitants. A défaut d'accord, le litige est soumis à l'arbitrage dans les conditions
@@ -13044,7 +13038,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°93-310 du 9 mars 1993 - art. 49 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+  - Décret n°93-642 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 284
