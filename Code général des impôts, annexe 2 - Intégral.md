@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-02-15
+Version Consolidée au 1985-02-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -313,38 +313,41 @@ Version Consolidée au 1985-02-15
       - [CENTRES DE GESTION AGREES. (art. 371 B)](#310)
   - [Livre II : Recouvrement de l'impôt (art. 376 bis à 410)](#311)
     - [Chapitre premier : Paiement de l'impôt (art. 376 bis à 384 sexies)](#312)
-      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 382)](#313)
+      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 383 bis D)](#313)
         - [0I : Paiement mensuel de l'impôt sur le revenu. (art. 376 bis)](#314)
         - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 quater à 376 ter)](#315)
         - [II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France. (art. 378)](#316)
         - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#317)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter à 383 quater)](#318)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#319)
-        - [II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité. (art. 383 quater)](#320)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384-00 A à 384 sexies)](#321)
-        - [00I : Droit forfaitaire de délivrance d'ampliation. (art. 384-00 A)](#322)
-        - [I : Dation en paiement (art. 384 A)](#323)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#324)
-        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 E)](#325)
-        - [I bis : Versement pour dépassement du plafond légal de densité. (art. 384 C à 384 F)](#326)
-        - [II : Participation en cas de dépassement du coefficient d'occupation du sol. (art. 384 bis à 384 sexies)](#327)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#328)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#329)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu. (art. 384 septies A)](#330)
-    - [Chapitre II : Procédures (art. 385 à 386)](#331)
-      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#332)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#333)
-      - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#334)
-        - [Restitution du droit d'apport. (art. 396 ter)](#335)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#336)
-      - [Section II : Juridiction gracieuse (art. 396 quindecies)](#337)
-        - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#338)
-    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#339)
-  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 bis)](#340)
-    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#341)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 383 bis C)](#342)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384 ter)](#343)
-    - [SURETES ET PRIVILEGES. (art. 396 bis)](#344)
+        - [VI : Participation des employeurs au développement de la formation professionnelle continue (art. 383 bis D)](#318)
+          - [Fonds d'assurance-formation. (art. 383 bis D)](#319)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter à 383 quater)](#320)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#321)
+        - [II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité. (art. 383 quater)](#322)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384-00 A à 384 sexies)](#323)
+        - [00I : Droit forfaitaire de délivrance d'ampliation. (art. 384-00 A)](#324)
+        - [I : Dation en paiement (art. 384 A)](#325)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#326)
+        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 E)](#327)
+        - [I bis : Versement pour dépassement du plafond légal de densité. (art. 384 C à 384 F)](#328)
+        - [II : Participation en cas de dépassement du coefficient d'occupation du sol. (art. 384 bis à 384 sexies)](#329)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#330)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#331)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu. (art. 384 septies A)](#332)
+    - [Chapitre II : Procédures (art. 385 à 386)](#333)
+      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#334)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#335)
+      - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#336)
+        - [Restitution du droit d'apport. (art. 396 ter)](#337)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#338)
+      - [Section II : Juridiction gracieuse (art. 396 quindecies)](#339)
+        - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#340)
+    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#341)
+  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 bis)](#342)
+    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#343)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 382 A)](#344)
+        - [TAXE D'APPRENTISSAGE. (art. 382 A)](#345)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384 ter)](#346)
+    - [SURETES ET PRIVILEGES. (art. 396 bis)](#347)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -21208,9 +21211,34 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=318></a>
+#### VI : Participation des employeurs au développement de la formation professionnelle continue<a id=318></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=319></a>
+##### Fonds d'assurance-formation.<a id=319></a>
+
+###### Article 383 bis D
+
+Les dispositions de l'article 382 A sont applicables aux fonds recueillis par les organismes collecteurs en application de
+l'article 235 ter GC du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 235 ter GC
+  - CGIAN2 382 A
+
+_Créé par_:
+
+  - Décret n°85-253 du 20 février 1985 - art. 4 (Ab) JORF 21 février 1985
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=320></a>
+
+#### I : Taxe sur la valeur ajoutée<a id=321></a>
 
 ###### Article 383 ter
 
@@ -21237,7 +21265,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.<a id=320></a>
+#### II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.<a id=322></a>
 
 ###### Article 383 quater
 
@@ -21265,9 +21293,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=321></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=323></a>
 
-#### 00I : Droit forfaitaire de délivrance d'ampliation.<a id=322></a>
+#### 00I : Droit forfaitaire de délivrance d'ampliation.<a id=324></a>
 
 ###### Article 384-00 A
 
@@ -21290,9 +21318,9 @@ _Codifié par_:
   - Décret n°2000-477 2000-06-02
 
 
-#### I : Dation en paiement<a id=323></a>
+#### I : Dation en paiement<a id=325></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=324></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=326></a>
 
 ###### Article 384 A
 
@@ -21339,7 +21367,7 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=325></a>
+#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=327></a>
 
 ###### Article 384 E
 
@@ -21371,7 +21399,7 @@ _Cite_:
   - Code de l'urbanisme - art. L333-12
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité.<a id=326></a>
+#### I bis : Versement pour dépassement du plafond légal de densité.<a id=328></a>
 
 ###### Article 384 C
 
@@ -21458,7 +21486,7 @@ _Modifié par_:
   - Décret n°84-669 1984-07-17 ART. 8 JORF 21 JUILLET 1984
 
 
-#### II : Participation en cas de dépassement du coefficient d'occupation du sol.<a id=327></a>
+#### II : Participation en cas de dépassement du coefficient d'occupation du sol.<a id=329></a>
 
 ###### Article 384 bis
 
@@ -21578,9 +21606,9 @@ _Cite_:
   - Code de l'urbanisme R424-1
 
 
-## Chapitre I bis : Pénalités<a id=328></a>
+## Chapitre I bis : Pénalités<a id=330></a>
 
-### Section I : Commission des infractions fiscales<a id=329></a>
+### Section I : Commission des infractions fiscales<a id=331></a>
 
 ###### Article 384 septies-0 A
 
@@ -21662,7 +21690,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu.<a id=330></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu.<a id=332></a>
 
 ###### Article 384 septies A
 
@@ -21685,9 +21713,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Chapitre II : Procédures<a id=331></a>
+## Chapitre II : Procédures<a id=333></a>
 
-### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=332></a>
+### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=334></a>
 
 ###### Article 385
 
@@ -21713,11 +21741,11 @@ _Abrogé par_:
   - Décret n°2011-1302 du 14 octobre 2011 - art. 4
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=333></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=335></a>
 
-### Section I : Dispositions particulières aux droits d'enregistrement<a id=334></a>
+### Section I : Dispositions particulières aux droits d'enregistrement<a id=336></a>
 
-#### Restitution du droit d'apport.<a id=335></a>
+#### Restitution du droit d'apport.<a id=337></a>
 
 ###### Article 396 ter
 
@@ -21749,7 +21777,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=336></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=338></a>
 
 ###### Article 396 duodecies
 
@@ -21874,9 +21902,9 @@ prépondérante.
 
 
 
-### Section II : Juridiction gracieuse<a id=337></a>
+### Section II : Juridiction gracieuse<a id=339></a>
 
-#### Comité du contentieux fiscal, douanier et des changes.<a id=338></a>
+#### Comité du contentieux fiscal, douanier et des changes.<a id=340></a>
 
 ###### Article 396 quindecies
 
@@ -21901,7 +21929,7 @@ _Codifié par_:
   - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
 
 
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.<a id=339></a>
+## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.<a id=341></a>
 
 ###### Article 408
 
@@ -21968,11 +21996,11 @@ contrôleur.
 
 
 
-# RECOUVREMENT DE L'IMPOT<a id=340></a>
+# RECOUVREMENT DE L'IMPOT<a id=342></a>
 
-## PAIEMENT DE L'IMPOT<a id=341></a>
+## PAIEMENT DE L'IMPOT<a id=343></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=342></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=344></a>
 
 ###### Article 383
 
@@ -22086,7 +22114,36 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=343></a>
+#### TAXE D'APPRENTISSAGE.<a id=345></a>
+
+###### Article 382 A
+
+Les fonds recueillis par les organismes collecteurs en application de l'article 230 FA du code général des impôts, qui ne
+sont pas employés conformément à l'article R. 964-6 du code du travail ou affectés au financement des dépenses énumérées à
+l'article 1er du décret n° 85-253 du 20 février 1985 ainsi que les fonds ou excédents non versés dans les conditions définies
+à l'article 2 du même décret, font l'objet d'un versement d'égal montant au Trésor public. La procédure applicable est celle
+de l'article 163 quindecies.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 163 quindecies
+  - CGI 230 FA
+  - Décret n°85-253 du 20 février 1985 - art. 1 (M)
+  - Décret n°85-253 du 20 février 1985 - art. 2 (M)
+  - Code du travail - art. R964-6 (Ab)
+
+_Créé par_:
+
+  - Décret n°85-253 du 20 février 1985 - art. 4 (Ab) JORF 21 février 1985
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=346></a>
 
 ###### Article 384 B
 
@@ -22130,7 +22187,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## SURETES ET PRIVILEGES.<a id=344></a>
+## SURETES ET PRIVILEGES.<a id=347></a>
 
 ###### Article 396 bis
 
