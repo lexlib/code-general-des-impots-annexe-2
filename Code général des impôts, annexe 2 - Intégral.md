@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-12-30
+Version Consolidée au 1982-12-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -33,8 +33,8 @@ Version Consolidée au 1982-12-30
             - [V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 74 A à 74 P)](#30)
               - [2 : Biens et droits mobiliers ou immobiliers (art. 74 A à 74 S)](#31)
               - [Déclaration de la plus-value. (art. 74 P)](#32)
-          - [Section II : Revenu global (art. 75-0 F à 91 quinquies)](#33)
-            - [0I bis : Détaxation du revenu investi en actions. (art. 75-0 F à 75-0 P)](#34)
+          - [Section II : Revenu global (art. 75-0 E à 91 quinquies)](#33)
+            - [0I bis : Détaxation du revenu investi en actions. (art. 75-0 E à 75-0 P)](#34)
               - [*ACTIONS COTEES OU ASSIMILEES DE SOCIETES FRANCAISES, CERTIFICATS PETROLIERS COTES, DROITS OU BONS DE SOUSCRIPTION OU D'ATTRIBUTION ATTACHES A CES TITRES, ACTIONS DE SICAV* (art. 75-0 O)](#35)
               - [*ACTIONS COTEES OU ASSIMILEES DE SOCIETES FRANCAISES, CERTIFICATS PETROLIERS COTES, DROITS OU BONS DE SOUSCRIPTION OU D'ATTRIBUTION ATTACHES A CES TITRES, ACTIONS DE SICAV, PARTS DE FONDS COMMUNS DE PLACEMENT, SOUSCRIPTION AUX OPERATIONS DE CONSTITUTION OU D'AUGMENTATION DE CAPITAL EN NUMERAIRE REALISEES PAR DES SOCIETES PAR ACTIONS OU DES SARL* (art. 75-0 P)](#36)
             - [I : Crédit d'impôt - Paiement des revenus de capitaux mobiliers - Obligations des établissements payeurs - Plans d'épargne d'entreprise (art. 75 à 81)](#37)
@@ -237,7 +237,7 @@ Version Consolidée au 1982-12-30
       - [IMPOTS DIRECTS (art. 16 A à 140)](#234)
         - [IMPOT SUR LE REVENU (art. 16 A à 93)](#235)
           - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 16 A à 74 R)](#236)
-          - [REVENU GLOBAL. (art. 75-0 E à 91 bis)](#237)
+          - [REVENU GLOBAL. (art. 75-0 H à 91 bis)](#237)
           - [CALCUL DE L'IMPOT. (art. 93)](#238)
         - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 96 à 127)](#239)
           - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 96 à 102 E)](#240)
@@ -1761,6 +1761,42 @@ _Codifié par_:
 ##### Section II : Revenu global<a id=33></a>
 
 ##### 0I bis : Détaxation du revenu investi en actions.<a id=34></a>
+
+###### Article 75-0 E
+
+Les opérations prévues aux articles 163 sexies à 163 terdecies du code général des impôts et à raison desquelles les
+personnes physiques qui ont leur domicile fiscal en France peuvent bénéficier de la détaxation du revenu investi sont
+classées en trois groupes :
+
+a. Achats d'actions cotées ou assimilées de sociétés françaises, de certificats pétroliers cotés, de droits ou bons de
+souscription ou d'attribution attachés à ces titres, d'actions de sociétés d'investissement à capital variable [*SICAV*] ;
+
+b. Achats de parts de fonds communs de placement ;
+
+c. Souscriptions aux opérations de constitution ou d'augmentation de capital en numéraire réalisées par des sociétés par
+actions ou des sociétés à responsabilité limitée françaises, sous réserve des dispositions de l'article 163 sexdecies du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 163 sexies à 163 terdecies, 163 sexdecies
+
+_Codifié par_:
+
+  - Décret n°98-400 1998-05-22
+
+**Liens**:
+
+  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+  - HISTO: Edition du 10 juillet 1983
+  - HISTO: Edition du 22 avril 1998
+
+_Modifié par_:
+
+  - Loi n°82-1152 du 30 décembre 1982 - art. 20 (V) JORF 31 décembre 1982
+
 
 ###### Article 75-0 F
 
@@ -13495,38 +13531,6 @@ _Cite_:
 
 
 ##### REVENU GLOBAL.<a id=237></a>
-
-###### Article 75-0 E
-
-Les opérations prévues aux articles 163 sexies à 163 terdecies du code général des impôts et à raison desquelles les
-personnes physiques qui ont leur domicile fiscal en France peuvent bénéficier de la détaxation du revenu investi sont
-classées en trois groupes :
-
-a. Achats d'actions cotées ou assimilées de sociétés françaises, de certificats pétroliers cotés, de droits ou bons de
-souscription ou d'attribution attachés à ces titres, d'actions de sociétés d'investissement à capital variable [*SICAV*];
-
-b. Achats de parts de fonds communs de placement;
-
-c. Souscriptions aux opérations de constitution ou d'augmentation de capital en numéraire réalisées par des sociétés par
-actions ou des sociétés à responsabilité limitée françaises.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 163 decies
-  - CGI 163 duodecies
-  - CGI 163 nonies
-  - CGI 163 octies
-  - CGI 163 septies
-  - CGI 163 sexies
-  - CGI 163 terdecies
-  - CGI 163 undecies
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 75-0 H
 
