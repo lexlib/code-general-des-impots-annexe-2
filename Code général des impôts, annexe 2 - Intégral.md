@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-11-26
+Version Consolidée au 1985-12-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -331,19 +331,21 @@ Version Consolidée au 1985-11-26
       - [Section II : Paiement mensuel de l'impôt sur le revenu. (art. 384 septies A)](#328)
     - [Chapitre II : Procédures (art. 385 à 386)](#329)
       - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#330)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#331)
-      - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#332)
-        - [Restitution du droit d'apport. (art. 396 ter)](#333)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#334)
-      - [Section II : Juridiction gracieuse (art. 396 quindecies)](#335)
-        - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#336)
-    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#337)
-  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 bis)](#338)
-    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#339)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 382 A)](#340)
-        - [TAXE D'APPRENTISSAGE. (art. 382 A)](#341)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 ter)](#342)
-    - [SURETES ET PRIVILEGES. (art. 396 bis)](#343)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis A)](#331)
+      - [Section II : Redressement judiciaire. (art. 396 bis A)](#332)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#333)
+      - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#334)
+        - [Restitution du droit d'apport. (art. 396 ter)](#335)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#336)
+      - [Section II : Juridiction gracieuse (art. 396 quindecies)](#337)
+        - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#338)
+    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#339)
+  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 bis)](#340)
+    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#341)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 382 A)](#342)
+        - [TAXE D'APPRENTISSAGE. (art. 382 A)](#343)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 ter)](#344)
+    - [SURETES ET PRIVILEGES. (art. 396 bis)](#345)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -906,12 +908,12 @@ considérée et des deux années précédentes dans les cas suivants :
 personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites
 comme demandeurs d'emploi à l'agence nationale pour l'emploi;
 
-2° Mise à la retraite du contribuable ou de l'un des époux soumis à une imposition commune ; bénéficient de la mesure les
-personnes qui ont cessé toute activité professionnelle après avoir atteint l'âge auquel correspond la prise d'effet de la
-pension vieillesse de leur régime de sécurité sociale ;
+2° Départ à la retraite ou en préretraite du contribuable ou de l'un des époux soumis à une imposition commune, sous réserve
+que l'intéressé ne poursuive ou ne reprenne aucune activité professionnelle ; les personnes qui partent à la retraite ne
+bénéficient de la mesure que lorsqu'elles n'en ont pas déjà obtenu l'application à l'occasion de leur départ en préretraite.
 
 3° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à
-charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L 310
+charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L 341-4
 du code de la sécurité sociale et ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de
 l'aide sociale;
 
@@ -919,7 +921,7 @@ l'aide sociale;
 
 5° Divorce ou séparation de corps;
 
-6° Règlement judiciaire ou liquidation de biens du contribuable ou de l'un des époux soumis à une imposition commune ;
+6° Redressement judiciaire ou liquidation de biens du contribuable ou de l'un des époux soumis à une imposition commune ;
 
 7° Tout autre évènement exceptionnel affectant la situation personnelle, familiale ou professionnelle du contribuable et
 revêtant un caractère de gravité tel qu'il contraigne le contribuable, pour y faire face, à liquider tout ou partie de son
@@ -931,11 +933,16 @@ _Cite_:
 
   - CGI 92 B
   - Code de la famille et de l'aide sociale. - art. 173 (M)
-  - Code de la sécurité sociale L310
+  - Code de la sécurité sociale. - art. L341-4 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Cf. : décret 85-494 1985-05-06 art. 1 JORF 11 mai 1985
 
 _Modifié par_:
 
-  - Décret n°83-897 1983-10-06 ART. 2 JORF 9 OCTOBRE 1983
+  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985
+  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
 
 
 ##### II bis : Bénéfices non commerciaux<a id=21></a>
@@ -17699,13 +17706,13 @@ Des caisses primaires et régionales d'assurance maladie et d'assurance vieilles
 des départements d'outre mer, des caisses d'allocations familiales, des unions ou fédérations de caisses, des caisses
 départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et d'allocations familiales
 mutuelles agricoles, de la caisse nationale d'assurance vieillesse agricole, des services et organismes gérant des régimes
-spéciaux prévus à l'article L 3 du code de la sécurité sociale, des institutions de prévoyance prévues à l'article L 4 du
-code de la sécurité sociale, des caisses constituées pour l'application du livre VIII du code de la sécurité sociale
-concernant le régime d'assurance vieillesse des travailleurs non salariés et de l'article 12 de la loi n° 66-509 du 12
-juillet 1966 relative à l'assurance maladie maternité des travailleurs non salariés des professions non agricoles;
+spéciaux prévus à l'article L 711-1 du code de la sécurité sociale, des institutions de prévoyance prévues à l'article L
+731-1 du même code, des caisses constituées pour l'application des titres II, III, IV du livre VI du même code, concernant le
+régime d'assurance vieillesse des travailleurs non salariés et de l'article L 611-1 du même code, relatif à l'assurance
+maladie maternité des travailleurs non salariés des professions non agricoles;
 
-Des sociétés mutualistes, des unions de sociétés mutualistes ou des fédérations d'unions de telles sociétés, dont les statuts
-ont été approuvés dans les conditions prévues à l'article 4 du code de la mutualité;
+Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts ont été approuvés dans les
+conditions prévues à l'article L 122-5 du code de la mutualité.
 
 3° Les constructions édifiées par les établissements publics du culte dans les départements du Bas-Rhin, du Haut-Rhin ou de
 la Moselle;
@@ -17725,16 +17732,23 @@ une activité strictement conforme à leur objet légal ou statutaire.
 _Cite_:
 
   - CGI 1585 C I 1°
-  - Loi n°66-509 du 12 juillet 1966 - art. 12, v. init.
   - Décret n°67-731 1967-08-30 ART. 1
-  - Code de la sécurité sociale L643 A Code de la sécurité sociale L683-2
-  - Code de la mutualité 4
+  - Code de la sécurité sociale L643 à L683-2
+  - Code de la sécurité sociale. - art. L611-1 (M)
+  - Code de la sécurité sociale. - art. L711-1 (M)
+  - Code de la sécurité sociale. - art. L731-1 (T)
+  - Code de la mutualité - art. L122-5 (Ab)
   - Loi n°1933-01-14 ART. 35
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-  - HISTO: EDITION 1979-07-01
+  - Loi n°85-773 du 25 juillet 1985 - art. 1 (V) JORF 26 juillet 1985
+  - Décret n°85-1353 1985-12-17 art. 2, art. 3 JORF 21 décembre 1985
+  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 317 quater
@@ -21606,11 +21620,32 @@ _Abrogé par_:
   - Décret n°2011-1302 du 14 octobre 2011 - art. 4
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=331></a>
+## Chapitre II bis : Sûretés et privilèges<a id=331></a>
 
-### Section I : Dispositions particulières aux droits d'enregistrement<a id=332></a>
+### Section II : Redressement judiciaire.<a id=332></a>
 
-#### Restitution du droit d'apport.<a id=333></a>
+###### Article 396 bis A
+
+Les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés prévus par l'article 1929 septies du code
+général des impôts peuvent, sans extinction préalable de la créance, être accordés aprés consultation de la commission
+départementale des chefs des services financiers. Les frais afférents à ces opérations sont à la charge du débiteur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1929 septies
+
+_Créé par_:
+
+  - Décret n°85-1353 1985-12-27 art. 180 JORF 21 décembre 1985
+
+
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=333></a>
+
+### Section I : Dispositions particulières aux droits d'enregistrement<a id=334></a>
+
+#### Restitution du droit d'apport.<a id=335></a>
 
 ###### Article 396 ter
 
@@ -21642,7 +21677,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=334></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=336></a>
 
 ###### Article 396 duodecies
 
@@ -21767,9 +21802,9 @@ prépondérante.
 
 
 
-### Section II : Juridiction gracieuse<a id=335></a>
+### Section II : Juridiction gracieuse<a id=337></a>
 
-#### Comité du contentieux fiscal, douanier et des changes.<a id=336></a>
+#### Comité du contentieux fiscal, douanier et des changes.<a id=338></a>
 
 ###### Article 396 quindecies
 
@@ -21794,7 +21829,7 @@ _Codifié par_:
   - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
 
 
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.<a id=337></a>
+## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.<a id=339></a>
 
 ###### Article 408
 
@@ -21861,11 +21896,11 @@ contrôleur.
 
 
 
-# RECOUVREMENT DE L'IMPOT<a id=338></a>
+# RECOUVREMENT DE L'IMPOT<a id=340></a>
 
-## PAIEMENT DE L'IMPOT<a id=339></a>
+## PAIEMENT DE L'IMPOT<a id=341></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=340></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=342></a>
 
 ###### Article 383
 
@@ -21962,7 +21997,7 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-#### TAXE D'APPRENTISSAGE.<a id=341></a>
+#### TAXE D'APPRENTISSAGE.<a id=343></a>
 
 ###### Article 382 A
 
@@ -21991,7 +22026,7 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=342></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=344></a>
 
 ###### Article 384 ter
 
@@ -22014,7 +22049,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## SURETES ET PRIVILEGES.<a id=343></a>
+## SURETES ET PRIVILEGES.<a id=345></a>
 
 ###### Article 396 bis
 
