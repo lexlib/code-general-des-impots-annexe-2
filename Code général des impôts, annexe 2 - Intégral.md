@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-06-08
+Version Consolidée au 1983-06-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -17349,7 +17349,7 @@ de l'économie et des finances dans la limite des maxima ci-après :
 Contribution des sociétés d'assurances : 12 % de la totalité des charges des opérations du fonds de garantie afférentes à la
 chasse et à la destruction des animaux nuisibles;
 
-Contribution des assurés, somme forfaitaire maximum de 1 franc par personne garantie.
+Contribution des assurés, somme forfaitaire maximum de 2,50 francs par personne garantie.
 
 1) Annexe III, art. 340 sexies.
 
@@ -17362,9 +17362,13 @@ _Cite_:
   - Code rural 366 ter
   - Décret n°68-170 1968-02-19 ART. 22
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°83-482 1983-06-09 ART. 14 JORF 14 JUIN 1983
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
 
 
 ###### Article 327
