@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1987-07-09
+Version Consolidée au 1987-07-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -44,7 +44,7 @@ Version Consolidée au 1987-07-09
             - [0I bis : Détaxation du revenu investi en actions. (art. 75-0 E à 75-0 P)](#41)
               - [*ACTIONS COTEES OU ASSIMILEES DE SOCIETES FRANCAISES, CERTIFICATS PETROLIERS COTES, DROITS OU BONS DE SOUSCRIPTION OU D'ATTRIBUTION ATTACHES A CES TITRES, ACTIONS DE SICAV* (art. 75-0 O)](#42)
               - [*ACTIONS COTEES OU ASSIMILEES DE SOCIETES FRANCAISES, CERTIFICATS PETROLIERS COTES, DROITS OU BONS DE SOUSCRIPTION OU D'ATTRIBUTION ATTACHES A CES TITRES, ACTIONS DE SICAV, PARTS DE FONDS COMMUNS DE PLACEMENT, SOUSCRIPTION AUX OPERATIONS DE CONSTITUTION OU D'AUGMENTATION DE CAPITAL EN NUMERAIRE REALISEES PAR DES SOCIETES PAR ACTIONS OU DES SARL* (art. 75-0 P)](#43)
-            - [I : Crédit d'impôt - Paiement des revenus de capitaux mobiliers - Obligations des établissements payeurs - Plans d'épargne d'entreprise (art. 75 à 81)](#44)
+            - [I : Crédit d'impôt - Paiement des revenus de capitaux mobiliers - Obligations des établissements payeurs - Plans d'épargne d'entreprise (art. 75 à 82)](#44)
             - [II : Distribution de primes à la construction par les sociétés immobilières d'investissement et les sociétés immobilières de gestion (art. 83 à 84)](#45)
             - [III : Épargne investie. (art. 85 à 86)](#46)
               - [*PERSONNES BENEFICIAIRES DE LA DEDUCTION* (art. 86)](#47)
@@ -270,7 +270,7 @@ Version Consolidée au 1987-07-09
       - [IMPOTS DIRECTS (art. 39 EA à 102 RB)](#267)
         - [IMPOT SUR LE REVENU (art. 39 EA à 95 B)](#268)
           - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 39 EA à 39 H)](#269)
-          - [REVENU GLOBAL. (art. 75-0 H à 82)](#270)
+          - [REVENU GLOBAL. (art. 75-0 H à 75-0 N)](#270)
           - [CALCUL DE L'IMPOT. (art. 95 B)](#271)
         - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 96 à 102 RB)](#272)
           - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 96 à 102 RB)](#273)
@@ -342,9 +342,6 @@ Version Consolidée au 1987-07-09
       - [Section II : Juridiction gracieuse (art. 396 quindecies)](#339)
         - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#340)
     - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#341)
-  - [RECOUVREMENT DE L'IMPOT (art. 383)](#342)
-    - [PAIEMENT DE L'IMPOT (art. 383)](#343)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383)](#344)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -2726,6 +2723,90 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°81-866 1981-09-15
+
+
+###### Article 81 bis
+
+I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour
+leur compte en application des articles 7 à 21 de l'ordonnance n° 86-1134 du 21 octobre 1986, relative à l'intéressement et à
+la participation des salariés aux résultats de l'entreprise et à l'actionnariat des salariés donnent lieu à la délivrance
+d'un certificat distinct, conformément aux dispositions de l'article 77.
+
+II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA  du code général des impôts, le
+certificat est établi pour la totalité de l'avoir fiscal ou du crédit d'impôt au  nom de l'organisme chargé de la
+conservation des titres et de la restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur ce certificat est demandée
+par cet organisme.
+
+Lorsque l'exonération ne porte que sur la moitié de ces revenus le certificat établi au nom de l'organisme chargé de la
+conservation des titres ne mentionne que la moitié de l'avoir fiscal ou du crédit d'impôt qui s'attache à ces revenus. La
+restitution demandée par l'organisme porte alors sur un montant réduit de moitié.
+
+III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
+établie.
+
+La restitution est opérée au profit de cet organisme, à charge pour lui d'employer les sommes correspondantes de la même
+façon que les revenus auxquels elles se rattachent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 163 bis AA AL. 2
+  - CGIAN2 77
+  - Ordonnance 86-1134 1986-10-21 art. 7 à art. 21
+
+_Modifié par_:
+
+  - Ordonnance 86-1134 1986-10-21 art. 7 à art. 21, art. 33 JORF 23 octobre 1986
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+  - Décret n°87-544 du 17 juillet 1987 - art. 30 (T) JORF 18 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+
+###### Article 82
+
+I. L'avoir fiscal et le crédit d'impôt attachés aux revenus du portefeuille collectif ou des titres détenus individuellement
+qui sont acquis en application des articles 22 à 30 de l'ordonnance du 21 octobre 1986, relative à l'intéressement et à la
+participation des salariés aux résultats de l'entreprise et à l'actionnnariat des salariés, et dans les conditions fixées à
+ces articles donnent lieu à la délivrance d'un certificat distinct conformément aux dispositions de l'article 77.
+
+II. Lorsque ces revenus sont totalement exonérés, conformément aux dispositions du II de l'article 163 bis B du code général
+des impôts, le certificat est établi pour la totalité de l'avoir fiscal ou du crédit d'impôt au nom de l'organisme chargé de
+la conservation des titres et la restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur ce certificat est demandée
+par ce organisme.
+
+III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
+établie.
+
+La restitution est opérée au profit de cet organisme, à charge pour lui d'employer les sommes correspondantes de la même
+façon que les revenus auxquels elles se rattachent.
+
+**Nota:**
+
+[*Nota - Loi 94-640 1994-07-25 art. 33 IV : les articles 22 à 30 de l'ordonnance 86-1134 du 21 octobre 1986 sont codifiés
+sous les articles L443-1 à L443-9 du code du travail.*]
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 163 bis B II
+  - Ordonnance 86-1134 1986-10-21 art. 22 à art. 30, art. 77
+
+_Modifié par_:
+
+  - Décret n°87-544 1987-07-17 art. 45 JORF 18 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°94-640 1994-07-25 art. 33 IV
 
 
 ##### II : Distribution de primes à la construction par les sociétés immobilières d'investissement et les sociétés immobilières de gestion<a id=45></a>
@@ -16971,75 +17052,6 @@ _Cite_:
   - Loi n°66-537 1966-07-24 ART. 278
 
 
-###### Article 81 bis
-
-I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour
-leur compte en application des articles L. 442-1 à L. 442-17 du code du travail relatifs à la participation des salariés aux
-fruits de l'expansion des entreprises donnent lieu à la délivrance d'un certificat distinct, conformément aux dispositions de
-l'article 77.
-
-II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA, deuxième alinéa, du code
-général des impôts, le certificat est établi au nom de l'organisme chargé de la conservation des titres et la restitution de
-l'avoir fiscal ou du crédit d'impôt mentionné sur ce certificat est demandée par cet organisme.
-
-III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
-établie.
-
-La restitution est opérée au profit de cet organisme, à charge pour lui d'employer les sommes correspondantes de la même
-façon que les revenus auxquels elles se rattachent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 163 bis AA AL. 2
-  - CGIAN2 77
-  - Code du travail L442-1 A Code du travail L442-17
-
-_Codifié par_:
-
-  - Décret n°82-881 1982-10-15
-
-_Modifié par_:
-
-  - Loi n°73-4 du 2 janvier 1973 - art. 1 (V) JORF 3 JANVIER 1973
-
-
-###### Article 82
-
-I. L'avoir fiscal et le crédit d'impôt attachés aux revenus de valeurs mobilières figurant dans le portefeuille collectif
-constitué en application d'un plan d'épargne d'entreprise remplissant les conditions fixées par les articles L 443-1 à L
-443-7 du code du travail donnent lieu à la délivrance d'un certificat distinct, conformément aux dispositions de l'article
-77.
-
-II. Lorsque les salariés participant à un plan d'épargne d'entreprise réinvestissent immédiatement dans ce plan leur part des
-revenus du portefeuille collectif, le certificat est établi au nom de l'organisme chargé d'effectuer le remploi et la
-restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur ce certificat est demandée par ce organisme.
-
-III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
-établie.
-
-La restitution est opérée au profit de cet organisme, à charge pour lui d'effectuer le remploi des sommes correspondantes
-dans le plan d'épargne d'entreprise.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 77
-  - Code du travail - art. L443-1 (Ab)
-  - Code du travail - art. L443-2 (Ab)
-  - Code du travail - art. L443-3 (Ab)
-  - Code du travail - art. L443-4 (Ab)
-  - Code du travail - art. L443-5 (M)
-  - Code du travail - art. L443-6 (M)
-  - Code du travail - art. L443-7 (M)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ##### CALCUL DE L'IMPOT.<a id=271></a>
 
 ###### Article 95 B
@@ -21771,46 +21783,5 @@ le directeur général des impôts.
 Toutefois, en matière contentieuse, les délégations ne peuvent être accordées qu'aux agents ayant au moins le grade de
 contrôleur.
 
-
-
-# RECOUVREMENT DE L'IMPOT<a id=342></a>
-
-## PAIEMENT DE L'IMPOT<a id=343></a>
-
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=344></a>
-
-###### Article 383
-
-L'ensemble des droits exigibles au titre de la taxe sur les salaires en application des dispositions de l'article 231-1 et 2
-bis du code général des impôts et des articles 141 à 143 de la présente annexe est versé globalement au Trésor dans les
-conditions et délais et sous les sanctions prévus aux articles 1679, 1679 bis, 1727, 1728, 1731 et 1736 du code général des
-impôts et 50, 51, 369 et 374-1 de l'annexe III à ce code.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1679
-  - CGI 1679 bis
-  - CGI 1727
-  - CGI 1728
-  - CGI 1731
-  - CGI 1736
-  - CGI 231 1, 2 bis
-  - CGIAN2 141
-  - CGIAN2 142
-  - CGIAN2 143
-  - CGIAN3 369
-  - CGIAN3 374 1
-  - CGIAN3 50
-  - CGIAN3 51
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
