@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-03-22
+Version Consolidée au 1982-03-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -252,7 +252,7 @@ Version Consolidée au 1982-03-22
           - [OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES. (art. 145 bis à 145 ter)](#249)
         - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE. (art. 163 quindecies)](#250)
         - [TAXE SUR LES ENCOURS DE CREDITS. (art. 163 A à 163 G)](#251)
-        - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES. (art. 167 à 171 bis)](#252)
+        - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES. (art. 167 à 171-0 bis G)](#252)
         - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*. (art. 171 Q à 171 V)](#253)
       - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 178 A à 267 quater C)](#254)
         - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 178 A à 267 quater C)](#255)
@@ -14419,6 +14419,60 @@ _Cité par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 171-0 bis F
+
+En cas de vente en l'état futur d'achèvement avant le 1er janvier 1982 d'un immeuble ou d'une fraction d'immeuble qui a été
+achevé et livré à compter de cette date, le prélèvement liquidé provisoirement au moment de la vente est imputé sur le
+prélèvement de 50 % exigible à raison des profits dégagés par cette vente.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+  - HISTO: Edition du 14 juillet 1989
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
+  - Décret n°89-801 1989-10-27
+
+_Créé par_:
+
+  - Décret n°82-263 du 23 mars 1982 - art. 3 (V) JORF 25 mars 1982
+
+
+###### Article 171-0 bis G
+
+Les règles définies aux articles 171-0 bis D à 171-0 bis F sont applicables en cas de cession d'actions ou de parts d'une
+société visée à l'article 1655 ter du code général des impôts [*société immobilière de copropriété*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1655 ter
+  - CGIAN2 171-0 bis D A CGIAN2 171-0 bis F
+
+**Liens**:
+
+  - TXT_ASSOCIE: CGI 235 quater à 235 nonies
+  - PEREMPTION: Décret n°89-801 du 27 octobre 1989 - art. 3 () JORF 3 novembre 1989
+  - HISTO: Edition du 14 juillet 1989
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
+  - Décret n°89-801 1989-10-27
+
+_Créé par_:
+
+  - Décret n°82-263 du 23 mars 1982 - art. 2 (V) JORF 25 mars 1982
+  - Décret n°82-263 du 23 mars 1982 - art. 3 (V) JORF 25 mars 1982
+  - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 mars 1982
 
 
 #### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU *IR* ET A L'IMPOT SUR LES SOCIETES *IS*.<a id=253></a>
