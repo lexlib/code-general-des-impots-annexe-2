@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-11-23
+Version Consolidée au 1980-12-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -16326,6 +16326,77 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
+###### Article 363 P
+
+Les ventes, les façons et les livraisons à soi-mêmes effectuées par les entreprises imposées à la taxe sur la valeur ajoutée
+selon le régime du forfait sont exonérées de la taxe instituée par l'article 363 N.
+
+Les ventes assujetties à la taxe et réalisées au détail par les fabricants et les transformateurs désignés à l'article 363 O
+sont imposables sur 60 % de leur montant.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 363 N
+  - CGIAN2 363 O
+
+_Créé par_:
+
+  - Décret n°80-1014 du 15 décembre 1980 - art. 3 (V) JORF 18 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Modifié par_:
+
+  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
+
+
+###### Article 363 Q
+
+Les entreprises qui produisent à la fois des accessoires du vêtement et des ceintures de maroquinerie relevant respectivement
+des groupes 47-09 et 45-21 de la nomenclature mentionnée à l'article 363 O peuvent, en ce qui concerne l'ensemble des ventes
+de ces articles, demander à être soumises soit à la taxe prévue à l'article 363 N soit à la taxe sur les cuirs (1) si les
+ventes des produits de l'un ou de l'autre groupe pour lequel l'option est demandée représentent plus de 30 % de leur chiffre
+d'affaires total.
+
+Cette option, formulée sur papier libre et adressée à la fois aux services locaux des impôts et au conseil national du cuir
+avant le 18 février 1981 est valable pour une période de deux ans renouvelable.
+
+(1) Taxe instituée par le décret n° 78-314 du 13 mars 1978 créant une taxe parafiscale commune au conseil national du cuir et
+au centre technique du cuir.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 363 N
+  - CGIAN2 363 O
+  - Décret n°78-314 1978-03-13
+
+_Créé par_:
+
+  - Décret n°80-1014 du 15 décembre 1980 - art. 4 (V) JORF 18 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Modifié par_:
+
+  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
+
+
 ###### Article 363 T
 
 Il est institué jusqu'au 31 décembre 1981 au profit de l'agence nationale pour la récupération et l'élimination des déchets,
@@ -17113,6 +17184,105 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 363 N
+
+En vue d'encourager dans le secteur de l'habillement, d'une part, la recherche, d'autre part, la rénovation des structures
+industrielles et commerciales, est autorisée, dans la limite de 0,25 %, la perception, jusqu'au 31 décembre 1984, d'une taxe
+parafiscale assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la
+taxe sur la valeur ajoutée sous réserve des articles 363 O à 363 S.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 363 O
+  - CGIAN2 363 P
+  - CGIAN2 363 Q
+  - CGIAN2 363 R
+  - CGIAN2 363 S
+
+_Créé par_:
+
+  - Décret n°80-1014 1980-12-15 ART. 1 JORF 18 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+###### Article 363 O
+
+Sont soumises à cette taxe les ventes réalisées par les fabricants et les transformateurs, les opérations à façon et les
+importations pour la consommation portant sur les articles d'habillement relevant de la classe 47 de la nomenclature
+d'activités et de produits approuvée par le décret n° 73-1036 du 9 novembre 1973 portant approbation des nomenclatures
+d'activités et de produits.
+
+La taxe n'est pas perçue sur les articles importés des Etats membres de la Communauté économique européenne [*CEE*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°73-1036 1973-11-09
+
+_Créé par_:
+
+  - Décret n°80-1014 1980-12-15 ART. 2 JORF 18 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+###### Article 363 R
+
+Le produit annuel de la taxe est réparti entre le centre d'études technique des industries de l'habillement (CETIH) et le
+comité interprofessionnel de rénovation des industries du textile et de l'habillement (CIRITH) de telle façon qu'aucun de ces
+organismes ne perçoive moins de 25 % de ce produit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°80-1014 1980-12-15 ART. 5 JORF 18 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+###### Article 363 S
+
+Les modalités d'application des articles 363 N à 363 R et notamment le taux de la taxe et la répartition de son produit entre
+les organismes bénéficiaires désignés à l'article 363 R sont fixées par arrêtés conjoints du ministre de l'économie, du
+ministre du budget, et du ministre de l'industrie (1).
+
+(1) Annexe IV, art. 159 AL sexies
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 363 N
+  - CGIAN2 363 O
+  - CGIAN2 363 P
+  - CGIAN2 363 Q
+  - CGIAN2 363 R
+  - CGIAN4 159 AL sexies
+
+_Créé par_:
+
+  - Décret n°80-1014 1980-12-15 ART. 6 JORF 18 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Modifié par_:
+
+  - Décret n°82-1243 1982-12-31 ART. 1 JORF 13 JANVIER 1983
 
 
 ###### Article 368
