@@ -1,22 +1,21 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1976-12-29
+Version Consolidée au 1976-12-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 à 125)](#1)
     - [Première partie : Impôts d'Etat (art. 2 à 125)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 2 à 125)](#3)
-        - [Chapitre premier : Impôt sur le revenu (art. 2 à 38 ter)](#4)
-          - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 2 à 38 ter)](#5)
-            - [I bis : Bénéfices industriels et commerciaux (art. 2 à 38 ter)](#6)
+        - [Chapitre premier : Impôt sur le revenu (art. 2)](#4)
+          - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 2)](#5)
+            - [I bis : Bénéfices industriels et commerciaux (art. 2)](#6)
               - [1 : Imposition de certains profits immobiliers (art. 2)](#7)
-              - [12 : Régime simplifié d'imposition (art. 38 ter)](#8)
-        - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 125)](#9)
-          - [Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger (art. 125)](#10)
-            - [III : Dispositions communes. (art. 125)](#11)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 91 bis)](#12)
-    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#13)
-      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#14)
-        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#15)
-          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#16)
+        - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 125)](#8)
+          - [Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger (art. 125)](#9)
+            - [III : Dispositions communes. (art. 125)](#10)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 91 bis)](#11)
+    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#12)
+      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#13)
+        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#14)
+          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#15)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -46,28 +45,11 @@ _Abrogé par_:
   - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
 
 
-##### 12 : Régime simplifié d'imposition<a id=8></a>
+#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales<a id=8></a>
 
-###### Article 38 ter
+##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger<a id=9></a>
 
-(Abrogé).
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°76-1232 du 29 décembre 1976 - art. 62 (P) JORF 30 DECEMBRE 1976
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-
-
-#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales<a id=9></a>
-
-##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger<a id=10></a>
-
-##### III : Dispositions communes.<a id=11></a>
+##### III : Dispositions communes.<a id=10></a>
 
 ###### Article 125
 
@@ -95,15 +77,15 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=12></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=11></a>
 
-## IMPOTS D'ETAT<a id=13></a>
+## IMPOTS D'ETAT<a id=12></a>
 
-### IMPOTS DIRECTS<a id=14></a>
+### IMPOTS DIRECTS<a id=13></a>
 
-#### IMPOT SUR LE REVENU<a id=15></a>
+#### IMPOT SUR LE REVENU<a id=14></a>
 
-##### REVENU GLOBAL.<a id=16></a>
+##### REVENU GLOBAL.<a id=15></a>
 
 ###### Article 81 bis
 
