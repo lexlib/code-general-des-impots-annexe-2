@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1967-09-16
+Version Consolidée au 1970-11-11
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 125)](#1)
     - [Première partie : Impôts d'Etat (art. 125)](#2)
