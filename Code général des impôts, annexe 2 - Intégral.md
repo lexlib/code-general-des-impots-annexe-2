@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-01-16
+Version Consolidée au 2004-01-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -124,9 +124,9 @@ Version Consolidée au 2004-01-16
               - [6 : Collectivités locales (art. 201 octies à 201 sexies)](#121)
               - [7 : Bailleurs de biens ruraux (art. 202)](#122)
             - [III : Exonérations (art. 202 A à 202 D)](#123)
-          - [Section III : Liquidation de la taxe (art. 204 quater à 242 B)](#124)
+          - [Section III : Liquidation de la taxe (art. 204 quater à 242 C)](#124)
             - [I : Régime simplifié d'imposition (art. 204 quater à 204 ter A)](#125)
-            - [II : Déductions (art. 205 à 242 B)](#126)
+            - [II : Déductions (art. 205 à 242 C)](#126)
               - [1 : Modalités d'exercice (art. 205 à 229)](#127)
                 - [A : Détermination du quantum de taxe déductible (art. 205 à 206)](#128)
                 - [B : Régularisations et reversements (art. 207)](#129)
@@ -149,7 +149,7 @@ Version Consolidée au 2004-01-16
               - [2 ter : Remboursement de la taxe aux assujettis établis hors de France (art. 242-0 M à 242-0 U)](#146)
                 - [A : Assujettis établis dans l'Union européenne (art. 242-0 M à 242-0 U)](#147)
               - [3 : Régime suspensif (art. 242 A)](#148)
-              - [4 : Organismes sans but lucratif (art. 242 B)](#149)
+              - [4 : Organismes sans but lucratif (art. 242 B à 242 C)](#149)
           - [Section III ter : Obligations des redevables (art. 242 septies à 242 undecies)](#150)
             - [I : Régime simplifié d'imposition (art. 242 septies à 242 septies L)](#151)
               - [1° : Entreprises dont l'exercice comptable coïncide avec l'année civile (art. 242 septies à 242 sexies)](#152)
@@ -12769,6 +12769,72 @@ _Abrogé par_:
 **Liens**:
 
   - HISTO: Edition du 15 juin 1990
+
+
+###### Article 242 C
+
+I. - Pour l'application du d du 1° du 7 de l'article 261 du code général des impôts, la transparence financière des
+organismes qui décident de verser une rémunération à leurs dirigeants est établie lorsque les conditions suivantes sont
+satisfaites :
+
+a) Le montant des rémunérations versées à chacun des dirigeants concernés est indiqué dans une annexe aux comptes de
+l'organisme ;
+
+b) Le représentant statutaire, ou le commissaire aux comptes, présente un rapport à l'organe délibérant sur les conventions
+prévoyant une telle rémunération ;
+
+c) Les comptes de l'organisme sont certifiés par un commissaire aux comptes.
+
+II. - L'adéquation de la rémunération aux sujétions imposées aux dirigeants désignés au d du 1° du 7 de l'article 261 du même
+code est réputée acquise lorsque, dans la limite du montant prévu au neuvième alinéa de cet article, les conditions suivantes
+sont satisfaites :
+
+a) La rémunération versée est la contrepartie de l'exercice effectif de son mandat par le dirigeant concerné ;
+
+b) La rémunération est proportionnée aux sujétions effectivement imposées aux dirigeants concernés, notamment en termes de
+temps de travail ;
+
+c) La rémunération est comparable à celles couramment versées pour des responsabilités de nature similaire et de niveau
+équivalent.
+
+III. - Pour l'appréciation des montants de ressources mentionnés aux quatrième, cinquième, sixième et huitième alinéas du d
+du 1° du 7 de l'article 261 du même code :
+
+a) Sont prises en compte les ressources financières versées aux organismes concernés, à quelque titre que ce soit, par des
+personnes physiques ou par des personnes morales de droit privé sauf si ces dernières sont contrôlées en droit ou en fait et
+financées majoritairement par des personnes morales de droit public ;
+
+b) Ne sont pas pris en compte les contributions ou apports effectués en nature ou en industrie ;
+
+c) Sont prises en compte, le cas échéant, les ressources financières, hors versements publics, des associations membres de
+l'organisme concerné et qui remplissent les conditions leur permettant de bénéficier des dispositions du d du 1° du 7 de
+l'article 261 du même code ;
+
+d) Les ressources financières perçues par un organisme ne peuvent être prises en compte que pour l'appréciation de son propre
+montant de ressources et, le cas échéant, pour l'appréciation du montant des ressources d'un seul des organismes dont il est
+membre.
+
+IV. - L'organisme qui rémunère, en application du d du 1° du 7 de l'article 261 du même code, un ou plusieurs de ses
+dirigeants, doit communiquer chaque année à la direction des services fiscaux dont il dépend un document attestant du montant
+de ses ressources mentionnées au huitième alinéa du même article, constaté dans les conditions prévues à ce même alinéa et
+précisant l'identité des dirigeants rémunérés.
+
+Ce document doit être déposé au plus tard dans les six mois suivant la clôture de l'exercice au titre duquel les
+rémunérations ont été versées.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 261
+
+_Créé par_:
+
+  - Décret n°2004-76 du 20 janvier 2004 - art. 1 () JORF 22 janvier 2004
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
 
 
 ##### Section III ter : Obligations des redevables<a id=150></a>
