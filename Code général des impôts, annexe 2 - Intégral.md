@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-01-05
+Version Consolidée au 1988-01-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -327,7 +327,7 @@ Version Consolidée au 1988-01-05
       - [IMPOTS DIRECTS (art. 39 H à 96)](#324)
         - [IMPOT SUR LE REVENU (art. 39 H à 95 B)](#325)
           - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 39 H)](#326)
-          - [REVENU GLOBAL. (art. 75-0 H à 75-0 N)](#327)
+          - [REVENU GLOBAL. (art. 75-0 H)](#327)
           - [CALCUL DE L'IMPOT. (art. 95 B)](#328)
         - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 96)](#329)
           - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 96)](#330)
@@ -2309,6 +2309,27 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 75-0 N
+
+L'obligation de dépôt des actions nominatives porte sur le certificat nominatif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°98-400 1998-05-22
+
+**Liens**:
+
+  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 2 () JORF 24 mai 1998
+  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 22 avril 1998
+
+_Modifié par_:
+
+  - Loi n°88-15 du 5 janvier 1988 - art. 36 () JORF 6 janvier 1988
 
 
 ###### Article 75-0 Q
@@ -20177,24 +20198,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°83-1 1983-01-03 ART. 47 JORF 4 JANVIER 1983
-
-
-###### Article 75-0 N
-
-L'obligation de dépôt des actions nominatives porte sur le certificat nominatif.
-
-Les actions d'apport mentionnées à l'article 278 de la loi no 66-537 du 24 juillet 1966 sur les sociétés commerciales sont
-déposées à l'expiration de la période de deux ans prévue à cet article.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 ART. 278
 
 
 ##### CALCUL DE L'IMPOT.<a id=328></a>
