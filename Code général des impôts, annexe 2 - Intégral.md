@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1991-12-20
+Version Consolidée au 1992-01-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -356,7 +356,7 @@ Version Consolidée au 1991-12-20
     - [Chapitre II : Procédures (art. 385 à 386)](#353)
       - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#354)
     - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#355)
-      - [Publicité du privilège du Trésor. (art. 396 bis)](#356)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#356)
       - [Section II : Redressement judiciaire. (art. 396 bis A)](#357)
     - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#358)
       - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#359)
@@ -22057,7 +22057,7 @@ _Abrogé par_:
 
 ## Chapitre II bis : Sûretés et privilèges<a id=355></a>
 
-### Publicité du privilège du Trésor.<a id=356></a>
+### Section I : Publicité du privilège du Trésor<a id=356></a>
 
 ###### Article 396 bis
 
@@ -22079,16 +22079,16 @@ d'outre-mer, l'inscription est requise, selon le cas, au greffe du tribunal de c
 statuant commercialement ou au greffe du tribunal de grande instance dans le ressort duquel se trouve le principal
 établissement du redevable.
 
-2. Lorsque la publicité est faite à titre obligatoire, en application de l'article 1929 quater-1 du code général des impôts,
-l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard :
+2. Lorsque la publicité est faite à titre obligatoire, en application du 4 de l'article 1929 quater du code général des
+impôts, l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard :
 
-- Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente ;
+a. Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente ;
 
-- Le 31 mai pour les sommes dues au 31 mars de l'année courante ;
+b. Le 31 mai pour les sommes dues au 31 mars de l'année courante ;
 
-- Le 31 août pour les sommes dues au 30 juin de l'année courante ;
+c. Le 31 août pour les sommes dues au 30 juin de l'année courante ;
 
-- Le 30 novembre pour les sommes dues au 30 septembre de l'année courante.
+d. Le 30 novembre pour les sommes dues au 30 septembre de l'année courante.
 
 L'octroi de délais de paiement ne fait pas obstacle à l'application des dispositions du présent article.
 
@@ -22130,7 +22130,9 @@ redevable, sur présentation au greffe d'une attestation constatant le paiement 
 l'inscription. Une radiation partielle ne peut être faite que pour une somme au moins égale au montant minimum prévu pour
 l'inscription.
 
-Toute radiation consécutive à un dégrèvement est faite à l'initiative du comptable qui avait requis l'inscription.
+Toute radiation consécutive à un dégrèvement est faite à l'initiative du comptable qui avait requis l'inscription. Il est de
+même procédé à radiation sur l'initiative du comptable en cas d'erreur commise par celui-ci sur le montant des sommes
+privilégiées ou sur l'identité du redevable.
 
 Le greffier mentionne les radiations en marge de l'inscription correspondante.
 
@@ -22183,22 +22185,23 @@ NOTA : (1) Voir l'article 207 sexies de l'annexe IV.
 _Cite_:
 
   - CGI 1929 quater
-  - CGIAN4 207 sexies
+  - Décret n°72-917 1972-10-02
   - Loi n°71-1029 du 24 décembre 1971 - art. 1 (V)
-  - Décret n°72-917 1972-10-02 art. 1
-  - Livre des procédures fiscales L277 à L279 A
+  - Livre des procédures fiscales - art. L277 (MMN)
+  - Livre des procédures fiscales - art. L278 (MMN)
+  - Livre des procédures fiscales - art. L279 A (V)
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 17 II JORF 9 juillet 1987
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
+  - Décret n°92-37 du 7 janvier 1992 - art. 1 (V) JORF 12 janvier 1992
 
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
 
 
 ### Section II : Redressement judiciaire.<a id=357></a>
