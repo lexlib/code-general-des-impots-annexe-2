@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1983-06-05
+Version Consolidée au 1983-06-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -281,7 +281,7 @@ Version Consolidée au 1983-06-05
         - [TABACS. (art. 286 C)](#278)
       - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 303 à 310 G)](#279)
         - [AUTRES DROITS ET TAXES. (art. 303 à 310 C)](#280)
-        - [REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE. (art. 310 F ter à 310 G)](#281)
+        - [REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE. (art. 310 G)](#281)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 310 HO à 310 HT)](#282)
       - [IMPOSITIONS COMMUNALES (art. 310 HO à 310 HT)](#283)
         - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 310 HC à 310 HT)](#284)
@@ -327,9 +327,9 @@ Version Consolidée au 1983-06-05
         - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#324)
     - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#325)
   - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 terdecies)](#326)
-    - [PAIEMENT DE L'IMPOT (art. 383 à 384-0 B)](#327)
+    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#327)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 383 bis C)](#328)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384-0 B)](#329)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384 ter)](#329)
     - [SURETES ET PRIVILEGES. (art. 396 bis)](#330)
     - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 396 quaterdecies à 396 terdecies)](#331)
       - [JURIDICTION GRACIEUSE. (art. 396 quaterdecies à 396 terdecies)](#332)
@@ -16848,31 +16848,6 @@ _Cite_:
 
 #### REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE.<a id=281></a>
 
-###### Article 310 F ter
-
-I  Il n'y a pas lieu à recouvrement des avances, redevances, droits et taxes afférents aux mesures conservatoires faites avec
-le bénéfice de l'aide judiciaire, à moins qu'ils soient mis, en vertu de la loi ou par une décision de justice, à la charge
-d'une partie autre que le bénéficiaire de l'aide.
-
-Il en est de même en cas de désistement, de péremption ou de radiation de l'instance et de transaction intervenue en cours
-d'instance.
-
-Toutefois, les dispositions des alinéas précédents ne font pas obstacle au recouvrement des droits, taxes et pénalités
-éventuellement dus par le bénéficiaire de l'aide sur les actes et titres produits par lui pour justifier de ses droits et
-qualités.
-
-II  En cas de retrait de l'aide judiciaire, le service des impôts procède au recouvrement, dans les proportions
-éventuellement fixées par la décision de retrait, des avances faites par le Trésor et des redevances, droits et taxes dont le
-bénéficiaire de l'aide avait été dispensé, ainsi que, s'il y a lieu, au recouvrement des droits, taxes et pénalités dus par
-ce bénéficiaire sur les actes et titres produits par lui pour justifier de ses droits et qualités.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 310 G
 
 I  L'acquéreur, le donataire, l'héritier ou le légataire, qui désire bénéficier de l'exonération de droits et taxes prévue à
@@ -21260,46 +21235,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°81-866 1981-09-15
-
-
-###### Article 384-0 A
-
-I. En matière d'aide judiciaire, le recouvrement des sommes prévues à l'article 1090 C du code général des impôts est opéré
-au vu d'un exécutoire délivré par le secrétaire de la juridiction, selon les modalités fixées par les articles 91 et suivants
-du décret n° 72-809 du 1er septembre 1972, à moins que le jugement ne contienne liquidation des dépens.
-
-Lorsqu'il y a lieu à recouvrement sur le bénéficiaire de l'aide judiciaire de droits, taxes et pénalités dus sur les actes et
-titres produits par lui pour justifier de ses droits et qualités, il est délivré un exécutoire séparé.
-
-En ce qui concerne le tribunal des conflits, le conseil d'Etat et les tribunaux administratifs, les expéditions de jugements
-et ordonnances de taxe revêtues de la formule exécutoire tiennent lieu des exécutoires prévus aux alinéas précédents.
-
-II. Le bénéficiaire de l'aide peut concourir aux actes de poursuites en recouvrement des frais, conjointement avec le service
-des impôts, lorsque ce concours est utile à l'exécution des décisions rendues ou à la conservation de leurs effets.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1090 C
-  - Décret n°72-809 1972-09-01 ART. 91 ET S.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 384-0 B
-
-Les frais, faits avec le bénéfice de l'aide judiciaire, des procédures d'exécution et des instances nées de cette exécution
-entre le bénéficiaire de l'aide et la partie poursuivie sont, même si ces procédures ou instances ont été discontinuées ou
-suspendues pendant plus d'une année, réputés dus par la partie poursuivie sauf justifications ou décisions contraires.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ## SURETES ET PRIVILEGES.<a id=330></a>
