@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1981-08-04
+Version Consolidée au 1981-09-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -239,7 +239,7 @@ Version Consolidée au 1981-08-04
           - [REVENU GLOBAL. (art. 84)](#236)
         - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 102 J à 134 bis)](#237)
           - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 102 J à 102 P)](#238)
-          - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 134 bis)](#239)
+          - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 126 à 134 bis)](#239)
         - [TAXE D'APPRENTISSAGE. (art. 140 A à 140 N)](#240)
         - [TAXE SUR LES SALAIRES (art. 145 bis à 145 ter)](#241)
           - [OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES. (art. 145 bis à 145 ter)](#242)
@@ -13220,56 +13220,6 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 126
-
-1. Les dispositions des articles 39-1-5o, deuxième, quatrième, cinquième et septième alinéas, 39 bis, 39 quinquies A, 219-II
-et III et 238 octies du code général des impôts ne sont pas applicables pour la détermination du résultat d'ensemble des
-sociétés agréées en vertu de l'article 104 ou du résultat consolidé des sociétés agréées en vertu de l'article 113, dans la
-mesure où ces dispositions concerneraient des exploitations directes et indirectes situées hors de la France métropolitaine
-et des départements d'outre-mer [*à l'étranger*].
-
-2. Lorsqu'ils ne sont pas imputables sur l'impôt sur les sociétés dû par la société agréée, les impôts étrangers acquittés
-par les exploitations directes et indirectes des sociétés agréées sont admis en déduction du résultat de ces exploitations.
-Le bénéfice de cette disposition pourra toutefois être retiré, par arrêté du ministre de l'économie et des finances, en ce
-qui concerne les impôts étrangers qui ne sont pas comparables à des impôts, taxes, droits ou prélèvements français admis en
-déduction pour la détermination du bénéfice imposable des entreprises.
-
-3. Lorsque, en vertu des dispositions du code général des impôts, le montant d'une charge déductible est calculé ou limité en
-fonction du bénéfice, du chiffre d'affaires ou du montant des ventes de l'entreprise, la charge totale que la société agréée
-est admise à déduire à ce titre, en vue de la détermination de son résultat d'ensemble ou de son résultat consolidé, est
-limitée au chiffre obtenu par l'application de ces dispositions, selon le cas, au résultat d'ensemble ou au résultat
-consolidé, au chiffre d'affaires consolidé du groupe ou au montant consolidé de ses ventes.
-
-Toutefois, pour l'application des dispositions des articles 39 ter et 39 ter A du code général des impôts, le chiffre
-d'affaires consolidé n'est pris en considération qu'à concurrence du montant des ventes des produits marchands extraits des
-divers gisements. Les provisions constituées en application de ces textes peuvent, sauf disposition contraire de la décision
-d'agrément, être employées dans tous pays, Etats ou territoires dans lesquels la société agréée possède des exploitations
-directes ou indirectes dont les résultats doivent être compris dans le résultat d'ensemble ou dans le résultat consolidé du
-groupe.
-
-4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que de besoin,  les conditions de forme
-auxquelles peuvent être subordonnées certaines déductions de charges, lorsque l'observation de ces conditions par les
-exploitations directes ou indirectes des sociétés agréées apparaîtra impossible.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 219 II, III
-  - CGI 238 octies
-  - CGI 39 1 5° AL. 2, AL. 3, AL. 4, AL. 5, AL. 7
-  - CGI 39 bis
-  - CGI 39 quinquies A
-  - CGI 39 ter
-  - CGI 39 ter A
-  - CGIAN2 104
-  - CGIAN2 113
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 127
 
 1. Pour l'assiette du précompte visé à l'article 223 sexies du code général des impôts, les bénéfices soumis par la société
@@ -13473,6 +13423,58 @@ _Codifié par_:
 
 
 ##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.<a id=239></a>
+
+###### Article 126
+
+1. Les dispositions des articles 39-1-5°, deuxième, quatrième, cinquième et septième alinéas, 39 bis, 39 quinquies A, 219-II
+et III et 238 octies du code général des impôts ne sont pas applicables pour la détermination du résultat d'ensemble des
+sociétés agréées en vertu de l'article 104 [*bénéfice mondial*] ou du résultat consolidé des sociétés agréées en vertu de
+l'article 113 [*bénéfice consolidé*], dans la mesure où ces dispositions concerneraient des exploitations directes et
+indirectes situées hors de la France métropolitaine et des départements d'outre-mer.
+
+2. Lorsqu'ils ne sont pas imputables sur l'impôt sur les sociétés dû par la société agréée, les impôts étrangers acquittés
+par les exploitations directes et indirectes des sociétés agréées sont admis en déduction du résultat de ces exploitations.
+Le bénéfice de cette disposition pourra toutefois être retiré, par arrêté du ministre de l'économie et des finances, en ce
+qui concerne les impôts étrangers qui ne sont pas comparables à des impôts, taxes, droits ou prélèvements français admis en
+déduction pour la détermination du bénéfice imposable des entreprises.
+
+3. Lorsque, en vertu des dispositions du code général des impôts, le montant d'une charge déductible est calculé ou limité en
+fonction du bénéfice, du chiffre d'affaires ou du montant des ventes de l'entreprise, la charge totale que la société agréée
+est admise à déduire à ce titre, en vue de la détermination de son résultat d'ensemble ou de son résultat consolidé, est
+limitée au chiffre obtenu par l'application de ces dispositions, selon le cas, au résultat d'ensemble ou au résultat
+consolidé, au chiffre d'affaires consolidé du groupe ou au montant consolidé de ses ventes.
+
+Toutefois, pour l'application des dispositions de l'article 39 ter du code général des impôts, le chiffre d'affaires
+consolidé n'est pris en considération qu'à concurrence du montant des ventes des produits marchands extraits des divers
+gisements. Les provisions constituées en application de ce texte peuvent, sauf disposition contraire de la décision
+d'agrément, être employées dans tous pays, Etats ou territoires dans lesquels la société agréée possède des exploitations
+directes ou indirectes dont les résultats doivent être compris dans le résultat d'ensemble ou dans le résultat consolidé du
+groupe.
+
+4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que de besoin, les conditions de forme
+auxquelles peuvent être subordonnées certaines déductions de charges, lorsque l'observation de ces conditions par les
+exploitations directes ou indirectes des sociétés agréées apparaîtra impossible.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 219 II, III
+  - CGI 238 octies
+  - CGI 39 1 5° AL. 2, AL. 4, AL. 5, AL. 7
+  - CGI 39 bis
+  - CGI 39 quinquies A
+  - CGIAN2 104
+  - CGIAN2 113
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+**Liens**:
+
+  - SPEC_APPLI: La modification de l'article 126 est une conséquence de la péremption de l'article 39 ter A
+
 
 ###### Article 134 bis
 
