@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-12-08
+Version Consolidée au 1984-12-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -15407,28 +15407,12 @@ _Cite_:
 
 Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinquies C du code général des impôts sont :
 
-1° Les agents de change ;
-
-La Banque française du commerce extérieur ;
-
-La Banque de France ;
+1° La Banque de France ;
 
 Les établissements de crédits ;
 
-La Caisse centrale des banques populaires et les banques populaires agréés par elle ;
-
-La Caisse centrale de crédit coopératif ;
-
-La Caisse centrale du Crédit mutuel et les caisses fédérales du Crédit mutuel ;
-
-La Caisse des dépôts et consignations pour ses opérations et pour celles des caisses d'épargne réalisées dans le cadre de
-leurs statuts ;
-
-La Caisse nationale de Crédit agricole et les caisses régionales de Crédit agricole mutuel ;
-
-Le Crédit foncier communal d'Alsace et de Lorraine ;
-
-Le Crédit foncier de France ;
+La Caisse des dépôts et consignations ;                    t          Les agents de change ;          Les établissements
+visés à l'article 99 de la loi 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ;
 
 2° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de
 l'actionnariat des salariés ;
@@ -15451,16 +15435,16 @@ _Cite_:
   - CGI 199 quinquies
   - CGI 199 quinquies C
   - CGI 199 quinquies-0 A
-  - Loi n°66-537 1966-07-24 ART. 95, ART. 130
+  - Loi n°66-537 1966-07-24 art. 95, art. 130
+  - Loi n°84-46 1984-01-24 art. 99
 
 _Codifié par_:
 
-  - Décret n°84-875 1984-10-01
+  - Décret n°85-1007 1985-09-24
 
 _Modifié par_:
 
-  - Loi n°84-46 1984-01-24 art. 15, art. 94 II JORF 25 janvier 1984
-  - Décret n°84-110 du 17 février 1984 - art. 1 (V) JORF 18 février 1984
+  - Loi n°84-1152 1984-12-21 art. 4 JORF 22 décembre 1984
 
 
 ###### Article 95 D
