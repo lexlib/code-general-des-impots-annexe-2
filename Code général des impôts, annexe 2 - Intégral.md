@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1981-07-01
+Version Consolidée au 1981-08-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -15304,9 +15304,8 @@ _Codifié par_:
 ###### Article 303
 
 La taxe différentielle sur les véhicules à moteur instituée par l'article 1007-a du code général des impôts est applicable
-aux véhicules automobiles mentionnés au Titre II du Livre 1er du code de la route (deuxième partie) ainsi qu'aux
-motocyclettes, si ces véhicules et motocyclettes sont immatriculés sur le territoire métropolitain et dans les départements
-d'outre-mer [*DOM*].
+aux véhicules automobiles mentionnés au Titre II du Livre 1er du code de la route (deuxième partie) et immatriculés sur le
+territoire métropolitain et dans les départements d'outre-mer [*DOM*].
 
 Toutefois, sont dispensés de la taxe, dans les conditions déterminées par un arrêté du ministre de l'économie et des
 finances, les véhicules dont les propriétaires bénéficient de privilèges diplomatiques ou qui ont fait l'objet d'une
@@ -15331,19 +15330,22 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°80-30 du 18 janvier 1980 - art. 16 (P) JORF 19 JANVIER 1980
+  - Loi n°81-734 1981-08-03 ART. 9 FINANCES RECTIFICATIVE POUR 1981 JORF 4 AOUT 1981
+
+_Abrogé par_:
+
+  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°82-881 1982-10-15
 
 
 ###### Article 304
 
 Sont exonérés de la taxe :
 
-1° Les véhicules ayant plus de vingt ans d'âge ou plus de vingt-cinq ans d'âge selon qu'il s'agit de motocyclettes ou
-d'autres véhicules ;
+1° Les véhicules ayant plus de vingt-cinq ans d'âge ;
 
 2° Les véhicules mentionnés à l'article R 105 du code de la route, qui sont destinés normalement au transport en commun de
 personnes ;
@@ -15364,6 +15366,8 @@ d'un an.
 
 L'exonération prévue au 7° est limitée à un seul véhicule par propriétaire.
 
+(1) Annexe IV, art. 121 V.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -15371,8 +15375,8 @@ _Cite_:
   - CGI 1009 B
   - CGIAN4 121 V
   - Décret n°49-1473 1949-11-14 ART. 3 2° c
-  - Code de la route R105
   - Loi n°1919-10-08
+  - Code de la route R105
 
 _Anciens textes_:
 
@@ -15380,11 +15384,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°82-881 1982-10-15
 
 _Modifié par_:
 
-  - Loi n°80-30 du 18 janvier 1980 - art. 16 (P) JORF 19 JANVIER 1980
+  - Loi n°81-734 1981-08-03 ART. 9 FINANCES RECTIFICATIVE POUR 1981 JORF 4 AOUT 1981
+
+_Abrogé par_:
+
+  - Loi n°83-1179 1983-12-29 art. 24, art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
 ###### Article 305
