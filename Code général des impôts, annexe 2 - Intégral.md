@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-03-17
+Version Consolidée au 1984-04-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -17082,11 +17082,11 @@ conventionnés.                                1.000 6° Parties des bâtiments 
 Ces valeurs forfaitaires sont majorées de 10 % dans les communes de la région d'Ile-de-France, telle qu'elle est définie à
 l'article 1er de la loi n° 76-394 du 6 mai 1976.
 
-Afin de bénéficier du classement en 4° ou en 5° catégorie, le titulaire de l'autorisation de construire doit fournir au
-directeur départemental de l'équipement ou, en cas d'application de l'article R. 421-22 du code de l'urbanisme, au maire,
-dans le délai de 9 mois à compter de la notification de l'autorisation ou de la délivrance tacite de celle-ci, une
-attestation de l'organisme de financement précisant que le prêt aidé à l'accession à la propriété, le prêt locatif aidé ou le
-prêt conventionné a été octroyé.
+Afin de bénéficier du classement en 4° ou en 5° catégorie, le titulaire du permis de construire doit fournir au responsable
+du service de l'Etat, dans le département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1 du code de
+l'urbanisme, au maire, dans le délai de neuf mois à compter de la notification du permis de construire ou de la délivrance
+tacite de celui-ci, une attestation de l'organisme de financement précisant que le prêt aidé à l'accession à la propriété, le
+prêt locatif aidé ou le prêt conventionné a été octroyé.
 
 A l'expiration de ce délai, faute pour le constructeur de fournir cette attestation, la taxe est liquidée au taux afférent à
 la 7ème catégorie (1).
@@ -17111,21 +17111,15 @@ _Cite_:
   - Loi n°46-860 1946-04-30
   - Loi n°76-394 du 6 mai 1976 - art. 1 (M)
   - Décret n°81-620 1981-05-20
-  - Code de l'urbanisme - art. R421-22 (M)
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
+  - Code de l'urbanisme R244-1
 
 _Modifié par_:
 
-  - Décret n°81-620 du 20 mai 1981 - art. 1 (V) JORF 21 MAI 1981
-  - Décret n°81-620 du 20 mai 1981 - art. 2 (V) JORF 21 MAI 1981
-  - Décret n°81-620 du 20 mai 1981 - art. 3 (V) JORF 21 MAI 1981
+  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984, en vigueur le 1er avril 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
 
 
 #### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=284></a>
