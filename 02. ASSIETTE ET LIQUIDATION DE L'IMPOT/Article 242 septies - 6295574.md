@@ -1,7 +1,7 @@
 # Article 242 septies
 
 En cas de cession, de cessation, de changement de lieu d'imposition, de règlement judiciaire ou de liquidation de biens, les
-entreprises sont tenues de souscrire dans les dix jours la déclaration visée à l'article 242 sexies relative à l'année en
+entreprises sont tenues de souscrire dans les trente jours la déclaration visée à l'article 242 sexies relative à l'année en
 cours ainsi que, le cas échéant, celle qui n'aurait pas encore été déposée au titre de l'année civile précédente.
 
 **Liens relatifs à cet article**
@@ -10,6 +10,10 @@ _Cite_:
 
   - CGIAN2 242 sexies
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition 1979-07-01
+  - Décret n°84-875 1984-10-01
+
+_Modifié par_:
+
+  - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
