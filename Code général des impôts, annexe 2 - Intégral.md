@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1979-07-01
+Version Consolidée au 1979-07-01 00:00:01 +0200
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -4946,17 +4946,6 @@ Transféré sous l'article 260 G de la même annexe.
 _Nouveaux textes_:
 
   - CGIAN2 260 G
-
-
-###### Article 183
-
-Transféré sous l'article 260 H de la même annexe.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - CGIAN2 260 H
 
 
 ###### Article 184
