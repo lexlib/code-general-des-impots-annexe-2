@@ -1,6 +1,6 @@
 # Article 163 nonies
 
-Sont considérés comme occupant au minimum dix salariés, au sens de l'article 235 ter C du code général des impôts, les
+Sont considérés comme occupant au minimum dix salariés, au sens de l'article 235 ter D du code général des impôts, les
 employeurs occupant des salariés dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année
 où l'activité est exercée.
 
@@ -18,13 +18,17 @@ d'établissement où il est employé.
 
 _Cite_:
 
-  - CGI 235 ter C
+  - CGI 235 ter D
   - Code du travail - art. L212-4-2 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 4 juillet 1992
 
 _Modifié par_:
 
-  - Décret n°81-540 du 12 mai 1981 - art. 3 () JORF 15 MAI 1981
+  - Loi n°91-1405 du 31 décembre 1991 - art. 28 () JORF 4 janvier 1992
 
 _Codifié par_:
 
-  - Décret n°83-899 1983-10-06
+  - Décret n°92-836 1992-08-27
