@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1979-07-28
+Version Consolidée au 1979-08-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -130,7 +130,7 @@ Version Consolidée au 1979-07-28
         - [Chapitre 01 : Boissons - Vins et cidres (art. 267 nonies)](#127)
           - [Production (art. 267 nonies)](#128)
             - [Mesurage des appareils et vaisseaux. (art. 267 nonies)](#129)
-        - [Chapitre premier : Régime économique de l'alcool (art. 272)](#130)
+        - [Chapitre premier : Régime économique de l'alcool (art. 272 à 275 bis)](#130)
         - [Chapitre II : Monopoles fiscaux (art. 281 à 286 E)](#131)
           - [Section unique : Tabacs (art. 281 à 286 E)](#132)
             - [I : Régime économique. (art. 281 à 284)](#133)
@@ -7345,6 +7345,30 @@ départements et territoires d'outre-mer.
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 275 bis
+
+La quantité d'alcool pur contenue dans les produits définis au premier alinéa de l'article 401 du code général des impôts est
+obtenue, éventuellement à l'aide de tables de correction, en multipliant le volume occupé par ces produits à la température
+de 20 degrés Celsius par le titre alcoométrique volumique déterminé au moyen d'un alcoomètre conforme à la réglementation en
+vigueur, au besoin après distillation ou toute opération donnant des résultats analogues. Pour les produits mentionnés au
+deuxième alinéa du même article, le volume et le titre alcoométrique sont obligatoirement constatés à la température de 20
+degrés Celsius.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 401
+
+_Créé par_:
+
+  - Décret n°79-726 du 22 août 1979 - art. 1 (V) JORF 30 août 1979
+
+_Cité par_:
+
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 
 
 #### Chapitre II : Monopoles fiscaux<a id=131></a>
