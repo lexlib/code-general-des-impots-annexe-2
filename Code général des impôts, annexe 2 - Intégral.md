@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-08-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -1153,8 +1153,9 @@ application du deuxième alinéa de l'article 39 C du code général des impôts
 suivants, dans les conditions et limites prévues à ce même alinéa.
 
 Lorsque le bien cesse d'être soumis aux dispositions de ce même article, l'amortissement non déductible en application de ces
-dispositions et qui n'a pu être déduit selon les modalités prévues au premier alinéa est assimilé à un amortissement réputé
-différé en période déficitaire.
+dispositions et qui n'a pu être déduit selon les modalités prévues au premier alinéa est déduit du bénéfice de l'exercice au
+cours duquel intervient cet événement. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement
+opérée, l'excédent d'amortissement est reporté et déduit des bénéfices des exercices suivants.
 
 En cas de cession de ce bien, l'amortissement non déduit en application des dispositions du deuxième alinéa de ce même
 article majore la valeur nette comptable prise en compte pour le calcul de la plus-value ou de la moins-value de cession.
@@ -1165,22 +1166,20 @@ _Cite_:
 
   - CGI 39 C
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-1243 du 29 décembre 1998 - art. 1 () JORF 30 décembre 1998
+  - Décret n°2004-833 du 19 août 2004 - art. 1 () JORF 22 août 2004
 
 _Codifié par_:
 
-  - Décret n°99-382 1999-05-18
-
-_Modifié par_:
-
-  - Décret n°99-382 du 18 mai 1999 - art. 2 () JORF 20 mai 1999
+  - Décret n°2007-484 2007-03-30
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 1999
-  - TXT_ASSOCIE: Instruction 1999-06-17 4D-3-99
+  - HISTO: Edition du 1er janvier 2007
+  - HISTO: Edition du 31 août 2004
+  - PEREMPTION: Loi n°2006-1771 2006-12-30 art. 77 I, II, VII Finances rectificative pour 2006 JORF 31 décembre 2006
+  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 77 (V) JORF 31 décembre 2006
 
 
 ###### Article 31 D
