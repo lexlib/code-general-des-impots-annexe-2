@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-07-21
+Version Consolidée au 1984-07-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -341,13 +341,11 @@ Version Consolidée au 1984-07-21
       - [Section II : Juridiction gracieuse (art. 396 quindecies)](#338)
         - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#339)
     - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#340)
-  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 terdecies)](#341)
+  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 bis)](#341)
     - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#342)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 383 bis C)](#343)
       - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384 ter)](#344)
     - [SURETES ET PRIVILEGES. (art. 396 bis)](#345)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 396 quaterdecies à 396 terdecies)](#346)
-      - [JURIDICTION GRACIEUSE. (art. 396 quaterdecies à 396 terdecies)](#347)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -22128,49 +22126,5 @@ _Codifié par_:
 _Cité par_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
-
-
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=346></a>
-
-### JURIDICTION GRACIEUSE.<a id=347></a>
-
-###### Article 396 quaterdecies
-
-L'avis du comité doit être adressé par le président à l'autorité qui l'a saisi. La décision qui est notifiée au contribuable
-comporte l'indication qu'elle a été prise après avis du comité.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - CGI R247-16
-
-_Abrogé par_:
-
-  - Décret n°84-686 1984-07-24 art. 5, art. 7JORF 24 juillet 1984
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 396 terdecies
-
-Les séances du comité et des sections ne sont pas publiques. Le comité et ses sections délibèrent en dehors de la présence de
-l'autorité qui l'a saisi et du contribuable.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - CGI R247-15
-
-_Abrogé par_:
-
-  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
