@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-05-07
+Version Consolidée au 1988-06-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -333,10 +333,10 @@ Version Consolidée au 1988-05-07
           - [BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE *PARADIS FISCAL* (*). (art. 102 Z)](#330)
         - [TAXE SUR LES ENCOURS DE CREDITS. (art. 163 A à 163 G)](#331)
         - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES. (art. 171 à 171-0 bis G)](#332)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 175 à 242-0 F)](#333)
-        - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 175 à 242-0 F)](#334)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 175 à 238)](#333)
+        - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 175 à 238)](#334)
           - [CHAMP D'APPLICATION (art. 175 à 194)](#335)
-          - [LIQUIDATION DE LA TAXE. (art. 215 à 242-0 F)](#336)
+          - [LIQUIDATION DE LA TAXE. (art. 215 à 238)](#336)
       - [CONTRIBUTIONS INDIRECTES (art. 267 octies à 275 B)](#337)
         - [BOISSONS - VINS ET CIDRES. (art. 267 octies)](#338)
         - [MONOPOLES FISCAUX (art. 275 B)](#339)
@@ -10557,6 +10557,35 @@ _Codifié par_:
 Le crédit de taxe déductible dont le remboursement a été demandé ne peut donner lieu à imputation ; il est annulé lors du
 remboursement.
 
+
+
+###### Article 242-0 F
+
+Les redevables peuvent bénéficier de remboursements mensuels ou ou trimestriels de leur crédit de taxe déductible dans la
+limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et opérations assimilées réalisées au cours
+de la période correspondant à chaque déclaration de chiffre d'affaires.
+
+Les redevables qui ont demandé, au titre de l'un ou des deux premiers mois d'un trimestre civil un tel remboursement,
+peuvent, lors du dépôt de la dernière demande de ce trimestre, renoncer à ce régime et demander un remboursement dans les
+conditions énoncées aux articles 242-0 A à 242-0 D.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 242-0 A, 242-0 B, 242-0 C, 242-0 D
+
+_Modifié par_:
+
+  - Décret n°88-776 du 22 juin 1988 - art. 1 (V) JORF 29 juin 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 242-0 G
@@ -21771,28 +21800,6 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°79-1163 du 29 décembre 1979 - art. 26 (V) JORF 31 DECEMBRE 1979
-
-
-###### Article 242-0 F
-
-Les redevables peuvent bénéficier de remboursements mensuels ou ou trimestriels de leur crédit de taxe déductible dans la
-limite de la taxe sur la valeur ajoutée calculée sur le montant des exportations et opérations assimilées réalisées au cours
-de la période correspondant à chaque déclaration de chiffre d'affaires. L'option pour ce régime est exclusive du bénéfice des
-dispositions des articles 242-0 A à 242-0 D ; elle résulte du dépôt de la première demande de remboursement et s'applique au
-trimestre civil au cours duquel elle a été formulée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 242-0 A
-  - CGIAN2 242-0 B
-  - CGIAN2 242-0 C
-  - CGIAN2 242-0 D
-
-_Modifié par_:
-
-  - Décret n°82-633 du 21 juillet 1982 - art. 1 (V) JORF 23 JUILLET 1982
 
 
 ### CONTRIBUTIONS INDIRECTES<a id=337></a>
