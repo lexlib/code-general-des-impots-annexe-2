@@ -7,7 +7,7 @@ valeur d'acquisition des titres concernés retenu pour l'application du 2 du I d
 
 L'imputation sur l'impôt sur le revenu établi en France est effectuée par voie de dégrèvement sur justification du paiement
 de l'impôt acquitté hors de France par le contribuable et des éléments relatifs à sa liquidation. Cet impôt est converti en
-francs français sur la base du taux de change en vigueur à la date de paiement de cet impôt.
+euros sur la base du taux de change en vigueur à la date de paiement de cet impôt.
 
 Lorsque la cession réalisée hors de France, qui constitue le fait générateur de l'expiration du sursis de paiement prévu au
 II de l'article 167 bis du code général des impôts, est soumise à l'impôt en France en application des dispositions de
@@ -20,9 +20,19 @@ _Cite_:
 
   - CGI 167 bis, 244 bis B
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-590 du 6 juillet 1999 - art. 1 () JORF 13 juillet 1999
+  - Décret n°2001-95 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-95 du 2 février 2001 - art. 7 (V)
+  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 31 mars 2002
+
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
 
 _Cité par_:
 
@@ -30,6 +40,6 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 octodecies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 septdecies (M)
 
-**Liens**:
+_Abrogé par_:
 
-  - HISTO: Edition du 31 mars 2000
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
