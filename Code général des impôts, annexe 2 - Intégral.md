@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-03-25
+Version Consolidée au 1982-03-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -60,8 +60,8 @@ Version Consolidée au 1982-03-25
             - [IV : Agréments. (art. 130 à 134)](#57)
           - [Section III : Imputation de l'impôt sur le revenu (retenue à la source) sur le montant de l'impôt sur les sociétés (art. 135 à 139)](#58)
           - [Section IV : Lieu d'imposition (art. 140 bis)](#59)
-        - [Chapitre II bis : Taxe d'apprentissage (art. 140 B à 140 M)](#60)
-          - [I : Déclaration des employeurs (art. 140 B)](#61)
+        - [Chapitre II bis : Taxe d'apprentissage (art. 140 A à 140 M)](#60)
+          - [I : Déclaration des employeurs (art. 140 A à 140 B)](#61)
           - [II : Demande d'exonération. (art. 140 I)](#62)
           - [III : Calcul des exonérations. (art. 140 J à 140 K)](#63)
           - [IV : Régimes spéciaux. (art. 140 M)](#64)
@@ -247,7 +247,7 @@ Version Consolidée au 1982-03-25
           - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 126 à 134 bis)](#244)
         - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES (art. 102 Z)](#245)
           - [BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE *PARADIS FISCAL* (*). (art. 102 Z)](#246)
-        - [TAXE D'APPRENTISSAGE. (art. 140 A à 140 N)](#247)
+        - [TAXE D'APPRENTISSAGE. (art. 140 C à 140 N)](#247)
         - [TAXE SUR LES SALAIRES (art. 145 bis à 145 ter)](#248)
           - [OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES. (art. 145 bis à 145 ter)](#249)
         - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE. (art. 163 quindecies)](#250)
@@ -4205,6 +4205,37 @@ _Codifié par_:
 #### Chapitre II bis : Taxe d'apprentissage<a id=60></a>
 
 ##### I : Déclaration des employeurs<a id=61></a>
+
+###### Article 140 A
+
+La déclaration prévue à l'article 229 du code général des impôts doit indiquer, outre le nom et l'adresse du déclarant :
+
+1° Le montant global, arrondi à la dizaine de francs inférieure, des salaires déterminés conformément à l'article 225 du code
+général des impôts, qui ont été versés par l'employeur ;
+
+2. Le montant brut de la taxe dont l'employeur est redevable ;
+
+3. Le montant des dépenses réellement exposées en vue de favoriser les premières formations technologiques et
+professionnelles qui peuvent donner lieu à exonération ;
+
+4. Le montant du versement à effectuer, le cas échéant, à la caisse du receveur des impôts.
+
+La déclaration doit être rédigée sur un imprimé fourni par l'administration.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 225, 229
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
+
+_Créé par_:
+
+  - Ordonnance 82-283 1982-03-26 art. 2 JORF 30 mars 1982
+
 
 ###### Article 140 B
 
@@ -13861,35 +13892,6 @@ _Cité par_:
 
 
 #### TAXE D'APPRENTISSAGE.<a id=247></a>
-
-###### Article 140 A
-
-La déclaration prévue à l'article 229 du code général des impôts doit indiquer, outre le nom et l'adresse du déclarant
-[*mentions obligatoires*] :
-
-1o Le montant global, arrondi à la dizaine de francs inférieure, des salaires, au sens des articles 231 et suivants du code
-général des impôts, qui ont été versés par l'employeur;
-
-2o Le montant brut de la taxe dont l'employeur est redevable;
-
-3o Le montant des dépenses réellement exposées en vue de favoriser les premières formations technologiques et
-professionnelles qui peuvent donner lieu à exonération;
-
-4o Le montant du versement à effectuer, le cas échéant, à la caisse du receveur des impôts.
-
-La déclaration doit être rédigée sur un imprimé fourni par l'administration.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 229
-  - CGI 231 ET S.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 140 C
 
