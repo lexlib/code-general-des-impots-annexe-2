@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1991-04-13
+Version Consolidée au 1991-04-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -20486,7 +20486,7 @@ _Cité par_:
 La commission émet son avis dans un délai de trois mois à compter de la date de délivrance du récépissé mentionné à l'article
 371 F ci-dessus.
 
-Le directeur régional se prononce dans le délai d'un mois à compter de la notification de l'avis de la commission ou, à
+Le directeur régional se prononce dans le délai de quatre mois à compter de la notification de l'avis de la commission ou, à
 défaut, de l'expiration du délai imparti à la commission pour émettre son avis.
 
 L'absence de décision dans le délai fixé vaut acceptation de la demande. Le refus d'agrément doit être motivé.
@@ -20497,9 +20497,13 @@ _Cite_:
 
   - CGIAN2 371 F
 
+_Modifié par_:
+
+  - Décret n°91-376 du 16 avril 1991 - art. 3 (V) JORF 20 avril 1991
+
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 371 I
@@ -20546,7 +20550,7 @@ _Cité par_:
 ###### Article 371 J
 
 L'agrément est délivré pour une période de trois ans. Il peut être renouvelé selon la procédure prévue aux articles 371 F à
-371 H sur demande présentée au plus tôt six mois avant l'expiration de l'agrément en cours [*délai*].
+371 H sur demande présentée au plus tard neuf mois avant l'expiration de l'agrément en cours.
 
 Le renouvellement de l'agrément intervient, à l'exception du premier renouvellement, tous les six ans.
 
@@ -20557,13 +20561,15 @@ améliorer la gestion des entreprises adhérentes et s'assurer de la sincérité
 
 _Cite_:
 
-  - CGIAN2 371 F
-  - CGIAN2 371 G
-  - CGIAN2 371 H
+  - CGIAN2 371 F, 371 G, 371 H
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 17 (V) JORF 28 décembre 1989, incorporé à l'annexe 2 le 14 juillet 1989
+  - Décret n°91-376 du 16 avril 1991 - art. 1 (V) JORF 20 avril 1991
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 371 K
@@ -20994,11 +21000,10 @@ _Cité par_:
 
 ###### Article 371 T
 
-Le directeur régional [*des impôts*] se prononce dans le délai de trois mois suivant la date de délivrance du récépissé prévu
-à l'article 371 R.
+Le directeur régional se prononce dans le délai de quatre mois suivant la date de délivrance du récépissé prévu à l'article
+371 R.
 
-L'absence de décision dans le délai fixé vaut acceptation de la demande [*tacite*]. Le refus d'agrément doit être motivé
-[*motivation obligatoire*].
+L'absence de décision dans le délai fixé vaut acceptation de la demande. Le refus d'agrément doit être motivé.
 
 **Liens relatifs à cet article**
 
@@ -21006,15 +21011,19 @@ _Cite_:
 
   - CGIAN2 371 R
 
+_Modifié par_:
+
+  - Décret n°91-376 du 16 avril 1991 - art. 4 (V) JORF 20 avril 1991
+
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 371 U
 
 L'agrément est délivré pour une période de trois ans. Il peut être renouvelé selon la procédure prévue aux articles 371 R à
-371 T sur demande présentée au plus tôt six mois avant l'expiration de l'agrément en cours [*délai*].
+371 T sur demande présentée au plus tard neuf mois avant l'expiration de l'agrément en cours.
 
 Le renouvellement de l'agrément intervient, à l'exception du premier renouvellement, tous les six ans.
 
@@ -21025,17 +21034,15 @@ pour améliorer la connaissance des revenus des adhérents.
 
 _Cite_:
 
-  - CGIAN2 371 R
-  - CGIAN2 371 S
-  - CGIAN2 371 T
+  - CGIAN2 371 R à 371 T
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 17 (V) JORF 28 décembre 1988 incorporé à l'annexe 2 le 14 juillet 1989
+  - Décret n°91-376 du 16 avril 1991 - art. 2 (V) JORF 20 avril 1991
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°89-801 1989-10-27
+  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 371 V
