@@ -1,11 +1,11 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-12-29
+Version Consolidée au 1985-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 4 à 14 à 171 Z)](#3)
         - [Chapitre premier : Impôt sur le revenu (art. 4 à 14 à 95 I)](#4)
-          - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 4 à 14 à 74 P)](#5)
+          - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 4 à 14 à 74 R)](#5)
             - [I bis : Bénéfices industriels et commerciaux (art. 4 à 14 à 38 bis)](#6)
               - [1 : Imposition de certains profits immobiliers (art. 3)](#7)
               - [4 bis : Provisions pour risques afférents à certaines opérations d'assurance et de réassurance (art. 16 C)](#8)
@@ -32,9 +32,9 @@ Version Consolidée au 1984-12-29
               - [4 : Emission d'obligations en France par les organismes étrangers ou internationaux. Régime spécial des titres émis avant le 1er janvier 1987 (art. 51 à 53)](#29)
               - [5 : Sociétés mères et filiales (art. 54 à 56)](#30)
               - [6 : Contrôle des revenus mobiliers. Obligations des collectivités émettrices et des intermédiaires (art. 57)](#31)
-            - [V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 74 A à 74 P)](#32)
+            - [V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 74 A à 74 R)](#32)
               - [2 : Biens et droits mobiliers ou immobiliers (art. 74 A à 74 S)](#33)
-              - [Déclaration de la plus-value. (art. 74 P)](#34)
+              - [Déclaration de la plus-value. (art. 74 P à 74 R)](#34)
           - [Section II : Revenu global (art. 75-0 E à 91 quinquies)](#35)
             - [0I bis : Détaxation du revenu investi en actions. (art. 75-0 E à 75-0 P)](#36)
               - [*ACTIONS COTEES OU ASSIMILEES DE SOCIETES FRANCAISES, CERTIFICATS PETROLIERS COTES, DROITS OU BONS DE SOUSCRIPTION OU D'ATTRIBUTION ATTACHES A CES TITRES, ACTIONS DE SICAV* (art. 75-0 O)](#37)
@@ -249,18 +249,18 @@ Version Consolidée au 1984-12-29
       - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AA à 371 AH)](#246)
       - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#247)
       - [Chapitre III : Compétence des fonctionnaires de la direction générale des impôts. (art. 376)](#248)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 16 A à 371 W)](#249)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 16 A à 371 B)](#249)
     - [IMPOTS D'ETAT (art. 16 A à 310 C)](#250)
       - [IMPOTS DIRECTS (art. 16 A à 140)](#251)
         - [IMPOT SUR LE REVENU (art. 16 A à 95 J)](#252)
-          - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 16 A à 74 R)](#253)
+          - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 16 A à 60)](#253)
           - [REVENU GLOBAL. (art. 75-0 H à 91 bis)](#254)
           - [CALCUL DE L'IMPOT. (art. 93 à 95 J)](#255)
         - [IMPOTS SUR LE REVENU (art. 74 B bis)](#256)
           - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 74 B bis)](#257)
         - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 96 à 127)](#258)
           - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 96 à 102 RB)](#259)
-          - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 110 à 127)](#260)
+          - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 127)](#260)
         - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES (art. 140)](#261)
           - [IMPUTATION DE L'IMPOT SUR LE REVENU *IR* (RETENUE A LA SOURCE) SUR LE MONTANT DE L'IMPOT SUR LES SOCIETES *IS*. (art. 140)](#262)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 84 à 171-0 bis G)](#263)
@@ -308,46 +308,45 @@ Version Consolidée au 1984-12-29
       - [DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*. (art. 327 AA à 327 Z)](#305)
     - [IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES. (art. 335 à 368)](#306)
       - [TAXES PARAFISCALES. (art. 347 à 368)](#307)
-    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES* (art. 368 A à 371 W)](#308)
+    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES* (art. 368 A à 371 B)](#308)
       - [OBLIGATIONS DES CONTRIBUABLES. (art. 368 A à 368 E)](#309)
       - [ARTISANS *DEFINITION*. (art. 369 à 371)](#310)
       - [ARTISANS. (art. 370)](#311)
       - [CENTRES DE GESTION AGREES. (art. 371 B)](#312)
-      - [ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES. (art. 371 Q à 371 W)](#313)
-  - [Livre II : Recouvrement de l'impôt (art. 376 bis à 410)](#314)
-    - [Chapitre premier : Paiement de l'impôt (art. 376 bis à 384 sexies)](#315)
-      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 382)](#316)
-        - [0I : Paiement mensuel de l'impôt sur le revenu. (art. 376 bis)](#317)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 quater à 376 ter)](#318)
-        - [II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France. (art. 378)](#319)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#320)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter à 383 quater)](#321)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#322)
-        - [II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité. (art. 383 quater)](#323)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384-00 A à 384 sexies)](#324)
-        - [00I : Droit forfaitaire de délivrance d'ampliation. (art. 384-00 A)](#325)
-        - [I : Dation en paiement (art. 384 A)](#326)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#327)
-        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 E)](#328)
-        - [I bis : Versement pour dépassement du plafond légal de densité. (art. 384 C à 384 F)](#329)
-        - [II : Participation en cas de dépassement du coefficient d'occupation du sol. (art. 384 bis à 384 sexies)](#330)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#331)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#332)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu. (art. 384 septies A)](#333)
-    - [Chapitre II : Procédures (art. 385 à 386)](#334)
-      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#335)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#336)
-      - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#337)
-        - [Restitution du droit d'apport. (art. 396 ter)](#338)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#339)
-      - [Section II : Juridiction gracieuse (art. 396 quindecies)](#340)
-        - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#341)
-    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#342)
-  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 bis)](#343)
-    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#344)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 383 bis C)](#345)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384 ter)](#346)
-    - [SURETES ET PRIVILEGES. (art. 396 bis)](#347)
+  - [Livre II : Recouvrement de l'impôt (art. 376 bis à 410)](#313)
+    - [Chapitre premier : Paiement de l'impôt (art. 376 bis à 384 sexies)](#314)
+      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 382)](#315)
+        - [0I : Paiement mensuel de l'impôt sur le revenu. (art. 376 bis)](#316)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 quater à 376 ter)](#317)
+        - [II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France. (art. 378)](#318)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#319)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter à 383 quater)](#320)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#321)
+        - [II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité. (art. 383 quater)](#322)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384-00 A à 384 sexies)](#323)
+        - [00I : Droit forfaitaire de délivrance d'ampliation. (art. 384-00 A)](#324)
+        - [I : Dation en paiement (art. 384 A)](#325)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#326)
+        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 E)](#327)
+        - [I bis : Versement pour dépassement du plafond légal de densité. (art. 384 C à 384 F)](#328)
+        - [II : Participation en cas de dépassement du coefficient d'occupation du sol. (art. 384 bis à 384 sexies)](#329)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#330)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#331)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu. (art. 384 septies A)](#332)
+    - [Chapitre II : Procédures (art. 385 à 386)](#333)
+      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#334)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#335)
+      - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#336)
+        - [Restitution du droit d'apport. (art. 396 ter)](#337)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#338)
+      - [Section II : Juridiction gracieuse (art. 396 quindecies)](#339)
+        - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#340)
+    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#341)
+  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 bis)](#342)
+    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#343)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 383 bis C)](#344)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384 ter)](#345)
+    - [SURETES ET PRIVILEGES. (art. 396 bis)](#346)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -1817,6 +1816,28 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°81-866 1981-09-15
+
+
+###### Article 74 R
+
+Le bénéfice du paiement fractionné est subordonné à une demande expresse du contribuable.
+
+La mise en recouvrement de l'impôt est alors fractionnée par parts égales sur les cinq années suivant celle de la réalisation
+de la plus-value. Elle donne lieu au paiement de l'intérêt, au taux légal, recouvré dans les mêmes conditions et sous les
+mêmes garanties et sanctions que l'impôt en principal.
+
+En cas de transfert du domicile à l'étranger, de redressement judiciaire, ou de non-paiement de l'une des fractions de
+l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible immédiatement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Conseil d'Etat 1984-05-23 n°50773) M(Loi 85-98 1985-01-25 art. 233 JORF 26 janvier 1985 en vigueur le 1er janvier 1985
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
 
 
 ##### Section II : Revenu global<a id=35></a>
@@ -4036,6 +4057,43 @@ _Abrogé par_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 110
+
+1. Le résultat d'ensemble défini à l'article 108 est, selon le cas, imposé ou reporté dans les conditions prévues
+respectivement à l'article 219-I ou à l'article 209-I, troisième alinéa, du code général des impôts.
+
+2. Par dérogation à l'article 108-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
+n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
+alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
+le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
+normal prévu au deuxième alinéa de l'article 219-I précité.
+
+3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
+d'ensemble taxée dans les conditions prévues aux articles 103 à 134.
+
+4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 209 AL. 2
+  - CGI 209 quater
+  - CGI 219 I AL. 2
+  - CGI 39 quindecies I 2, II
+  - CGIAN2 103 A CGIAN2 134
+  - CGIAN2 108 2 b
+
+_Modifié par_:
+
+  - Loi n°84-1208 du 29 décembre 1984 - art. 15 (P) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+
+_Abrogé par_:
+
+  - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
+
+
 ###### Article 111
 
 1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, à raison de
@@ -4351,6 +4409,43 @@ _Abrogé par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 120
+
+1. Le résultat d'ensemble défini à l'article 116 est, selon le cas, imposé ou reporté dans les conditions prévues
+respectivement à l'article 219-I ou à l'article 209-I, troisième alinéa, du code général des impôts.
+
+2. Par dérogation à l'article 116-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
+n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
+alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
+le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
+normal prévu au deuxième alinéa de l'article 219-I précité.
+
+3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
+d'ensemble, rectifiée de manière à éliminer les plus-values ou moins-values à long terme apparues dans les exploitations
+indirectes.
+
+4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 209 I AL. 2
+  - CGI 209 quater
+  - CGI 219 I AL. 2
+  - CGI 39 quindecies I 2, II
+  - CGIAN2 116 2 b
+
+_Modifié par_:
+
+  - Loi n°84-1208 du 29 décembre 1984 - art. 15 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 121
@@ -14283,6 +14378,68 @@ _Cite_:
   - CGIAN2 371 D
 
 
+###### Article 371 Q
+
+Les statuts de l'association précisent les conditions de participation à sa gestion des personnes ou organismes fondateurs. 
+
+Les statuts des associations doivent contenir les clauses suivantes : 
+
+1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
+développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales ; 
+
+2° L'association élabore pour ceux de ses membres adhérents qui relèvent d'un régime réel d'imposition les déclarations
+relatives à leur activité professionnelle destinées à l'administration fiscale, lorsque ces membres en font la demande. 
+
+Toutefois, ces déclarations ne peuvent porter que sur une période au cours de laquelle les intéressés étaient membres de
+l'association ; 
+
+3° L'adhésion à l'association implique : 
+
+a.L'engagement par les membres soumis à un régime réel d'imposition de suivre les recommandations qui leur ont été adressées,
+conformément aux articles 371 X à 371 Z, par les ordres et organisations dont ils relèvent, en vue d'améliorer la
+connaissance des revenus de leurs ressortissants ; 
+
+b.L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
+celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ; 
+
+c.L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, mais qui remplissent les
+conditions pour prétendre à l'abattement prévu au 4 bis de l'article 158 du code général des impôts, de communiquer à
+l'association, préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant
+du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ; 
+
+d.L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
+technique à l'association les renseignements ou documents mentionnés au présent article ; 
+
+e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
+devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°84-1208 1984-12-29 art. 89 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+_Cité par_:
+
+  - Arrêté du 25 novembre 2010 - art. (Ab)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexies (V)
+
+_Cite_:
+
+  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 X (V)
+  - Code général des impôts, CGI. - art. 158
+  - Code général des impôts, CGI. - art. 97
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1985
+
+
 ###### Article 371 QA
 
 Les statuts doivent comporter des clauses selon lesquelles les associations s'engagent :
@@ -14419,6 +14576,46 @@ vertu des statuts ou du règlement intérieur.
 _Cite_:
 
   - CGIAN2 371 O, 371 N, 371 D
+
+
+###### Article 371 W
+
+Pour bénéficier au titre d'une année civile donnée de l'abattement prévu à l'article 158-4 bis du code général des impôts,
+les membres des professions libérales et les titulaires de charges et offices doivent avoir été adhérents d'une association
+agréée pendant toute la durée de l'année ou période d'imposition considérée.
+
+Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé :
+
+- en cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'année ou de la période d'imposition commencée
+depuis moins de trois mois à la date de l'agrément;
+
+- en cas de première adhésion à une association agréée, pour l'imposition du bénéfice de l'année ou de la période
+d'imposition commencée depuis moins de trois mois à la date de l'adhésion;
+
+- en cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de la période d'imposition en cours à la date du
+retrait.
+
+Les déclarations de résultats des membres adhérents d'une association agréée susceptibles de bénéficier de l'abattement
+doivent être accompagnées d'une attestation fournie par l'association indiquant la date d'adhésion et, le cas échéant, la
+date à laquelle est intervenue la perte de la qualité d'adhérent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 158 4 bis
+
+_Modifié par_:
+
+  - Loi n°84-1208 1984-12-29 art. 89 finances pour 1985 JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z quaterdecies (V)
 
 
 ###### Article 371 X
@@ -15090,31 +15287,6 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 74 R
-
-Le bénéfice du paiement fractionné est subordonné à une demande expresse du contribuable, jointe aux déclarations mentionnées
-à l'article 74 O dans le délai imparti pour la production de celles-ci.     La mise en recouvrement de l'impôt est alors
-fractionnée par parts égales sur les cinq années suivant celle de la réalisation de la plus-value. Elle donne lieu au
-paiement de l'intérêt, au taux légal, recouvré dans les mêmes conditions et sous les mêmes garanties et sanctions que l'impôt
-en principal.
-
-L'impôt complémentaire résultant d'une insuffisance quelconque constatée dans la déclaration des revenus ou de la plus-value
-n'est pas susceptible de bénéficier de ce paiement fractionné.
-
-En cas de transfert du domicile à l'étranger, de règlement judiciaire, de liquidation de biens ou de non-paiement de l'une
-des fractions de l'impôt, le solde restant dû, augmenté de l'intérêt couru, est exigible immédiatement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 74 O
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ##### REVENU GLOBAL.<a id=254></a>
 
 ###### Article 75-0 H
@@ -15653,72 +15825,6 @@ _Créé par_:
 
 
 ##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.<a id=260></a>
-
-###### Article 110
-
-1. Le résultat d'ensemble défini à l'article 108 est, selon le cas, imposé ou reporté dans les conditions prévues
-respectivement à l'article 219-I ou à l'article 209-I, deuxième alinéa, du code général des impôts.
-
-2. Par dérogation à l'article 108-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
-n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
-alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
-le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
-normal prévu au deuxième alinéa de l'article 219-I précité.
-
-3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
-d'ensemble taxée dans les conditions prévues aux articles 103 à 134.
-
-4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 209 AL. 2
-  - CGI 209 quater
-  - CGI 219 I AL. 2
-  - CGI 39 quindecies I 2, II
-  - CGIAN2 103 A CGIAN2 134
-  - CGIAN2 108 2 b
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 120
-
-1. Le résultat d'ensemble défini à l'article 116 est, selon le cas, imposé ou reporté dans les conditions prévues
-respectivement à l'article 219-I ou à l'article 209-I, deuxième alinéa, du code général des impôts.
-
-2. Par dérogation à l'article 116-2-b, la plus-value nette à long terme d'ensemble peut, dans la mesure où la société agréée
-n'entend pas l'utiliser pour compenser le déficit, être imposée pour une part de son montant au taux normal prévu au deuxième
-alinéa de l'article 219-I du code général des impôts. Cette part est déterminée en appliquant au montant de cette plus-value
-le rapport existant entre les taux réduits d'imposition prévus aux I et II de l'article 39 quindecies du même code et le taux
-normal prévu au deuxième alinéa de l'article 219-I précité.
-
-3. Les dispositions de l'article 209 quater du code général des impôts sont applicables à la plus-value nette à long terme
-d'ensemble, rectifiée de manière à éliminer les plus-values ou moins-values à long terme apparues dans les exploitations
-indirectes.
-
-4. La moins-value nette à long terme d'ensemble est soumise au régime prévu à l'article 39 quindecies-I-2 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 209 I AL. 2
-  - CGI 209 quater
-  - CGI 219 I AL. 2
-  - CGI 39 quindecies I 2, II
-  - CGIAN2 116 2 b
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 127
 
@@ -20863,112 +20969,13 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.<a id=313></a>
+# Livre II : Recouvrement de l'impôt<a id=313></a>
 
-###### Article 371 Q
+## Chapitre premier : Paiement de l'impôt<a id=314></a>
 
-Les statuts de l'association précisent les conditions de participation à sa gestion des personnes ou organismes fondateurs.
+### Section I : Impôts directs et taxes assimilées<a id=315></a>
 
-Les statuts des associations doivent contenir les clauses suivantes :
-
-1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
-développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales ;
-
-2° L'association élabore pour ceux de ses membres adhérents qui relèvent d'un régime réel d'imposition les déclarations
-relatives à leur activité professionnelle destinées à l'administration fiscale, lorsque ces membres en font la demande.
-
-Toutefois, ces déclarations ne peuvent porter que sur une période au cours de laquelle les intéressés étaient membres de
-l'association ;
-
-3° L'adhésion à l'association implique :
-
-a. L'engagement par les membres soumis à un régime réel d'imposition de suivre les recommandations qui leur ont été
-adressées, conformément aux articles 371 X à 371 Z, par les ordres et organisations dont ils relèvent, en vue d'améliorer la
-connaissance des revenus de leurs ressortissants ;
-
-b. L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
-celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ;
-
-c. L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, mais qui remplissent les
-conditions pour prétendre à l'abattement prévu à l'article 158-4 ter du code général des impôts, de communiquer à
-l'association, préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant
-du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ;
-
-d. L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
-technique à l'association les renseignements ou documents mentionnés au présent article ;
-
-e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
-devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 158 4 ter
-  - CGI 97
-  - CGIAN2 371 X
-  - CGIAN2 371 Y
-  - CGIAN2 371 Z
-
-_Modifié par_:
-
-  - Décret n°77-1519 du 31 décembre 1977 - art. 7 (Ab) JORF 4 JANVIER 1978
-  - Décret n°77-1519 du 31 décembre 1977 - art. 8 (Ab) JORF 4 JANVIER 1978
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
-
-_Cité par_:
-
-  - Arrêté du 25 novembre 2010 - art. (Ab)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexies (V)
-
-
-###### Article 371 W
-
-Pour bénéficier au titre d'une année civile donnée de l'abattement prévu à l'article 158-4 ter du code général des impôts,
-les membres des professions libérales et les titulaires de charges et offices doivent avoir été adhérents d'une association
-agréée pendant toute la durée de l'année ou période d'imposition considérée.
-
-Si cette condition n'est pas remplie, le bénéfice de l'abattement est toutefois accordé :
-
-- en cas d'agrément postérieur à l'adhésion, pour l'imposition du bénéfice de l'année ou de la période d'imposition commencée
-depuis moins de trois mois à la date de l'agrément;
-
-- en cas de première adhésion à une association agréée, pour l'imposition du bénéfice de l'année ou de la période
-d'imposition commencée depuis moins de trois mois à la date de l'adhésion;
-
-- en cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de la période d'imposition en cours à la date du
-retrait.
-
-Les déclarations de résultats des membres adhérents d'une association agréée susceptibles de bénéficier de l'abattement
-doivent être accompagnées d'une attestation fournie par l'association indiquant la date d'adhésion et, le cas échéant, la
-date à laquelle est intervenue la perte de la qualité d'adhérent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 158 4 ter
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z quaterdecies (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-# Livre II : Recouvrement de l'impôt<a id=314></a>
-
-## Chapitre premier : Paiement de l'impôt<a id=315></a>
-
-### Section I : Impôts directs et taxes assimilées<a id=316></a>
-
-#### 0I : Paiement mensuel de l'impôt sur le revenu.<a id=317></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu.<a id=316></a>
 
 ###### Article 376 bis
 
@@ -20987,7 +20994,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=318></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=317></a>
 
 ###### Article 376 quater
 
@@ -21056,7 +21063,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France.<a id=319></a>
+#### II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France.<a id=318></a>
 
 ###### Article 378
 
@@ -21089,7 +21096,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=320></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=319></a>
 
 ###### Article 379
 
@@ -21196,9 +21203,9 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=321></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=320></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=322></a>
+#### I : Taxe sur la valeur ajoutée<a id=321></a>
 
 ###### Article 383 ter
 
@@ -21225,7 +21232,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.<a id=323></a>
+#### II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.<a id=322></a>
 
 ###### Article 383 quater
 
@@ -21253,9 +21260,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=324></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=323></a>
 
-#### 00I : Droit forfaitaire de délivrance d'ampliation.<a id=325></a>
+#### 00I : Droit forfaitaire de délivrance d'ampliation.<a id=324></a>
 
 ###### Article 384-00 A
 
@@ -21278,9 +21285,9 @@ _Codifié par_:
   - Décret n°2000-477 2000-06-02
 
 
-#### I : Dation en paiement<a id=326></a>
+#### I : Dation en paiement<a id=325></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=327></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=326></a>
 
 ###### Article 384 A
 
@@ -21327,7 +21334,7 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=328></a>
+#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=327></a>
 
 ###### Article 384 E
 
@@ -21359,7 +21366,7 @@ _Cite_:
   - Code de l'urbanisme - art. L333-12
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité.<a id=329></a>
+#### I bis : Versement pour dépassement du plafond légal de densité.<a id=328></a>
 
 ###### Article 384 C
 
@@ -21446,7 +21453,7 @@ _Modifié par_:
   - Décret n°84-669 1984-07-17 ART. 8 JORF 21 JUILLET 1984
 
 
-#### II : Participation en cas de dépassement du coefficient d'occupation du sol.<a id=330></a>
+#### II : Participation en cas de dépassement du coefficient d'occupation du sol.<a id=329></a>
 
 ###### Article 384 bis
 
@@ -21566,9 +21573,9 @@ _Cite_:
   - Code de l'urbanisme R424-1
 
 
-## Chapitre I bis : Pénalités<a id=331></a>
+## Chapitre I bis : Pénalités<a id=330></a>
 
-### Section I : Commission des infractions fiscales<a id=332></a>
+### Section I : Commission des infractions fiscales<a id=331></a>
 
 ###### Article 384 septies-0 A
 
@@ -21650,7 +21657,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu.<a id=333></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu.<a id=332></a>
 
 ###### Article 384 septies A
 
@@ -21673,9 +21680,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Chapitre II : Procédures<a id=334></a>
+## Chapitre II : Procédures<a id=333></a>
 
-### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=335></a>
+### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=334></a>
 
 ###### Article 385
 
@@ -21701,11 +21708,11 @@ _Abrogé par_:
   - Décret n°2011-1302 du 14 octobre 2011 - art. 4
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=336></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=335></a>
 
-### Section I : Dispositions particulières aux droits d'enregistrement<a id=337></a>
+### Section I : Dispositions particulières aux droits d'enregistrement<a id=336></a>
 
-#### Restitution du droit d'apport.<a id=338></a>
+#### Restitution du droit d'apport.<a id=337></a>
 
 ###### Article 396 ter
 
@@ -21737,7 +21744,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=339></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=338></a>
 
 ###### Article 396 duodecies
 
@@ -21862,9 +21869,9 @@ prépondérante.
 
 
 
-### Section II : Juridiction gracieuse<a id=340></a>
+### Section II : Juridiction gracieuse<a id=339></a>
 
-#### Comité du contentieux fiscal, douanier et des changes.<a id=341></a>
+#### Comité du contentieux fiscal, douanier et des changes.<a id=340></a>
 
 ###### Article 396 quindecies
 
@@ -21889,7 +21896,7 @@ _Codifié par_:
   - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
 
 
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.<a id=342></a>
+## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.<a id=341></a>
 
 ###### Article 408
 
@@ -21956,11 +21963,11 @@ contrôleur.
 
 
 
-# RECOUVREMENT DE L'IMPOT<a id=343></a>
+# RECOUVREMENT DE L'IMPOT<a id=342></a>
 
-## PAIEMENT DE L'IMPOT<a id=344></a>
+## PAIEMENT DE L'IMPOT<a id=343></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=345></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=344></a>
 
 ###### Article 383
 
@@ -22074,7 +22081,7 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=346></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=345></a>
 
 ###### Article 384 B
 
@@ -22118,7 +22125,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## SURETES ET PRIVILEGES.<a id=347></a>
+## SURETES ET PRIVILEGES.<a id=346></a>
 
 ###### Article 396 bis
 
