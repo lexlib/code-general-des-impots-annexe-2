@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1981-03-21
+Version Consolidée au 1981-03-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -16384,8 +16384,8 @@ _Nouveaux textes_:
 
 ###### Article 327 H
 
-Pour le calcul de la taxe d'habitation, la valeur locative des immeubles occupés à titre d'habitation principale est diminuée
-d'abattements obligatoires à la base et pour charges de famille.
+I. Pour le calcul de la taxe d'habitation, la valeur locative des immeubles occupés à titre d'habitation principale est
+diminuée d'abattements obligatoires à la base et pour charges de famille.
 
 L'abattement à la base est fixé à 40 % de la valeur locative moyenne des locaux d'habitation de la commune. Ce taux est porté
 à 50 % dans le cas où le conseil municipal a relevé à 50 % le seuil d'exonération prévu à l'article 327 I.
@@ -16393,15 +16393,27 @@ L'abattement à la base est fixé à 40 % de la valeur locative moyenne des loca
 L'abattement pour charges de famille est égal, pour chaque personne à charge, à 5 % de la valeur locative moyenne des locaux
 d'habitation de la commune. Le conseil municipal peut doubler ce taux.
 
+II. Les dispositions de l'article 1411-II-5 du code général des impôts relatif à l'abattement spécial à la taxe d'habitation
+ne sont pas applicables.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI 1411 II 5
   - CGIAN2 327 I
 
-**Liens**:
+_Nouveaux textes_:
 
-  - HISTO: EDITION 1979-07-01
+  - CGIAN2 331
+
+_Modifié par_:
+
+  - Décret n°81-263 du 18 mars 1981 - art. 6 (V) JORF 22 MARS 1981
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 327 I
@@ -16702,6 +16714,45 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 327 VA
+
+En 1981, les taux des taxes foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit des
+départements, des communes et de leurs groupements dotés d'une fiscalité propre sont fixés de façon que la répartition
+constatée en 1980 du produit de ces quatre taxes ne soit affectée que par les variations de la matière imposable. Toutefois,
+pour la taxe professionnelle, seules sont prises en compte les variations résultant des créations et fermetures
+d'établissements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°81-263 du 18 mars 1981 - art. 3 (V) JORF 22 MARS 1981
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+###### Article 327 VB
+
+Pour l'application de l'article 1636 B septies-II du Code général des impôts relatif au plafonnement des taux communaux
+d'impositions, les années 1981, 1982, 1987 et 1991 sont substituées respectivement aux années 1980, 1981, 1986 et 1990.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1636 B septies II
+
+_Créé par_:
+
+  - Décret n°81-263 du 18 mars 1981 - art. 2 (V) JORF 22 MARS 1981
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 327 W
