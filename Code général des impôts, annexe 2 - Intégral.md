@@ -1,29 +1,72 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1977-07-01
+Version Consolidée au 1977-12-31
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 111 à 125)](#1)
-    - [Première partie : Impôts d'Etat (art. 111 à 125)](#2)
-      - [Titre premier : Impôts directs et taxes assimilées (art. 111 à 125)](#3)
-        - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 111 à 125)](#4)
-          - [Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger (art. 111 à 125)](#5)
-            - [I : Régime du bénéfice mondial. (art. 111)](#6)
-            - [III : Dispositions communes. (art. 125)](#7)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 91 bis)](#8)
-    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#9)
-      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#10)
-        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#11)
-          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#12)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 125)](#1)
+    - [Première partie : Impôts d'Etat (art. 27 à 125)](#2)
+      - [Titre premier : Impôts directs et taxes assimilées (art. 27 à 125)](#3)
+        - [Chapitre premier : Impôt sur le revenu (art. 27)](#4)
+          - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 27)](#5)
+            - [I bis : Bénéfices industriels et commerciaux (art. 27)](#6)
+              - [7 : Plus-values provenant de cessions d'éléments de l'actif immobilisé (art. 27)](#7)
+        - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 111 à 125)](#8)
+          - [Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger (art. 111 à 125)](#9)
+            - [I : Régime du bénéfice mondial. (art. 111)](#10)
+            - [III : Dispositions communes. (art. 125)](#11)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 91 bis)](#12)
+    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#13)
+      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#14)
+        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#15)
+          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#16)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
 
 ### Titre premier : Impôts directs et taxes assimilées<a id=3></a>
 
-#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales<a id=4></a>
+#### Chapitre premier : Impôt sur le revenu<a id=4></a>
 
-##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger<a id=5></a>
+##### Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus<a id=5></a>
 
-##### I : Régime du bénéfice mondial.<a id=6></a>
+##### I bis : Bénéfices industriels et commerciaux<a id=6></a>
+
+##### 7 : Plus-values provenant de cessions d'éléments de l'actif immobilisé<a id=7></a>
+
+###### Article 27
+
+Les dispositions des articles 39 duodecies, du 1 de l'article 39 terdecies, des 1, 2, 3 de l'article 39 quaterdecies, des
+premier à troisième alinéas du 1 et du 2 du I de l'article 39 quindecies du code général des impôts sont applicables pour la
+détermination des résultats des exercices ou périodes d'imposition ouverts à compter du 1er septembre 1965.
+
+Les dispositions de l'article 40 du même code cessent de s'appliquer aux plus-values provenant de cessions réalisées par les
+contribuables relevant de l'impôt sur le revenu au titre des bénéfices industriels et commerciaux, au cours d'exercices ou de
+périodes d'imposition définis au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 39 duodecies, 39 terdecies 1, 39 quaterdecies, 39 quindecies I 1, 39 quindecies 2, 40
+
+_Modifié par_:
+
+  - Loi n°77-1467 du 30 décembre 1977 - art. 70 (P) JORF 31 décembre 1977
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°96-632 1996-07-16 JORF 18 juillet 1996 art. 1
+  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+  - TXT_ASSOCIE: La référence à l'article 39 sexdecies a été supprimée : conséquence de la loi n°1467 du 30 décembre 1977
+
+
+#### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales<a id=8></a>
+
+##### Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger<a id=9></a>
+
+##### I : Régime du bénéfice mondial.<a id=10></a>
 
 ###### Article 111
 
@@ -77,7 +120,7 @@ _Abrogé par_:
   - Décret n°91-1265 du 16 décembre 1991 - art. 23 () JORF 20 décembre 1991
 
 
-##### III : Dispositions communes.<a id=7></a>
+##### III : Dispositions communes.<a id=11></a>
 
 ###### Article 125
 
@@ -105,15 +148,15 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=8></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=12></a>
 
-## IMPOTS D'ETAT<a id=9></a>
+## IMPOTS D'ETAT<a id=13></a>
 
-### IMPOTS DIRECTS<a id=10></a>
+### IMPOTS DIRECTS<a id=14></a>
 
-#### IMPOT SUR LE REVENU<a id=11></a>
+#### IMPOT SUR LE REVENU<a id=15></a>
 
-##### REVENU GLOBAL.<a id=12></a>
+##### REVENU GLOBAL.<a id=16></a>
 
 ###### Article 81 bis
 
