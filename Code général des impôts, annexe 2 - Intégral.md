@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2003-07-09
+Version Consolidée au 2003-08-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -146,8 +146,8 @@ Version Consolidée au 2003-07-09
                   - [1° : Marchands de biens - Agences de voyages et organisateurs de circuits touristiques. (art. 231)](#143)
                 - [B : Limitations concernant certains biens et services. (art. 236 à 242)](#144)
               - [2 bis : Remboursement de crédits de taxe déductible non imputable (art. 242-0 A à 242-0 K)](#145)
-              - [2 ter : Remboursement de la taxe aux assujettis établis hors de France (art. 242-0 M à 242-0 T)](#146)
-                - [A : Assujettis établis dans l'Union européenne (art. 242-0 M à 242-0 T)](#147)
+              - [2 ter : Remboursement de la taxe aux assujettis établis hors de France (art. 242-0 M à 242-0 U)](#146)
+                - [A : Assujettis établis dans l'Union européenne (art. 242-0 M à 242-0 U)](#147)
               - [3 : Régime suspensif (art. 242 A)](#148)
               - [4 : Organismes sans but lucratif (art. 242 B)](#149)
           - [Section III ter : Obligations des redevables (art. 242 septies à 242 undecies)](#150)
@@ -7417,9 +7417,13 @@ versées par l'employeur ;
 3° Le montant des dépenses réellement exposées en vue de favoriser les premières formations technologiques et
 professionnelles qui peuvent donner lieu à exonération ;
 
-4° Le montant du versement à effectuer, le cas échéant, à la caisse du receveur des impôts.
+4° Le montant du versement à effectuer, le cas échéant, auprès des comptables de la direction générale des impôts.
 
 La déclaration doit être rédigée sur un imprimé fourni par l'administration.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'articles 12-I B et V de la loi n° 2007-1787 du 20 décembre 2007.
 
 **Liens relatifs à cet article**
 
@@ -7427,20 +7431,14 @@ _Cite_:
 
   - CGI 225, 229
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 49 I
-  - SPEC_APPLI: Ordonnance n°2001-766 du 29 août 2001 - art. 14 (V)
-
 _Modifié par_:
 
-  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 26, art. 1 III, V JORF 3 juillet 1998
-  - Loi n°98-546 du 2 juillet 1998 - art. 1 () JORF 3 juillet 1998
+  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°99-382 1999-05-18
+  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 2
+  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 140 B
@@ -7457,21 +7455,22 @@ l'entreprise.
 La demande d'exonération, rédigée sur des imprimés d'un modèle agréé, doit être jointe à la déclaration accompagnée, le cas
 échéant, du reçu délivré par l'organisme bénéficiaire des versements.
 
-Le receveur des impôts délivre récépissé de la demande d'exonération.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°88-517 1988-05-04 art. 1 JORF 6 mai 1988
+  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
 
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°2006-356 2006-03-24
 
 **Liens**:
 
-  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 31 août 2003
+  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
+  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
 
 
 ###### Article 140 D
@@ -7552,43 +7551,45 @@ _Codifié par_:
 
 ###### Article 140 F
 
-Les demandes d'exonération sont transmises par le service des impôts au préfet qui en saisit le comité départemental de la
-formation professionnelle, de la promotion sociale et de l'emploi.
+Les demandes d'exonération sont transmises par le service des impôts au préfet qui en saisit le comité départemental de
+l'emploi.
 
-Ce comité est, dans tous les cas, celui du département du lieu de dépôt de la déclaration.
+Ce comité est celui du département du lieu de dépôt de la déclaration.
+
+Toutefois, pour les personnes ou groupements de personnes mentionnés à l'article 1649 quater B quater du code général des
+impôts qui relèvent du service chargé des grandes entreprises, ce comité est celui du département du siège de la direction de
+l'entreprise ou, à défaut, du lieu du principal établissement. S'il s'agit d'un employeur passible de l'impôt sur les
+sociétés, le comité compétent est celui du département du lieu du principal établissement.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 1649 quater B quater
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
 
 **Liens**:
 
-  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 140 G
 
-La décision du comité départemental est motivée. Elle est notifiée par le préfet à l'intéressé et au service des impôts.
+La décision du comité départemental est motivée. Le préfet notifie la décision à l'intéressé ainsi que, en cas de rejet, au
+service des impôts.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
 
 **Liens**:
 
-  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 140 H
@@ -7621,27 +7622,37 @@ _Modifié par_:
 ###### Article 140 I
 
 Le requérant doit indiquer, dans son recours, s'il demande à surseoir au paiement de la partie contestée de la taxe, et ce,
-sous réserve de la constitution de garanties dans les conditions déterminées par les articles L. 277 à L. 279 du livre des
-procédures fiscales et les articles 416 A à 416 D de l'annexe III au code général des impôts.
+sous réserve de la constitution de garanties dans les conditions déterminées par les articles L. 277 à L. 279 et R. 277-3 à
+R. 277-6 du livre des procédures fiscales.
 
-Le président de la commission spéciale de la taxe d'apprentissage notifie au receveur des impôts chargé du recouvrement, par
-l'intermédiaire du directeur des services fiscaux du département, les pourvois qui contiennent une demande de sursis de
-paiement, en indiquant le montant de la partie de la taxe dont il est demandé exonération.
+Le président de la commission spéciale de la taxe d'apprentissage notifie au comptable de la direction générale des impôts
+chargé du recouvrement, par l'intermédiaire du directeur des services fiscaux du département, les pourvois qui contiennent
+une demande de sursis de paiement, en indiquant le montant de la partie de la taxe dont il est demandé exonération.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGIAN3 416 A à 416 D
-  - Livre des procédures fiscales L277 à L279
+  - Décret n°2003-403 du 29 avril 2003 - art. 1 () JORF 2 mai 2003
 
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
   - Code de l'éducation - art. R237-21 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 31 août 2003
+  - PEREMPTION: Ordonnance 2005-1512 2005-12-07 art. 26 II, IV JORF 8 décembre 2005
+  - PEREMPTION: Ordonnance n°2005-1512 du 7 décembre 2005 - art. 26 () JORF 8 décembre 2005
+
+_Cite_:
+
+  - Livre des procédures fiscales L277 à L279, R277-3 à R277-6
 
 
 ##### III : Modalités de versement et exonérations<a id=83></a>
@@ -11466,16 +11477,17 @@ Elle ne concerne pas les autres biens constituant des immobilisations lorsque le
 IV. Sous réserve que le bien constitue une immobilisation pour le bénéficiaire de la cession, de l'apport ou du transfert,
 celui-ci peut opérer la déduction de la taxe ayant initialement grevé le bien diminuée dans les conditions précitées. A cette
 fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de
-déduire. La taxe ayant initialement grevé le bien s'entend, selon le cas, de la taxe mentionnée au 1 de l'article 223 ou de
-la fraction de taxe mentionnée tant au 3° de l'article 226 qu'à l'article 226 bis. Le bénéficiaire d'une cession ou d'un
-apport ultérieur peut également opérer la déduction d'une fraction, calculée dans les conditions précitées, de la taxe que le
-précédent propriétaire était en droit de déduire.
+déduire. La taxe ayant initialement grevé le bien s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271
+du code général des impôts ou de la fraction de taxe mentionnée tant au 3° de l'article 226 qu'à l'article 226 bis. Le
+bénéficiaire d'une cession ou d'un apport ultérieur peut également opérer la déduction d'une fraction, calculée dans les
+conditions précitées, de la taxe que le précédent propriétaire était en droit de déduire.
 
 **Nota:**
 
 (1) Neuvième année pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.
 
-(2) Un dixième pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.
+(2) Un dixième pour les immeubles livrés, acquis ou apportés avant le 1er janvier 1996.    NOTA : La présente version de cet
+article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -11486,8 +11498,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
-  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
 
 _Cité par_:
 
@@ -11497,7 +11508,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 31 août 2003
   - TXT_ASSOCIE: Instruction 2002-05-17 3D-2-02
   - TXT_ASSOCIE: Instruction 2002-12-27 3I-1-02
 
@@ -12932,6 +12943,33 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 1999-07-15 3D-2-99
 
 
+###### Article 242-0 U
+
+Les dispositions des articles 242-0 O et 242-0 S ne s'appliquent pas au remboursement de la taxe sur la valeur ajoutée
+afférente aux opérations liées aux services fournis par voie électronique, tels que mentionnés au 12° de l'article 259 B du
+code général des impôts, aux assujettis établis hors de la Communauté qui se prévalent du régime spécial prévu à l'article
+298 sexdecies F du code général des impôts.
+
+Est remboursée à ces assujettis la taxe sur la valeur ajoutée qui a grevé les services qui leur ont été rendus et les biens
+meubles qu'ils ont acquis ou importés en France au cours de l'année ou du trimestre prévu à l'article 242-0 M pour la
+fourniture de services électroniques en France ou pour la réalisation d'opérations mentionnées au 2 de cet article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 259 B, 298 sexdecies F
+  - CGIAN2 242-0 O, 242-0 S, 242-0 M
+
+_Créé par_:
+
+  - Décret n°2003-631 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2003
+
+
 ##### 3 : Régime suspensif<a id=148></a>
 
 ###### Article 242 A
@@ -13297,8 +13335,8 @@ _Codifié par_:
 ###### Article 242 septies J
 
 Les remboursements prévus au III de l'article 242-0 C ne peuvent être obtenus que sur présentation, avec la demande déposée
-auprès du service local des impôts au cours du mois suivant le trimestre considéré, de la ou des factures ou des documents en
-tenant lieu qui mentionnent notamment la taxe déductible sur les immobilisations à l'origine du crédit.
+auprès du service local des impôts au cours du mois suivant le trimestre considéré, de la ou des factures qui mentionnent
+notamment la taxe déductible sur les immobilisations à l'origine du crédit.
 
 Les remboursements trimestriels ont un caractère provisionnel :
 
@@ -13308,11 +13346,11 @@ ils donnent lieu à régularisation lors du dépôt de la déclaration annuelle 
 
 _Cite_:
 
-  - CGI 242-0 C, 242 sexies, 242 septies A, 287
+  - CGIAN2 242-0 C, 242 sexies, 242 septies A
 
 _Modifié par_:
 
-  - Décret n°99-545 1999-06-30 art. 132 JORF 1er juillet 1999
+  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
 
 _Cité par_:
 
@@ -13321,7 +13359,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 242 septies L
@@ -13398,30 +13436,65 @@ _Cite_:
 
 ###### Article 242 nonies
 
-Les factures ou les documents en tenant lieu établis par les assujettis doivent être datés et numérotés et faire apparaître :
+I. - En application du 2 du I de l'article 289 du code général des impôts, les factures peuvent être matériellement émises,
+au nom et pour le compte de l'assujetti, par son client ou par un tiers lorsque cet assujetti lui donne expressément un
+mandat écrit et préalable à cet effet.
 
-Le nom du vendeur ou du prestataire et celui du client ainsi que leurs adresses respectives ;
+Les factures émises dans le cadre de ce mandat peuvent ne pas être authentifiées de manière formelle par le mandant. Celui-ci
+peut contester les informations qu'elles contiennent dans le délai prévu dans le contrat de mandat. Dans cette hypothèse, le
+mandant émettra une facture rectificative dans les conditions prévues au 5 du I de l'article 289 du code général des impôts.
+Les factures rectificatives émises en application de l'article 272 du code général des impôts sont établies dans les mêmes
+conditions.
 
-La date de l'opération ;
+Lorsque le client ou le tiers mandaté par l'assujetti pour émettre les factures, en son nom et pour son compte, est établi
+dans un pays avec lequel il n'existe aucun instrument juridique relatif à l'assistance mutuelle ayant une portée similaire à
+celle prévue par la directive 76/308/CEE du Conseil du 15 mars 1976 concernant l'assistance mutuelle en matière de
+recouvrement des créances relatives à certaines cotisations, droits, taxes et autres mesures et par la directive 77/799/CEE
+du Conseil du 19 décembre 1977 concernant l'assistance mutuelle des autorités compétentes des Etats membres dans le domaine
+des impôts directs et indirects et le règlement (CEE) n° 218/92 du Conseil du 27 janvier 1992 concernant la coopération
+administrative dans le domaine des impôts indirects (TVA), les règles suivantes s'appliquent :
 
-Pour chacun des biens livrés ou des services rendus, la quantité, la dénomination précise, le prix unitaire hors taxes et le
-taux de taxe sur la valeur ajoutée légalement applicable ;
+a) L'assujetti en informe l'administration par écrit en indiquant le nom et l'adresse du client ou tiers ainsi mandaté
+lorsque ce dernier établit de manière régulière des factures au nom et pour le compte de cet assujetti. A cette fin, il
+dépose un état auprès du service des impôts territorialement compétent dans les mêmes délais que sa déclaration de résultats
+ou de bénéfices ;
 
-Tous rabais, remises ou ristournes dont le principe est acquis et le montant chiffrable lors de l'opération.
+b) Les factures concernées sont émises dès la réalisation de la livraison ou de la prestation de services sans que puisse
+être utilisée la possibilité de délivrer des factures périodiques dans les conditions prévues au deuxième alinéa du 3 du I de
+l'article 289 du code général des impôts.
+
+II. - Les factures périodiques visées au 3 du I de l'article 289 du code général des impôts ne peuvent être émises que
+lorsque l'assujetti réalise, au cours du même mois civil, plusieurs opérations au profit d'un même client.
+
+Pour chaque livraison de biens ou prestation de services réalisée, un bon de livraison, ou un document en tenant lieu,
+numéroté et comportant l'identité et l'adresse du client, la date de l'opération ainsi que la quantité et la dénomination
+précise des biens livrés ou services rendus est émis en double exemplaire.
+
+L'assujetti et son client en conservent un exemplaire à l'appui de leur comptabilité dans les mêmes conditions que les
+factures.
+
+Les factures émises de manière périodique comportent les mentions obligatoires prévues à l'article 242 nonies A.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°92-1244 1992-11-27 art. 1, art. 3 JORF 28 novembre 1992, en vigueur le 1er janvier 1993
+  - CGI 289, 272, 242 nonies A
+  - Directive 76-308 CEE 1976-03-15 (Conseil)
+  - Directive 77-799 CEE 1977-12-19 (Conseil)
+  - Règlement 218-92 CEE 1992-01-27 (Conseil)
 
 _Cité par_:
 
   - Code général des collectivités territoriales - art. Sommaire (V)
 
+_Modifié par_:
+
+  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 242 nonies A
@@ -13553,7 +13626,7 @@ a) Du document justifiant que le demandeur a précédemment acquitté la taxe su
 neuf qu'il vend : facture d'achat, déclaration d'importation ou document en tenant lieu, certificat délivré par
 l'administration des impôts dans les conditions prévues à l'article 242 quaterdecies ;
 
-b) De la facture de vente ou du document en tenant lieu établi par le demandeur, conformément à l'article 242 undecies ;
+b) De la facture de vente établie par le demandeur, conformément à l'article 242 undecies ;
 
 c) De l'original ou d'une copie certifiée :
 
@@ -13570,17 +13643,13 @@ _Cite_:
 
   - CGI 298 sexies, 242 quaterdecies, 242 undecies
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-878 du 25 juin 1993 - art. 1 (V) JORF 3 juillet 1993
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 242 quaterdecies
@@ -13683,64 +13752,60 @@ _Modifié par_:
 
 ###### Article 242 undecies
 
-Les factures ou documents en tenant lieu délivrés par les assujettis désignés au II de l'article 298 sexies du code général
-des impôts doivent comporter les éléments suivants :
+Les factures délivrées par les assujettis désignés au II de l'article 298 sexies du code général des impôts doivent comporter
+les éléments suivants : 
 
-1° Le nom et l'adresse de l'assujetti qui effectue la livraison ;
+1° Le nom et l'adresse de l'assujetti qui effectue la livraison ; 
 
 2° Le nom et l'adresse de l'acquéreur, ainsi que l'indication du nom de l'Etat membre à destination duquel le moyen de
-transport neuf est expédié ou transporté ;
+transport neuf est expédié ou transporté ; 
 
-3° L'identification complète du moyen de transport :
+3° L'identification complète du moyen de transport : 
 
-a) Nature ;
+a) Nature ; 
 
-b) Genre ;
+b) Genre ; 
 
-c) Marque ;
+c) Marque ; 
 
-d) Type ;
+d) Type ; 
 
-e) Numéro dans la série du type ;
+e) Numéro dans la série du type ; 
 
-f) Cylindrée ou puissance pour un véhicule terrestre ;
+f) Cylindrée ou puissance pour un véhicule terrestre ; 
 
-g) Poids total au décollage pour un aéronef ;
+g) Poids total au décollage pour un aéronef ; 
 
-h) Longueur, vitesse maximale pour un bateau et, le cas échéant, puissance du ou des moteurs ;
+h) Longueur, vitesse maximale pour un bateau et, le cas échéant, puissance du ou des moteurs ; 
 
 i) Date de première mise en circulation ou, pour les bateaux, date du permis de navigation ou, pour les aéronefs, date de
-délivrance du premier certificat de navigabilité ou certificat de navigabilité export ;
+délivrance du premier certificat de navigabilité ou certificat de navigabilité export ; 
 
-j) Numéro ou marque d'immatriculation ;
+j) Numéro ou marque d'immatriculation ; 
 
-4° La date de la livraison ;
+4° La date de la livraison ; 
 
 5° La distance parcourue (véhicules terrestres), le nombre d'heures de vol effectuées (aéronefs), le nombre d'heures de
 navigation effectuées (bateaux) entre la date de première mise en circulation et celle de la livraison ou, lorsque le moyen
-de transport n'a pas déjà été mis en circulation, une mention selon laquelle le bien n'a fait l'objet d'aucune utilisation ;
+de transport n'a pas déjà été mis en circulation, une mention selon laquelle le bien n'a fait l'objet d'aucune utilisation ; 
 
-6° Le prix de vente hors taxe sur la valeur ajoutée ;
+6° Le prix de vente hors taxe sur la valeur ajoutée ; 
 
-7° La mention : "exonération de la taxe sur la valeur ajoutée, art. 298 sexies du code général des impôts".
+7° La mention : " exonération de la taxe sur la valeur ajoutée, art. 298 sexies du code général des impôts ".
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
+
 _Cite_:
 
-  - CGI 298 sexies
-
-_Créé par_:
-
-  - Décret n°93-878 du 25 juin 1993 - art. 1 (V) JORF 3 juillet 1993
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Code général des impôts, CGI. - art. 298 sexies (V)
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 août 2003
 
 
 ##### Section IV : Dispositions particulières aux opérations concourant à la production ou à la livraison d'immeubles<a id=158></a>
@@ -22456,9 +22521,9 @@ _Codifié par_:
 
 ###### Article 363 AE
 
-I. - Il est institué, à compter de la campagne de commercialisation 2000-2001 et jusqu'à la fin de la campagne 2002-2003, une
-taxe parafiscale à la charge des producteurs, assise sur les quantités de céréales et de riz livrées aux collecteurs agréés
-et aux producteurs grainiers.
+I. - Il est institué, à compter de la campagne de commercialisation 2000-2001 et jusqu'au 31 décembre 2003, une taxe
+parafiscale à la charge des producteurs, assise sur les quantités de céréales et de riz livrées aux collecteurs agréés et aux
+producteurs grainiers.
 
 II. - Après déduction des frais de recouvrement, le produit de la taxe est affecté de la manière suivante :
 
@@ -22474,20 +22539,21 @@ l'exécution de ses programmes de développement.
 
 _Modifié par_:
 
-  - Décret n°2000-1296 2000-12-26 art. 1, art. 2 JORF 29 décembre 2000
-  - Décret n°2000-1296 du 26 décembre 2000 - art. 2 (V) JORF 29 décembre 2000
+  - Décret n°2003-793 du 21 août 2003 - art. 2 () JORF 24 août 2003
 
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2004-304 2004-03-26
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2004-304 du 26 mars 2004 - art. 2 () JORF 30 mars 2004
+  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 31 août 2003
 
 _Cite_:
 
   - Décret n°53-975 du 30 septembre 1953 - art. 1 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 363 AF
