@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1992-07-04
+Version Consolidée au 1992-12-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -9998,15 +9998,26 @@ Le rapport [*pourcentage général de déduction, prorata*], prévu à l'article
 recettes réalisées l'année précédente ou des recettes prévisionnelles de l'année en cours. Le montant des taxes déductibles
 est définitivement arrêté avant le 25 avril de l'année suivante [*date limite*].
 
+Toutefois, en 1992, les personnes qui ont exercé l'option prévue à l'article 260 B du code général des impôts et qui
+déterminent provisoirement le rapport de déduction prévu à l'article 212 de la présente annexe en fonction des recettes
+réalisées l'année précédente doivent inscrire au seul dénominateur du rapport le montant des recettes afférentes aux
+opérations mentionnées aux d et g du 1° de l'article 216 C du même code.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI 260 B, 216 C
   - CGIAN2 212
+
+**Liens**:
+
+  - TXT_SOURCE: Loi n°91-716 1991-07-26 art. 7 *DDOEF*
 
 _Modifié par_:
 
-  - Décret n°79-1163 du 29 décembre 1979 - art. 9 (V) JORF 31 DECEMBRE 1979
+  - Décret n°91-1312 du 27 décembre 1991 - art. 1 (V) JORF 29 décembre 1992
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
 ###### Article 215
