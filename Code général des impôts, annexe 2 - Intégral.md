@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1971-07-08
+Version Consolidée au 1973-01-03
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 125)](#1)
     - [Première partie : Impôts d'Etat (art. 125)](#2)
@@ -7,11 +7,11 @@ Version Consolidée au 1971-07-08
         - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 125)](#4)
           - [Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger (art. 125)](#5)
             - [III : Dispositions communes. (art. 125)](#6)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 91 bis)](#7)
-    - [IMPOTS D'ETAT (art. 91 bis)](#8)
-      - [IMPOTS DIRECTS (art. 91 bis)](#9)
-        - [IMPOT SUR LE REVENU (art. 91 bis)](#10)
-          - [REVENU GLOBAL. (art. 91 bis)](#11)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 91 bis)](#7)
+    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#8)
+      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#9)
+        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#10)
+          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#11)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -59,6 +59,40 @@ _Codifié par_:
 #### IMPOT SUR LE REVENU<a id=10></a>
 
 ##### REVENU GLOBAL.<a id=11></a>
+
+###### Article 81 bis
+
+I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour
+leur compte en application des articles L. 442-1 à L. 442-17 du code du travail relatifs à la participation des salariés aux
+fruits de l'expansion des entreprises donnent lieu à la délivrance d'un certificat distinct, conformément aux dispositions de
+l'article 77.
+
+II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA, deuxième alinéa, du code
+général des impôts, le certificat est établi au nom de l'organisme chargé de la conservation des titres et la restitution de
+l'avoir fiscal ou du crédit d'impôt mentionné sur ce certificat est demandée par cet organisme.
+
+III. La demande de restitution, accompagnée du certificat, est adressée au service des impôts du siège de l'organisme qui l'a
+établie.
+
+La restitution est opérée au profit de cet organisme, à charge pour lui d'employer les sommes correspondantes de la même
+façon que les revenus auxquels elles se rattachent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 163 bis AA AL. 2
+  - CGIAN2 77
+  - Code du travail L442-1 A Code du travail L442-17
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
+
+_Modifié par_:
+
+  - Loi n°73-4 du 2 janvier 1973 - art. 1 (V) JORF 3 JANVIER 1973
+
 
 ###### Article 91 bis
 
