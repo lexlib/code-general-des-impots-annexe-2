@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1978-08-27
+Version Consolidée au 1979-01-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 371 QA)](#1)
     - [Première partie : Impôts d'Etat (art. 27 à 125)](#2)
@@ -12,17 +12,18 @@ Version Consolidée au 1978-08-27
           - [Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger (art. 111 à 125)](#9)
             - [I : Régime du bénéfice mondial. (art. 111)](#10)
             - [III : Dispositions communes. (art. 125)](#11)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 371 QA)](#12)
-      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 QA)](#13)
-        - [Section II : Associations agréées des professions libérales (art. 371 QA)](#14)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 371 Q)](#15)
-    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#16)
-      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#17)
-        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#18)
-          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#19)
-    - [IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES. (art. 363 F)](#20)
-    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES* (art. 371 Q)](#21)
-      - [ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES. (art. 371 Q)](#22)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 371 E à 371 QA)](#12)
+      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 E à 371 QA)](#13)
+        - [Section I : Centres de gestion agréés (art. 371 E à 371 EA)](#14)
+        - [Section II : Associations agréées des professions libérales (art. 371 QA)](#15)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 371 Q)](#16)
+    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#17)
+      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#18)
+        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#19)
+          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#20)
+    - [IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES. (art. 363 F)](#21)
+    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES* (art. 371 Q)](#22)
+      - [ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES. (art. 371 Q)](#23)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -158,7 +159,131 @@ _Codifié par_:
 
 ### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=13></a>
 
-#### Section II : Associations agréées des professions libérales<a id=14></a>
+#### Section I : Centres de gestion agréés<a id=14></a>
+
+###### Article 371 E
+
+Les statuts du centre précisent les conditions de participation à la gestion du centre des personnes ou organismes qui ont
+pris l'initiative de sa création.
+
+Ils doivent comporter en outre les stipulations suivantes [*mentions obligatoires*] :
+
+1° Dans le délai de six mois qui suit la date de clôture de leur exercice comptable, le centre fournit à ses membres
+adhérents, imposés d'après leur bénéfice réel, un dossier comprenant :
+
+a. Les ratios et les autres éléments caractérisant la situation financière et économique de l'entreprise : la nature de ces
+ratios et autres éléments est fixée par arrêté du ministre du budget, du ministre de l'agriculture, du ministre de
+l'industrie et du ministre du commerce et de l'artisanat (1) ;
+
+b. Un commentaire sur la situation financière et économique de l'entreprise ;
+
+c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et dans le même délai de six mois, le centre
+fournit à ses adhérents une analyse comparative des bilans et des comptes d'exploitation de l'entreprise. Toutefois, pour les
+entreprises soumises au régime simplifié d'imposition, seule l'analyse comparative des comptes d'exploitation doit être
+fournie ;
+
+2° Le centre élabore pour ceux de ses membres adhérents qui sont placés sous un régime réel d'imposition les déclarations
+afférentes à leur exploitation destinées à l'administration fiscale, lorsque ces membres en font la demande.
+
+Toutefois, ces déclarations ne peuvent porter que sur une période au cours de laquelle les intéressés étaient membres du
+centre ;
+
+3° L'adhésion au centre implique pour les membres adhérents imposés d'après leur bénéfice réel :
+
+a. L'engagement de produire à la personne ou à l'organisme chargé de tenir et de présenter leurs documents comptables tous
+les éléments nécessaires à l'établissement d'une comptabilité sincère de leur exploitation ;
+
+b. L'engagement de faire viser leurs déclarations de résultats par l'expert comptable ou le comptable agrée de leur choix qui
+tient, centralise ou surveille leur comptabilité, lorsque les documents comptables ne sont pas tenus et présentés par un
+centre bénéficiant de l'une des habilitations prévues à l'article 371 I ;
+
+c. L'obligation de communiquer au centre le bilan et les comptes d'exploitation générale et de pertes et profits de leur
+exploitation ainsi que tous documents annexes : toutefois, l'obligation de communiquer le bilan au centre ne concerne pas les
+entreprises soumises au régime simplifié d'imposition ;
+
+d. L'obligation pour les entreprises industrielles, commerciales ou artisanales, soumises à un régime de bénéfice réel autre
+que le régime simplifié, de communiquer au centre une ou plusieurs situations comptables provisoires, dont l'une concerne
+obligatoirement les six premiers mois de l'exercice, à fournir avant l'expiration du neuvième mois suivant le début de chaque
+exercice ;
+
+e. L'autorisation pour le centre de communiquer à l'agent de l'administration fiscale qui apporte son assistance technique au
+centre les documents mentionnés au présent article.
+
+En cas de manquements graves ou répétés aux engagements ou obligations sus-énoncés l'adhérent est exclu du centre. Il doit
+être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
+
+(1) Voir annexe IV, art. 164 F unvicies.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 371 I
+  - CGIAN4 164 F unvicies
+
+_Modifié par_:
+
+  - Décret n°75-911 1975-10-06 ART. 7 JORF 9 OCTOBRE 1975
+  - Décret n°79-71 1979-01-23 ART. 3, ART. 4 JORF 25 JANVIER 1979
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Arrêté du 25 novembre 2010 - art. (Ab)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexies (V)
+
+
+###### Article 371 EA
+
+Les statuts des centres doivent contenir des stipulations selon lesquelles les centres s'engagent :
+
+1° A ne faire aucune publicité directe ou indirecte, sauf dans les journaux et bulletins professionnels, et, en ce qui
+concerne les centres de gestion bénéficiant de l'une des habilitations prévues à l'article 371 I, à se conformer aux
+dispositions de l'article 23 de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-
+comptables et des comptables agréés et réglementant les titres et les professions d'expert-comptable et de comptable agréé ;
+
+2° A faire figurer sur leur correspondance et sur tous les documents établis par leurs soins leur qualité de centres de
+gestion agréés et les références de la décision d'agrément ;
+
+3° A informer l'administration fiscale des modifications apportées à leurs statuts et des changements intervenus en ce qui
+concerne les personnes qui les dirigent ou les administrent, dans le délai d'un mois à compter de la réalisation de ces
+modifications ou changements ; pour ces personnes, le centre doit fournir à l'administration fiscale le certificat prévu à
+l'article 371 D ;
+
+4° A souscrire un contrat auprès d'une société d'assurance ou d'un assureur agréé en application du livre III du code des
+assurances les garantissant contre les conséquences pécuniaires de la responsabilité civile professionnelle qu'ils peuvent
+encourir en raison des négligences et fautes commises dans l'exercice de leurs activités ;
+
+5° Au cas où l'agrément leur serait retiré, à en informer leurs adhérents dès réception de la notification de la décision de
+retrait.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 371 D
+  - CGIAN2 371 I
+  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 23 (M)
+
+_Créé par_:
+
+  - Décret n°75-911 1975-10-06 ART. 8 JORF 9 OCTOBRE 1975
+  - Décret n°79-71 1979-01-23 ART. 5 JORF 25 JANVIER 1979
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z septies (V)
+
+
+#### Section II : Associations agréées des professions libérales<a id=15></a>
 
 ###### Article 371 QA
 
@@ -204,15 +329,15 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z septies (V)
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=15></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=16></a>
 
-## IMPOTS D'ETAT<a id=16></a>
+## IMPOTS D'ETAT<a id=17></a>
 
-### IMPOTS DIRECTS<a id=17></a>
+### IMPOTS DIRECTS<a id=18></a>
 
-#### IMPOT SUR LE REVENU<a id=18></a>
+#### IMPOT SUR LE REVENU<a id=19></a>
 
-##### REVENU GLOBAL.<a id=19></a>
+##### REVENU GLOBAL.<a id=20></a>
 
 ###### Article 81 bis
 
@@ -290,7 +415,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.<a id=20></a>
+## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.<a id=21></a>
 
 ###### Article 363 F
 
@@ -360,9 +485,9 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*<a id=21></a>
+## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*<a id=22></a>
 
-### ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.<a id=22></a>
+### ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.<a id=23></a>
 
 ###### Article 371 Q
 
