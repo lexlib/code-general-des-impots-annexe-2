@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-02-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -153,7 +153,7 @@ Version Consolidée au 1982-01-01
         - [Chapitre 01 : Boissons - Vins et cidres (art. 267 nonies)](#150)
           - [Production (art. 267 nonies)](#151)
             - [Mesurage des appareils et vaisseaux. (art. 267 nonies)](#152)
-        - [Chapitre premier : Régime économique de l'alcool (art. 272 à 275 bis)](#153)
+        - [Chapitre premier : Régime économique de l'alcool (art. 268 à 275 bis)](#153)
         - [Chapitre II : Monopoles fiscaux (art. 276 à 286 E)](#154)
           - [Section unique : Tabacs (art. 276 à 286 E)](#155)
             - [I : Régime économique. (art. 276 à 284)](#156)
@@ -266,7 +266,7 @@ Version Consolidée au 1982-01-01
         - [REGIMES SIMPLIFIES D'IMPOSITION. (art. 267 quinquies)](#263)
       - [CONTRIBUTIONS INDIRECTES (art. 267 octies à 273)](#264)
         - [BOISSONS - VINS ET CIDRES. (art. 267 octies)](#265)
-        - [REGIME ECONOMIQUE DE L'ALCOOL. (art. 268 à 273)](#266)
+        - [REGIME ECONOMIQUE DE L'ALCOOL. (art. 269 à 273)](#266)
       - [MONOPOLES FISCAUX (art. 283 à 286 C)](#267)
         - [TABACS. (art. 283 à 286 C)](#268)
       - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE (art. 294 A à 294 C)](#269)
@@ -9398,6 +9398,24 @@ _Cite_:
 
 #### Chapitre premier : Régime économique de l'alcool<a id=153></a>
 
+###### Article 268
+
+Est interdite la distillation de toute matière première importée, à l'exception des fruits frais autres que les pommes,
+poires ou raisins. Cette interdiction n'est pas applicable aux matières premières originaires et en provenance des Etats
+membres de la communauté économique européenne [*CEE*] ou originaires de pays tiers et mises en libre pratique dans un de ces
+Etats membres.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°82-149 du 11 février 1982 - art. 1 () JORF 12 FEVRIER 1982
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (V)
+
+
 ###### Article 272
 
 La distillation des mélasses de canne à sucre originaires et en provenance des départements d'outre-mer est interdite en
@@ -15197,22 +15215,6 @@ _Cité par_:
 
 
 #### REGIME ECONOMIQUE DE L'ALCOOL.<a id=266></a>
-
-###### Article 268
-
-Est interdite la distillation de toute matière première importée, à l'exception des fruits frais autres que les pommes,
-poires ou raisins.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 207 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 269
 
