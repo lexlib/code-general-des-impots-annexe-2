@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-05-31
+Version Consolidée au 1984-06-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -159,184 +159,185 @@ Version Consolidée au 1984-05-31
           - [Production (art. 267 nonies)](#156)
             - [Mesurage des appareils et vaisseaux. (art. 267 nonies)](#157)
         - [Chapitre premier : Régime économique de l'alcool (art. 268 à 275 bis)](#158)
-        - [Chapitre II : Monopoles fiscaux (art. 275 A à 286 E)](#159)
-          - [Section unique : Tabacs (art. 275 A à 286 E)](#160)
-            - [0I : Définition des tabacs manufacturés. (art. 275 A à 275 E)](#161)
-            - [I : Régime économique. (art. 276 à 284)](#162)
-            - [II : Régime fiscal. (art. 286 à 286 E)](#163)
-        - [Chapitre II : Tabacs (art. 275 C à 286 G)](#164)
-          - [0I : Définition des tabacs manufacturés (art. 275 C à 275 G)](#165)
-          - [I : Régime économique (art. 282 à 285)](#166)
-          - [II : Régime fiscal (art. 286 B)](#167)
-          - [III : Corse - DOM (art. 286 F à 286 G)](#168)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 290 à 310 F bis)](#169)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 290 à 301 F)](#170)
-          - [Section II : Les tarifs et leur application (art. 290 à 301 F)](#171)
-            - [I : Mutations de propriété à titre onéreux d'immeubles (art. 290 à 291)](#172)
-              - [Mutations soumises à une taxation réduite ou exonérées (art. 290 à 291)](#173)
-                - [Opérations concourant à la production ou à la livraison d'immeubles. (art. 290)](#174)
-                - [1° : Opérations concourant à la production ou à la livraison d'immeubles. (art. 291)](#175)
-            - [II : Mutations de propriété à titre onéreux de meubles : Cessions de droits sociaux (art. 292)](#176)
-            - [III : Mutations à titre gratuit (art. 292 A à 294)](#177)
-              - [A : Champ d'application (art. 292 A à 292 B)](#178)
-                - [Sommes versées en vertu de contrats d'assurances en cas de décès (art. 292 A à 292 B)](#179)
-              - [B : Liquidation (art. 293 à 294)](#180)
-                - [Dispositions communes aux successions et aux donations (art. 293 à 294)](#181)
-            - [IV : Actes et conventions concernant les sociétés, personnes morales et groupements (art. 295 à 301 F)](#182)
-              - [A : Dispositions générales (art. 295 à 301)](#183)
-              - [B : Dispositions particulières à certaines conventions (art. 301-0 A à 301 F)](#184)
-                - [1 : Augmentations de capital (art. 301-0 A)](#185)
-                - [2 : Fusions de sociétés et opérations assimilées (art. 301 A à 301 F)](#186)
-        - [Chapitre II : Droits de timbre (art. 302)](#187)
-          - [Section I : Droits de timbre proprement dits (art. 302)](#188)
-            - [I : Timbre de dimension (art. 302)](#189)
-              - [Prescriptions et prohibitions (art. 302)](#190)
-        - [Chapitre III : Autres droits et taxes (art. 310 D à 310 E)](#191)
-          - [II : Taxe sur les véhicules des sociétés (art. 310 D à 310 E)](#192)
-        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 310 F bis)](#193)
-          - [Dispositions diverses (art. 310 F bis)](#194)
-            - [1° Aide judiciaire. (art. 310 F bis)](#195)
-    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 310 H à 363 AF)](#196)
-      - [Titre premier : Impositions communales (art. 310 H à 317 ter)](#197)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 310 H à 315)](#198)
-          - [Section I : Taxe d'habitation (art. 310 H)](#199)
-          - [Section II : Taxe professionnelle (art. 310 HA à 310 HS)](#200)
-            - [I : Dispositions générales (art. 310 HA)](#201)
-            - [II : Exonérations (art. 310 HB bis à 310 HB ter)](#202)
-            - [III : Base d'imposition (art. 310 HD à 310 HI)](#203)
-            - [Base d'imposition. (art. 310 HF)](#204)
-            - [IV : Disposition transitoire (art. 310 HJ)](#205)
-            - [Répartition des bases. (art. 310 HK)](#206)
-            - [V : Répartition des bases (art. 310 HL à 310 HO)](#207)
-            - [VI : Etablissement de la taxe (art. 310 HP à 310 HR)](#208)
-            - [VII : Annualité de la taxe (art. 310 HS)](#209)
-          - [Section III : Règles d'évaluation de la valeur locative des biens imposables (art. 310 I à 310 unvicies)](#210)
-            - [I : Évaluation des propriétés bâties (art. 310 I à 310 M)](#211)
-              - [A : Locaux d'habitation ou à usage professionnel (art. 310 I)](#212)
-              - [B : Immobilisations industrielles (art. 310 J bis à 310 L)](#213)
-              - [C : Locaux commerciaux et établissements industriels (art. 310 M)](#214)
-            - [II : Évaluation des propriétés non bâties. Règles particulières à la révision quinquennale (1970-1974) (art. 310 quater à 310 vicies)](#215)
-              - [A : Mode de détermination des coefficients d'adaptation applicables à la valeur locative cadastrale des propriétés non bâties (art. 310 decies à 310 undecies)](#216)
-              - [B : Procédure d'établissement des coefficients d'adaptation (art. 310 novodecies à 310 vicies)](#217)
-            - [III : Dispositions communes aux biens passibles des impôts directs locaux (art. 310 unvicies)](#218)
-          - [Section IV : Autres taxes communales (art. 312 à 315)](#219)
-            - [I : Redevance communale des mines (art. 312 à 315)](#220)
-              - [1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux (art. 312 à 313)](#221)
-              - [2° : Répartition du produit de la redevance : les hydrocarbures liquides et gazeux (art. 315)](#222)
-        - [Chapitre II : Enregistrement (art. 317 ter)](#223)
-          - [Section I : Taxe locale d'équipement (art. 317 ter)](#224)
-      - [Titre VI : Taxes parafiscales (art. 342 à 363 AF)](#225)
-        - [Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés. (art. 342 à 344)](#226)
-        - [Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère. (art. 348 à 349)](#227)
-        - [Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles. (art. 360)](#228)
-        - [Chapitre XI : Taxe parafiscale de stockage du secteur céréalier. (art. 363 AA à 363 Z)](#229)
-        - [Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier. (art. 363 AF)](#230)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 371 A à 376)](#231)
-      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z)](#232)
-        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#233)
-        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#234)
-      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AA à 371 AH)](#235)
-      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#236)
-      - [Chapitre III : Compétence des fonctionnaires de la direction générale des impôts. (art. 376)](#237)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 16 A à 371 W)](#238)
-    - [IMPOTS D'ETAT (art. 16 A à 310 G)](#239)
-      - [IMPOTS DIRECTS (art. 16 A à 140)](#240)
-        - [IMPOT SUR LE REVENU (art. 16 A à 95 J)](#241)
-          - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 16 A à 74 R)](#242)
-          - [REVENU GLOBAL. (art. 75-0 H à 91 bis)](#243)
-          - [CALCUL DE L'IMPOT. (art. 93 à 95 J)](#244)
-        - [IMPOTS SUR LE REVENU (art. 74 B bis)](#245)
-          - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 74 B bis)](#246)
-        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 96 à 127)](#247)
-          - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 96 à 102 D)](#248)
-          - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 110 à 127)](#249)
-        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES (art. 140)](#250)
-          - [IMPUTATION DE L'IMPOT SUR LE REVENU *IR* (RETENUE A LA SOURCE) SUR LE MONTANT DE L'IMPOT SUR LES SOCIETES *IS*. (art. 140)](#251)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 84 à 171-0 bis G)](#252)
-        - [IMPOT SUR LE REVENU (art. 84)](#253)
-          - [REVENU GLOBAL. (art. 84)](#254)
-        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 102 J à 134 bis)](#255)
-          - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 102 J à 102 P)](#256)
-          - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 126 à 134 bis)](#257)
-        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES (art. 102 Z)](#258)
-          - [BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE *PARADIS FISCAL* (*). (art. 102 Z)](#259)
-        - [TAXE D'APPRENTISSAGE. (art. 140 C à 140 N)](#260)
-        - [TAXE SUR LES SALAIRES (art. 145 bis à 145 ter)](#261)
-          - [OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES. (art. 145 bis à 145 ter)](#262)
-        - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE. (art. 163 quindecies)](#263)
-        - [TAXE SUR LES ENCOURS DE CREDITS. (art. 163 A à 163 G)](#264)
-        - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES. (art. 171 à 171-0 bis G)](#265)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 178 A à 255)](#266)
-        - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 178 A à 255)](#267)
-          - [CHAMP D'APPLICATION (art. 178 A à 194)](#268)
-          - [LIQUIDATION DE LA TAXE. (art. 215 à 242-0 F)](#269)
-          - [OBLIGATIONS DES REDEVABLES (art. 242 septies L)](#270)
-          - [DISPOSITIONS PARTICULIERES AUX OPERATIONS CONCOURANT A LA PRODUCTION OU A LA LIVRAISON D'IMMEUBLES. (art. 253 à 255)](#271)
-      - [CONTRIBUTIONS INDIRECTES (art. 267 octies à 275 B)](#272)
-        - [BOISSONS - VINS ET CIDRES. (art. 267 octies)](#273)
-        - [REGIME ECONOMIQUE DE L'ALCOOL. (art. 269 à 273)](#274)
-        - [MONOPOLES FISCAUX (art. 275 B)](#275)
-          - [TABACS. (art. 275 B)](#276)
-      - [MONOPOLES FISCAUX (art. 286 C)](#277)
-        - [TABACS. (art. 286 C)](#278)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 310 C à 310 G)](#279)
-        - [AUTRES DROITS ET TAXES. (art. 310 C)](#280)
-        - [REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE. (art. 310 G)](#281)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 311 à 327 DC)](#282)
-      - [IMPOSITIONS COMMUNALES (art. 311 à 310 HT)](#283)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 310 HC à 310 HT)](#284)
-      - [IMPOSITIONS DEPARTEMENTALES (art. 317 nonies à 317 terdecies)](#285)
-      - [IMPOSITIONS LOCALES (art. 317 quindecies)](#286)
-      - [IMPOSITIONS REGIONALES (art. 317 octodecies à 317 septdecies)](#287)
-      - [FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE. (art. 327 DA à 327 DC)](#288)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS. (art. 317 A à 327-0 A)](#289)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 327 A à 327 Z)](#290)
-      - [FIXATION DES TAUX A RETENIR POUR LE CALCUL DES IMPOSITIONS DIRECTES LOCALES. (art. 327 A)](#291)
-      - [FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE. (art. 327 B à 327 D)](#292)
-      - [DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*. (art. 327 AA à 327 Z)](#293)
-    - [IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES. (art. 335 à 368)](#294)
-      - [TAXES PARAFISCALES. (art. 345 à 368)](#295)
-    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES* (art. 368 A à 371 W)](#296)
-      - [OBLIGATIONS DES CONTRIBUABLES. (art. 368 A à 368 E)](#297)
-      - [ARTISANS *DEFINITION*. (art. 369 à 371)](#298)
-      - [ARTISANS. (art. 370)](#299)
-      - [CENTRES DE GESTION AGREES. (art. 371 B)](#300)
-      - [ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES. (art. 371 Q à 371 W)](#301)
-  - [Livre II : Recouvrement de l'impôt (art. 376 bis à 410)](#302)
-    - [Chapitre premier : Paiement de l'impôt (art. 376 bis à 384 septies)](#303)
-      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 382)](#304)
-        - [0I : Paiement mensuel de l'impôt sur le revenu. (art. 376 bis)](#305)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 quater à 376 ter)](#306)
-        - [II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France. (art. 378)](#307)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#308)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter à 383 quater)](#309)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#310)
-        - [II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité. (art. 383 quater)](#311)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384-00 A à 384 septies)](#312)
-        - [00I : Droit forfaitaire de délivrance d'ampliation. (art. 384-00 A)](#313)
-        - [I : Dation en paiement (art. 384 A)](#314)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#315)
-        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 E)](#316)
-        - [II : Participation en cas de dépassement du coefficient d'occupation du sol. (art. 384 quinquies à 384 septies)](#317)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#318)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#319)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu. (art. 384 septies A)](#320)
-    - [Chapitre II : Procédures (art. 385 à 386)](#321)
-      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#322)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#323)
-      - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#324)
-        - [Restitution du droit d'apport. (art. 396 ter)](#325)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#326)
-      - [Section II : Juridiction gracieuse (art. 396 quindecies)](#327)
-        - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#328)
-    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#329)
-  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 terdecies)](#330)
-    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#331)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 383 bis C)](#332)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384 ter)](#333)
-    - [SURETES ET PRIVILEGES. (art. 396 bis)](#334)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 396 quaterdecies à 396 terdecies)](#335)
-      - [JURIDICTION GRACIEUSE. (art. 396 quaterdecies à 396 terdecies)](#336)
+        - [Chapitre I bis : Garantie des matières d'or, d'argent et de platine (art. 275 bis A)](#159)
+        - [Chapitre II : Monopoles fiscaux (art. 275 A à 286 E)](#160)
+          - [Section unique : Tabacs (art. 275 A à 286 E)](#161)
+            - [0I : Définition des tabacs manufacturés. (art. 275 A à 275 E)](#162)
+            - [I : Régime économique. (art. 276 à 284)](#163)
+            - [II : Régime fiscal. (art. 286 à 286 E)](#164)
+        - [Chapitre II : Tabacs (art. 275 C à 286 G)](#165)
+          - [0I : Définition des tabacs manufacturés (art. 275 C à 275 G)](#166)
+          - [I : Régime économique (art. 282 à 285)](#167)
+          - [II : Régime fiscal (art. 286 B)](#168)
+          - [III : Corse - DOM (art. 286 F à 286 G)](#169)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 290 à 310 F bis)](#170)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 290 à 301 F)](#171)
+          - [Section II : Les tarifs et leur application (art. 290 à 301 F)](#172)
+            - [I : Mutations de propriété à titre onéreux d'immeubles (art. 290 à 291)](#173)
+              - [Mutations soumises à une taxation réduite ou exonérées (art. 290 à 291)](#174)
+                - [Opérations concourant à la production ou à la livraison d'immeubles. (art. 290)](#175)
+                - [1° : Opérations concourant à la production ou à la livraison d'immeubles. (art. 291)](#176)
+            - [II : Mutations de propriété à titre onéreux de meubles : Cessions de droits sociaux (art. 292)](#177)
+            - [III : Mutations à titre gratuit (art. 292 A à 294)](#178)
+              - [A : Champ d'application (art. 292 A à 292 B)](#179)
+                - [Sommes versées en vertu de contrats d'assurances en cas de décès (art. 292 A à 292 B)](#180)
+              - [B : Liquidation (art. 293 à 294)](#181)
+                - [Dispositions communes aux successions et aux donations (art. 293 à 294)](#182)
+            - [IV : Actes et conventions concernant les sociétés, personnes morales et groupements (art. 295 à 301 F)](#183)
+              - [A : Dispositions générales (art. 295 à 301)](#184)
+              - [B : Dispositions particulières à certaines conventions (art. 301-0 A à 301 F)](#185)
+                - [1 : Augmentations de capital (art. 301-0 A)](#186)
+                - [2 : Fusions de sociétés et opérations assimilées (art. 301 A à 301 F)](#187)
+        - [Chapitre II : Droits de timbre (art. 302)](#188)
+          - [Section I : Droits de timbre proprement dits (art. 302)](#189)
+            - [I : Timbre de dimension (art. 302)](#190)
+              - [Prescriptions et prohibitions (art. 302)](#191)
+        - [Chapitre III : Autres droits et taxes (art. 310 D à 310 E)](#192)
+          - [II : Taxe sur les véhicules des sociétés (art. 310 D à 310 E)](#193)
+        - [Chapitre IV : Régimes spéciaux et exonérations de portée générale (art. 310 F bis)](#194)
+          - [Dispositions diverses (art. 310 F bis)](#195)
+            - [1° Aide judiciaire. (art. 310 F bis)](#196)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 310 H à 363 AF)](#197)
+      - [Titre premier : Impositions communales (art. 310 H à 317 ter)](#198)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 310 H à 315)](#199)
+          - [Section I : Taxe d'habitation (art. 310 H)](#200)
+          - [Section II : Taxe professionnelle (art. 310 HA à 310 HS)](#201)
+            - [I : Dispositions générales (art. 310 HA)](#202)
+            - [II : Exonérations (art. 310 HB bis à 310 HB ter)](#203)
+            - [III : Base d'imposition (art. 310 HD à 310 HI)](#204)
+            - [Base d'imposition. (art. 310 HF)](#205)
+            - [IV : Disposition transitoire (art. 310 HJ)](#206)
+            - [Répartition des bases. (art. 310 HK)](#207)
+            - [V : Répartition des bases (art. 310 HL à 310 HO)](#208)
+            - [VI : Etablissement de la taxe (art. 310 HP à 310 HR)](#209)
+            - [VII : Annualité de la taxe (art. 310 HS)](#210)
+          - [Section III : Règles d'évaluation de la valeur locative des biens imposables (art. 310 I à 310 unvicies)](#211)
+            - [I : Évaluation des propriétés bâties (art. 310 I à 310 M)](#212)
+              - [A : Locaux d'habitation ou à usage professionnel (art. 310 I)](#213)
+              - [B : Immobilisations industrielles (art. 310 J bis à 310 L)](#214)
+              - [C : Locaux commerciaux et établissements industriels (art. 310 M)](#215)
+            - [II : Évaluation des propriétés non bâties. Règles particulières à la révision quinquennale (1970-1974) (art. 310 quater à 310 vicies)](#216)
+              - [A : Mode de détermination des coefficients d'adaptation applicables à la valeur locative cadastrale des propriétés non bâties (art. 310 decies à 310 undecies)](#217)
+              - [B : Procédure d'établissement des coefficients d'adaptation (art. 310 novodecies à 310 vicies)](#218)
+            - [III : Dispositions communes aux biens passibles des impôts directs locaux (art. 310 unvicies)](#219)
+          - [Section IV : Autres taxes communales (art. 312 à 315)](#220)
+            - [I : Redevance communale des mines (art. 312 à 315)](#221)
+              - [1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux (art. 312 à 313)](#222)
+              - [2° : Répartition du produit de la redevance : les hydrocarbures liquides et gazeux (art. 315)](#223)
+        - [Chapitre II : Enregistrement (art. 317 ter)](#224)
+          - [Section I : Taxe locale d'équipement (art. 317 ter)](#225)
+      - [Titre VI : Taxes parafiscales (art. 342 à 363 AF)](#226)
+        - [Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés. (art. 342 à 344)](#227)
+        - [Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère. (art. 348 à 349)](#228)
+        - [Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles. (art. 360)](#229)
+        - [Chapitre XI : Taxe parafiscale de stockage du secteur céréalier. (art. 363 AA à 363 Z)](#230)
+        - [Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier. (art. 363 AF)](#231)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 371 A à 376)](#232)
+      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z)](#233)
+        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#234)
+        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#235)
+      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AA à 371 AH)](#236)
+      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#237)
+      - [Chapitre III : Compétence des fonctionnaires de la direction générale des impôts. (art. 376)](#238)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 16 A à 371 W)](#239)
+    - [IMPOTS D'ETAT (art. 16 A à 310 G)](#240)
+      - [IMPOTS DIRECTS (art. 16 A à 140)](#241)
+        - [IMPOT SUR LE REVENU (art. 16 A à 95 J)](#242)
+          - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 16 A à 74 R)](#243)
+          - [REVENU GLOBAL. (art. 75-0 H à 91 bis)](#244)
+          - [CALCUL DE L'IMPOT. (art. 93 à 95 J)](#245)
+        - [IMPOTS SUR LE REVENU (art. 74 B bis)](#246)
+          - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 74 B bis)](#247)
+        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 96 à 127)](#248)
+          - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 96 à 102 D)](#249)
+          - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 110 à 127)](#250)
+        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES (art. 140)](#251)
+          - [IMPUTATION DE L'IMPOT SUR LE REVENU *IR* (RETENUE A LA SOURCE) SUR LE MONTANT DE L'IMPOT SUR LES SOCIETES *IS*. (art. 140)](#252)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 84 à 171-0 bis G)](#253)
+        - [IMPOT SUR LE REVENU (art. 84)](#254)
+          - [REVENU GLOBAL. (art. 84)](#255)
+        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 102 J à 134 bis)](#256)
+          - [DETERMINATION DU BENEFICE IMPOSABLE. (art. 102 J à 102 P)](#257)
+          - [INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER. (art. 126 à 134 bis)](#258)
+        - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES (art. 102 Z)](#259)
+          - [BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE *PARADIS FISCAL* (*). (art. 102 Z)](#260)
+        - [TAXE D'APPRENTISSAGE. (art. 140 C à 140 N)](#261)
+        - [TAXE SUR LES SALAIRES (art. 145 bis à 145 ter)](#262)
+          - [OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES. (art. 145 bis à 145 ter)](#263)
+        - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE. (art. 163 quindecies)](#264)
+        - [TAXE SUR LES ENCOURS DE CREDITS. (art. 163 A à 163 G)](#265)
+        - [DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES. (art. 171 à 171-0 bis G)](#266)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 178 A à 255)](#267)
+        - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 178 A à 255)](#268)
+          - [CHAMP D'APPLICATION (art. 178 A à 194)](#269)
+          - [LIQUIDATION DE LA TAXE. (art. 215 à 242-0 F)](#270)
+          - [OBLIGATIONS DES REDEVABLES (art. 242 septies L)](#271)
+          - [DISPOSITIONS PARTICULIERES AUX OPERATIONS CONCOURANT A LA PRODUCTION OU A LA LIVRAISON D'IMMEUBLES. (art. 253 à 255)](#272)
+      - [CONTRIBUTIONS INDIRECTES (art. 267 octies à 275 B)](#273)
+        - [BOISSONS - VINS ET CIDRES. (art. 267 octies)](#274)
+        - [REGIME ECONOMIQUE DE L'ALCOOL. (art. 269 à 273)](#275)
+        - [MONOPOLES FISCAUX (art. 275 B)](#276)
+          - [TABACS. (art. 275 B)](#277)
+      - [MONOPOLES FISCAUX (art. 286 C)](#278)
+        - [TABACS. (art. 286 C)](#279)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 310 C à 310 G)](#280)
+        - [AUTRES DROITS ET TAXES. (art. 310 C)](#281)
+        - [REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE. (art. 310 G)](#282)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 311 à 327 DC)](#283)
+      - [IMPOSITIONS COMMUNALES (art. 311 à 310 HT)](#284)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 310 HC à 310 HT)](#285)
+      - [IMPOSITIONS DEPARTEMENTALES (art. 317 nonies à 317 terdecies)](#286)
+      - [IMPOSITIONS LOCALES (art. 317 quindecies)](#287)
+      - [IMPOSITIONS REGIONALES (art. 317 octodecies à 317 septdecies)](#288)
+      - [FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE. (art. 327 DA à 327 DC)](#289)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS. (art. 317 A à 327-0 A)](#290)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 327 A à 327 Z)](#291)
+      - [FIXATION DES TAUX A RETENIR POUR LE CALCUL DES IMPOSITIONS DIRECTES LOCALES. (art. 327 A)](#292)
+      - [FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE. (art. 327 B à 327 D)](#293)
+      - [DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*. (art. 327 AA à 327 Z)](#294)
+    - [IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES. (art. 335 à 368)](#295)
+      - [TAXES PARAFISCALES. (art. 345 à 368)](#296)
+    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES* (art. 368 A à 371 W)](#297)
+      - [OBLIGATIONS DES CONTRIBUABLES. (art. 368 A à 368 E)](#298)
+      - [ARTISANS *DEFINITION*. (art. 369 à 371)](#299)
+      - [ARTISANS. (art. 370)](#300)
+      - [CENTRES DE GESTION AGREES. (art. 371 B)](#301)
+      - [ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES. (art. 371 Q à 371 W)](#302)
+  - [Livre II : Recouvrement de l'impôt (art. 376 bis à 410)](#303)
+    - [Chapitre premier : Paiement de l'impôt (art. 376 bis à 384 septies)](#304)
+      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 382)](#305)
+        - [0I : Paiement mensuel de l'impôt sur le revenu. (art. 376 bis)](#306)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 quater à 376 ter)](#307)
+        - [II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France. (art. 378)](#308)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#309)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter à 383 quater)](#310)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#311)
+        - [II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité. (art. 383 quater)](#312)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384-00 A à 384 septies)](#313)
+        - [00I : Droit forfaitaire de délivrance d'ampliation. (art. 384-00 A)](#314)
+        - [I : Dation en paiement (art. 384 A)](#315)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#316)
+        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 E)](#317)
+        - [II : Participation en cas de dépassement du coefficient d'occupation du sol. (art. 384 quinquies à 384 septies)](#318)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#319)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#320)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu. (art. 384 septies A)](#321)
+    - [Chapitre II : Procédures (art. 385 à 386)](#322)
+      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#323)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 ter à 396 quindecies)](#324)
+      - [Section I : Dispositions particulières aux droits d'enregistrement (art. 396 ter)](#325)
+        - [Restitution du droit d'apport. (art. 396 ter)](#326)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#327)
+      - [Section II : Juridiction gracieuse (art. 396 quindecies)](#328)
+        - [Comité du contentieux fiscal, douanier et des changes. (art. 396 quindecies)](#329)
+    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts. (art. 408 à 410)](#330)
+  - [RECOUVREMENT DE L'IMPOT (art. 383 à 396 terdecies)](#331)
+    - [PAIEMENT DE L'IMPOT (art. 383 à 384 ter)](#332)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 383 à 383 bis C)](#333)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE. (art. 384 B à 384 ter)](#334)
+    - [SURETES ET PRIVILEGES. (art. 396 bis)](#335)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 396 quaterdecies à 396 terdecies)](#336)
+      - [JURIDICTION GRACIEUSE. (art. 396 quaterdecies à 396 terdecies)](#337)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -10276,11 +10277,38 @@ _Cité par_:
   - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 
 
-#### Chapitre II : Monopoles fiscaux<a id=159></a>
+#### Chapitre I bis : Garantie des matières d'or, d'argent et de platine<a id=159></a>
 
-##### Section unique : Tabacs<a id=160></a>
+###### Article 275 bis A
 
-##### 0I : Définition des tabacs manufacturés.<a id=161></a>
+L'option pour le paiement du droit de garantie lors de la présentation des ouvrages à la marque, prévue à l'article 521 du
+code général des impôts, doit être exercée par les redevables, avant le 15 décembre de chaque année, par lettre recommandée
+avec avis de réception adressée au bureau de garantie dont ils dépendent. Elle est valable pour l'année civile suivante.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 521
+
+_Créé par_:
+
+  - Décret n°84-423 du 30 mai 1984 - art. 1 (V) JORF 7 juin 1984
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
+
+**Liens**:
+
+  - PEREMPTION: Loi n°94-6 1994-01-06 art. 1 JORF 5 janvier 1994, article sans objet
+
+
+#### Chapitre II : Monopoles fiscaux<a id=160></a>
+
+##### Section unique : Tabacs<a id=161></a>
+
+##### 0I : Définition des tabacs manufacturés.<a id=162></a>
 
 ###### Article 275 A
 
@@ -10383,7 +10411,7 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-##### I : Régime économique.<a id=162></a>
+##### I : Régime économique.<a id=163></a>
 
 ###### Article 276
 
@@ -10536,7 +10564,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### II : Régime fiscal.<a id=163></a>
+##### II : Régime fiscal.<a id=164></a>
 
 ###### Article 286
 
@@ -10604,9 +10632,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre II : Tabacs<a id=164></a>
+#### Chapitre II : Tabacs<a id=165></a>
 
-##### 0I : Définition des tabacs manufacturés<a id=165></a>
+##### 0I : Définition des tabacs manufacturés<a id=166></a>
 
 ###### Article 275 C
 
@@ -10682,7 +10710,7 @@ _Créé par_:
   - HISTO: Edition du 1er septembre 1982
 
 
-##### I : Régime économique<a id=166></a>
+##### I : Régime économique<a id=167></a>
 
 ###### Article 282
 
@@ -10723,7 +10751,7 @@ des prix, due par le fournisseur à chacun des débitants consignataires.
 
 
 
-##### II : Régime fiscal<a id=167></a>
+##### II : Régime fiscal<a id=168></a>
 
 ###### Article 286 B
 
@@ -10737,7 +10765,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 575 (V)
 
 
-##### III : Corse - DOM<a id=168></a>
+##### III : Corse - DOM<a id=169></a>
 
 ###### Article 286 F
 
@@ -10759,17 +10787,17 @@ les dispositions sont étendues au département de la Guadeloupe à compter du 1
 
 
 
-### Titre IV : Enregistrement, publicité foncière, timbre<a id=169></a>
+### Titre IV : Enregistrement, publicité foncière, timbre<a id=170></a>
 
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=170></a>
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=171></a>
 
-##### Section II : Les tarifs et leur application<a id=171></a>
+##### Section II : Les tarifs et leur application<a id=172></a>
 
-##### I : Mutations de propriété à titre onéreux d'immeubles<a id=172></a>
+##### I : Mutations de propriété à titre onéreux d'immeubles<a id=173></a>
 
-##### Mutations soumises à une taxation réduite ou exonérées<a id=173></a>
+##### Mutations soumises à une taxation réduite ou exonérées<a id=174></a>
 
-##### Opérations concourant à la production ou à la livraison d'immeubles.<a id=174></a>
+##### Opérations concourant à la production ou à la livraison d'immeubles.<a id=175></a>
 
 ###### Article 290
 
@@ -10792,7 +10820,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 1° : Opérations concourant à la production ou à la livraison d'immeubles.<a id=175></a>
+##### 1° : Opérations concourant à la production ou à la livraison d'immeubles.<a id=176></a>
 
 ###### Article 291
 
@@ -10812,7 +10840,7 @@ _Cite_:
   - CGIAN2 290
 
 
-##### II : Mutations de propriété à titre onéreux de meubles : Cessions de droits sociaux<a id=176></a>
+##### II : Mutations de propriété à titre onéreux de meubles : Cessions de droits sociaux<a id=177></a>
 
 ###### Article 292
 
@@ -10828,11 +10856,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 728 (V)
 
 
-##### III : Mutations à titre gratuit<a id=177></a>
+##### III : Mutations à titre gratuit<a id=178></a>
 
-##### A : Champ d'application<a id=178></a>
+##### A : Champ d'application<a id=179></a>
 
-##### Sommes versées en vertu de contrats d'assurances en cas de décès<a id=179></a>
+##### Sommes versées en vertu de contrats d'assurances en cas de décès<a id=180></a>
 
 ###### Article 292 A
 
@@ -10887,9 +10915,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 370 C (V)
 
 
-##### B : Liquidation<a id=180></a>
+##### B : Liquidation<a id=181></a>
 
-##### Dispositions communes aux successions et aux donations<a id=181></a>
+##### Dispositions communes aux successions et aux donations<a id=182></a>
 
 ###### Article 293
 
@@ -10921,9 +10949,9 @@ _Cite_:
   - Code du travail - art. L323-11 (M)
 
 
-##### IV : Actes et conventions concernant les sociétés, personnes morales et groupements<a id=182></a>
+##### IV : Actes et conventions concernant les sociétés, personnes morales et groupements<a id=183></a>
 
-##### A : Dispositions générales<a id=183></a>
+##### A : Dispositions générales<a id=184></a>
 
 ###### Article 295
 
@@ -11017,9 +11045,9 @@ _Cite_:
   - CGIAN2 295 à 300
 
 
-##### B : Dispositions particulières à certaines conventions<a id=184></a>
+##### B : Dispositions particulières à certaines conventions<a id=185></a>
 
-##### 1 : Augmentations de capital<a id=185></a>
+##### 1 : Augmentations de capital<a id=186></a>
 
 ###### Article 301-0 A
 
@@ -11047,7 +11075,7 @@ _Codifié par_:
   - Décret n°94-899 1994-10-17
 
 
-##### 2 : Fusions de sociétés et opérations assimilées<a id=186></a>
+##### 2 : Fusions de sociétés et opérations assimilées<a id=187></a>
 
 ###### Article 301 A
 
@@ -11161,13 +11189,13 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 301 K (P)
 
 
-#### Chapitre II : Droits de timbre<a id=187></a>
+#### Chapitre II : Droits de timbre<a id=188></a>
 
-##### Section I : Droits de timbre proprement dits<a id=188></a>
+##### Section I : Droits de timbre proprement dits<a id=189></a>
 
-##### I : Timbre de dimension<a id=189></a>
+##### I : Timbre de dimension<a id=190></a>
 
-##### Prescriptions et prohibitions<a id=190></a>
+##### Prescriptions et prohibitions<a id=191></a>
 
 ###### Article 302
 
@@ -11194,9 +11222,9 @@ _Anciens textes_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre III : Autres droits et taxes<a id=191></a>
+#### Chapitre III : Autres droits et taxes<a id=192></a>
 
-##### II : Taxe sur les véhicules des sociétés<a id=192></a>
+##### II : Taxe sur les véhicules des sociétés<a id=193></a>
 
 ###### Article 310 D
 
@@ -11239,11 +11267,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 bis (M)
 
 
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=193></a>
+#### Chapitre IV : Régimes spéciaux et exonérations de portée générale<a id=194></a>
 
-##### Dispositions diverses<a id=194></a>
+##### Dispositions diverses<a id=195></a>
 
-##### 1° Aide judiciaire.<a id=195></a>
+##### 1° Aide judiciaire.<a id=196></a>
 
 ###### Article 310 F bis
 
@@ -11263,13 +11291,13 @@ les mots "aide judiciaire ou indemnisation des commissions et désignations d'of
   - HISTO: EDITION 1979-07-01
 
 
-## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=196></a>
+## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=197></a>
 
-### Titre premier : Impositions communales<a id=197></a>
+### Titre premier : Impositions communales<a id=198></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=198></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=199></a>
 
-##### Section I : Taxe d'habitation<a id=199></a>
+##### Section I : Taxe d'habitation<a id=200></a>
 
 ###### Article 310 H
 
@@ -11297,9 +11325,9 @@ _Cité par_:
   - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 
 
-##### Section II : Taxe professionnelle<a id=200></a>
+##### Section II : Taxe professionnelle<a id=201></a>
 
-##### I : Dispositions générales<a id=201></a>
+##### I : Dispositions générales<a id=202></a>
 
 ###### Article 310 HA
 
@@ -11348,7 +11376,7 @@ _Codifié par_:
   - HISTO: Edition du 1er septembre 1982
 
 
-##### II : Exonérations<a id=202></a>
+##### II : Exonérations<a id=203></a>
 
 ###### Article 310 HB bis
 
@@ -11498,7 +11526,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1465 (V)
 
 
-##### III : Base d'imposition<a id=203></a>
+##### III : Base d'imposition<a id=204></a>
 
 ###### Article 310 HD
 
@@ -11617,7 +11645,7 @@ _Codifié par_:
   - Décret n°99-382 1999-05-18
 
 
-##### Base d'imposition.<a id=204></a>
+##### Base d'imposition.<a id=205></a>
 
 ###### Article 310 HF
 
@@ -11646,7 +11674,7 @@ _Cite_:
   - Ordonnance 45-1744 1945-08-06
 
 
-##### IV : Disposition transitoire<a id=205></a>
+##### IV : Disposition transitoire<a id=206></a>
 
 ###### Article 310 HJ
 
@@ -11672,7 +11700,7 @@ _Abrogé par_:
   - Décret n°2011-2064 du 30 décembre 2011 - art. 1
 
 
-##### Répartition des bases.<a id=206></a>
+##### Répartition des bases.<a id=207></a>
 
 ###### Article 310 HK
 
@@ -11699,7 +11727,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### V : Répartition des bases<a id=207></a>
+##### V : Répartition des bases<a id=208></a>
 
 ###### Article 310 HL
 
@@ -11781,7 +11809,7 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-##### VI : Etablissement de la taxe<a id=208></a>
+##### VI : Etablissement de la taxe<a id=209></a>
 
 ###### Article 310 HP
 
@@ -11837,7 +11865,7 @@ _Codifié par_:
   - HISTO: Edition du 1er janvier 2003
 
 
-##### VII : Annualité de la taxe<a id=209></a>
+##### VII : Annualité de la taxe<a id=210></a>
 
 ###### Article 310 HS
 
@@ -11869,11 +11897,11 @@ _Cité par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### Section III : Règles d'évaluation de la valeur locative des biens imposables<a id=210></a>
+##### Section III : Règles d'évaluation de la valeur locative des biens imposables<a id=211></a>
 
-##### I : Évaluation des propriétés bâties<a id=211></a>
+##### I : Évaluation des propriétés bâties<a id=212></a>
 
-##### A : Locaux d'habitation ou à usage professionnel<a id=212></a>
+##### A : Locaux d'habitation ou à usage professionnel<a id=213></a>
 
 ###### Article 310 I
 
@@ -11917,7 +11945,7 @@ _Modifié par_:
   - Loi n°82-540 du 28 juin 1982 - art. 23 (V) JORF 29 juin 1982
 
 
-##### B : Immobilisations industrielles<a id=213></a>
+##### B : Immobilisations industrielles<a id=214></a>
 
 ###### Article 310 J bis
 
@@ -12001,7 +12029,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 333 A (V)
 
 
-##### C : Locaux commerciaux et établissements industriels<a id=214></a>
+##### C : Locaux commerciaux et établissements industriels<a id=215></a>
 
 ###### Article 310 M
 
@@ -12025,7 +12053,7 @@ IV. – La valeur locative des immobilisations de référence est déterminée s
 
 
 
-##### II : Évaluation des propriétés non bâties. Règles particulières à la révision quinquennale (1970-1974)<a id=215></a>
+##### II : Évaluation des propriétés non bâties. Règles particulières à la révision quinquennale (1970-1974)<a id=216></a>
 
 ###### Article 310 quater
 
@@ -12066,7 +12094,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1515 (VT)
 
 
-##### A : Mode de détermination des coefficients d'adaptation applicables à la valeur locative cadastrale des propriétés non bâties<a id=216></a>
+##### A : Mode de détermination des coefficients d'adaptation applicables à la valeur locative cadastrale des propriétés non bâties<a id=217></a>
 
 ###### Article 310 decies
 
@@ -12256,7 +12284,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 terdecies (VT)
 
 
-##### B : Procédure d'établissement des coefficients d'adaptation<a id=217></a>
+##### B : Procédure d'établissement des coefficients d'adaptation<a id=218></a>
 
 ###### Article 310 novodecies
 
@@ -12379,7 +12407,7 @@ rétroactivement accordés aux intéressés; au cas contraire, il n'est procéd�
   - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 
 
-##### III : Dispositions communes aux biens passibles des impôts directs locaux<a id=218></a>
+##### III : Dispositions communes aux biens passibles des impôts directs locaux<a id=219></a>
 
 ###### Article 310 unvicies
 
@@ -12393,11 +12421,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1518 (V)
 
 
-##### Section IV : Autres taxes communales<a id=219></a>
+##### Section IV : Autres taxes communales<a id=220></a>
 
-##### I : Redevance communale des mines<a id=220></a>
+##### I : Redevance communale des mines<a id=221></a>
 
-##### 1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux<a id=221></a>
+##### 1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux<a id=222></a>
 
 ###### Article 312
 
@@ -12454,7 +12482,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 sexies (V)
 
 
-##### 2° : Répartition du produit de la redevance : les hydrocarbures liquides et gazeux<a id=222></a>
+##### 2° : Répartition du produit de la redevance : les hydrocarbures liquides et gazeux<a id=223></a>
 
 ###### Article 315
 
@@ -12491,9 +12519,9 @@ _Cité par_:
   - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 
 
-#### Chapitre II : Enregistrement<a id=223></a>
+#### Chapitre II : Enregistrement<a id=224></a>
 
-##### Section I : Taxe locale d'équipement<a id=224></a>
+##### Section I : Taxe locale d'équipement<a id=225></a>
 
 ###### Article 317 ter
 
@@ -12518,9 +12546,9 @@ _Cite_:
   - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
 
 
-### Titre VI : Taxes parafiscales<a id=225></a>
+### Titre VI : Taxes parafiscales<a id=226></a>
 
-#### Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés.<a id=226></a>
+#### Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés.<a id=227></a>
 
 ###### Article 342
 
@@ -12659,7 +12687,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.<a id=227></a>
+#### Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.<a id=228></a>
 
 ###### Article 348
 
@@ -12710,7 +12738,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.<a id=228></a>
+#### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.<a id=229></a>
 
 ###### Article 360
 
@@ -12744,7 +12772,7 @@ _Modifié par_:
   - Décret n°82-1213 du 30 décembre 1982 - art. 4 (P) JORF 4 JANVIER 1983
 
 
-#### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.<a id=229></a>
+#### Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.<a id=230></a>
 
 ###### Article 363 AA
 
@@ -12862,7 +12890,7 @@ _Créé par_:
   - Décret n°82-732 du 23 août 1982 - art. 2 (V) JORF 25 AOUT 1982
 
 
-#### Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier.<a id=230></a>
+#### Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier.<a id=231></a>
 
 ###### Article 363 AF
 
@@ -12884,11 +12912,11 @@ _Créé par_:
   - Décret n°82-733 du 23 août 1982 - art. 2 (P) JORF 25 AOUT 1982
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=231></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=232></a>
 
-### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=232></a>
+### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=233></a>
 
-#### Section I : Centres de gestion agréés<a id=233></a>
+#### Section I : Centres de gestion agréés<a id=234></a>
 
 ###### Article 371 A
 
@@ -13446,7 +13474,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### Section II : Associations agréées des professions libérales<a id=234></a>
+#### Section II : Associations agréées des professions libérales<a id=235></a>
 
 ###### Article 371 M
 
@@ -13786,7 +13814,7 @@ _Cite_:
   - Décret n°77-1519 du 31 décembre 1977 - art. 8 (V)
 
 
-### Chapitre I ter : Centre de formalités des entreprises<a id=235></a>
+### Chapitre I ter : Centre de formalités des entreprises<a id=236></a>
 
 ###### Article 371 AA
 
@@ -14102,7 +14130,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-### Chapitre II : Sociétés immobilières de copropriété<a id=236></a>
+### Chapitre II : Sociétés immobilières de copropriété<a id=237></a>
 
 ###### Article 372
 
@@ -14229,7 +14257,7 @@ _Cite_:
   - CGIAN2 372
 
 
-### Chapitre III : Compétence des fonctionnaires de la direction générale des impôts.<a id=237></a>
+### Chapitre III : Compétence des fonctionnaires de la direction générale des impôts.<a id=238></a>
 
 ###### Article 376
 
@@ -14264,15 +14292,15 @@ _Abrogé par_:
   - HISTO: Edition du 11 avril 1997
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=238></a>
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=239></a>
 
-## IMPOTS D'ETAT<a id=239></a>
+## IMPOTS D'ETAT<a id=240></a>
 
-### IMPOTS DIRECTS<a id=240></a>
+### IMPOTS DIRECTS<a id=241></a>
 
-#### IMPOT SUR LE REVENU<a id=241></a>
+#### IMPOT SUR LE REVENU<a id=242></a>
 
-##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.<a id=242></a>
+##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.<a id=243></a>
 
 ###### Article 16 A
 
@@ -14392,7 +14420,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### REVENU GLOBAL.<a id=243></a>
+##### REVENU GLOBAL.<a id=244></a>
 
 ###### Article 75-0 H
 
@@ -14646,7 +14674,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-##### CALCUL DE L'IMPOT.<a id=244></a>
+##### CALCUL DE L'IMPOT.<a id=245></a>
 
 ###### Article 93
 
@@ -14784,9 +14812,9 @@ _Créé par_:
   - Décret n°83-389 du 16 mai 1983 - art. 10 (V) JORF 17 MAI 1983
 
 
-#### IMPOTS SUR LE REVENU<a id=245></a>
+#### IMPOTS SUR LE REVENU<a id=246></a>
 
-##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.<a id=246></a>
+##### DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.<a id=247></a>
 
 ###### Article 74 B bis
 
@@ -14833,9 +14861,9 @@ _Codifié par_:
   - Décret n°83-899 1983-10-06
 
 
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*<a id=247></a>
+#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*<a id=248></a>
 
-##### DETERMINATION DU BENEFICE IMPOSABLE.<a id=248></a>
+##### DETERMINATION DU BENEFICE IMPOSABLE.<a id=249></a>
 
 ###### Article 96
 
@@ -14924,7 +14952,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 69 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 
-##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.<a id=249></a>
+##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.<a id=250></a>
 
 ###### Article 110
 
@@ -15015,9 +15043,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES<a id=250></a>
+#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES<a id=251></a>
 
-##### IMPUTATION DE L'IMPOT SUR LE REVENU *IR* (RETENUE A LA SOURCE) SUR LE MONTANT DE L'IMPOT SUR LES SOCIETES *IS*.<a id=251></a>
+##### IMPUTATION DE L'IMPOT SUR LE REVENU *IR* (RETENUE A LA SOURCE) SUR LE MONTANT DE L'IMPOT SUR LES SOCIETES *IS*.<a id=252></a>
 
 ###### Article 140
 
@@ -15036,11 +15064,11 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=252></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=253></a>
 
-#### IMPOT SUR LE REVENU<a id=253></a>
+#### IMPOT SUR LE REVENU<a id=254></a>
 
-##### REVENU GLOBAL.<a id=254></a>
+##### REVENU GLOBAL.<a id=255></a>
 
 ###### Article 84
 
@@ -15074,9 +15102,9 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*<a id=255></a>
+#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS*<a id=256></a>
 
-##### DETERMINATION DU BENEFICE IMPOSABLE.<a id=256></a>
+##### DETERMINATION DU BENEFICE IMPOSABLE.<a id=257></a>
 
 ###### Article 102 J
 
@@ -15128,7 +15156,7 @@ _Modifié par_:
   - Loi n°83-1179 du 29 décembre 1983 - art. 113 (V) JORF 30 décembre 1983
 
 
-##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.<a id=257></a>
+##### INCIDENCE DES RESULTATS DES EXPLOITATIONS DIRECTES OU INDIRECTES SITUEES A L'ETRANGER.<a id=258></a>
 
 ###### Article 126
 
@@ -15217,9 +15245,9 @@ _Abrogé par_:
   - Décret n°88-1052 du 18 novembre 1988 - art. 1 (V) JORF 22 novembre 1988
 
 
-#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES<a id=258></a>
+#### IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES<a id=259></a>
 
-##### BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE *PARADIS FISCAL* (*).<a id=259></a>
+##### BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE *PARADIS FISCAL* (*).<a id=260></a>
 
 ###### Article 102 Z
 
@@ -15274,7 +15302,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
 
 
-#### TAXE D'APPRENTISSAGE.<a id=260></a>
+#### TAXE D'APPRENTISSAGE.<a id=261></a>
 
 ###### Article 140 C
 
@@ -15465,9 +15493,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### TAXE SUR LES SALAIRES<a id=261></a>
+#### TAXE SUR LES SALAIRES<a id=262></a>
 
-##### OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES.<a id=262></a>
+##### OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES.<a id=263></a>
 
 ###### Article 145 bis
 
@@ -15506,7 +15534,7 @@ _Cite_:
   - PEREMPTION: Loi n°87-416 du 17 juin 1987 - art. 24 (V) JORF 18 juin 1987 : dispositions devenues sans objet
 
 
-#### PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.<a id=263></a>
+#### PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.<a id=264></a>
 
 ###### Article 163 quindecies
 
@@ -15533,7 +15561,7 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-#### TAXE SUR LES ENCOURS DE CREDITS.<a id=264></a>
+#### TAXE SUR LES ENCOURS DE CREDITS.<a id=265></a>
 
 ###### Article 163 A
 
@@ -15722,7 +15750,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
 
 
-#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES.<a id=265></a>
+#### DISPOSITIONS COMMUNES A L'IMPOT SUR LE REVENU ET A L'IMPOT SUR LES SOCIETES.<a id=266></a>
 
 ###### Article 171
 
@@ -16040,11 +16068,11 @@ _Créé par_:
   - Décret n°82-263 du 23 mars 1982 - art. 4 (V) JORF 25 mars 1982
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES<a id=266></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES<a id=267></a>
 
-#### TAXE SUR LA VALEUR AJOUTEE *TVA*<a id=267></a>
+#### TAXE SUR LA VALEUR AJOUTEE *TVA*<a id=268></a>
 
-##### CHAMP D'APPLICATION<a id=268></a>
+##### CHAMP D'APPLICATION<a id=269></a>
 
 ###### Article 178 A
 
@@ -16133,7 +16161,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### LIQUIDATION DE LA TAXE.<a id=269></a>
+##### LIQUIDATION DE LA TAXE.<a id=270></a>
 
 ###### Article 215
 
@@ -16498,7 +16526,7 @@ _Modifié par_:
   - Décret n°82-633 du 21 juillet 1982 - art. 1 (V) JORF 23 JUILLET 1982
 
 
-##### OBLIGATIONS DES REDEVABLES<a id=270></a>
+##### OBLIGATIONS DES REDEVABLES<a id=271></a>
 
 ###### Article 242 septies L
 
@@ -16517,7 +16545,7 @@ _Modifié par_:
   - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
 
 
-##### DISPOSITIONS PARTICULIERES AUX OPERATIONS CONCOURANT A LA PRODUCTION OU A LA LIVRAISON D'IMMEUBLES.<a id=271></a>
+##### DISPOSITIONS PARTICULIERES AUX OPERATIONS CONCOURANT A LA PRODUCTION OU A LA LIVRAISON D'IMMEUBLES.<a id=272></a>
 
 ###### Article 253
 
@@ -16561,9 +16589,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### CONTRIBUTIONS INDIRECTES<a id=272></a>
+### CONTRIBUTIONS INDIRECTES<a id=273></a>
 
-#### BOISSONS - VINS ET CIDRES.<a id=273></a>
+#### BOISSONS - VINS ET CIDRES.<a id=274></a>
 
 ###### Article 267 octies
 
@@ -16600,7 +16628,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### REGIME ECONOMIQUE DE L'ALCOOL.<a id=274></a>
+#### REGIME ECONOMIQUE DE L'ALCOOL.<a id=275></a>
 
 ###### Article 269
 
@@ -16721,9 +16749,9 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-#### MONOPOLES FISCAUX<a id=275></a>
+#### MONOPOLES FISCAUX<a id=276></a>
 
-##### TABACS.<a id=276></a>
+##### TABACS.<a id=277></a>
 
 ###### Article 275 B
 
@@ -16764,9 +16792,9 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-### MONOPOLES FISCAUX<a id=277></a>
+### MONOPOLES FISCAUX<a id=278></a>
 
-#### TABACS.<a id=278></a>
+#### TABACS.<a id=279></a>
 
 ###### Article 286 C
 
@@ -16785,9 +16813,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=279></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=280></a>
 
-#### AUTRES DROITS ET TAXES.<a id=280></a>
+#### AUTRES DROITS ET TAXES.<a id=281></a>
 
 ###### Article 310 C
 
@@ -16810,7 +16838,7 @@ _Modifié par_:
   - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
 
 
-#### REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE.<a id=281></a>
+#### REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE.<a id=282></a>
 
 ###### Article 310 G
 
@@ -16867,9 +16895,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384-0 A bis (V)
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=282></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=283></a>
 
-### IMPOSITIONS COMMUNALES<a id=283></a>
+### IMPOSITIONS COMMUNALES<a id=284></a>
 
 ###### Article 311
 
@@ -17133,7 +17161,7 @@ _Codifié par_:
   - Décret n°85-1007 1985-09-24
 
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=284></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=285></a>
 
 ###### Article 310 HC
 
@@ -17180,7 +17208,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### IMPOSITIONS DEPARTEMENTALES<a id=285></a>
+### IMPOSITIONS DEPARTEMENTALES<a id=286></a>
 
 ###### Article 317 nonies
 
@@ -17305,7 +17333,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985 : la taxe spéciale est supprimée
 
 
-### IMPOSITIONS LOCALES<a id=286></a>
+### IMPOSITIONS LOCALES<a id=287></a>
 
 ###### Article 317 quindecies
 
@@ -17338,7 +17366,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985, dispositions devenues sans objet
 
 
-### IMPOSITIONS REGIONALES<a id=287></a>
+### IMPOSITIONS REGIONALES<a id=288></a>
 
 ###### Article 317 octodecies
 
@@ -17401,7 +17429,7 @@ _Créé par_:
   - Loi n°83-1179 1983-12-29 art. 26 Finances pour 1984 JORF 30 décembre 1983
 
 
-### FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE.<a id=288></a>
+### FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE.<a id=289></a>
 
 ###### Article 327 DA
 
@@ -17513,7 +17541,7 @@ _Abrogé par_:
   - Décret n°85-260 1985-02-22 art. 16 JORF 24 février 1985
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS.<a id=289></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS.<a id=290></a>
 
 ###### Article 317 A
 
@@ -17713,9 +17741,9 @@ _Modifié par_:
   - Décret n°83-1074 1983-12-13 art. 1 JORF 15 décembre 1983
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=290></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=291></a>
 
-### FIXATION DES TAUX A RETENIR POUR LE CALCUL DES IMPOSITIONS DIRECTES LOCALES.<a id=291></a>
+### FIXATION DES TAUX A RETENIR POUR LE CALCUL DES IMPOSITIONS DIRECTES LOCALES.<a id=292></a>
 
 ###### Article 327 A
 
@@ -17738,7 +17766,7 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-### FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE.<a id=292></a>
+### FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE.<a id=293></a>
 
 ###### Article 327 B
 
@@ -17857,7 +17885,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.<a id=293></a>
+### DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*.<a id=294></a>
 
 ###### Article 327 AA
 
@@ -18287,7 +18315,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.<a id=294></a>
+## IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.<a id=295></a>
 
 ###### Article 335
 
@@ -19754,7 +19782,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### TAXES PARAFISCALES.<a id=295></a>
+### TAXES PARAFISCALES.<a id=296></a>
 
 ###### Article 345
 
@@ -19959,9 +19987,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*<a id=296></a>
+## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*<a id=297></a>
 
-### OBLIGATIONS DES CONTRIBUABLES.<a id=297></a>
+### OBLIGATIONS DES CONTRIBUABLES.<a id=298></a>
 
 ###### Article 368 A
 
@@ -20129,7 +20157,7 @@ chargement des marchandises. Il doit être conservé par le destinataire.
   - HISTO: EDITION 1979-07-01
 
 
-### ARTISANS *DEFINITION*.<a id=298></a>
+### ARTISANS *DEFINITION*.<a id=299></a>
 
 ###### Article 369
 
@@ -20186,7 +20214,7 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-### ARTISANS.<a id=299></a>
+### ARTISANS.<a id=300></a>
 
 ###### Article 370
 
@@ -20217,7 +20245,7 @@ _Codifié par_:
   - Décret n°86-1086 1986-10-07
 
 
-### CENTRES DE GESTION AGREES.<a id=300></a>
+### CENTRES DE GESTION AGREES.<a id=301></a>
 
 ###### Article 371 B
 
@@ -20245,7 +20273,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-### ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.<a id=301></a>
+### ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.<a id=302></a>
 
 ###### Article 371 Q
 
@@ -20344,13 +20372,13 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-# Livre II : Recouvrement de l'impôt<a id=302></a>
+# Livre II : Recouvrement de l'impôt<a id=303></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=303></a>
+## Chapitre premier : Paiement de l'impôt<a id=304></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=304></a>
+### Section I : Impôts directs et taxes assimilées<a id=305></a>
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu.<a id=305></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu.<a id=306></a>
 
 ###### Article 376 bis
 
@@ -20369,7 +20397,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=306></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=307></a>
 
 ###### Article 376 quater
 
@@ -20438,7 +20466,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France.<a id=307></a>
+#### II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France.<a id=308></a>
 
 ###### Article 378
 
@@ -20471,7 +20499,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=308></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=309></a>
 
 ###### Article 379
 
@@ -20578,9 +20606,9 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=309></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=310></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=310></a>
+#### I : Taxe sur la valeur ajoutée<a id=311></a>
 
 ###### Article 383 ter
 
@@ -20607,7 +20635,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-#### II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.<a id=311></a>
+#### II : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.<a id=312></a>
 
 ###### Article 383 quater
 
@@ -20635,9 +20663,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=312></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=313></a>
 
-#### 00I : Droit forfaitaire de délivrance d'ampliation.<a id=313></a>
+#### 00I : Droit forfaitaire de délivrance d'ampliation.<a id=314></a>
 
 ###### Article 384-00 A
 
@@ -20660,9 +20688,9 @@ _Codifié par_:
   - Décret n°2000-477 2000-06-02
 
 
-#### I : Dation en paiement<a id=314></a>
+#### I : Dation en paiement<a id=315></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=315></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=316></a>
 
 ###### Article 384 A
 
@@ -20709,7 +20737,7 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=316></a>
+#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=317></a>
 
 ###### Article 384 E
 
@@ -20741,7 +20769,7 @@ _Cite_:
   - Code de l'urbanisme - art. L333-12
 
 
-#### II : Participation en cas de dépassement du coefficient d'occupation du sol.<a id=317></a>
+#### II : Participation en cas de dépassement du coefficient d'occupation du sol.<a id=318></a>
 
 ###### Article 384 quinquies
 
@@ -20786,9 +20814,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Chapitre I bis : Pénalités<a id=318></a>
+## Chapitre I bis : Pénalités<a id=319></a>
 
-### Section I : Commission des infractions fiscales<a id=319></a>
+### Section I : Commission des infractions fiscales<a id=320></a>
 
 ###### Article 384 septies-0 A
 
@@ -20870,7 +20898,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu.<a id=320></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu.<a id=321></a>
 
 ###### Article 384 septies A
 
@@ -20893,9 +20921,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Chapitre II : Procédures<a id=321></a>
+## Chapitre II : Procédures<a id=322></a>
 
-### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=322></a>
+### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=323></a>
 
 ###### Article 385
 
@@ -20921,11 +20949,11 @@ _Abrogé par_:
   - Décret n°2011-1302 du 14 octobre 2011 - art. 4
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=323></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=324></a>
 
-### Section I : Dispositions particulières aux droits d'enregistrement<a id=324></a>
+### Section I : Dispositions particulières aux droits d'enregistrement<a id=325></a>
 
-#### Restitution du droit d'apport.<a id=325></a>
+#### Restitution du droit d'apport.<a id=326></a>
 
 ###### Article 396 ter
 
@@ -20957,7 +20985,7 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=326></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=327></a>
 
 ###### Article 396 duodecies
 
@@ -21082,9 +21110,9 @@ prépondérante.
 
 
 
-### Section II : Juridiction gracieuse<a id=327></a>
+### Section II : Juridiction gracieuse<a id=328></a>
 
-#### Comité du contentieux fiscal, douanier et des changes.<a id=328></a>
+#### Comité du contentieux fiscal, douanier et des changes.<a id=329></a>
 
 ###### Article 396 quindecies
 
@@ -21109,7 +21137,7 @@ _Codifié par_:
   - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
 
 
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.<a id=329></a>
+## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts.<a id=330></a>
 
 ###### Article 408
 
@@ -21176,11 +21204,11 @@ contrôleur.
 
 
 
-# RECOUVREMENT DE L'IMPOT<a id=330></a>
+# RECOUVREMENT DE L'IMPOT<a id=331></a>
 
-## PAIEMENT DE L'IMPOT<a id=331></a>
+## PAIEMENT DE L'IMPOT<a id=332></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=332></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=333></a>
 
 ###### Article 383
 
@@ -21289,7 +21317,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=333></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=334></a>
 
 ###### Article 384 B
 
@@ -21512,7 +21540,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## SURETES ET PRIVILEGES.<a id=334></a>
+## SURETES ET PRIVILEGES.<a id=335></a>
 
 ###### Article 396 bis
 
@@ -21646,9 +21674,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=335></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=336></a>
 
-### JURIDICTION GRACIEUSE.<a id=336></a>
+### JURIDICTION GRACIEUSE.<a id=337></a>
 
 ###### Article 396 quaterdecies
 
