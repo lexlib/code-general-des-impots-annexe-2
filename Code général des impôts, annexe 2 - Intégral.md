@@ -1,7 +1,7 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1977-12-31
+Version Consolidée au 1978-01-04
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 125)](#1)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 371 QA)](#1)
     - [Première partie : Impôts d'Etat (art. 27 à 125)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 27 à 125)](#3)
         - [Chapitre premier : Impôt sur le revenu (art. 27)](#4)
@@ -12,11 +12,16 @@ Version Consolidée au 1977-12-31
           - [Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger (art. 111 à 125)](#9)
             - [I : Régime du bénéfice mondial. (art. 111)](#10)
             - [III : Dispositions communes. (art. 125)](#11)
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 91 bis)](#12)
-    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#13)
-      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#14)
-        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#15)
-          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#16)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 371 QA)](#12)
+      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 QA)](#13)
+        - [Section II : Associations agréées des professions libérales (art. 371 QA)](#14)
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 81 bis à 371 Q)](#15)
+    - [IMPOTS D'ETAT (art. 81 bis à 91 bis)](#16)
+      - [IMPOTS DIRECTS (art. 81 bis à 91 bis)](#17)
+        - [IMPOT SUR LE REVENU (art. 81 bis à 91 bis)](#18)
+          - [REVENU GLOBAL. (art. 81 bis à 91 bis)](#19)
+    - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES* (art. 371 Q)](#20)
+      - [ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES. (art. 371 Q)](#21)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -148,15 +153,65 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=12></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=12></a>
 
-## IMPOTS D'ETAT<a id=13></a>
+### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=13></a>
 
-### IMPOTS DIRECTS<a id=14></a>
+#### Section II : Associations agréées des professions libérales<a id=14></a>
 
-#### IMPOT SUR LE REVENU<a id=15></a>
+###### Article 371 QA
 
-##### REVENU GLOBAL.<a id=16></a>
+Les statuts doivent comporter des clauses selon lesquelles les associations s'engagent :
+
+1° A ne faire aucune publicité, sauf dans les journaux et bulletins professionnels ;
+
+2° A faire figurer sur leur correspondance et sur tous les documents établis par leurs soins leur qualité d'associations
+agréées et les références de la décision d'agrément ;
+
+3° A informer l'administration fiscale des modifications apportées à leurs statuts et des changements intervenus en ce qui
+concerne les personnes qui les dirigent ou les administrent, dans le délai d'un mois à compter de la réalisation de ces
+modifications ou changements ; pour ces personnes, l'association doit fournir à l'administration fiscale le certificat prévu
+à l'article 371 D ;
+
+4° A souscrire un contrat auprès d'une société d'assurances ou d'un assureur agréé en application du livre III du code des
+assurances les garantissant contre les conséquences pécuniaires de la responsabilité civile professionnelle qu'elles peuvent
+encourir en raison des négligences et fautes commises dans l'exercice de leurs activités ;
+
+5° A exiger de toute personne collaborant à leurs travaux le respect du secret professionnel ;
+
+6° Au cas où l'agrément leur serait retiré, à en informer leurs adhérents dès réception de la notification de la décision de
+retrait d'agrément.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°77-1519 du 31 décembre 1977 - art. 9 (Ab) JORF 4 janvier 1978
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 R (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z septies (V)
+
+
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=15></a>
+
+## IMPOTS D'ETAT<a id=16></a>
+
+### IMPOTS DIRECTS<a id=17></a>
+
+#### IMPOT SUR LE REVENU<a id=18></a>
+
+##### REVENU GLOBAL.<a id=19></a>
 
 ###### Article 81 bis
 
@@ -232,5 +287,70 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°84-875 1984-10-01
+
+
+## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*<a id=20></a>
+
+### ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.<a id=21></a>
+
+###### Article 371 Q
+
+Les statuts de l'association précisent les conditions de participation à sa gestion des personnes ou organismes fondateurs.
+
+Les statuts des associations doivent contenir les clauses suivantes :
+
+1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
+développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales ;
+
+2° L'association élabore pour ceux de ses membres adhérents qui relèvent d'un régime réel d'imposition les déclarations
+relatives à leur activité professionnelle destinées à l'administration fiscale, lorsque ces membres en font la demande.
+
+Toutefois, ces déclarations ne peuvent porter que sur une période au cours de laquelle les intéressés étaient membres de
+l'association ;
+
+3° L'adhésion à l'association implique :
+
+a. L'engagement par les membres soumis à un régime réel d'imposition de suivre les recommandations qui leur ont été
+adressées, conformément aux articles 371 X à 371 Z, par les ordres et organisations dont ils relèvent, en vue d'améliorer la
+connaissance des revenus de leurs ressortissants ;
+
+b. L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
+celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ;
+
+c. L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, mais qui remplissent les
+conditions pour prétendre à l'abattement prévu à l'article 158-4 ter du code général des impôts, de communiquer à
+l'association, préalablement à l'envoi au service des impôts de la déclaration prévue à l'article 97 du même code, le montant
+du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ;
+
+d. L'autorisation donnée à l'association de communiquer à l'agent de l'administration fiscale qui apporte son assistance
+technique à l'association les renseignements ou documents mentionnés au présent article ;
+
+e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
+devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 158 4 ter
+  - CGI 97
+  - CGIAN2 371 X
+  - CGIAN2 371 Y
+  - CGIAN2 371 Z
+
+_Modifié par_:
+
+  - Décret n°77-1519 du 31 décembre 1977 - art. 7 (Ab) JORF 4 JANVIER 1978
+  - Décret n°77-1519 du 31 décembre 1977 - art. 8 (Ab) JORF 4 JANVIER 1978
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Arrêté du 25 novembre 2010 - art. (Ab)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexies (V)
 
 
