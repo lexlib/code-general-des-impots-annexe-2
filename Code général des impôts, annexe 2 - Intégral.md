@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-01-29
+Version Consolidée au 1984-02-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -14620,28 +14620,26 @@ Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinq
 
 1° Les agents de change ;
 
-La banque française du commerce extérieur ;
+La Banque française du commerce extérieur ;
 
-La banque de France ;
+La Banque de France ;
 
-Les banques inscrites ;
+Les établissements de crédits ;
 
-La caisse centrale des banques populaires et les banques populaires agréés par elle ;
+La Caisse centrale des banques populaires et les banques populaires agréés par elle ;
 
-La caisse centrale de crédit coopératif ;
+La Caisse centrale de crédit coopératif ;
 
-La caisse centrale du crédit mutuel et les caisses fédérales du crédit mutuel ;
+La Caisse centrale du Crédit mutuel et les caisses fédérales du Crédit mutuel ;
 
-La caisse des dépôts et consignations pour ses opérations et pour celles des caisses d'épargne réalisées dans le cadre de
+La Caisse des dépôts et consignations pour ses opérations et pour celles des caisses d'épargne réalisées dans le cadre de
 leurs statuts ;
 
-La caisse nationale de crédit agricole et les caisses régionales de crédit agricole mutuel ;
+La Caisse nationale de Crédit agricole et les caisses régionales de Crédit agricole mutuel ;
 
-Le crédit foncier communal d'Alsace et de Lorraine ;
+Le Crédit foncier communal d'Alsace et de Lorraine ;
 
-Le crédit foncier de France ;
-
-Les établissements financiers autorisés à effectuer des opérations sur titres ;
+Le Crédit foncier de France ;
 
 2° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de
 l'actionnariat des salariés ;
@@ -14654,7 +14652,8 @@ Les sociétés à responsabilité limitée pour la souscription de leurs parts ;
 Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
 
 Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 de la loi n°
-66-537 du 24 juillet 1966 sur les sociétés commerciales.
+66-537 du 24 juillet 1966 sur les sociétés commerciales.          Les sociétés coopératives et leurs unions mentionnées à
+l'article 199 quinquies-0 A du code général des impôts pour la souscription ou la cession de leurs parts ou actions.
 
 **Liens relatifs à cet article**
 
@@ -14662,15 +14661,17 @@ _Cite_:
 
   - CGI 199 quinquies
   - CGI 199 quinquies C
+  - CGI 199 quinquies-0 A
   - Loi n°66-537 1966-07-24 ART. 95, ART. 130
-
-_Créé par_:
-
-  - Décret n°83-389 1983-05-16 ART. 2 JORF 17 MAI 1983
 
 _Codifié par_:
 
-  - Décret n°83-899 1983-10-06
+  - Décret n°84-875 1984-10-01
+
+_Modifié par_:
+
+  - Loi n°84-46 1984-01-24 art. 15, art. 94 II JORF 25 janvier 1984
+  - Décret n°84-110 du 17 février 1984 - art. 1 (V) JORF 18 février 1984
 
 
 ###### Article 95 D
@@ -14681,21 +14682,23 @@ Pour les ventes fermes, la date d'effet de l'opération est celle de l'encaissem
 Les autres opérations ne sont prises en compte que si elles se concluent par la sortie effective de valeurs du patrimoine du
 cédant. La date est alors celle de la livraison des titres.
 
-Le prix de vente est diminué des frais inhérents à l'opération.
+Le prix de vente est diminué des frais inhérents à l'opération.          Le remboursement aux associés de parts ou actions
+par les sociétés coopératives visées à l'article 199 quinquies-0 A du code général des impôts est assimilé à une cession à
+titre onéreux.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGIAN2 95 C
+  - CGI 199 quinquies-0 A
 
 _Codifié par_:
 
-  - Décret n°83-899 1983-10-06
+  - Décret n°84-875 1984-10-01
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-389 du 16 mai 1983 - art. 4 (V) JORF 17 MAI 1983
+  - Décret n°84-110 du 17 février 1984 - art. 2 (V) JORF 18 février 1984
 
 
 ###### Article 95 J
