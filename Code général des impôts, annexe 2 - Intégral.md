@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-04-13
+Version Consolidée au 1980-05-10
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -16500,25 +16500,27 @@ d'application de cette disposition.
 
 ###### Article 345
 
-Il est institué jusqu'au 31 décembre 1979 au profit de l'association dite comité professionnel interrégional de l'horlogerie
-ainsi que du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison
-ou d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, définis à l'article
-346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
+Il est institué jusqu'au 31 décembre 1980 [*date limite*] au profit de l'association dite comité professionnel interrégional
+de l'horlogerie ainsi que du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de
+vente, de livraison ou d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume,
+définis à l'article 346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
 
-Cette taxe ne s'applique pas aux articles d'occasion et aux articles exportés (1).
-
-1) Taxe perçue à compter de la date d'entrée en vigueur du décret n° 77-348 du 28 mars 1977 (J.O. du 1er avril).
+Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés. Sa perception sur les articles
+importés de la Communauté économique européenne [*CEE*] donne lieu à remboursement.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGIAN2 346
-  - Décret n°77-348 1977-03-28
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°80-329 1980-05-07 ART. 2 JORF 10 MAI 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 346
@@ -16555,10 +16557,10 @@ _Modifié par_:
 ###### Article 347
 
 Le taux de la taxe est fixé par un arrêté conjoint du ministre chargé de l'économie et des finances et du ministre de
-l'industrie et de la recherche, dans la limite de 0,70 % de la valeur de vente pour l'association dite comité professionnel
-interrégional de l'horlogerie et de 0,25 % de la valeur de vente pour le centre technique de l'industrie horlogère (1).
+l'industrie et de la recherche, dans la limite de 0,80 % de la valeur de vente pour l'association dite comité professionnel
+interrégional de l'horlogerie et de 0,30 % de la valeur de vente pour le centre technique de l'industrie horlogère (1).
 
-1) Annexe IV, art. 159 AL bis.
+(1) Annexe IV, art. 159 AL bis.
 
 **Liens relatifs à cet article**
 
@@ -16566,9 +16568,13 @@ _Cite_:
 
   - CGIAN4 159 AL bis
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°80-329 1980-05-07 ART. 2 JORF 10 MAI 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 350
