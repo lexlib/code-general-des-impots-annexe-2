@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-11-22
+Version Consolidée au 1989-04-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -21342,28 +21342,6 @@ _Modifié par_:
 
 **Liens**:
 
-  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
-
-
-###### Article 163 B
-
-Pour l'application des articles 235 ter O et 235 ter P du code général des impôts, les crédits à moyen et long terme
-[*définition*] sont les crédits consentis pour une durée initiale supérieure à deux ans.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 235 ter O
-  - CGI 235 ter P
-
-_Codifié par_:
-
-  - Décret n°89-801 1989-10-27
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
   - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988, article devenu sans objet, incorporé le 14 juillet 1989
 
 
