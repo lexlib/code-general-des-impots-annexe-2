@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2001-03-31
+Version Consolidée au 2001-04-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -10063,13 +10063,34 @@ _Abrogé par_:
 
 ###### Article 179
 
-Transféré sous l'article 260 D de la même annexe.
+Pour l'application du d du 4° de l'articles 261 D du code général des impôts, les locaux d'habitation du village résidentiel
+de tourisme doivent avoir été achevés depuis plus de neuf ans.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 261 D
+
 _Nouveaux textes_:
 
-  - CGIAN2 260 D
+  - CGIAN2 178 bis
+
+_Créé par_:
+
+  - Décret n°2001-343 du 19 avril 2001 - art. 2 () JORF 21 avril 2001
+
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
+_Transféré par_:
+
+  - Décret n°2002-923 du 6 juin 2002 - art. 2 () JORF 8 juin 2002
+
+**Liens**:
+
+  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article 180
