@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-01-23
+Version Consolidée au 1988-03-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -76,7 +76,7 @@ Version Consolidée au 1988-01-23
           - [Section V : Sociétés de capital-risque. (art. 140 ter)](#73)
         - [Chapitre II bis : Taxe d'apprentissage (art. 140 A à 140 M)](#74)
           - [I : Déclaration des employeurs (art. 140 A à 140 B)](#75)
-          - [II : Demande d'exonération. (art. 140 EA à 140 I)](#76)
+          - [II : Demande d'exonération. (art. 140 E à 140 I)](#76)
           - [III : Calcul des exonérations. (art. 140 J à 140 K)](#77)
           - [IV : Régimes spéciaux. (art. 140 M)](#78)
         - [Chapitre III : Taxe sur les salaires (art. 141 à 145)](#79)
@@ -5955,6 +5955,36 @@ l'entreprise.
 
 ##### II : Demande d'exonération.<a id=76></a>
 
+###### Article 140 E
+
+Le reçu de l'organisme bénéficiaire des versements est daté du jour où le versement a été fait; il est extrait d'un carnet à
+souches, porte un numéro d'ordre et indique la somme réellement affectée aux frais énumérés à l'article 5 du décret mentionné
+au 5° de l'article 140 D, ainsi que l'année à laquelle il se rapporte.
+
+Dans le délai de quinze jours à compter de la délivrance du reçu, l'organisme bénéficiaire du versement adresse au préfet
+dont il relève la copie de ce reçu. Cette copie porte l'indication du montant total des sommes que l'organisme a touchées au
+titre de la taxe d'apprentissage depuis le 1er janvier de l'année en cours.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 140 D
+  - Décret n°72-283 du 12 avril 1972 - art. 5 (M)
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 140 EA
 
 L'entreprise doit également joindre à la demande d'exonération le reçu libératoire délivré par les chambres de commerce et
@@ -5980,6 +6010,47 @@ _Créé par_:
   - HISTO: Edition du 10 juillet 1983
   - HISTO: Edition du 11 avril 1997
   - PEREMPTION: Loi n°96-376 du 6 mai 1996 - art. 7 (V) JORF 7 mai 1996
+
+
+###### Article 140 F
+
+Les demandes d'exonération sont transmises par le service des impôts au préfet qui en saisit le comité départemental de la
+formation professionnelle, de la promotion sociale et de l'emploi.
+
+Ce comité est, dans tous les cas, celui du département du lieu de dépôt de la déclaration.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 140 G
+
+La décision du comité départemental est motivée. Elle est notifiée par le préfet à l'intéressé et au service des impôts.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 140 I
@@ -15757,8 +15828,8 @@ Le produit total de la taxe de balayage ne peut dépasser les dépenses occasion
 superficie des voies livrées à la circulation publique qui incombe aux propriétaires riverains, chacun au droit de sa façade,
 sur une largeur égale à celle de la moitié desdites voies, sans pouvoir, toutefois, excéder six mètres.
 
-Le tarif de la taxe est délibéré en conseil municipal, après enquête, et approuvé par arrêté du commissaire de la République.
-Il est révisé tous les cinq ans.
+Le tarif de la taxe est délibéré en conseil municipal, après enquête, et approuvé par arrêté du préfet. Il est révisé tous
+les cinq ans.
 
 La valeur des propriétés n'entre pas en compte dans l'établissement de la taxe, qui repose uniquement sur les nécessités de
 la circulation, de la salubrité et de la propreté de la voie publique.
@@ -15768,13 +15839,21 @@ règlements de police en temps de neige et de glace.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - CGIAN1 289
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 _Codifié par_:
 
-  - Décret n°87-940 1987-11-23
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+_Abrogé par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 97
 
 
 #### Chapitre II : Enregistrement<a id=255></a>
@@ -20735,66 +20814,6 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
-
-
-###### Article 140 E
-
-Le reçu de l'organisme bénéficiaire des versements est daté du jour où le versement a été fait; il est extrait d'un carnet à
-souches, porte un numéro d'ordre et indique la somme réellement affectée aux frais énumérés à l'article 5 du décret mentionné
-à l'article 140-D-5o, ainsi que l'année à laquelle il se rapporte.
-
-Dans le délai de quinze jours à compter de la délivrance du reçu, l'organisme bénéficiaire du versement adresse au
-commissaire de la République dont il relève la copie de ce reçu. Cette copie porte l'indication du montant total des sommes
-que l'organisme a touchées au titre de la taxe d'apprentissage depuis le 1er janvier de l'année en cours.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 140 D 5°
-  - Décret n°72-283 du 12 avril 1972 - art. 5 (M)
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
-
-###### Article 140 F
-
-Les demandes d'exonération [*de taxe d'apprentissage*] sont transmises par le service des impôts au commissaire de la
-République qui en saisit le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi.
-
-Ce comité est, dans tous les cas, celui du département du lieu de dépôt de la déclaration [*compétence*].
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
-
-###### Article 140 G
-
-La décision du comité départemental [*de la formation professionnelle, de la promotion sociale et de l'emploi*] est motivée.
-Elle est notifiée par le commissaire de la République à l'intéressé et au service des impôts.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
 
 
 ###### Article 140 H
