@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1980-02-15
+Version Consolidée au 1980-04-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -144,9 +144,9 @@ Version Consolidée au 1980-02-15
           - [Production (art. 267 nonies)](#141)
             - [Mesurage des appareils et vaisseaux. (art. 267 nonies)](#142)
         - [Chapitre premier : Régime économique de l'alcool (art. 272 à 275 bis)](#143)
-        - [Chapitre II : Monopoles fiscaux (art. 281 à 286 E)](#144)
-          - [Section unique : Tabacs (art. 281 à 286 E)](#145)
-            - [I : Régime économique. (art. 281 à 284)](#146)
+        - [Chapitre II : Monopoles fiscaux (art. 276 à 286 E)](#144)
+          - [Section unique : Tabacs (art. 276 à 286 E)](#145)
+            - [I : Régime économique. (art. 276 à 284)](#146)
             - [II : Régime fiscal. (art. 286 à 286 E)](#147)
         - [Chapitre II : Tabacs (art. 282 à 286 G)](#148)
           - [I : Régime économique (art. 282 à 285)](#149)
@@ -250,8 +250,8 @@ Version Consolidée au 1980-02-15
       - [CONTRIBUTIONS INDIRECTES (art. 267 octies à 273)](#247)
         - [BOISSONS - VINS ET CIDRES. (art. 267 octies)](#248)
         - [REGIME ECONOMIQUE DE L'ALCOOL. (art. 268 à 273)](#249)
-      - [MONOPOLES FISCAUX (art. 276 à 286 C)](#250)
-        - [TABACS. (art. 276 à 286 C)](#251)
+      - [MONOPOLES FISCAUX (art. 283 à 286 C)](#250)
+        - [TABACS. (art. 283 à 286 C)](#251)
       - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 303 à 310 G)](#252)
         - [AUTRES DROITS ET TAXES. (art. 303 à 310 C)](#253)
         - [REGIMES SPECIAUX ET EXONERATIONS DE PORTEE GENERALE. (art. 310 F ter à 310 G)](#254)
@@ -8335,6 +8335,90 @@ _Cité par_:
 
 ##### I : Régime économique.<a id=146></a>
 
+###### Article 276
+
+Toute personne physique ou morale ayant l'intention d'importer ou de commercialiser en gros des tabacs manufacturés en
+provenance des Etats membres de la Communauté économique européenne [*CEE*] et originaires de ces Etats ou mis en libre
+pratique dans l'un de ceux-ci obtient, sur sa demande, un numéro d'identification sous réserve qu'elle remplisse les
+conditions requises pour l'exercice d'une profession commerciale et fournisse une caution solvable garantissant à
+l'administration fiscale le paiement de la retenue sur remise prévue à l'article 281.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 281
+
+_Modifié par_:
+
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
+
+_Cité par_:
+
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 F (V)
+
+
+###### Article 277
+
+La demande de numéro d'identification doit indiquer l'identité ou la raison sociale du demandeur, l'adresse de son domicile,
+de son siège social ou de son établissement commercial sur le territoire d'un Etat membre de la Communauté économique
+européenne [*CEE*] et, le cas échéant, l'adresse en France de l'établissement commercial qu'il possède ou du domicile du
+représentant habilité à satisfaire à sa place les obligations qui lui incombent [*mentions obligatoires*].
+
+S'il s'agit d'une personne morale, la demande doit en outre être accompagnée d'un exemplaire des statuts.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
+
+
+###### Article 278
+
+La demande est adressée au directeur général des impôts qui, après s'être assuré que le dossier est complet, notifie son
+numéro d'identification au fournisseur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
+
+
+###### Article 279
+
+Si le fournisseur cesse de remplir les conditions fixées ou commet une infraction aux dispositions du code général des
+impôts, notamment de son article 570, le directeur général des impôts peut lui retirer son numéro d'identification après
+l'avoir mis à même de présenter ses observations.
+
+Ce retrait entraîne, à compter de sa notification par lettre recommandée avec avis de réception postal, outre l'interdiction
+de procéder à l'importation et à la commercialisation en gros des tabacs manufacturés, l'obligation d'établir un inventaire
+des quantités de tabacs en stock à la date de cette notification, à l'exclusion de celles qui sont en entrepôt douanier. Cet
+inventaire est remis à l'administration fiscale au plus tard dans les cinq jours de la notification. Le fournisseur dispose
+alors d'un délai de trois mois pour écouler le stock compris dans l'inventaire ainsi que celui qu'il détient en entrepôt
+douanier.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
+
+
+###### Article 280
+
+La direction générale des impôts met la liste des débitants à la disposition des fournisseurs pourvus d'un numéro
+d'identification.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°80-262 du 3 avril 1980 - art. 1 () JORF 13 AVRIL 1980
+
+
 ###### Article 281
 
 La remise due par le fournisseur au débitant lui est allouée sous déduction d'une retenue correspondant aux redevances
@@ -13777,111 +13861,6 @@ _Codifié par_:
 ### MONOPOLES FISCAUX<a id=250></a>
 
 #### TABACS.<a id=251></a>
-
-###### Article 276
-
-Toute personne physique ou morale qui demande l'agrément en qualité de fournisseur, prévu par l'article 569 du code général
-des impôts, doit remplir les conditions requises pour l'exercice d'une profession commerciale et fournir une caution solvable
-qui s'engage solidairement avec elle au paiement, à l'administration fiscale, de la retenue sur remise prévue à l'article
-281.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 569
-  - CGIAN2 281
-  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-_Cité par_:
-
-  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 286 F (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 277
-
-La demande d'agrément doit indiquer l'identité ou la raison sociale de la personne demanderesse et le lieu en France, selon
-le cas, de son domicile, de son siège social ou de son établissement commercial stable.
-
-S'il s'agit d'une personne morale la demande doit être accompagnée d'un exemplaire des statuts.
-
-Elle est adressée au directeur général des impôts qui, après s'être assuré que le dossier est complet, en délivre récépissé.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Cite_:
-
-  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-
-###### Article 278
-
-La décision d'agrément est prise, dans un délai de quatre mois à compter de la délivrance du récépissé [*point de départ*],
-par le directeur général des impôts [*autorité compétente*]. Celui-ci peut informer la demanderesse qu'un délai
-complémentaire d'un mois lui est nécessaire pour se prononcer sur la demande d'agrément.
-
-L'absence de décision dans le délai fixé vaut octroi de l'agrément [*tacite*].
-
-Le refus d'agrément doit être motivé [*obligation de motivation*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Cite_:
-
-  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-
-###### Article 279
-
-L'agrément peut être retiré si le fournisseur a cessé de remplir l'une des conditions fixées à l'article 276 ou en cas
-d'infraction aux dispositions de l'article 570 du code général des impôts.
-
-Le retrait d'agrément entraîne, à compter de sa notification par lettre recommandée, outre l'interdiction de procéder à
-l'importation et à la commercialisation en gros des tabacs manufacturés, l'obligation d'établir un inventaire des quantités
-de tabacs en stock à la date de cette notification, à l'exclusion de celles qui sont en entrepôt douanier. Cet inventaire est
-remis à l'administration fiscale au plus tard dans les cinq jours de la notification [*délai*]. Le fournisseur dispose alors
-d'un délai de trois mois pour écouler le stock compris dans l'inventaire ainsi que celui qu'il détient en entrepôt douanier.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 570
-  - CGIAN2 276
-  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 280
-
-L'administration des impôts met à la disposition des fournisseurs agréés la liste des débitants désignés comme ses préposés.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Cite_:
-
-  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-
 
 ###### Article 283
 
