@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-07-25
+Version Consolidée au 1984-11-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -236,7 +236,7 @@ Version Consolidée au 1984-07-25
           - [Section unique : Taxe différentielle sur les véhicules à moteur. (art. 317 decies à 317 undecies)](#233)
       - [Titre VI : Taxes parafiscales (art. 342 à 363 AF)](#234)
         - [Chapitre III : Fonds d'orientation et de régularisation des marchés agricoles - Taxe sur les produits résineux et produits dérivés. (art. 342 à 344)](#235)
-        - [Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère. (art. 348 à 349)](#236)
+        - [Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère. (art. 348 à 350)](#236)
         - [Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles. (art. 360)](#237)
         - [Chapitre VII : Taxe parafiscale pour le financement de certains organismes interprofessionnels de vins. (art. 361 bis)](#238)
         - [Chapitre XI : Taxe parafiscale de stockage du secteur céréalier. (art. 363 AA à 363 Z)](#239)
@@ -305,7 +305,7 @@ Version Consolidée au 1984-07-25
       - [FONDS DE PEREQUATION DE LA TAXE PROFESSIONNELLE. (art. 327 B à 327 D)](#302)
       - [DISPOSITIONS RELATIVES A LA FISCALITE DIRECTE LOCALE APPLICABLES DANS LES DEPARTEMENTS D'OUTRE-MER *DOM*. (art. 327 AA à 327 Z)](#303)
     - [IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES. (art. 335 à 368)](#304)
-      - [TAXES PARAFISCALES. (art. 345 à 368)](#305)
+      - [TAXES PARAFISCALES. (art. 347 à 368)](#305)
     - [DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES* (art. 368 A à 371 W)](#306)
       - [OBLIGATIONS DES CONTRIBUABLES. (art. 368 A à 368 E)](#307)
       - [ARTISANS *DEFINITION*. (art. 369 à 371)](#308)
@@ -13205,6 +13205,35 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 350
+
+Les dispositions des articles 282 et 282 bis du code général des impôts ne sont pas applicables à la taxe ; toutefois lorsque
+les entreprises bénéficient de la franchise définie au 1 de l'article 282 précité, la taxe n'est pas mise en recouvrement.
+
+**Nota:**
+
+[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 282 1
+  - CGI 282 bis
+
+_Modifié par_:
+
+  - Décret n°84-1018 du 19 novembre 1984 - art. 6 (V) JORF 20 novembre 1984
+
+_Codifié par_:
+
+  - Décret n°91-883 1991-09-09
+
+**Liens**:
+
+  - PEREMPTION: Décret n°91-883 du 9 septembre 1991 - art. 2 () JORF 10 septembre 1991
+
+
 #### Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.<a id=237></a>
 
 ###### Article 360
@@ -18944,6 +18973,67 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
 
 
+###### Article 345
+
+Il est institué jusqu'au 31 décembre 1985 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
+ainsi que du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison
+ou d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, définis à l'article
+346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
+
+Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés. Sa perception sur les articles
+importés de la Communauté économique européenne [*CEE*] donne lieu à remboursement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 346
+
+_Modifié par_:
+
+  - Décret n°84-1018 du 19 novembre 1984 - art. 1 (V) JORF 20 novembre 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+
+###### Article 346
+
+Les opérations passibles de la taxe parafiscale sont celles visées à l'article 345 et portant sur les produits figurant au
+groupe 34-01 des nomenclatures approuvées par les décrets n° 73-1036 du 9 novembre 1973 et 83-831 du 5 septembre 1983 à
+l'exclusion :
+
+a. De l'ensemble des produits mentionnés à la rubrique 34-01-12 ;
+
+b. Des produits visés à la rubrique 34-01-13 sous l'appellation "appareils de contrôle et compteurs de temps à mouvement
+singulier d'horlogerie ou à moteur synchrone tels que enregistreurs de présence, horodateurs, contrôleurs de rondes,
+minutiers, compteurs de secondes ;
+
+c. Des produits suivants rangés sous la rubrique 34-01-15 "munis d'un moteur synchrone permettant de déclencher un mécanisme
+à temps donné tels que interrupteurs horaires, horaires, horloges de commutation."
+
+**Nota:**
+
+[*Nota : la table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 345
+  - Décret n°73-1036 1973-11-09
+  - Décret n°83-831 1983-09-05
+
+_Modifié par_:
+
+  - Décret n°84-1018 du 19 novembre 1984 - art. 2 (V) JORF 20 novembre 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+
 ###### Article 357 A
 
 En vue d'encourager dans les industries textiles la recherche, l'innovation et la rénovation des structures industrielles et
@@ -20234,103 +20324,21 @@ _Codifié par_:
 
 ### TAXES PARAFISCALES.<a id=305></a>
 
-###### Article 345
-
-Il est institué jusqu'au 31 décembre 1982 [*date limite*] au profit du comité professionnel de développement de l'horlogerie
-ainsi que du centre technique de l'industrie horlogère une taxe parafiscale unique sur les opérations de vente, de livraison
-ou d'échange (à l'identique ou à l'équivalent) des produits de l'horlogerie de petit ou de gros volume, définis à l'article
-346, réalisées par les personnes assujetties à la taxe sur la valeur ajoutée.
-
-Cette taxe parafiscale ne s'applique pas aux articles d'occasion, ni aux articles exportés. Sa perception sur les articles
-importés de la Communauté économique européenne [*CEE*] donne lieu à remboursement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 346
-
-_Modifié par_:
-
-  - Décret n°81-903 1981-10-05 ART. 1, ART. 2 JORF 7 OCTOBRE 1981
-
-_Codifié par_:
-
-  - Décret n°82-881 1982-10-15
-
-
-###### Article 346
-
-Les produits sur lesquels porte la taxe sont les suivants :
-
-1° L'horlogerie de petit volume :
-
-- montres de poche, montres-bracelets et similaires, y compris les compteurs de temps du même type, mécaniques, électriques,
-électroniques et autres, mouvements et modules de montres terminés ou non terminés ainsi que tous les éléments constitutifs
-des appareils horaires de petit volume, boîtes et bracelets inclus, même vendus séparément ;
-
-2° L'horlogerie de gros volume dite domestique :
-
-- réveils et horloges mécaniques, électriques ou électroniques, installations de distribution d'heure, pièces détachées,
-composants, mouvements et modules pour ces réveils et horloges lorsqu'ils sont vendus séparément, à l'exclusion :
-
-- des appareils de contrôle et compteurs de temps à mouvement singulier d'horlogerie ou à moteur synchrone (enregistreurs de
-présence, horodateurs, contrôleurs de rondes, minutiers, compteurs de secondes),     - des appareils munis d'un mouvement
-d'horlogerie ou d'un moteur synchrone permettant de déclencher un mécanisme à temps donné (interrupteurs horaires, horloges
-de commutation),     - des appareils destinés à un tableau ou une planche de bord automobile.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°81-903 1981-10-15 ART. 1 JORF 7 OCTOBRE 1981
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 347
 
-Le taux de la taxe est fixé par un arrêté conjoint du ministre chargé de l'économie et des finances et du ministre de
-l'industrie et de la recherche, dans la limite de 0,80 % de la valeur de vente pour le comité professionnel de développement
-de l'horlogerie et de 0,30 % de la valeur de vente pour le centre technique de l'industrie horlogère (1).
-
-(1) Annexe IV, art. 159 AL bis.
+Le taux de la taxe est fixé par un arrêté conjoint des ministres chargés de l'économie, du budget et du redéploiement
+industriel et du commerce extérieur dans la limite de 0,70 % de la valeur de vente pour le comité professionnel de
+développement de l'horlogerie et de 0,25 % de la valeur de vente pour le centre technique de l'industrie horlogère.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGIAN4 159 AL bis
-
 _Modifié par_:
 
-  - Décret n°81-903 1981-10-05 ART. 1, ART. 3 JORF 7 OCTOBRE 1981
+  - Décret n°84-1018 du 19 novembre 1984 - art. 3 (V) JORF 20 novembre 1984
 
 _Codifié par_:
 
-  - Décret n°82-881 1982-10-15
-
-
-###### Article 350
-
-Les dispositions de l'article 282 du code général des impôts ne sont pas applicables à la taxe. Toutefois, pour les
-entreprises qui bénéficient de la franchise définie au 1 de cet article, la taxe n'est pas mise en recouvrement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 282 1
-
-_Modifié par_:
-
-  - Décret n°81-903 1981-10-05 ART. 1 JORF 7 OCTOBRE 1981
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
+  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 363 A
