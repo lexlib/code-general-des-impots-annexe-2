@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2002-03-31
+Version Consolidée au 2002-08-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -22,7 +22,7 @@ Version Consolidée au 2002-03-31
               - [12 : Régime simplifié d'imposition (art. 38 bis)](#19)
             - [II : Traitements et salaires (art. 39)](#20)
               - [1° Titres-restaurant (art. 39)](#21)
-            - [III : Revenus des capitaux mobiliers (art. 40 à 60 A)](#22)
+            - [III : Revenus des capitaux mobiliers (art. 40 à 60 B)](#22)
               - [1 : Détermination de la masse des revenus distribués (art. 40 à 47)](#23)
               - [2 : Assiette de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés à des personnes qui n'ont pas leur domicile réel ou leur siège en France (art. 48)](#24)
               - [3-0 bis : Revenus des valeurs mobilières émises hors de France et revenus assimilés (art. 50 bis à 50 ter)](#25)
@@ -30,7 +30,7 @@ Version Consolidée au 2002-03-31
               - [4 : Emission d'obligations en France par les organismes étrangers ou internationaux. Régime spécial des titres émis avant le 1er janvier 1987 (art. 51 à 53)](#27)
               - [5 : Sociétés mères et filiales (art. 54 à 56)](#28)
               - [6 : Contrôle des revenus mobiliers. Obligations des collectivités émettrices et des intermédiaires (art. 57 à 60)](#29)
-              - [7 : Sociétés de capital-risque. Obligations des actionnaires (art. 60 A)](#30)
+              - [7 : Sociétés de capital-risque. Obligations des actionnaires (art. 60 A à 60 B)](#30)
             - [V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 74-0 A à 74 S)](#31)
               - [1 : Valeurs mobilières, droits sociaux et titres assimilés (art. 74-0 A à 74-0 O)](#32)
               - [2 : Biens et droits mobiliers ou immobiliers (art. 74 A à 74 S)](#33)
@@ -2213,6 +2213,36 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 60 B
+
+I. - L'actionnaire personne physique d'une société de capital-risque informe ladite société :
+
+1° Des engagements qu'il prend en application de l'article 163 quinquies C du code général des impôts lors de la souscription
+ou de l'acquisition des actions ;
+
+2° Des modalités qu'il retient pour le réinvestissement prévu au 3° du II de l'article 163 quinquies C du code précité ;
+
+3° Des cessions d'actions de la société auxquelles il procède.
+
+II. - L'actionnaire personne morale non résidente mentionnée au b du 2 de l'article 119 bis du code général des impôts
+informe la société de capital-risque du lieu de son siège de direction effective et des modalités d'imposition des
+distributions reçues dans l'Etat où il a son siège.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 163 quinquies C, 119 bis
+
+_Créé par_:
+
+  - Décret n°2002-1030 du 29 juillet 2002 - art. 3 () JORF 6 août 2002
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2002
 
 
 ##### V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature<a id=31></a>
