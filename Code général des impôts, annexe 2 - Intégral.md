@@ -1,10 +1,10 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-10-17
+Version Consolidée au 1985-11-26
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 4 à 14 à 171 Z)](#3)
-        - [Chapitre premier : Impôt sur le revenu (art. 4 à 14 à 95 I)](#4)
+        - [Chapitre premier : Impôt sur le revenu (art. 4 à 14 à 95 J)](#4)
           - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 4 à 14 à 74 R)](#5)
             - [I bis : Bénéfices industriels et commerciaux (art. 4 à 14 à 38 bis)](#6)
               - [1 : Imposition de certains profits immobiliers (art. 3)](#7)
@@ -46,12 +46,12 @@ Version Consolidée au 1985-10-17
               - [*PERSONNES BENEFICIAIRES DE LA DEDUCTION* (art. 86)](#43)
             - [IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés (art. 91 ter)](#44)
             - [VI : Déduction des pensions alimentaires (art. 91 quinquies)](#45)
-          - [Section III : Calcul de l'impôt (art. 91 A à 95 I)](#46)
+          - [Section III : Calcul de l'impôt (art. 91 A à 95 J)](#46)
             - [I : Retenue à la source (art. 91 A à 91 B)](#47)
             - [II : Crédit d'impôt attaché aux revenus de capitaux mobiliers (art. 92 à 95)](#48)
               - [Imputation prévue aux I et II de l'article 199 ter du code général des impôts (art. 92 à 95)](#49)
-            - [III : Réductions d'impôt (art. 95 A à 95 I)](#50)
-              - [Réduction d'impôt en faveur des contribuables titulaires d'un compte d'épargne en actions. (art. 95 A à 95 I)](#51)
+            - [III : Réductions d'impôt (art. 95 A à 95 J)](#50)
+              - [Réduction d'impôt en faveur des contribuables titulaires d'un compte d'épargne en actions. (art. 95 A à 95 J)](#51)
         - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 97 à 140 bis)](#52)
           - [Section I : Détermination du bénéfice imposable (art. 97 à 102 RC)](#53)
             - [Régime fiscal temporaire des dividendes alloués aux actions représentant des apports en numéraire. (art. 102 A à 102 G)](#54)
@@ -254,10 +254,10 @@ Version Consolidée au 1985-10-17
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 16 A à 371 B)](#251)
     - [IMPOTS D'ETAT (art. 16 A à 286 C)](#252)
       - [IMPOTS DIRECTS (art. 16 A à 140)](#253)
-        - [IMPOT SUR LE REVENU (art. 16 A à 95 J)](#254)
+        - [IMPOT SUR LE REVENU (art. 16 A à 95 B)](#254)
           - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 16 A à 39 H)](#255)
           - [REVENU GLOBAL. (art. 75-0 H à 91 bis)](#256)
-          - [CALCUL DE L'IMPOT. (art. 93 à 95 J)](#257)
+          - [CALCUL DE L'IMPOT. (art. 93 à 95 B)](#257)
         - [IMPOTS SUR LE REVENU (art. 74 B bis)](#258)
           - [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS. (art. 74 B bis)](#259)
         - [IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES *IS* (art. 96 à 127)](#260)
@@ -3115,6 +3115,43 @@ _Codifié par_:
   - HISTO: Edition du 2 septembre 1994
 
 
+###### Article 95 D
+
+Pour les ventes fermes, la date d'effet de l'opération est celle de l'encaissement du prix de vente. En cas de versements
+échelonnés, il est fait application de la règle prévue à l'article 95 C.
+
+Les autres opérations ne sont prises en compte que si elles se concluent par la sortie effective de valeurs du patrimoine du
+cédant. La date est alors celle de la livraison des titres.
+
+Le prix de vente est diminué des frais inhérents à l'opération.
+
+Le remboursement aux associés de parts ou actions par les sociétés coopératives visées à l'article 199 quinquies-0 A du code
+général des impôts est assimilé à une cession à titre onéreux.
+
+Le remboursement aux sociétaires des parts de caisses de crédit agricole mutuel et des caisses de crédit mutuel agricole et
+rural régies par le titre 1er du livre V du code rural est assimilé à une cession à titre onéreux.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 199 quinquies-0 A
+  - CGIAN2 95 C
+  - Code rural livre V titre 1
+
+_Modifié par_:
+
+  - Décret n°85-1233 1985-11-22 art. 3 JORF 26 novembre 1985
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
+
+**Liens**:
+
+  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
 ###### Article 95 E
 
 Lorsqu'une opération de constitution de société ou d'augmentation de capital n'est pas réalisée et que la souscription a été
@@ -3236,6 +3273,47 @@ _Cite_:
 _Créé par_:
 
   - Décret n°83-389 du 16 mai 1983 - art. 9 (V) JORF 17 MAI 1983
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
+
+**Liens**:
+
+  - PEREMPTION: Péremption incorporée dans l'édition du 2 septembre 1994
+
+
+###### Article 95 J
+
+L'intermédiaire agréé chez lequel le compte d'épargne en actions a été ouvert ainsi que les intermédiaires agréés
+dépositaires de valeurs mentionnées à l'article 199 quinquies C du code général des impôts doivent adresser à la direction
+des services fiscaux du lieu de l'établissement, avant le 16 février [*date limite*] de chaque année, un état individuel
+établi d'après un modèle fixé par l'administration.
+
+Cet état atteste, le cas échéant, que les parts des caisses de crédit agricole mutuel et des caisses de crédit mutuel
+agricole et rural mentionnées au 4° de l'article 199 quinquies -0 A du même code n'ont pas été souscrites à l'occasion d'un
+prêt. Dans le même délai, il est remis au contribuable duplicata des renseignements figurant sur cet état.
+
+Les renseignements prévus à l'article 199 quinquies F du code général des impots doivent figurer sur la déclaration faite au
+nom du client en application du 1 de l'article 242 ter du même code lorsque cette déclaration doit être souscrite (1) (2).
+
+(1) Dispositions applicables aux opérations réalisées à partir du 1er janvier 1985. (2) Voir arrêté du 13 février 1985
+relatif au traitement automatisé TD/RCM (J.O. du 15).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1985-02-13
+  - CGI 199 quinquies C
+  - CGI 199 quinquies F
+  - CGI 199 quinquies-0 A
+  - CGI 242 ter 1
+  - Loi n°84-1208 1984-12-29 ART. 110 finances pour 1985
+
+_Modifié par_:
+
+  - Décret n°85-1233 1985-11-26 art. 2 JORF 26 novembre 1985
 
 _Codifié par_:
 
@@ -15812,6 +15890,14 @@ Les gestionnaires ou dépositaires de fonds communs de placement pour la souscri
 Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 de la loi n°
 66-537 du 24 juillet 1966 sur les sociétés commerciales.          Les sociétés coopératives et leurs unions mentionnées à
 l'article 199 quinquies-0 A du code général des impôts pour la souscription ou la cession de leurs parts ou actions.
+Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
+Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
+
+**Nota:**
+
+[*Nota - L'article 25 de la loi n° 88-70 du 22 janvier 1988 dispose que dans tous les textes législatifs et réglementaires en
+vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" et "chambre syndicale des agents de change" par
+"Conseil des bourses de valeurs"*].
 
 **Liens relatifs à cet article**
 
@@ -15820,67 +15906,17 @@ _Cite_:
   - CGI 199 quinquies
   - CGI 199 quinquies C
   - CGI 199 quinquies-0 A
+  - Code rural livre V titre Ier
   - Loi n°66-537 1966-07-24 art. 95, art. 130
   - Loi n°84-46 1984-01-24 art. 99
 
-_Codifié par_:
-
-  - Décret n°85-1007 1985-09-24
-
 _Modifié par_:
 
-  - Loi n°84-1152 1984-12-21 art. 4 JORF 22 décembre 1984
+  - Décret n°85-1233 1985-11-22 art. 1 JORF 26 novembre 1985
 
+**Liens**:
 
-###### Article 95 D
-
-Pour les ventes fermes, la date d'effet de l'opération est celle de l'encaissement du prix de vente. En cas de versements
-échelonnés, il est fait application de la règle prévue à l'article 95 C.
-
-Les autres opérations ne sont prises en compte que si elles se concluent par la sortie effective de valeurs du patrimoine du
-cédant. La date est alors celle de la livraison des titres.
-
-Le prix de vente est diminué des frais inhérents à l'opération.          Le remboursement aux associés de parts ou actions
-par les sociétés coopératives visées à l'article 199 quinquies-0 A du code général des impôts est assimilé à une cession à
-titre onéreux.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 199 quinquies-0 A
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
-
-_Modifié par_:
-
-  - Décret n°84-110 du 17 février 1984 - art. 2 (V) JORF 18 février 1984
-
-
-###### Article 95 J
-
-L'intermédiaire agréé chez lequel le compte d'épargne en actions a été ouvert ainsi que les intermédiaires agréés
-dépositaires de valeurs mentionnées à l'article 199 quinquies C du code général des impôts doivent adresser à la direction
-des services fiscaux du lieu de l'établissement, avant le 16 février [*date limite*] de chaque année, un état individuel
-établi d'après un modèle fixé par l'administration.
-
-Dans le même délai, il est remis au contribuable duplicata des renseignements figurant sur cet état.    Les renseignements
-prévus à l'article 199 quinquies F du code général des impots doivent figurer sur la déclaration faite au nom du client en
-application du 1 de l'article 242 ter du même code lorsque cette déclaration doit être souscrite.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 199 quinquies C
-  - CGI 199 quinquies F
-  - CGI 242 ter 1
-
-_Modifié par_:
-
-  - Décret n°85-201 du 13 février 1985 - art. 3 () JORF 15 février 1985
+  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
 
 
 #### IMPOTS SUR LE REVENU<a id=258></a>
