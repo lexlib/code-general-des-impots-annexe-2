@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1979-07-01 00:00:01 +0200
+Version Consolidée au 1979-07-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -9925,27 +9925,6 @@ _Abrogé par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
-
-
-###### Article 59
-
-Pour l'application des dispositions des articles 57 et 58, l'inscription au compte d'un fonds commun de placement, par le
-dépositaire visé à l'article 4 du décret no 57-1342 du 28 décembre 1957, des produits des avoirs compris dans le fonds ne
-donne lieu à l'établissement d'aucun relevé. Des relevés au nom de chaque propriétaire de parts sont, par contre, établis
-dans la forme habituelle lors de la répartition prescrite par le premier alinéa de l'article 7 du décret précité.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 57
-  - CGIAN2 58
-  - Décret n°57-1342 1957-12-28 ART. 4, ART. 7 AL. 1
-  - Décret n°57-1342 du 28 décembre 1957 - art. 4 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°79-594 du 13 juillet 1979 - art. 41 (Ab) JORF 14 JUILLET 1979
 
 
 ###### Article 60
