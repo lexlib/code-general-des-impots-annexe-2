@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1988-06-29
+Version Consolidée au 1988-07-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -19001,6 +19001,28 @@ _Codifié par_:
   - HISTO: Edition du 31 mars 2001
 
 
+###### Article 363 AC
+
+La taxe est perçue par la direction générale des impôts. Elle est établie et recouvrée selon les règles et sous les garanties
+et sûretés prévues en matière de contributions indirectes, dans les conditions et délais fixés par le décret n° 59-909 du 31
+juillet 1959 relatif aux prix et modalités de paiement, de stockage et de rétrocession des céréales, et notamment son article
+25.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°59-909 du 31 juillet 1959 - art. 25 (Ab)
+
+_Modifié par_:
+
+  - Décret n°87-676 du 17 août 1987 - art. 5 (V) JORF 19 août 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+
 ###### Article 363 AD
 
 Un arrêté conjoint du ministre de l'économie et des finances, du ministre chargé du budget, et du ministre de l'agriculture
@@ -22115,31 +22137,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°82-1126 du 29 décembre 1982 - art. 20 (V) JORF 30 décembre 1982
-
-
-###### Article 363 AC
-
-La taxe est perçue par la direction générale des impôts. Elle est établie et recouvrée selon les règles et sous les garanties
-et sûretés prévues en matière de contributions indirectes, dans les conditions et délais fixés par l'article 25 du décret n°
-59-909 du 31 juillet 1959 relatif aux prix et modalités de paiement, de stockage et de rétrocession des céréales.
-
-**Nota:**
-
-[*Nota : La table des matières est modifiée par le décret de codification 85-1007 1985-09-24*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
-_Cite_:
-
-  - Décret n°59-909 du 31 juillet 1959 - art. 25 (Ab)
-
-_Créé par_:
-
-  - Décret n°82-732 du 23 août 1982 - art. 5 (V) JORF 25 AOUT 1982
 
 
 ###### Article 363 AJ
