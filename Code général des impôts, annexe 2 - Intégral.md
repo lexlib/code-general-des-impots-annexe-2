@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-01-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -103,7 +103,7 @@ Version Consolidée au 1985-01-01
           - [Section II : Assiette de la taxe (art. 203 à 204)](#100)
             - [I : Régime du forfait (art. 203 à 204)](#101)
           - [Section III : Liquidation de la taxe (art. 204 quater à 242 B)](#102)
-            - [I : Régime simplifié d'imposition (art. 204 quater à 204 ter)](#103)
+            - [I : Régime simplifié d'imposition (art. 204 quater à 204 ter A)](#103)
             - [II : Déductions (art. 205 à 242 B)](#104)
               - [1 : Modalités d'exercice (art. 205 à 229)](#105)
                 - [A : Détermination du quantum de taxe déductible (art. 205 à 206)](#106)
@@ -136,7 +136,7 @@ Version Consolidée au 1985-01-01
             - [I : Régime simplifié d'imposition (art. 242 quinquies à 242 septies J)](#133)
               - [1° : Entreprises dont l'exercice comptable coïncide avec l'année civile (art. 242 quinquies à 242 sexies)](#134)
               - [Entreprises dont l'exercice comptable coïncide avec l'année civile. (art. 242 quater)](#135)
-              - [Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile - Régime optionnel. (art. 242 septies B à 242 septies K)](#136)
+              - [Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile - Régime optionnel. (art. 242 septies A à 242 septies K)](#136)
               - [2° : Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile (art. 242 septies D à 242 septies J)](#137)
             - [II : Organismes sans but lucratif (art. 242 octies)](#138)
           - [Section IV : Dispositions particulières aux opérations concourant à la production ou à la livraison d'immeubles (art. 243 à 259)](#139)
@@ -7614,6 +7614,28 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 204 ter A
+
+Les entreprises visées au 1er alinéa du I de l'article 267 quinquies peuvent renoncer aux modalités simplifiées de
+liquidation de la taxe sur la valeur ajoutée prévues à l'article 204 ter. 
+
+L'option est exercée pour cinq ans [*durée*] : elle n'est possible qu'au terme d'une période d'imposition donnant lieu à
+régularisation. Elle doit faire l'objet d'une notification jointe à la première déclaration déposée en application du
+paragraphe I de l'article 287 du code précité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 287 I
+  - CGIAN2 204 ter
+  - CGIAN2 267 quinquies I al. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
+
+
 ##### II : Déductions<a id=104></a>
 
 ##### 1 : Modalités d'exercice<a id=105></a>
@@ -9379,6 +9401,36 @@ _Cité par_:
 
 
 ##### Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile - Régime optionnel.<a id=136></a>
+
+###### Article 242 septies A
+
+Les entreprises imposées selon le régime simplifié de liquidation des taxes sur le chiffre d'affaires peuvent, au cours des
+trois premiers mois d'un exercice, opter pour le dépôt, dans les trois mois qui suivent sa clôture [*délai d'option*], d'une
+déclaration conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au
+titre de cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies. 
+
+L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
+pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
+dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
+la clôture de l'exercice couvert par cette option.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 242 sexies
+
+_Modifié par_:
+
+  - Décret n°85-109 du 28 janvier 1985 - art. 2 () JORF 29 janvier 1985
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
+
 
 ###### Article 242 septies B
 
@@ -17220,36 +17272,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°83-1179 du 29 décembre 1983 - art. 99 (V) JORF 30 décembre 1983
-
-
-###### Article 242 septies A
-
-Les entreprises imposées selon le régime simplifié de liquidation des taxes sur le chiffre d'affaires peuvent, au cours du
-premier mois d'un exercice, opter pour le dépôt, dans les trois mois qui suivent sa clôture [*délai d'option*], d'une
-déclaration conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au
-titre de cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies. 
-
-L'option est formulée par lettre recommandée avec avis de réception adressée au service local des impôts. Elle est valable
-pour l'exercice au cours duquel elle est formulée et reconduite tacitement pour chacun des exercices suivants. Elle peut être
-dénoncée par lettre recommandée avec avis de réception adressée au service local des impôts dans le délai d'un mois qui suit
-la clôture de l'exercice couvert par cette option.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 242 sexies
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies E (Ab)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies F (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
-
-**Liens**:
-
-  - HISTO: Edition 1979-07-01
 
 
 ###### Article 242-0 B
