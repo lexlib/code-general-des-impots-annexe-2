@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-07-24
+Version Consolidée au 1984-07-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -14289,10 +14289,6 @@ tant que de besoin, précisées par arrêté (1) ;
 de l'article L 97 du livre des procédures fiscales et du décret n° 72-480 du 12 juin 1972, l'intégralité des honoraires
 effectivement perçus même s'ils ne peuvent que partiellement donner lieu à remboursement pour les assurés.
 
-A l'égard des organismes tenus d'établir des relevés récapitulatifs par praticien en application de l'article L97 du livre
-des procédures fiscales, le droit de communication ne peut, en ce qui concerne la nature des prestations fournies, porter que
-sur les mentions correspondant à la nomenclature générale des actes professionnels.
-
 (1) Annexe IV, art. 164 F quaterdecies à 164 F octovicies.
 
 **Nota:**
@@ -14310,19 +14306,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L97 (M)
   - Code pénal 378
 
-**Liens**:
-
-  - SPEC_APPLI: Conseil d'Etat 1983-03-12 N° 11413, N° 11414, N° 11466, N° 11099, N° 11100, N° 11451 : annulation du décret 77-1520 1977-12-31 art. 2, codifié à l'article 371 Y de l'annexe II du code général des impots
-  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
 _Modifié par_:
 
-  - Décret n°83-899 du 6 octobre 1983
-  - Loi n°82-1126 du 29 décembre 1982 - art. 73 () JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+  - Décret n°84-686 du 17 juillet 1984, v. init.
 
 _Cité par_:
 
