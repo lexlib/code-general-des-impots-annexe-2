@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1985-03-05
+Version Consolidée au 1985-05-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 G)](#2)
@@ -316,7 +316,7 @@ Version Consolidée au 1985-03-05
         - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 quater à 376 ter)](#313)
         - [II : Versement de la retenue à la source sur les produits des actions, parts sociales et revenus assimilés versés par des personnes morales francaises à des personnes qui n'ont pas leur domicile réel ou leur siège en France. (art. 378)](#314)
         - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#315)
-        - [VI : Participation des employeurs au développement de la formation professionnelle continue (art. 383 bis D)](#316)
+        - [VI : Participation des employeurs au développement de la formation professionnelle continue (art. 383 bis A à 383 bis D)](#316)
           - [Fonds d'assurance-formation. (art. 383 bis D)](#317)
       - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter à 383 quater)](#318)
         - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#319)
@@ -5723,7 +5723,9 @@ déclarant [*mentions obligatoires*] :
 
 2° Le montant brut de la contribution incombant à l'employeur;
 
-3° Le montant des dépenses effectivement consenties en vertu des articles L 950-2 et L 950-6 du code du travail;
+3° Le montant des dépenses effectivement consenties en vertu des articles L 950-2 et L 950-6 du code du travail ainsi que le
+montant correspondant à la fraction de la participation instituée par l'article L. 950-2 du même code dont l'employeur lié
+par un engagement de développement de la formation est réputé s'acquitter ;
 
 4° La répartition de ces dépenses selon les catégories suivantes :
 
@@ -5751,7 +5753,8 @@ Versements effectués dans les conditions prévues par l'article L 235-2-4° du 
 Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle;
 
 5° Selon le cas, l'insuffisance de contribution au titre de la période considérée, ou l'excédent reportable sur les trois
-années suivantes;
+années suivantes ou l'insuffisance de contribution versée aux organismes paritaires agréés par l'Etat au titre du congé
+individuel de formation en application de l'article 235 ter H bis du code général des impôts ;
 
 6° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours de chacune des trois années
 précédentes;     7° Le cas échéant, la majoration prévue à l'article 235 ter G du code général des impôts;
@@ -5766,19 +5769,16 @@ au maintien d'une rémunération;
 
 11° La répartition de ces stagiaires :
 
-Par sexe;
+a. Par sexe ;
 
-Par catégorie d'emploi;
+b. Par catégorie d'emploi ;
 
-Par type de stages au sens de l'article L 900-2 du code du travail;
+c. Par âge ;
 
-Selon qu'ils ont bénéficié d'une formation dans l'entreprise elle-même ou en application de conventions conclues avec des
-organismes de formation.
+d. Par type d'action au sens de l'article L. 900-2 du code du travail ;
 
-12° Le nombre de jeunes travailleurs, âgés de moins de vingt ans et ayant moins de deux ans d'ancienneté dans l'entreprise,
-qui ont bénéficié d'une formation au cours de l'année.
-
-Cette déclaration doit être rédigée, en double exemplaire, sur un imprimé fourni par l'administration.
+12° Le nombre de jeunes travailleurs au sens de l'article L. 931-14 du code du travail qui ont bénéficié d'une formation au
+cours de l'année.
 
 **Liens relatifs à cet article**
 
@@ -5789,6 +5789,7 @@ _Cite_:
   - CGI 235 ter J
   - CGIAN2 163 decies
   - Code du travail - art. L900-2 (M)
+  - Code du travail - art. L931-14 (T)
   - Code du travail - art. L950-2 (M)
   - Code du travail - art. L950-6 (T)
   - Code du travail - art. R950-7 (M)
@@ -5796,11 +5797,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°84-130 1984-02-24 art. 26, art. 29 JORF 25 février 1984
+  - Décret n°85-531 1985-04-03 art. 16 JORF 18 mai 1985, Code du travail art. R950-19
 
 _Codifié par_:
 
-  - Décret n°84-875 1984-10-01
+  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 163 quaterdecies
@@ -5846,6 +5847,8 @@ l'employeur en application de l'article 235 ter H bis du code général des imp�
 défaut, le procès-verbal de carence prévu à l'article L 433-13 du code du travail ou le procès-verbal de la délibération de
 l'un des organismes prévus à l'article 163 undecies.
 
+3° Eventuellement les références de l'engagement de développement prévu à l'article L. 950-2-4 du code du travail.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -5858,11 +5861,15 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°84-130 1984-02-24 art. 26, art. 29 JORF 25 février 1984
+  - Décret n°85-531 1985-04-03 art. 17, JORF 18 mai 1985
 
 _Codifié par_:
 
-  - Décret n°84-875 1984-10-01
+  - Décret n°85-1007 1985-09-24
+
+**Liens**:
+
+  - HISTO: Code du travail art. R950-20)
 
 
 ##### IV : Régimes spéciaux<a id=81></a>
@@ -21084,6 +21091,31 @@ _Cite_:
 
 #### VI : Participation des employeurs au développement de la formation professionnelle continue<a id=316></a>
 
+###### Article 383 bis A
+
+Les versements au Trésor public mentionnés aux articles 235 ter G et 235 ter H bis du code général des impôts doivent être
+effectués à la recette des impôts compétente en application des dispositions de l'article 163 quaterdecies de la présente
+annexe.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 235 ter G, 235 H bis
+
+_Modifié par_:
+
+  - Décret n°85-531 1985-04-03 art. 18 JORF 18 mai 1985 : code du travail art. R950-22
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1985
+
+
 ##### Fonds d'assurance-formation.<a id=317></a>
 
 ###### Article 383 bis D
@@ -21906,23 +21938,6 @@ _Cité par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
-
-
-###### Article 383 bis A
-
-Les versements mentionnés à l'article 235 ter G du code général des impôts doivent être effectués à la recette des impôts
-compétente en application des dispositions de l'article 163 quaterdecies de la présente annexe.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 235 ter G
-  - CGIAN2 163 quaterdecies
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
 
 
 ###### Article 383 bis B
