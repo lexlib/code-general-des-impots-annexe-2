@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 1984-06-28
+Version Consolidée au 1984-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 4 à 14 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 4 à 14 à 310 F bis)](#2)
@@ -21358,9 +21358,9 @@ _Cite_:
 
 ###### Article 383 bis B
 
-En application de l'article R 960-31 du code du travail, les excédents de fonds mentionnés à l'article 235 ter HB du code
+En application de l'article R 964-8 du code du travail, les excédents de fonds mentionnés à l'article 235 ter HB du code
 général des impôts et non utilisés au 31 décembre d'un exercice déterminé dans les conditions prévues au deuxième alinéa de
-l'article R 960-31 précité, sont reversés au trésor avant le 30 juin de l'année suivante, accompagnés d'un bordereau
+l'article R 964-8 précité, sont reversés au trésor avant le 30 juin de l'année suivante, accompagnés d'un bordereau
 indiquant, outre la désignation et l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit être remis
 à la recette des impôts du siège du fonds d'assurance-formation.
 
@@ -21376,21 +21376,22 @@ _Cite_:
 
   - CGI 235 ter HB
   - CGIAN2 163 quindecies
-  - Code du travail R960-31 AL. 2
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
+  - Code du travail - art. R964-8 (M)
+  - Code du travail L961-9 AL. 2
 
 _Modifié par_:
 
-  - Loi n°84-130 1984-02-24 art. 11 JORF 25 février 1984
+  - Décret n°84-738 1984-07-17 art. 17 JORF 29 juillet 1984, entrée en vigueur le 1er juillet 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 383 bis C
 
-Comme il est dit à l'article R 960-32 du code du travail, les emplois de fonds qui ne répondent pas aux règles des articles R
-960-27, R 960-29 et R 960-38 du même code donnent lieu à un reversement de même montant par le fonds d'assurance-formation au
+Comme il est dit à l'article R 960-9 du code du travail, les emplois de fonds qui ne répondent pas aux règles des articles R
+964-4, R 964-6 et R 964-15 du même code donnent lieu à un reversement de même montant par le fonds d'assurance-formation au
 trésor public. La procédure applicable est celle de l'article 163 quindecies.
 
 Les pièces justificatives des recettes et des dépenses des fonds d'assurance-formation doivent être conservées pendant un
@@ -21401,14 +21402,18 @@ délai minimum de cinq ans après la clôture de l'exercice pour être présent�
 _Cite_:
 
   - CGIAN2 163 quindecies
-  - Code du travail - art. R960-27 (M)
-  - Code du travail - art. R960-29 (T)
-  - Code du travail - art. R960-32 (M)
-  - Code du travail - art. R960-38 (M)
+  - Code du travail - art. R964-15 (M)
+  - Code du travail - art. R964-4 (M)
+  - Code du travail - art. R964-6 (Ab)
+  - Code du travail - art. R964-9 (M)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°84-738 1984-07-17 art. 17 JORF 29 juillet 1984 en vigueur le 1er juillet 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
 
 
 ### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.<a id=335></a>
