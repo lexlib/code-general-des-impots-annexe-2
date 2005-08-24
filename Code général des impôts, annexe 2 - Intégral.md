@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-08-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -44,7 +44,7 @@ Version Consolidée au 2005-08-05
             - [II : Distribution de primes à la construction par les sociétés immobilières d'investissement et les sociétés immobilières de gestion (art. 83 à 84)](#41)
             - [IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés (art. 91 bis à 91 ter)](#42)
             - [V : Plan d'épargne populaire (art. 91 quater à 91 quater B)](#43)
-            - [V bis : Plan d'épargne en actions (art. 91 quater E à 91 quater J)](#44)
+            - [V bis : Plan d'épargne en actions (art. 91 quater F à 91 quater J)](#44)
             - [VI : Déduction des pensions alimentaires (art. 91 quinquies)](#45)
             - [VII : Déduction des investissements réalisés outre-mer. (art. 91 decies à 91 sexies)](#46)
           - [Section III : Calcul de l'impôt (art. 91 A à 95 V)](#47)
@@ -3745,40 +3745,6 @@ _Cite_:
 
 
 ##### V bis : Plan d'épargne en actions<a id=44></a>
-
-###### Article 91 quater E
-
-1. La date d'ouverture du plan d'épargne en actions est celle du premier versement.
-
-2. Lorsque le plan d'épargne en actions est ouvert auprès d'un organisme autre qu'une entreprise d'assurance, l'organisme
-gestionnaire du plan porte au crédit du compte en espèces les versements effectués par le titulaire, le montant des produits
-en espèces que procurent les valeurs inscrites au compte de titres associé et des avoirs fiscaux ou crédits d'impôt restitués
-par l'administration, les remboursements ainsi que le montant des ventes de ces valeurs. Il porte au débit du compte le
-montant des souscriptions ou acquisitions des valeurs inscrites au compte de titres associé et le montant des retraits en
-espèces. Les frais de gestion peuvent également être portés au débit du compte en espèces. Ce compte ne peut pas présenter un
-solde débiteur.
-
-3. Lorsque le plan est ouvert auprès d'une entreprise d'assurance, l'organisme gestionnaire enregistre dans le cadre du plan
-les versements en numéraire et les rachats du souscripteur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2000-1190 du 5 décembre 2000 - art. 3 () JORF 8 décembre 2000
-
-_Abrogé par_:
-
-  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R221-111 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-
 
 ###### Article 91 quater F
 
