@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2005-10-06
+Version Consolidée au 2005-10-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -10825,8 +10825,9 @@ la taxe qui a grevé le bien diminué d'un cinquième ou d'un vingtième s'il s'
 d'année civile écoulée depuis la date d'acquisition d'importation ou de la première utilisation du bien. Pour les immeubles
 affectés à l'habitation, le montant de la déduction est égal au montant de la taxe qui les a grevés.
 
-Le montant de la déduction prévue au présent article ne peut excéder le montant de la taxe due à raison de la cession ou de
-l'apport.
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -10836,12 +10837,19 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°95-1328 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
-  - Décret n°95-1328 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+  - Décret n°2005-1285 du 11 octobre 2005 - art. 1 () JORF 18 octobre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 **Liens**:
 
-  - HISTO: Edition du 12 mai 1996
+  - HISTO: Edition du 1er janvier 2006
+
+_Codifié par_:
+
+  - L'abrogation sera codifiée ultérieurement
 
 
 ##### A : Dispositions relatives aux biens constituant des immobilisations.<a id=131></a>
