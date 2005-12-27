@@ -10,7 +10,7 @@ la tenue du plan à la direction des services fiscaux de sa résidence, dans les
 crédit du plan.
 
 En cas de restitution d'avoirs fiscaux ou crédits d'impôt après la clôture du plan, la valeur liquidative du plan mentionnée
-au 2 du II de l'article 150-0 A du code général des impôts comprend ces sommes.
+aux 2 et 2 bis du II de l'article 150-0 A du code général des impôts comprend ces sommes.
 
 Le transfert d'un plan entre organismes gestionnaires ne fait pas perdre le droit à restitution de l'avoir fiscal et du
 crédit d'impôt. Lorsque la restitution par l'Etat intervient postérieurement au transfert, son montant est viré par le
@@ -23,10 +23,18 @@ _Cite_:
   - CGI 150-0 A
   - CGIAN2 77, 94
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1190 du 5 décembre 2000 - art. 3 () JORF 8 décembre 2000
+  - Décret n°2005-1649 du 26 décembre 2005 - art. 2 () JORF 28 décembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 1er janvier 2006
+
+_Codifié par_:
+
+  - L'abrogation sera codifiée ultérieurement
