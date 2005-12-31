@@ -6,7 +6,7 @@ intracommunautaire, s'effectue au vu d'une demande établie sur un imprimé dont
 
 Le demandeur établit que le moyen de transport est affecté aux besoins d'un résident d'un autre Etat membre.
 
-La demande est déposée auprès du centre des impôts dans le ressort duquel est situé le siège de l'activité ou, à défaut, le
+La demande est déposée auprès du service des impôts dans le ressort duquel est situé le siège de l'activité ou, à défaut, le
 domicile.
 
 Le remboursement est subordonné à la production, à l'appui de la demande :
@@ -32,10 +32,14 @@ _Cite_:
 
   - CGI 298 sexies, 242 quaterdecies, 242 undecies
 
-_Modifié par_:
-
-  - Décret n°2003-632 du 7 juillet 2003 - art. 1 () JORF 9 juillet 2003
-
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+
+_Codifié par_:
+
+  - Décret n°2006-356 2006-03-24
