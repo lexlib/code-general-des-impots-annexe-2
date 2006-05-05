@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-05-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -14320,10 +14320,11 @@ responsables d'un crédit municipal ou d'une société de ventes volontaires de 
 commissionnaires en garantie qui souhaitent être habilités à apposer eux-mêmes les poinçons de titre de la garantie sur les
 ouvrages en métaux précieux qu'ils produisent ou sur les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon
 de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace
-économique européen ou en Turquie, par un organisme indépendant selon des normes offrant des garanties suffisantes
-d'information du consommateur, qu'ils importent, introduisent en provenance d'un autre Etat membre de l'Union européenne,
-vendent ou qui leur sont confiés, doivent déposer une demande auprès de la direction régionale des douanes et droits
-indirects dont ils dépendent. Est joint à cette demande le cahier des charges mentionné à l'article 275 bis C.
+économique européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat concerné selon
+des normes identiques ou équivalentes à celles exigées en France pour le contrôle et la certification du titre, qu'ils
+importent, introduisent en provenance d'un autre Etat membre de l'Union européenne, vendent ou qui leur sont confiés, doivent
+déposer une demande auprès de la direction régionale des douanes et droits indirects dont ils dépendent. Est joint à cette
+demande le cahier des charges mentionné à l'article 275 bis C.
 
 Lorsque le dossier de candidature est complet, le directeur régional des douanes et droits indirects en délivre récépissé. Le
 rejet de la demande d'habilitation est motivé.
@@ -14342,11 +14343,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 bis C
@@ -14361,10 +14362,10 @@ définit les spécifications techniques de ce cahier des charges ;
 
 2° Le professionnel doit recourir à des organismes de contrôle agréés mentionnés au II de l'article 535 du code général des
 impôts ou à des organismes de contrôle indépendants établis dans d'autres Etats membres de l'Union européenne, dans d'autres
-Etats parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties suffisantes
-d'information du consommateur pour contrôler le titre des ouvrages sur lesquels il entend apposer le poinçon de garantie s'il
-ne souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des douanes et
-droits indirects ;
+Etats parties à l'accord instituant l'Espace économique européen ou en Turquie, offrant des garanties identiques ou
+équivalentes à celles exigées en France pour contrôler le titre des ouvrages sur lesquels il entend apposer le poinçon de
+garantie s'il ne souhaite pas effectuer ce contrôle lui-même. Il doit déclarer ces organismes à la direction régionale des
+douanes et droits indirects ;
 
 3° Le professionnel doit effectuer le poinçonnage des ouvrages dans un local présentant des mesures de sécurité adaptées au
 transport des ouvrages dans l'entreprise, à leur entreposage avant et après apposition du poinçon de garantie et à la
@@ -14383,7 +14384,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
 
 _Cité par_:
 
@@ -14394,7 +14395,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 bis D
@@ -14627,14 +14628,11 @@ _Codifié par_:
 Les organismes de contrôle mentionnés au II de l'article 535 du code général des impôts doivent obtenir un agrément pour
 pouvoir apposer le poinçon de garantie français sur les ouvrages en métaux précieux dépourvus d'un tel poinçon ou d'un
 poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant
-l'Espace économique européen ou en Turquie, par un organisme indépendant selon des normes offrant des garanties suffisantes
-d'information du consommateur.
+l'Espace économique européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat
+concerné selon des normes  identiques ou équivalentes à celles exigées en France pour le contrôle et la  certification du
+titre.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 535
 
 _Cité par_:
 
@@ -14643,11 +14641,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+
+_Cite_:
+
+  - CGI 535
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 ter A
@@ -14675,8 +14677,7 @@ _Modifié par_:
 ###### Article 275 ter B
 
 La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits
-indirects et de la direction générale de l'industrie, des technologies de l'information et des postes qui l'instruisent
-conjointement.
+indirects et de la direction générale des entreprises qui l'instruisent conjointement.
 
 Est joint à la demande un cahier des charges décrivant l'organisation de l'organisme, la procédure et les méthodes de
 contrôle et d'essai permettant de s'assurer du titre des ouvrages ainsi que les méthodes utilisées pour apposer le poinçon de
@@ -14690,7 +14691,7 @@ annuels si l'antériorité de l'organisme le permet.
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
 
 _Cité par_:
 
@@ -14699,7 +14700,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 ter C
@@ -14748,36 +14749,18 @@ _Modifié par_:
 ###### Article 275 ter E
 
 Les organismes de contrôle agréés sont placés sous le contrôle du directeur général des douanes et droits indirects et du
-directeur général de l'industrie, des technologies de l'information et des postes qui peuvent, l'un ou l'autre, sans délai, à
-titre conservatoire, suspendre l'agrément d'un organisme de contrôle qui ne respecte pas ses obligations. La procédure de
-retrait est immédiatement engagée.
-
-**Nota:**
-
-NOTA : Décret 2005-52 2005-01-26 art. 7 :
-
-Dans toutes les dispositions à caractère réglementaire relatives à la sécurité industrielle ou la métrologie, les mots : "
-direction de l'action régionale et de la petite et moyenne industrie " sont remplacés par les mots : " direction de l'action
-régionale, de la qualité et de la sécurité industrielle " et les mots :
-
-" directeur de l'action régionale et de la petite et moyenne industrie " sont remplacés par les mots : " directeur de
-l'action régionale, de la qualité et de la sécurité industrielle ".
-
-Dans toutes les autres dispositions à caractère réglementaire, les mots : " direction de l'action régionale et de la petite
-et moyenne industrie " et " direction générale de l'industrie, des technologies de l'information et des postes " sont
-remplacés par les mots : " direction générale des entreprises ", et les mots : " directeur de l'action régionale et de la
-petite et moyenne industrie " et " directeur général de l'industrie, des technologies de l'information et des postes " sont
-remplacés par les mots : " directeur général des entreprises ".
+directeur général des entreprises qui peuvent, l'un ou l'autre, sans délai, à titre conservatoire, suspendre l'agrément d'un
+organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait est immédiatement engagée.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 ter G
@@ -14841,20 +14824,24 @@ _Modifié par_:
 
 Il est institué un comité consultatif de la garantie composé des représentants des organismes de contrôle agréés, des
 organisations professionnelles représentatives, de la direction générale des douanes et droits indirects, de la direction
-générale de l'industrie, des technologies de l'information et des postes et de la direction générale de la concurrence, de la
-consommation et de la répression des fraudes. Ce comité peut être consulté par les ministres chargés du budget et de
-l'industrie sur les problèmes techniques liés au contrôle des titres et à l'apposition des poinçons de titre. Un arrêté
-conjoint de ces ministres en précise la composition et les modalités de fonctionnement.
+générale des entreprises et de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
+Ce comité peut être consulté par les ministres chargés du budget et de l'industrie sur les problèmes techniques liés au
+contrôle des titres et à l'apposition des poinçons de titre. Un arrêté conjoint de ces ministres en précise la composition et
+les modalités de fonctionnement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 ter M
@@ -14863,14 +14850,16 @@ Les organismes de contrôle agréés garantissent le titre des ouvrages selon le
 
 1° Ils apposent eux-mêmes, après essais, le poinçon de titre sur les ouvrages dépourvus du poinçon de garantie français ou
 d'un poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant
-l'Espace économique européen ou en Turquie, par un organisme indépendant suivant des normes offrant des garanties suffisantes
-d'information du consommateur ;
+l'Espace économique européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat
+concerné selon des normes identiques ou équivalentes à celles exigées en France pour le contrôle et la certification du
+titre ;
 
 2° Ils essaient et, le cas échéant, marquent les ouvrages dépourvus du poinçon de garantie français ou d'un poinçon de titre
 apposé dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord instituant l'Espace économique
-européen ou en Turquie, par un organisme indépendant suivant des normes offrant des garanties suffisantes d'information du
-consommateur apportés par des professionnels habilités par une convention passée avec l'administration dans les conditions
-prévues à l'article 535 du code général des impôts ;
+européen ou en Turquie, par un organisme indépendant ou par l'administration compétente de l'Etat concerné selon des normes
+identiques ou équivalentes à celles exigées en France pour le contrôle et la certification du titre apportés par des
+professionnels habilités par une convention passée avec l'administration dans les conditions prévues à l'article 535 du code
+général des impôts ;
 
 3° Pour les ouvrages dispensés de poinçon en application des b et c de l'article 524 bis du code général des impôts, ils
 délivrent un document certifiant le titre de l'ouvrage.
@@ -14883,11 +14872,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
+  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 ter N
