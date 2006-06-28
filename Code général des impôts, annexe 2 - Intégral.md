@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-05-28
+Version Consolidée au 2006-06-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -15547,19 +15547,27 @@ _Modifié par_:
 
 ###### Article 281
 
-La remise due par le fournisseur au débitant lui est allouée sous déduction d'une retenue correspondant aux redevances
-prévues à l'article 568 du code général des impôts et versée à l'administration des douanes et droits indirects.
+La remise mentionnée au 3° du I de l'article 570 du code général des impôts due par le fournisseur au débitant lui est
+allouée sous déduction d'un précompte versé à l'administration des douanes et droits indirects. Le précompte est composé du
+droit de licence mentionné au premier alinéa de l'article 568 du code général des impôts et de la cotisation salariale au
+régime d'allocation viagère en faveur des gérants de débits de tabac mentionnée au a de l'article 2 du décret n° 63-1104 du
+30 octobre 1963 relatif au régime d'allocations viagères des gérants de débits de tabac. 
+
+Pour la détermination du précompte, il n'est pas tenu compte de l'exonération prévue au premier alinéa de l'article 568 du
+code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-1239 1978-12-29 ART. 25 II FINANCES POUR 1979
-  - CGI 568
+  - Décret n°63-1104 du 30 octobre 1963 - art. 2 (V)
+  - Code général des impôts, CGI. - art. 568 (VT)
+  - Code général des impôts, CGI. - art. 570 (VT)
 
 _Modifié par_:
 
-  - Décret n°93-310 du 9 mars 1993 - art. 48 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
+  - Décret n°2006-742 du 27 juin 2006 - art. 2 () JORF 29 juin 2006
+  - Décret n°2006-742 du 27 juin 2006 - art. 2
 
 _Cité par_:
 
@@ -15568,7 +15576,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 282
