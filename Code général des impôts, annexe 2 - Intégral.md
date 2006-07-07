@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-06-29
+Version Consolidée au 2006-07-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -43,7 +43,7 @@ Version Consolidée au 2006-06-29
             - [II : Distribution de primes à la construction par les sociétés immobilières d'investissement et les sociétés immobilières de gestion (art. 83 à 84)](#40)
             - [IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés (art. 91 bis à 91 ter)](#41)
             - [V : Plan d'épargne populaire (art. 91 quater à 91 quater B)](#42)
-            - [V bis : Plan d'épargne en actions (art. 91 quater E à 91 quater K)](#43)
+            - [V bis : Plan d'épargne en actions (art. 91 quater E à 91 quater L)](#43)
             - [VI : Déduction des pensions alimentaires (art. 91 quinquies)](#44)
             - [VII : Déduction des investissements réalisés outre-mer. (art. 91 decies à 91 sexies)](#45)
           - [Section III : Calcul de l'impôt (art. 91 A à 95 V)](#46)
@@ -4128,6 +4128,33 @@ _Modifié par_:
 **Liens**:
 
   - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 91 quater L
+
+I. – Afin de mettre les porteurs de parts ou actionnaires des organismes mentionnés au c du 2° du I de l'article L. 221-31 du
+code monétaire et financier en mesure de justifier de l'éligibilité de leur investissement au plan d'épargne en actions, ces
+organismes ou, en l'absence de personnalité morale, leur gérant ou leur représentant à l'égard des tiers doivent s'engager,
+dans un document destiné à l'information des souscripteurs et devant être produit à l'Autorité des marchés financiers en vue
+de la commercialisation en France des titres concernés, à investir leurs actifs de manière permanente à 75 % au moins en
+titres ou droits mentionnés aux a, b et c du 1° du I de l'article L. 221-31 précité.
+
+Ils doivent en outre indiquer, dans leurs rapports annuel ou semestriel, dont l'administration peut demander la
+communication, la proportion d'investissement de leurs actifs en titres et droits mentionnés au premier alinéa effectivement
+réalisée au titre de l'année ou du semestre concerné.
+
+II. – Les porteurs de parts ou actionnaires des organismes mentionnés au I justifient de l'éligibilité de leur investissement
+au plan d'épargne en actions par la production, sur demande de l'administration, du document prévu au premier alinéa du I.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-810 du 6 juillet 2006 - art. 1 () JORF 8 juillet 2006
+
+_Cite_:
+
+  - Code monétaire et financier - art. L221-31 (VT)
 
 
 ##### VI : Déduction des pensions alimentaires<a id=44></a>
