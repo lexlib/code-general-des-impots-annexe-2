@@ -1,10 +1,10 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2006-11-23
+Version Consolidée au 2006-12-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 1 à 171 BJ)](#3)
-        - [Chapitre premier : Impôt sur le revenu (art. 1 à 95 V)](#4)
+        - [Chapitre premier : Impôt sur le revenu (art. 1 à 95 W)](#4)
           - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 1 à 74 S ter)](#5)
             - [I : Revenus fonciers (art. 1 à 1 D)](#6)
             - [I bis : Bénéfices industriels et commerciaux (art. 4 à 14 à 38 bis)](#7)
@@ -46,11 +46,11 @@ Version Consolidée au 2006-11-23
             - [V bis : Plan d'épargne en actions (art. 91 quater E à 91 quater L)](#43)
             - [VI : Déduction des pensions alimentaires (art. 91 quinquies)](#44)
             - [VII : Déduction des investissements réalisés outre-mer. (art. 91 decies à 91 sexies)](#45)
-          - [Section III : Calcul de l'impôt (art. 91 A à 95 V)](#46)
+          - [Section III : Calcul de l'impôt (art. 91 A à 95 W)](#46)
             - [I : Retenue à la source (art. 91 A à 91 B)](#47)
             - [II : Crédit d'impôt attaché aux revenus de capitaux mobiliers (art. 92 à 95)](#48)
               - [Imputation prévue aux I et II de l'article 199 ter du code général des impôts (art. 92 à 95)](#49)
-            - [III : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer (art. 95 K à 95 V)](#50)
+            - [III : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer (art. 95 K à 95 W)](#50)
         - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales (art. 100 à 140 undecies)](#51)
           - [Section I : Détermination du bénéfice imposable (art. 100 à 102 R)](#52)
             - [1° : Bénéfice imposable des caisses de crédit agricole (art. 102 H à 102 N)](#53)
@@ -4911,6 +4911,27 @@ _Créé par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 199 undecies B (V)
+
+
+###### Article 95 W
+
+Les contribuables qui bénéficient de la réduction d'impôt prévue à l'article 200 octies du code général des impôts conservent
+le document délivré par la maison de l'emploi, mentionné au troisième alinéa de l'article 200 octies précité, jusqu'à
+l'expiration du délai au cours duquel l'administration est susceptible d'exercer son droit de reprise.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 200 octies
+
+_Créé par_:
+
+  - Décret n°2006-1552 du 7 décembre 2006 - art. 2 () JORF 9 décembre 2006
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
 
 
 #### Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales<a id=51></a>
