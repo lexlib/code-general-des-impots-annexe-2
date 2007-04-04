@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-04-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -225,7 +225,7 @@ Version Consolidée au 2007-03-30
     - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 310-0 H à 333 J)](#222)
       - [Titre premier : Impositions communales (art. 310-0 H à 317 septies A)](#223)
         - [Chapitre premier : Impôts directs et taxes assimilées (art. 310-0 H à 317)](#224)
-          - [Section 0I : Taxes foncières (art. 310-0 H à 310-0 H ter)](#225)
+          - [Section 0I : Taxes foncières (art. 310-0 H à 310-00 H ter)](#225)
           - [Section I : Taxe d'habitation (art. 310 H)](#226)
           - [Section II : Taxe professionnelle (art. 310 HA à 310 HT)](#227)
             - [I : Dispositions générales (art. 310 HA)](#228)
@@ -18028,6 +18028,87 @@ _Créé par_:
 **Liens**:
 
   - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 310-00 H
+
+L'engagement de gestion prévu à l'article 1395 D du code général des impôts porte sur la conservation du caractère humide des
+parcelles ainsi que sur leur maintien en nature de prés et prairies naturels, d'herbages, de pâturages, de landes, de marais,
+de pâtis, de bruyères et de terres vaines et vagues. 
+
+Dans les zones visées au II de cet article, il porte en outre sur le respect des mesures définies en vue de la conservation
+des zones humides dans les chartes et documents de gestion ou d'objectifs approuvés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 310-00 H ter (M)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H bis (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1395 D (V)
+
+_Codifié par_:
+
+  - L'article sera codifié ultérieurement
+
+
+###### Article 310-00 H bis
+
+L'engagement de gestion prévu à l'article 1395 D du code général des impôts comporte les éléments suivants : 
+
+1° L'identité et l'adresse du redevable de la taxe foncière sur les propriétés non bâties mentionné à l'article 1400 du même
+code et, le cas échéant, celles du preneur des parcelles faisant l'objet de l'engagement de gestion ; 
+
+2° Les références cadastrales, les natures de culture et de propriété définies dans l'instruction ministérielle du 31
+décembre 1908 et la superficie des parcelles sur laquelle l'exonération de taxe foncière sur les propriétés non bâties est
+demandée ; 
+
+3° Les mesures de conservation à mettre en oeuvre en vue de respecter les engagements mentionnés à l'article 310-00 H.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 310-00 H (V)
+  - Code général des impôts, CGI. - art. 1395 D (V)
+  - Code général des impôts, CGI. - art. 1400 (V)
+
+
+###### Article 310-00 H ter
+
+1° Préalablement à son envoi au service des impôts par le propriétaire, l'engagement de gestion prévu à l'article 1395 D du
+code général des impôts doit être visé par le préfet du lieu de situation des parcelles, qui vérifie sa conformité aux
+conditions et modalités définies aux articles 310-00 H et 310-00 H bis.
+
+2° Le préfet s'assure du respect des engagements souscrits dans le cadre de l'engagement de gestion. A cet effet, les agents
+des services de l'Etat et de ses établissements publics peuvent procéder à des vérifications sur place. Ils informent le
+propriétaire et, le cas échéant, le preneur des parcelles faisant l'objet de l'engagement de gestion et leur proposent
+d'assister au contrôle.
+
+Si, lors du contrôle, l'une des obligations prévues par l'engagement de gestion n'est pas respectée, ce constat fait l'objet
+d'un signalement au service des impôts du lieu de situation de la parcelle avant le ler janvier de l'année suivant celle de
+la réalisation du contrôle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2007-511 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+
+_Codifié par_:
+
+  - L'article sera codifié ultérieurement
 
 
 ##### Section I : Taxe d'habitation<a id=226></a>
