@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2007-07-29
+Version Consolidée au 2007-08-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -23587,25 +23587,27 @@ _Cite_:
 Le deuxième alinéa de l'article R. 964-9 du code du travail est ci-après reproduit :
 
 "Art. R. 964-9 - 2è alinéa - Les emplois de fonds qui ne répondent pas aux règles des articles R. 964-1-13, R. 964-4, R.
-964-1-7, II et R. 964-15 donnent lieu à un reversement de même montant par le fonds d'assurance formation au Trésor public."
+964-1-7, II et R. 964-15 donnent lieu à un reversement de même montant par le fonds d'assurance formation ou par la chambre
+régionale de métiers et de l'artisanat et, dans les départements d'outre-mer, la chambre des métiers et de l'artisanat au
+Trésor public."
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
 _Modifié par_:
 
-  - Décret n°2005-330 du 6 avril 2005 - art. 3 () JORF 8 avril 2005
-
-_Cite_:
-
-  - Code du travail - art. R964-9 (M)
+  - Décret n°2007-1267 du 24 août 2007 - art. 2 () JORF 25 août 2007
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - DISJONCTION: Décret n°2008-294 du 1er avril 2008 - art. 2
+
+_Cite_:
+
+  - Code du travail - art. R964-9
+
+_Codifié par_:
+
+  - L'article sera codifié ultérieurement
 
 
 #### VII : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.<a id=303></a>
