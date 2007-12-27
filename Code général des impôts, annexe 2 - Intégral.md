@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2007-11-25
+Version Consolidée au 2007-12-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -21326,7 +21326,10 @@ _Cite_:
 ###### Article 371 B
 
 Le nombre des adhérents d'un centre doit être au minimum de cent personnes physiques ou morales ayant la qualité
-d'industriel, de commerçant, d'artisan ou d'agriculteur et imposées à l'impôt sur le revenu d'après leur bénéfice réel.
+d'industriel, de commerçant, d'artisan ou d'agriculteur et imposées à l'impôt sur le revenu d'après leur bénéfice réel ainsi
+que tous les contribuables qui disposent de revenus non professionnels imposés dans la catégorie des bénéfices industriels et
+commerciaux, soumis au régime simplifié d'imposition selon le bénéfice réel ou le régime normal d'imposition selon le
+bénéfice réel.
 
 L'agrément d'un centre pourra n'être pas renouvelé si le nombre des adhérents n'atteint pas trois cents dans un délai de
 trois ans à compter de la date d'agrément.
@@ -21334,7 +21337,7 @@ trois ans à compter de la date d'agrément.
 En ce qui concerne les centres prévus aux II, III et IV de l'article 1649 quater D du code général des impôts, ces nombres
 sont respectivement fixés à soixante-quinze et cent cinquante.
 
-Il n'est pas exigé d'effectif minimum des centres créés dans les départements d'outre-mer [*DOM*].
+Il n'est pas exigé d'effectif minimum des centres créés dans les départements d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -21344,7 +21347,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°86-548 du 14 mars 1986 - art. 1 (V) JORF 18 mars 1986
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 5
 
 _Cité par_:
 
