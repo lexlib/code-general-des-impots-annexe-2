@@ -4,24 +4,25 @@ Ne peuvent bénéficier des modalités simplifiées de liquidation de la taxe su
 
 - les importations ;
 
-- les opérations visées aux 6°, 7° et 7° bis de l'article 257 du code général des impôts ;
+- les opérations visées aux 6°, 7°, 7° bis et 7° quater de l'article 257 du code général des impôts ;
 
-- les opérations effectuées à titre occasionnel.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+- les opérations effectuées à titre occasionnel, y compris les manifestations de bienfaisance ou de soutien organisées par
+les organismes agissant sans but lucratif désignés au a du 1° du 7 de l'article 261 du code général des impôts.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 257, 261
+
 _Modifié par_:
 
-  - Décret n°99-545 du 30 juin 1999 - art. 2 () JORF 1er juillet 1999
+  - Décret n°2007-566 du 16 avril 2007 - art. 1 () JORF 19 avril 2007 en vigueur le 1er janvier 2008
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 267 quinquies (V)
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 31 mars 2000
+  - L'article sera codifié ultérieurement
