@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2008-02-15
+Version Consolidée au 2008-03-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -870,28 +870,32 @@ _Cite_:
 
 ###### Article 17
 
-Les dépenses et charges mentionnées à l'article 39 octies du code général des impôts peuvent être admises en déduction pour
-la détermination des bénéfices imposables afférents à l'exercice au cours duquel est créé l'établissement ou le bureau et à
-chacun des deux exercices suivants.
+Pour l'application des dispositions de l'article 39 bis A du code général des impôts, sont regardées comme se consacrant
+principalement ou pour une large part à l'information politique et générale les publications réunissant les caractéristiques
+suivantes : 
+
+1° Apporter de façon permanente sur l'actualité politique et générale, locale, nationale ou internationale des informations
+et des commentaires tendant à éclairer le jugement des citoyens ; 
+
+2° Consacrer la majorité de leur surface rédactionnelle à cet objet ; 
+
+3° Présenter un intérêt dépassant d'une façon manifeste les préoccupations d'une catégorie de lecteurs.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°96-556 1996-06-21
-
-**Liens**:
-
-  - PEREMPTION: Décret n°96-556 du 21 juin 1995 - art. 3 () JORF 23 juin 1996
-  - TXT_ASSOCIE: Décret n°96-632 du 16 juillet 1996 - art. 1 ()
-  - HISTO: EDITION 1979-07-01
-  - HISTO: Edition du 12 mai 1996
 
 _Cité par_:
 
   - Décret n°97-1065 du 20 novembre 1997 - art. 1-1 (V)
   - Décret n°2012-484 du 13 avril 2012 - art. 9 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G-0 bis (V)
+
+_Modifié par_:
+
+  - Décret n°2008-260 du 14 mars 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 39 bis A
 
 
 ##### 6 : Amortissement dégressif des biens d'équipement<a id=14></a>
