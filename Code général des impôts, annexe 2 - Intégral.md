@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2008-08-31
+Version Consolidée au 2008-10-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -287,23 +287,24 @@ Version Consolidée au 2008-08-31
       - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#284)
         - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#285)
       - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 F)](#286)
-        - [I : Dation en paiement (art. 384 A à 384 A ter)](#287)
+        - [I : Dation en paiement (art. 384 A à 384 A quater)](#287)
           - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#288)
           - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#289)
           - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#290)
-        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 B à 384 F)](#291)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#292)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#293)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#294)
-    - [Chapitre II : Procédures (art. 385 à 396 A)](#295)
-      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#296)
-      - [III : Dispositions communes (art. 396 A)](#297)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#298)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#299)
-      - [Section II : Redressement judiciaire. (art. 396 bis A)](#300)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#301)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#302)
-    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#303)
+          - [4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement (art. 384 A quater)](#291)
+        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 B à 384 F)](#292)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#293)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#294)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#295)
+    - [Chapitre II : Procédures (art. 385 à 396 A)](#296)
+      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#297)
+      - [III : Dispositions communes (art. 396 A)](#298)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#299)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#300)
+      - [Section II : Redressement judiciaire. (art. 396 bis A)](#301)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#302)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#303)
+    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#304)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -22112,7 +22113,77 @@ _Créé par_:
   - Décret n°2003-281 du 24 mars 2003 - art. 1 () JORF 29 mars 2003
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=291></a>
+##### 4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement<a id=291></a>
+
+###### Article 384 A quater
+
+I.-L'héritier, le donataire, le légataire ou le copartageant qui désire acquitter tout ou partie des droits de mutation ou de
+partage dont il est redevable par la remise de blocs de titres de sociétés cotées, de titres d'organismes de placement
+collectif en valeurs mobilières investis en titres de sociétés cotées ou en obligations négociables, ainsi que d'obligations
+négociables, mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service des impôts ou à la
+conservation des hypothèques compétent pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de
+succession, une offre de dation à l'Etat indiquant le marché sur lequel sont cotés les titres qu'il envisage de remettre à
+l'Etat ainsi que leur nombre et leur code d'identification sur ce marché.L'offre est accompagnée de la copie du dernier
+relevé de compte titres sur lequel les titres sont inscrits. Il en est délivré récépissé. 
+
+Toutefois, l'offre n'est recevable que si l'imposition due et la valeur liquidative ou le cours de bourse des titres offerts
+en dation de la veille du jour du dépôt de l'offre sont supérieurs ou égaux à un montant fixé par arrêté conjoint des
+ministres chargés du budget, de l'enseignement supérieur et de la recherche.
+
+L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
+de l'acte constatant la mutation ou le partage. 
+
+II.-L'offre est adressée par l'administration fiscale à une commission dont la composition est fixée par arrêté conjoint du
+Premier ministre et des ministres chargés du budget, de l'enseignement supérieur et de la recherche. 
+
+La commission émet un avis sur l'opportunité d'accepter ces titres et sur leur attribution à un établissement public à
+caractère scientifique, culturel et professionnel, à un établissement à caractère scientifique et technologique ou à une
+fondation de recherche reconnue d'utilité publique ou assimilée, aux fins de financer un projet de recherche ou
+d'enseignement. 
+
+III.-Au vu de l'avis de la commission, le ministre chargé de l'enseignement supérieur et de la recherche ou, le cas échéant,
+le ministre chargé de l'enseignement supérieur ou celui chargé de la recherche ou ces deux ministres conjointement, suivant
+la nature du projet, proposent au ministre chargé du budget l'octroi ou le refus de l'agrément. 
+
+IV.-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
+
+V.-En cas de décision d'agrément, la dation en paiement n'est parfaite que si, d'une part, dans le délai mentionné ci-
+dessous, le demandeur accepte cette décision et transfère à l'Etat les titres offerts et si, d'autre part, au jour du
+transfert effectif des titres dans les comptes de l'Etat, leur dernier cours de clôture connu en bourse ou leur dernière
+valeur liquidative est au moins égal au montant de l'imposition due. 
+
+Le délai mentionné au premier alinéa est de deux mois à compter de la date de réception de la décision d'agrément par le
+demandeur, lorsque le ou les dépositaires des titres offerts en dation sont établis en France, dans un autre Etat membre de
+la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen. Ce délai est porté à
+quatre mois si l'un au moins des dépositaires des titres offerts en dation est établi dans un autre Etat ou territoire. 
+
+Lorsque le dernier cours de clôture connu en bourse ou la dernière valeur liquidative des titres au jour de leur transfert
+effectif dans les comptes de l'Etat est inférieur au montant de l'imposition due, la dation est parfaite si le demandeur
+acquitte en numéraire le solde dû, dans le même délai.
+
+L'ensemble des frais afférents à l'opération de transfert des titres à l'Etat est à la charge du demandeur. 
+
+La décision d'agrément est caduque si les conditions susmentionnées ne sont pas respectées. 
+
+VI.-Les titres sont cédés par l'Etat, à titre gratuit et sous forme de dotation à l'établissement public à caractère
+scientifique, culturel et professionnel ou à l'établissement public à caractère scientifique et technologique ou à la
+fondation de recherche reconnue d'utilité publique ou assimilée, désigné dans la décision d'agrément, dans les deux mois
+suivant leur transfert effectif dans les comptes de l'Etat. Les frais de gestion des titres sont à la charge de l'organisme
+bénéficiaire. Ces titres sont cédés pour la valeur de leur cours de clôture en bourse ou leur valeur liquidative au jour de
+la cession.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1100 du 28 octobre 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1716 bis
+
+
+#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=292></a>
 
 ###### Article 384 B
 
@@ -22304,9 +22375,9 @@ _Codifié par_:
   - HISTO: Edition du 27 octobre 1995
 
 
-## Chapitre I bis : Pénalités<a id=292></a>
+## Chapitre I bis : Pénalités<a id=293></a>
 
-### Section I : Commission des infractions fiscales<a id=293></a>
+### Section I : Commission des infractions fiscales<a id=294></a>
 
 ###### Article 384 septies-0 A
 
@@ -22388,7 +22459,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=294></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=295></a>
 
 ###### Article 384 septies A
 
@@ -22425,9 +22496,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=295></a>
+## Chapitre II : Procédures<a id=296></a>
 
-### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=296></a>
+### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=297></a>
 
 ###### Article 385
 
@@ -22453,7 +22524,7 @@ _Abrogé par_:
   - Décret n°2011-1302 du 14 octobre 2011 - art. 4
 
 
-### III : Dispositions communes<a id=297></a>
+### III : Dispositions communes<a id=298></a>
 
 ###### Article 396 A
 
@@ -22490,9 +22561,9 @@ _Abrogé par_:
   - HISTO: Edition du 1er janvier 2006
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=298></a>
+## Chapitre II bis : Sûretés et privilèges<a id=299></a>
 
-### Section I : Publicité du privilège du Trésor<a id=299></a>
+### Section I : Publicité du privilège du Trésor<a id=300></a>
 
 ###### Article 396 bis
 
@@ -22632,7 +22703,7 @@ _Codifié par_:
   - L'article sera codifié ultérieurement
 
 
-### Section II : Redressement judiciaire.<a id=300></a>
+### Section II : Redressement judiciaire.<a id=301></a>
 
 ###### Article 396 bis A
 
@@ -22656,9 +22727,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1929 septies (Dis)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=301></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=302></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=302></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=303></a>
 
 ###### Article 396 duodecies
 
@@ -22810,7 +22881,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects<a id=303></a>
+## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects<a id=304></a>
 
 ###### Article 408
 
