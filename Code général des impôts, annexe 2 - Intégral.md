@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2009-02-21
+Version Consolidée au 2009-03-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -431,26 +431,26 @@ Lorsque l'immeuble appartient à une société, les obligations fixées à l'art
 
 L'option est jointe par la société à sa déclaration du résultat de l'année d'achèvement du logement ou de son acquisition si
 elle est postérieure. Cette option comporte l'engagement de la société de louer les logements nus pendant une durée de neuf
-ans.
+ans. 
 
-La société doit, avant le 16 février de chaque année, faire parvenir à ses associés une attestation en double exemplaire
-établie conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
-suivants :
+La société doit, chaque année, au plus tard le deuxième jour ouvré suivant le 1er mai, faire parvenir à ses associés une
+attestation en double exemplaire établie conformément à un modèle fixé par l'administration et comportant, pour l'année
+précédente, les renseignements suivants : 
 
-1° L'identité et l'adresse de l'associé ;
+1° L'identité et l'adresse de l'associé ; 
 
 2° Le nombre et les numéros des parts détenues au 1er janvier et au 31 décembre et, le cas échéant, des parts souscrites,
-acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
+acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
 
-3° Le montant de l'amortissement correspondant aux droits de l'associé ;
+3° Le montant de l'amortissement correspondant aux droits de l'associé ; 
 
 4° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et le
-montant de ce revenu déterminé compte tenu de la déduction au titre de l'amortissement ;
+montant de ce revenu déterminé compte tenu de la déduction au titre de l'amortissement ; 
 
 5° En cas de non-respect par la société ou un associé de leurs engagements, la quote-part des déductions que l'associé doit
-ajouter au revenu foncier de l'année au cours de laquelle la rupture est intervenue.
+ajouter au revenu foncier de l'année au cours de laquelle la rupture est intervenue. 
 
-Un exemplaire de cette attestation est joint par la société à sa déclaration de résultat.
+Un exemplaire de cette attestation est joint par la société à sa déclaration de résultat. 
 
 La société joint chaque année à sa déclaration de résultat l'état mentionné au sixième alinéa de l'article 1 B. Elle y
 indique, en outre, l'identité et l'adresse des associés ainsi que la part des revenus des immeubles de la société
@@ -458,25 +458,17 @@ correspondant aux droits de chaque associé.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGIAN2 1 B
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+  - Décret n°2009-315 du 20 mars 2009 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 1 B
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 1 D (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article 1 D
@@ -1244,30 +1236,28 @@ _Cite_:
 ###### Article 38 bis
 
 I. Les petites et moyennes entreprises placées sous le régime du bénéfice réel avec obligations allégées défini à l'article
-302 septies A bis du code général des impôts souscrivent, au plus tard le 30 avril de chaque année, la déclaration prévue à
-l'article 53 A du même code.
+302 septies A bis du code général des impôts souscrivent, chaque année, au plus tard le deuxième jour ouvré suivant le 1er
+mai, la déclaration prévue à l'article 53 A du même code. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés en vertu de l'article 206 du code général des impôts,
 à l'exception de celles désignées au 5 de l'article précité, et dont l'exercice ne coïncide pas avec l'année civile sont
-tenues de déposer cette déclaration dans les trois mois de la clôture de l'exercice.
+tenues de déposer cette déclaration dans les trois mois de la clôture de l'exercice. 
 
-II. A l'appui de cette déclaration, les entreprises fournissent les documents prévus au III de l'article 38 de l'annexe III
-au code général des impôts.
+II.A l'appui de cette déclaration, les entreprises fournissent les documents prévus au III de l'article 38 de l'annexe III au
+code général des impôts.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 53 A
-  - CGIAN3 38 III
-
 _Modifié par_:
 
-  - Décret n°98-1022 du 10 novembre 1998 - art. 2 () JORF 13 novembre 1998
+  - Décret n°2009-315 du 20 mars 2009 - art. 2
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 1999
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38
+  - Code général des impôts, CGI. - art. 206
+  - Code général des impôts, CGI. - art. 302 septies A bis
+  - Code général des impôts, CGI. - art. 53 A
 
 
 ##### II : Traitements et salaires<a id=20></a>
@@ -11023,24 +11013,20 @@ _Modifié par_:
 
 ###### Article 242 sexies
 
-Les entreprises placées sous le régime simplifié souscrivent au plus tard le 30 avril de chaque année la déclaration
-mentionnée au 3 de l'article 287 du code général des impôts suivant le modèle prescrit par l'administration.
+Les entreprises placées sous le régime simplifié souscrivent chaque année, au plus tard le deuxième jour ouvré suivant le 1er
+mai la déclaration mentionnée au 3 de l'article 287 du code général des impôts suivant le modèle prescrit par
+l'administration. 
 
 Cette déclaration détermine les acomptes exigibles en juillet, octobre, décembre et avril suivants. Les dates de versement
-des acomptes sont fixées par arrêté.
+des acomptes sont fixées par arrêté. 
 
 (Voir l'article 39 de l'annexe IV).
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 287
-  - CGIAN4 39
-
 _Modifié par_:
 
-  - Décret n°99-545 du 30 juin 1999 - art. 5 () JORF 1er juillet 1999
+  - Décret n°2009-315 du 20 mars 2009 - art. 3
 
 _Cité par_:
 
@@ -11049,9 +11035,10 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies J (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 C (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2000
+  - Code général des impôts, annexe 4, CGIAN4. - art. 39
+  - Code général des impôts, CGI. - art. 287
 
 
 ##### 2° : Entreprises dont l'exercice comptable ne coïncide pas avec l'année civile<a id=133></a>
@@ -11167,10 +11154,10 @@ _Modifié par_:
 
 ###### Article 242 septies D
 
-Lorsque aucun exercice n'a été clôturé au cours d'une année civile, une déclaration est déposée au plus tard le 30 avril de
-l'année suivante. Elle couvre la période écoulée depuis la date de clôture de l'exercice précédent jusqu'au 31 décembre de
-l'année au cours de laquelle aucun exercice n'a été clôturé. Une nouvelle période d'imposition s'ouvre le 1er janvier
-suivant.
+Lorsque aucun exercice n'a été clôturé au cours d'une année civile, une déclaration est déposée l'année suivante, au plus
+tard le deuxième jour ouvré suivant le 1er mai. Elle couvre la période écoulée depuis la date de clôture de l'exercice
+précédent jusqu'au 31 décembre de l'année au cours de laquelle aucun exercice n'a été clôturé. Une nouvelle période
+d'imposition s'ouvre le 1er janvier suivant.
 
 **Liens relatifs à cet article**
 
@@ -11180,41 +11167,38 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°99-545 du 30 juin 1999 - art. 9 () JORF 1er juillet 1999
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
+  - Décret n°2009-315 du 20 mars 2009 - art. 4
 
 
 ###### Article 242 septies E
 
 Les entreprises qui dénoncent l'option prévue à l'article 242 septies A et restent soumises au régime d'imposition simplifié
 doivent souscrire une déclaration pour la période comprise entre la date de clôture du dernier exercice couvert par l'option
-et le 31 décembre de l'année de clôture. Cette déclaration doit être souscrite au plus tard le 30 avril de l'année suivante.
+et le 31 décembre de l'année de clôture. Cette déclaration doit être souscrite l'année suivante, au plus tard le deuxième
+jour ouvré suivant le 1er mai.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 242 septies A, 287
-
 _Modifié par_:
 
-  - Décret n°99-545 du 30 juin 1999 - art. 10 () JORF 1er juillet 1999
+  - Décret n°2009-315 du 20 mars 2009 - art. 5
 
-**Liens**:
+_Abrogé par_:
 
-  - HISTO: Edition du 31 mars 2000
+  - Décret n°2011-2026 du 29 décembre 2011 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies A
 
 
 ###### Article 242 septies F
 
 1. Les entreprises ayant exercé l'option prévue à l'article 242 septies A qui deviennent imposables, de plein droit ou sur
-option, d'après le chiffre d'affaires réel au 1er janvier de l'année suivant cet exercice, doivent souscrire une déclaration
+option, d'après le chiffre d'affaires réel au 1er janvier de l'année  suivant cet exercice, doivent souscrire une déclaration
 pour la période comprise entre la date de clôture du dernier exercice entièrement couvert par l'option et le 31 décembre de
-la dernière année d'imposition au régime simplifié. Cette déclaration doit être souscrite au plus tard le 30 avril de l'année
-suivante.
+la dernière année d'imposition au régime simplifié. Cette déclaration doit être souscrite l'année suivante, au plus tard le
+deuxième jour ouvré suivant le 1er mai. 
 
 2. Les dispositions prévues au 1. sont également applicables aux assujettis qui bénéficient de la franchise de taxe sur la
 valeur ajoutée prévue à l'article 293 B du code général des impôts au titre de l'année civile suivant le dernier exercice
@@ -11222,17 +11206,14 @@ couvert par l'option prévue à l'article 242 septies A.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 242 septies A, 293 B, 287
-
 _Modifié par_:
 
-  - Décret n°99-545 du 30 juin 1999 - art. 11 () JORF 1er juillet 1999
+  - Décret n°2009-315 du 20 mars 2009 - art. 6
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2000
+  - Code général des impôts, annexe 2, CGIAN2. - art. 242 septies A
+  - Code général des impôts, CGI. - art. 293 B
 
 
 ###### Article 242 septies G
@@ -21477,37 +21458,37 @@ _Cite_:
 ###### Article 374
 
 Indépendamment des renseignements dont la production est déjà prévue par le code général des impôts, les sociétés visées à
-l'article 372 sont tenues de faire parvenir au service des impôts du lieu de leur principal établissement, avant le 1er mars
-de chaque année, une déclaration en double exemplaire indiquant la part revenant ou incombant à chaque associé pour l'année
-précédente :
+l'article 372 sont tenues de faire parvenir au service des impôts du lieu de leur principal établissement, au plus tard le
+deuxième jour ouvré suivant le 1er mai, une déclaration en double exemplaire indiquant la part revenant ou incombant à chaque
+associé pour l'année précédente : 
 
-a. Dans les revenus bruts sociaux ;
+a. Dans les revenus bruts sociaux ; 
 
 b. Dans le montant des dépenses de réparation et d'entretien, des frais de gérance et de rémunération des gardes et
-concierges effectivement supportés par la société ;
+concierges effectivement supportés par la société ; 
 
 c. Dans le montant des impositions, autres que celles incombant normalement à l'occupant, perçues, à raison des immeubles
-sociaux, au profit des collectivités locales ou de certains établissements publics et d'organismes divers ;
+sociaux, au profit des collectivités locales ou de certains établissements publics et d'organismes divers ; 
 
 d. Dans le montant des intérêts des dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou
-l'amélioration des immeubles sociaux ;
+l'amélioration des immeubles sociaux ; 
 
-e. Dans les frais de gestion et d'assurance payés par la société ;
+e. Dans les frais de gestion et d'assurance payés par la société ; 
 
-f. Et, le cas échéant, dans toutes autres charges non énumérées ci-dessus, mais effectivement supportées par la société.
+f. Et, le cas échéant, dans toutes autres charges non énumérées ci-dessus, mais effectivement supportées par la société. 
 
 Cette déclaration est vérifiée dans les conditions prévues à l'article L 53 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2009-315 du 20 mars 2009 - art. 7
+
 _Cite_:
 
-  - CGI 372
-  - Livre des procédures fiscales - art. L53 (M)
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
+  - Code général des impôts, annexe 2, CGIAN2. - art. 372
+  - Livre des procédures fiscales - art. L53
 
 _Cité par_:
 
