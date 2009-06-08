@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2009-05-25
+Version Consolidée au 2009-06-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -13664,30 +13664,6 @@ _Modifié par_:
 **Liens**:
 
   - HISTO: Edition du 31 août 2004
-
-
-###### Article 275 ter L
-
-Il est institué un comité consultatif de la garantie composé des représentants des organismes de contrôle agréés, des
-organisations professionnelles représentatives, de la direction générale des douanes et droits indirects, de la direction
-générale des entreprises et de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
-Ce comité peut être consulté par les ministres chargés du budget et de l'industrie sur les problèmes techniques liés au
-contrôle des titres et à l'apposition des poinçons de titre. Un arrêté conjoint de ces ministres en précise la composition et
-les modalités de fonctionnement.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2006-514 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 275 ter M
