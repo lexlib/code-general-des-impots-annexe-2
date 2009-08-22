@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2009-06-09
+Version Consolidée au 2009-08-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -22600,7 +22600,8 @@ b. Désignation du comptable public requérant ;
 
 c. Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable ; 
 
-d. Montant des sommes dues au Trésor au dernier jour du semestre civil précédant l'inscription. 
+d. Montant des sommes dues au Trésor au dernier jour de la période de neuf mois prévue au 4 de l'article 1929 quater du code
+général des impôts précédant l'inscription. 
 
 Le comptable avise le contribuable qu'il a requis une inscription à son encontre. 
 
@@ -22683,11 +22684,12 @@ _Cite_:
 
   - Loi n°71-1029 du 24 décembre 1971 - art. 1
   - Décret n°72-917 du 2 octobre 1972
+  - Code général des impôts, CGI. - art. 1929 quater
   - Livre des procédures fiscales - art. L277
 
 _Modifié par_:
 
-  - Décret n°2009-195 du 18 février 2009 - art. 1
+  - Décret n°2009-985 du 20 août 2009 - art. 3
 
 _Cité par_:
 
