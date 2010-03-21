@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2010-02-20
+Version Consolidée au 2010-03-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -281,35 +281,36 @@ Version Consolidée au 2010-02-20
       - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z)](#278)
         - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#279)
         - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#280)
-      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#281)
-      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#282)
-  - [Livre II : Recouvrement de l'impôt (art. 376 bis à 410)](#283)
-    - [Chapitre premier : Paiement de l'impôt (art. 376 bis à 384 F)](#284)
-      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 383)](#285)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#286)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#287)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#288)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#289)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#290)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 F)](#291)
-        - [I : Dation en paiement (art. 384 A à 384 A quater)](#292)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#293)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#294)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#295)
-          - [4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement (art. 384 A quater)](#296)
-        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 B à 384 F)](#297)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#298)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#299)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#300)
-    - [Chapitre II : Procédures (art. 385 à 396 A)](#301)
-      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#302)
-      - [III : Dispositions communes (art. 396 A)](#303)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#304)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#305)
-      - [Section II : Redressement judiciaire. (art. 396 bis A)](#306)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#307)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#308)
-    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#309)
+      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis L)](#281)
+      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#282)
+      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#283)
+  - [Livre II : Recouvrement de l'impôt (art. 376 bis à 410)](#284)
+    - [Chapitre premier : Paiement de l'impôt (art. 376 bis à 384 F)](#285)
+      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 383)](#286)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#287)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#288)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#289)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#290)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#291)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 F)](#292)
+        - [I : Dation en paiement (art. 384 A à 384 A quater)](#293)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#294)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#295)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#296)
+          - [4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement (art. 384 A quater)](#297)
+        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 B à 384 F)](#298)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#299)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#300)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#301)
+    - [Chapitre II : Procédures (art. 385 à 396 A)](#302)
+      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#303)
+      - [III : Dispositions communes (art. 396 A)](#304)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#305)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#306)
+      - [Section II : Redressement judiciaire. (art. 396 bis A)](#307)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#308)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#309)
+    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#310)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -21158,7 +21159,378 @@ _Cite_:
   - Décret n°77-1519 du 31 décembre 1977 - art. 8 (V)
 
 
-### Chapitre I ter : Centre de formalités des entreprises<a id=281></a>
+### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=281></a>
+
+###### Article 371 bis A
+
+L'autorisation prévue à l'article 1649 quater L du code général des impôts est délivrée par le commissaire du Gouvernement
+auprès du conseil régional compétent, lors de l'inscription d'un expert-comptable ou d'une société d'expertise comptable au
+tableau de l'ordre des experts-comptables ou lors de l'inscription d'une association de gestion et de comptabilité à la suite
+de ce tableau. Cette autorisation est délivrée après avis favorable du commissaire du Gouvernement à l'inscription de
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 quater L
+
+
+###### Article 371 bis B
+
+Pour l'application des dispositions du b du 1° du 7 de l'article 158 du code général des impôts, le professionnel de
+l'expertise comptable sollicite par écrit la signature d'une convention auprès du commissaire du Gouvernement près le conseil
+régional de l'ordre des experts-comptables dans le ressort duquel ce professionnel de l'expertise comptable est inscrit et,
+en cas de pluralité d'établissements, dans le ressort du conseil régional de son établissement principal. 
+
+La demande est accompagnée d'un certificat délivré par l'administration fiscale, sur demande de l'expert-comptable, de la
+société d'expertise comptable, de l'association de gestion et de comptabilité ou de chacun de leurs dirigeants et
+administrateurs. Ce certificat atteste que l'expert-comptable, les dirigeants et administrateurs ne font pas l'objet de
+mesures prévues à l'article 1750 du code général des impôts ou n'ont pas fait l'objet au cours des cinq dernières années : 
+
+a) D'une condamnation figurant au bulletin n° 2 prévu à l'article 775 du code de procédure pénale, à l'exception des
+condamnations pour blessures, coups ou homicide involontaires et pour infraction au code de la route ; 
+
+b) D'une amende fiscale prononcée par un tribunal ; 
+
+c) D'une sanction fiscale prononcée par l'administration pour manœuvres frauduleuses.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 7 avril 2010 - art. 1 (Ab)
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis E (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis F (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis H (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis I (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis K (M)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis L (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis M (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 158 (V)
+  - Code général des impôts, CGI. - art. 1750
+  - Code de procédure pénale - art. 775
+  - Code de la route.
+
+
+###### Article 371 bis C
+
+Le commissaire du Gouvernement peut refuser de conclure la convention :
+
+a) En cas de manquements constatés au respect des obligations fiscales et sociales de l'expert-comptable, de la société
+d'expertise comptable, de l'association de gestion et de comptabilité ou de leurs dirigeants dans la période de cinq ans qui
+précède la demande ;
+
+b) Si le professionnel de l'expertise comptable a fait l'objet de l'une des sanctions disciplinaires prévues aux cinquième
+(4°), sixième (5°) ou septième alinéas de l'article 53 de l'ordonnance n° 45-2138 du 19 septembre 1945.
+
+En cas de refus, la décision est notifiée au demandeur par lettre recommandée avec demande d'avis de réception postal. Ce
+refus est motivé.
+
+Dans le cas contraire, le commissaire du Gouvernement adresse au demandeur une convention dont le modèle est fixé par arrêté
+du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 53
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis E (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis K (V)
+
+
+###### Article 371 bis D
+
+La convention signée par le professionnel de l'expertise comptable n'est ni cessible ni transmissible. En cas de décès d'un
+expert-comptable personne physique ou d'incapacité temporaire à exercer son activité, pour l'application à ses clients des
+dispositions du b du 1° du 7 de l'article 158 du code général des impôts, l'administrateur provisoire éventuellement désigné
+devra disposer de l'autorisation et avoir conclu la convention prévues à l'article 1649 quater L du code général des impôts. 
+
+Lorsque l'administrateur provisoire ne satisfait pas aux conditions de l'article 1649 quater L du code général des impôts,
+les clients disposent, conformément aux dispositions de l'article 371 bis L, d'un délai de soixante jours à compter de la
+nomination de l'administrateur provisoire pour signer une nouvelle lettre de mission ou adhérer à un organisme agréé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis L (V)
+  - Code général des impôts, CGI. - art. 158 (V)
+  - Code général des impôts, CGI. - art. 1649 quater L
+
+
+###### Article 371 bis E
+
+La convention est conclue pour une période de trois ans. Elle est renouvelée une fois par tacite reconduction pour la même
+durée, sauf dénonciation, au plus tard trois mois avant l'expiration de la convention en cours, par le commissaire du
+Gouvernement ou par le professionnel de l'expertise comptable.
+
+Elle peut être ensuite renouvelée pour la même durée selon la procédure prévue aux articles 371 bis B et 371 bis C sur
+demande présentée, au plus tard, trois mois avant l'expiration de la convention en cours.
+
+Le commissaire du Gouvernement examine la situation du demandeur conformément aux dispositions de l'article 371 bis B.
+
+En cas de refus de renouvellement, la décision est notifiée au demandeur par lettre recommandée avec demande d'avis de
+réception postal. Cette décision est motivée.
+
+Le professionnel de l'expertise comptable dont la convention prévue à l'article 371 bis B n'est pas renouvelée en informe ses
+clients ou adhérents concernés par les dispositions du b du 1° du 7 de l'article 158 du code général des impôts dans le mois
+qui suit la date de notification du non-renouvellement.
+
+Le commissaire du Gouvernement informe le conseil régional de l'ordre des experts-comptables de l'ensemble des décisions
+prises en matière de convention prévue à l'article 371 bis B.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis C (V)
+  - Code général des impôts, CGI. - art. 158 (V)
+
+
+###### Article 371 bis F
+
+Le professionnel de l'expertise comptable qui a conclu la convention prévue à l'article 371 bis B transmet à ses clients ou
+adhérents imposés d'après leur bénéfice réel, dans un délai de six mois suivant la clôture de leur exercice comptable, un
+dossier comprenant : 
+
+a) Les ratios et les autres éléments caractérisant la situation financière et économique de l'entreprise ; 
+
+b) Un commentaire sur la situation financière et économique de l'entreprise ; 
+
+c) A partir de la clôture du deuxième exercice suivant le début de leur relation contractuelle, une analyse comparative des
+bilans et des comptes de résultat de l'entreprise. Toutefois, pour les entreprises soumises au régime simplifié d'imposition,
+seule l'analyse comparative des comptes de résultat est adressée ; 
+
+d) Un document de synthèse présentant une analyse économique en matière de prévention des difficultés économiques et
+financières de l'entreprise avec l'indication, le cas échéant, des démarches à accomplir.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+
+
+###### Article 371 bis G
+
+Le respect des engagements prévus par la convention est examiné, une fois au moins tous les trois ans, dans le cadre de
+l'examen d'activité professionnelle mis en œuvre par la profession ou sur requête de l'administration fiscale. 
+
+Les résultats de cet examen sont transmis au commissaire du Gouvernement dans un délai de trois mois après sa conclusion.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 3 mai 2012 - art. 420 (V)
+  - Arrêté du 3 mai 2012 - art. 436 (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis H (M)
+
+
+###### Article 371 bis H
+
+Le commissaire du Gouvernement peut résilier la convention : 
+
+a) En cas de condamnation définitive du professionnel de l'expertise comptable à une sanction disciplinaire pour des motifs
+fiscaux ; 
+
+b) En cas de condamnation définitive du professionnel de l'expertise comptable à une sanction disciplinaire à la suite d'un
+contrôle diligenté conformément à l'article 371 bis G ; 
+
+c) En cas de condamnation définitive du professionnel de l'expertise comptable ou de ses représentants légaux en application
+des articles 1741,1743,1746 et 1747 du code général des impôts ou pour escroquerie à la taxe sur la valeur ajoutée ou à tout
+autre impôt ou taxe, ainsi que pour complicité à ces infractions ; 
+
+d) Dans le cas où le professionnel de l'expertise comptable s'abstient de résilier la lettre de mission relative à
+l'application des dispositions du b du 1° du 7 de l'article 158 du code général des impôts, alors même qu'il constate des
+manquements graves et répétés aux obligations comptables, fiscales et sociales de son client ou adhérent ; 
+
+e) En cas d'inobservation par le professionnel de l'expertise comptable de ses obligations stipulées dans la convention
+prévue à l'article 371 bis B. 
+
+Le commissaire du Gouvernement met préalablement le professionnel de l'expertise comptable en mesure de présenter ses
+observations sur les faits qui lui sont reprochés. 
+
+La décision de résiliation est notifiée par lettre recommandée avec demande d'avis de réception postal. Cette décision est
+motivée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis G (V)
+  - Code général des impôts, CGI. - art. 158 (V)
+  - Code général des impôts, CGI. - art. 1741 (V)
+  - Code général des impôts, CGI. - art. 1743 (V)
+  - Code général des impôts, CGI. - art. 1746 (V)
+  - Code général des impôts, CGI. - art. 1747 (V)
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis K (V)
+
+
+###### Article 371 bis I
+
+Le professionnel de l'expertise comptable dont la convention prévue à l'article 371 bis B est résiliée en informe ses clients
+ou adhérents concernés par les dispositions du b du 1° du 7 de l'article 158 du code général des impôts dans le mois qui suit
+la notification de la résiliation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+  - Code général des impôts, CGI. - art. 158 (V)
+
+
+###### Article 371 bis J
+
+L'autorisation et la convention mentionnées à l'article 1649 quater L du code général des impôts deviennent caduques lorsque
+le professionnel de l'expertise comptable fait l'objet d'une radiation du tableau ou d'une suspension de son inscription au
+tableau ou à la suite de celui-ci, prononcée à sa demande ou à titre de sanction disciplinaire non assortie d'un sursis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis K (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 quater L
+
+
+###### Article 371 bis K
+
+Le professionnel de l'expertise comptable dont l'autorisation ou la convention sont devenues caduques en vertu de l'article
+371 bis J ne peut déposer une nouvelle demande d'autorisation ou de convention qu'à l'expiration d'un délai de six mois
+suivant la date à laquelle elles sont devenues caduques, à condition qu'il ne fasse plus l'objet d'une suspension et qu'il
+soit inscrit au tableau de l'ordre des experts-comptables ou à la suite de celui-ci. 
+
+La demande d'autorisation formulée à la suite d'une suspension est adressée par écrit au commissaire du Gouvernement
+mentionné à l'article 371 bis B. Celui-ci examine la situation du demandeur au regard de ses obligations fiscales et sociales
+et il diligente notamment une nouvelle enquête de moralité. 
+
+La demande de nouvelle convention est soumise à la procédure prévue aux articles 371 bis B et 371 bis C.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis C (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis J (V)
+
+
+###### Article 371 bis L
+
+Pour l'application du 7 de l'article 158 du code général des impôts, un contribuable mentionné au b du 1° n'est pas considéré
+pour un exercice donné, comme client ou adhérent d'un professionnel de l'expertise comptable ayant signé la convention prévue
+à l'article 371 bis B, s'il n'a pas été lié avec ce dernier par la lettre de mission spécifique prévue par le code de
+déontologie des professionnels de l'expertise comptable pendant toute la durée de l'exercice considéré. 
+
+Cette condition n'est toutefois pas exigée : 
+
+a) Pour l'exercice au cours duquel intervient la signature de la première lettre de mission avec un professionnel de
+l'expertise comptable, à condition que celle-ci soit intervenue dans le délai de cinq mois suivant la date d'ouverture de
+l'exercice donné ; 
+
+b) En cas de résiliation de la convention du professionnel de l'expertise comptable par le commissaire du Gouvernement, à
+condition que la signature de la lettre de mission avec le nouveau professionnel de l'expertise comptable ou l'adhésion à un
+organisme agréé soit intervenue dans le délai maximum de soixante jours suivant la date de réception de la notification au
+client ou à l'adhérent de la résiliation de la convention ; 
+
+c) En cas de désignation d'un administrateur provisoire ne satisfaisant pas aux conditions de l'article 1649 quater L du code
+général des impôts, à condition que la signature de la lettre de mission avec le nouveau professionnel de l'expertise
+comptable ou l'adhésion à un organisme agréé soit intervenue dans le délai maximum de soixante jours suivant la date de
+nomination de l'administrateur provisoire ; 
+
+d) En cas de changement de professionnel de l'expertise comptable ou d'adhésion à un organisme agréé à l'initiative du client
+ou de l'adhérent pour d'autres motifs que ceux mentionnés aux b et c, à condition que la signature de la lettre de mission
+avec le nouveau professionnel de l'expertise comptable ou l'adhésion à l'organisme agréé soit intervenue dans le délai
+maximum de trente jours suivant la date de la résiliation de la lettre de mission avec l'ancien professionnel de l'expertise
+comptable ; 
+
+e) En cas de démission d'un centre de gestion agréé ou d'une association agréée suivie, dans le délai maximum de trente
+jours, de la conclusion d'une lettre de mission avec un professionnel de l'expertise comptable. 
+
+Les déclarations de résultats des clients ou adhérents mentionnés au premier alinéa sont accompagnées d'une attestation
+fournie par le professionnel de l'expertise comptable indiquant la date de signature de la lettre de mission spécifique et le
+montant de leur résultat imposable. Le professionnel de l'expertise comptable et le contribuable sont identifiés sur cette
+attestation. Cette attestation est dématérialisée et télétransmise aux services fiscaux selon la procédure prévue par le
+système de transfert des données fiscales et comptables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-297 du 19 mars 2010 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis D (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 158
+  - Code général des impôts, CGI. - art. 1649 quater L
+
+
+### Chapitre I ter : Centre de formalités des entreprises<a id=282></a>
 
 ###### Article 371 AI
 
@@ -21467,7 +21839,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
-### Chapitre II : Sociétés immobilières de copropriété<a id=282></a>
+### Chapitre II : Sociétés immobilières de copropriété<a id=283></a>
 
 ###### Article 372
 
@@ -21618,13 +21990,13 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-# Livre II : Recouvrement de l'impôt<a id=283></a>
+# Livre II : Recouvrement de l'impôt<a id=284></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=284></a>
+## Chapitre premier : Paiement de l'impôt<a id=285></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=285></a>
+### Section I : Impôts directs et taxes assimilées<a id=286></a>
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=286></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=287></a>
 
 ###### Article 376 bis
 
@@ -21795,7 +22167,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=287></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=288></a>
 
 ###### Article 379
 
@@ -21921,7 +22293,7 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=288></a>
+#### IV : Taxe sur les salaires. Taux majorés<a id=289></a>
 
 ###### Article 383
 
@@ -21954,9 +22326,9 @@ _Cité par_:
   - HISTO: Edition du 1er janvier 2007
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=289></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=290></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=290></a>
+#### I : Taxe sur la valeur ajoutée<a id=291></a>
 
 ###### Article 383 ter
 
@@ -21988,11 +22360,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=291></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=292></a>
 
-#### I : Dation en paiement<a id=292></a>
+#### I : Dation en paiement<a id=293></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=293></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=294></a>
 
 ###### Article 384 A
 
@@ -22036,7 +22408,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R1111-3 (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=294></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=295></a>
 
 ###### Article 384 A bis
 
@@ -22095,7 +22467,7 @@ _Cité par_:
   - HISTO: Edition du 1er janvier 2006
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=295></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=296></a>
 
 ###### Article 384 A ter
 
@@ -22139,7 +22511,7 @@ _Créé par_:
   - Décret n°2003-281 du 24 mars 2003 - art. 1 () JORF 29 mars 2003
 
 
-##### 4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement<a id=296></a>
+##### 4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement<a id=297></a>
 
 ###### Article 384 A quater
 
@@ -22209,7 +22581,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=297></a>
+#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=298></a>
 
 ###### Article 384 B
 
@@ -22401,9 +22773,9 @@ _Codifié par_:
   - HISTO: Edition du 27 octobre 1995
 
 
-## Chapitre I bis : Pénalités<a id=298></a>
+## Chapitre I bis : Pénalités<a id=299></a>
 
-### Section I : Commission des infractions fiscales<a id=299></a>
+### Section I : Commission des infractions fiscales<a id=300></a>
 
 ###### Article 384 septies-0 A
 
@@ -22485,7 +22857,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=300></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=301></a>
 
 ###### Article 384 septies A
 
@@ -22522,9 +22894,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=301></a>
+## Chapitre II : Procédures<a id=302></a>
 
-### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=302></a>
+### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=303></a>
 
 ###### Article 385
 
@@ -22550,7 +22922,7 @@ _Abrogé par_:
   - Décret n°2011-1302 du 14 octobre 2011 - art. 4
 
 
-### III : Dispositions communes<a id=303></a>
+### III : Dispositions communes<a id=304></a>
 
 ###### Article 396 A
 
@@ -22587,9 +22959,9 @@ _Abrogé par_:
   - HISTO: Edition du 1er janvier 2006
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=304></a>
+## Chapitre II bis : Sûretés et privilèges<a id=305></a>
 
-### Section I : Publicité du privilège du Trésor<a id=305></a>
+### Section I : Publicité du privilège du Trésor<a id=306></a>
 
 ###### Article 396 bis
 
@@ -22721,7 +23093,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-### Section II : Redressement judiciaire.<a id=306></a>
+### Section II : Redressement judiciaire.<a id=307></a>
 
 ###### Article 396 bis A
 
@@ -22745,9 +23117,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1929 septies (Dis)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=307></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=308></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=308></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=309></a>
 
 ###### Article 396 duodecies
 
@@ -22899,7 +23271,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects<a id=309></a>
+## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects<a id=310></a>
 
 ###### Article 408
 
