@@ -28,10 +28,10 @@ Du certificat de radiation de la francisation pour les autres bateaux.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 298 sexies, 242 quaterdecies, 242 undecies
-
 _Modifié par_:
 
-  - Décret n°2009-136 du 9 février 2009 - art. 12 (V)
+  - Décret n°2010-421  du 27 avril 2010 - art. 2
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 298 sexies (V)
