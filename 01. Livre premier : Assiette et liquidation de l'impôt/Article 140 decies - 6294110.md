@@ -3,30 +3,22 @@
 Les souscriptions dont la déduction est autorisée par les II, II bis et II ter de l'article 217 undecies du code général des
 impôts s'entendent des souscriptions en numéraire au capital des sociétés de développement régional des départements d'outre-
 mer et des entreprises passibles de l'impôt sur les sociétés qui exercent exclusivement leur activité, outre-mer, dans les
-secteurs mentionnés aux premier, troisième, cinquième, sixième et septième alinéas du I de ce même article ou qui réalisent
-des investissements mentionnés au quatrième alinéa de ce même I.
+secteurs mentionnés aux premier, troisième, sixième, septième et huitième alinéas du I de ce même article ou qui réalisent
+des investissements mentionnés aux quatrième et cinquième alinéas de ce même I. 
 
 La valeur d'origine des éléments d'actif autres que ceux nécessaires à l'exercice de l'activité ouvrant droit à déduction ne
 doit pas excéder 10 % du montant total de l'actif brut de la société.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 217 undecies
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 6 () JORF 8 juin 2002
+  - Décret n°2010-472 du 10 mai 2010 - art. 1
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 140 duodecies (M)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2002
+  - Code général des impôts, CGI. - art. 217 undecies
