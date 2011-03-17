@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-02-13
+Version Consolidée au 2011-03-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 375)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G)](#2)
@@ -299,9 +299,9 @@ Version Consolidée au 2011-02-13
     - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#296)
       - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#297)
       - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#298)
-    - [Chapitre II : Procédures (art. 385 à 396 A)](#299)
+    - [Chapitre II : Procédures (art. 385 à 396 C)](#299)
       - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#300)
-      - [III : Dispositions communes (art. 396 A)](#301)
+      - [III : Dispositions communes (art. 396 A à 396 C)](#301)
     - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#302)
       - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#303)
       - [Section II : Redressement judiciaire. (art. 396 bis A)](#304)
@@ -22601,6 +22601,72 @@ _Abrogé par_:
 **Liens**:
 
   - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 396 B
+
+Le comptable chargé du recouvrement mentionné au 1 de l'article 1912 est le comptable compétent de la direction générale des
+finances publiques.
+
+**Nota:**
+
+Décret n° 2011-274 du 16 mars 2011 article 2 : Ces dispositions entrent en vigueur au 1er janvier 2012 pour les produits
+autres que ceux recouvrés par l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-274 du 16 mars 2011 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 396 C (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1912
+
+
+###### Article 396 C
+
+Le pourcentage mentionné au 1 de l'article 1912 est fixé à : 
+
+a) 3 % pour un commandement de payer ; 
+
+b) 5 % pour une saisie portant sur des biens meubles corporels ou incorporels ; 
+
+c) 2,5 % pour une opposition sur saisie antérieure ; 
+
+d) 1,5 % pour une signification de vente ou l'apposition d'affiches ; 
+
+e) 1 % pour un inventaire des biens saisis ou pour un procès-verbal de vente. 
+
+Les frais de saisie sont ramenés à 1 % : 
+
+1° En cas de saisie interrompue par un versement immédiat du redevable auprès de l'huissier ou du comptable mentionné à
+l'article 396 B ; 
+
+2° Lorsque le redevable s'acquitte du montant de sa dette dans le délai d'un jour franc à compter de la saisie. 
+
+Les frais mis à la charge des redevables comportent un minimum par acte fixé respectivement à 7,5 € pour le commandement de
+payer et à 15 € pour les autres actes de poursuite.
+
+**Nota:**
+
+Décret n° 2011-274 du 16 mars 2011 article 2 : Ces dispositions entrent en vigueur au 1er janvier 2012 pour les produits
+autres que ceux recouvrés par l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-274 du 16 mars 2011 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 396 B
+  - Code général des impôts, CGI. - art. 1912
 
 
 ## Chapitre II bis : Sûretés et privilèges<a id=302></a>
