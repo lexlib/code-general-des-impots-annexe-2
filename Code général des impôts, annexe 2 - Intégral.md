@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-06-12
+Version Consolidée au 2011-08-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -1716,36 +1716,33 @@ _Cite_:
 
 ###### Article 50 decies
 
-I. - La proportion d'investissement de 30 % mentionnée au premier alinéa du I quinquies de l'article 125-0 A du code général
+I.-La proportion d'investissement de 30 % mentionnée au premier alinéa du I quinquies de l'article 125-0 A du code général
 des impôts s'apprécie chaque jour de calcul de la valeur liquidative de l'organisme concerné telle qu'elle est déterminée
 conformément à la réglementation en vigueur, en retenant la valeur des titres figurant à cette date dans le portefeuille de
-l'organisme de placement collectif en valeurs mobilières.
+l'organisme de placement collectif en valeurs mobilières. 
 
 Les proportions d'investissement de 10 % et 5 % mentionnées au dixième alinéa du 1 du I quinquies de l'article 125-0 A
 mentionné ci-dessus et de 75 % mentionnée au c du 1 du I quinquies du même article s'apprécient, pour les organismes soumis à
-l'article L. 214-8 du code monétaire et financier, comme pour les organismes de la nature de ceux mentionnés au c du 2° du I
+l'article L. 214-17 du code monétaire et financier, comme pour les organismes de la nature de ceux mentionnés au c du 2° du I
 de l'article L. 221-31 du même code, à la fin de chacun des semestres de l'exercice, en retenant la valeur des titres
-figurant à cette date dans le portefeuille de l'organisme de placement collectif en valeurs mobilières.
+figurant à cette date dans le portefeuille de l'organisme de placement collectif en valeurs mobilières. 
 
-II. - La proportion d'investissement de 50 % mentionnée au g du 1 du I quinquies de l'article 125-0 A mentionné ci-dessus
+II.-La proportion d'investissement de 50 % mentionnée au g du 1 du I quinquies de l'article 125-0 A mentionné ci-dessus
 s'apprécie, pour chaque catégorie de fonds énuméré au d du 1 du I quinquies du même article, dans les conditions fixées par
 le code monétaire et financier et, pour les sociétés de capital-risque, dans les conditions fixées à l'article 171 AM.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2011-922 du 1er août 2011 - art. 23
+
 _Cite_:
 
-  - CGI 125-0 A, 171 AM
-  - Code monétaire et financier - art. L214-8 (V)
-  - Code monétaire et financier - art. L221-31 (M)
-
-_Créé par_:
-
-  - Décret n°2006-607 du 26 mai 2006 - art. 1 () JORF 28 mai 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AM (V)
+  - Code général des impôts, CGI. - art. 125-0 A (V)
+  - Code monétaire et financier - art. L214-17
+  - Code monétaire et financier - art. L221-31 (V)
 
 
 ###### Article 50 duodecies
@@ -8141,60 +8138,56 @@ _Modifié par_:
 
 ###### Article 171 AM
 
-I. - Pour l'appréciation du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11
-juillet 1985 :
+I. – Pour l'appréciation du quota de 50 % prévu au troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11
+juillet 1985 : 
 
 a) La situation nette comptable d'une société de capital-risque s'apprécie après déduction de la valeur nette comptable des
-participations détenues dans d'autres sociétés de capital-risque ;
+participations détenues dans d'autres sociétés de capital-risque ; 
 
 b) Lorsqu'une société dont les titres ou droits sont inclus dans le quota de 50 % fait l'objet d'une liquidation judiciaire,
 de l'ouverture d'une procédure de sauvegarde ou de redressement judiciaire ou de la constatation d'une dépréciation, les
 titres ou droits en cause sont réputés maintenus à l'actif de la société de capital-risque pour leur valeur d'acquisition
-pendant cinq ans à compter du jugement ou de la constatation de la provision ;
+pendant cinq ans à compter du jugement ou de la constatation de la provision ; 
 
 c) Lorsque des titres ou droits inclus dans le quota de 50 % font l'objet d'une cession, les titres ou droits cédés sont
 réputés maintenus à l'actif de la société de capital-risque pour leur valeur nette comptable pendant une durée de deux ans à
-compter de la date de la cession ;
+compter de la date de la cession ; 
 
 d) Lorsque des titres ou droits reçus en échange de titres ou droits inclus dans le quota de 50 % ne sont pas eux-mêmes
 éligibles à ce quota, les titres ou droits remis à l'échange sont réputés maintenus à l'actif de la société de capital-risque
 pour leur valeur nette comptable pendant une durée de deux ans à compter de l'échange ou jusqu'à la fin de la période pendant
-laquelle la société de capital-risque s'est engagée à conserver les titres dans son actif si cette durée est supérieure ;
+laquelle la société de capital-risque s'est engagée à conserver les titres dans son actif si cette durée est supérieure ; 
 
 e) Les droits représentatifs d'un placement financier dans des entités mentionnées au d du 1° de l'article 1er-1 de la loi n°
 85-695 du 11 juillet 1985 sont pris en compte à proportion de l'investissement direct de ces entités dans des titres
 éligibles au quota de 50 %, à l'exclusion des droits dans d'autres entités de même nature. Cette proportion d'investissement
-direct s'apprécie par référence :
+direct s'apprécie par référence : 
 
-1° Soit au dernier inventaire de l'actif connu desdites entités ;
+1° Soit au dernier inventaire de l'actif connu desdites entités ; 
 
-2° Soit aux engagements statutaires ou contractuels d'investissement direct pris par ces entités ;
+2° Soit aux engagements statutaires ou contractuels d'investissement direct pris par ces entités ; 
 
 f) Ne sont pas prises en compte les participations détenues par la société de capital-risque pour le compte de tiers ou
-financées grâce au concours de tiers qui en assument les risques financiers.
+financées grâce au concours de tiers qui en assument les risques financiers. 
 
-II. - Pour l'application du quatrième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la
-capitalisation boursière d'une société est déterminée conformément au II de l'article R. 214-38 du code monétaire et
+II. – Pour l'application du quatrième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la
+capitalisation boursière d'une société est déterminée conformément au II de l'article R. 214-35 du code monétaire et
 financier.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°85-695 1985-07-11
-  - Code monétaire et financier - art. R214-38 (M)
+  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (V)
+  - Code monétaire et financier - art. R214-35
 
 _Modifié par_:
 
-  - Décret n°2006-1726 du 23 décembre 2006 - art. 4 () JORF 30 décembre 2006
+  - Décret n°2011-922 du 1er août 2011 - art. 23
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 50 decies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 171 AN
@@ -8532,148 +8525,132 @@ _Créé par_:
 
 ###### Article 171 AU
 
-I. - Pour l'application du 1° quater du II de l'article 163 quinquies B du code général des impôts, la proportion de l'actif
+I. – Pour l'application du 1° quater du II de l'article 163 quinquies B du code général des impôts, la proportion de l'actif
 des sociétés mentionnées au premier alinéa du même 1° quater investi directement, ou indirectement par l'intermédiaire
 d'autres sociétés mentionnées à ce même premier alinéa du 1° quater, dans des sociétés qui répondent aux conditions prévues
 au 1° du II du même article 163 quinquies B et dont les titres ne sont pas admis aux négociations sur un marché mentionné au
-1 de l'article L. 214-36 du code monétaire et financier est calculée en additionnant au numérateur :
+I de l'article L. 214-28 du code monétaire et financier est calculée en additionnant au numérateur : 
 
-1° le prix de souscription ou d'acquisition des titres mentionnés au 1 de l'article L. 214-36 du code monétaire et financier
+1° le prix de souscription ou d'acquisition des titres mentionnés au I de l'article L. 214-28 du code monétaire et financier
 et éligibles au quota de 50 % prévu au 1° du II de l'article 163 quinquies B du code général des impôts et la valeur brute
-comptable des avances en compte courant consenties aux sociétés émettrices de ces titres ;
+comptable des avances en compte courant consenties aux sociétés émettrices de ces titres ; 
 
 2° et le prix de souscription ou d'acquisition des titres émis par une société mentionnée au premier alinéa du 1° quater du
 II de l'article 163 quinquies B du code général des impôts, ainsi que la valeur brute comptable des avances en compte courant
 consenties à cette même société, retenus à hauteur de la proportion des investissements directs, ou indirects par
 l'intermédiaire d'autres sociétés mentionnées à ce même premier alinéa du 1° quater, de son actif brut comptable dans des
 sociétés qui répondent aux conditions prévues au 1° du II du même article 163 quinquies B et dont les titres ne sont pas
-admis aux négociations sur un marché mentionné au 1 de l'article L. 214-36 du code monétaire et financier.
+admis aux négociations sur un marché mentionné au I de l'article L. 214-28 du code monétaire et financier. 
 
-Le dénominateur est égal à l'actif brut comptable de la société.
+Le dénominateur est égal à l'actif brut comptable de la société. 
 
-II. - Les dispositions du I s'appliquent également aux investissements réalisés par des sociétés mentionnées au premier
+II. – Les dispositions du I s'appliquent également aux investissements réalisés par des sociétés mentionnées au premier
 alinéa du 1° quater du II de l'article 163 quinquies B du code général des impôts directement, ou indirectement par
 l'intermédiaire d'autres sociétés mentionnées à ce même premier alinéa du 1° quater, dans des sociétés qui répondent aux
 conditions prévues au 1° du II du même article 163 quinquies B et dont les titres sont admis aux négociations sur un marché
-dans les conditions du 3 de l'article L. 214-36 du code monétaire et financier.
+dans les conditions du III de l'article L. 214-28 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 163 quinquies B
-  - Code monétaire et financier - art. L214-36 (M)
-
 _Modifié par_:
 
-  - Décret n°2006-1726 du 23 décembre 2006 - art. 7 () JORF 30 décembre 2006
+  - Décret n°2011-922 du 1er août 2011 - art. 23
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, CGI. - art. 163 quinquies B (V)
+  - Code monétaire et financier - art. L214-28 (VT)
 
 
 ###### Article 171 AV
 
-I. - Pour l'application du 1° quinquies du II de l'article 163 quinquies B du code général des impôts, la proportion de
+I. – Pour l'application du 1° quinquies du II de l'article 163 quinquies B du code général des impôts, la proportion de
 l'actif de l'entité mentionnée à ce même 1° quinquies investi directement, ou indirectement par l'intermédiaire de sociétés
 mentionnées au premier alinéa du 1° quater du même II, dans des sociétés qui répondent aux conditions prévues au 1° du même
-II et dont les titres ne sont pas admis aux négociations sur un marché mentionné au 1 de l'article L. 214-36 du code
+II et dont les titres ne sont pas admis aux négociations sur un marché mentionné au I de l'article L. 214-28 du code
 monétaire et financier s'applique au montant des souscriptions effectivement libérées par le fonds. Elle est calculée par
-référence au dernier inventaire de l'actif de ladite entité en additionnant au numérateur :
+référence au dernier inventaire de l'actif de ladite entité en additionnant au numérateur : 
 
-1° le prix de souscription ou d'acquisition des titres mentionnés au 1 de l'article L. 214-36 du code monétaire et financier
+1° le prix de souscription ou d'acquisition des titres mentionnés au I de l'article L. 214-28 du code monétaire et financier
 éligibles au quota de 50 % prévu au 1° du II de l'article 163 quinquies B du code général des impôts et le montant des
-avances en compte courant consenties aux sociétés émettrices de ces titres ;
+avances en compte courant consenties aux sociétés émettrices de ces titres ; 
 
 2° et le prix de souscription ou d'acquisition des titres émis par une société mentionnée au premier alinéa du 1° quater du
 II de l'article 163 quinquies B du code général des impôts, ainsi que le montant des avances en compte courant consenties à
 cette même société, retenus à hauteur de la proportion des investissements directs, ou indirects par l'intermédiaire d'autres
 sociétés mentionnées au même premier alinéa du 1° quater, de son actif dans des sociétés qui répondent aux conditions prévues
 au 1° du II du même article 163 quinquies B et dont les titres ne sont pas admis aux négociations sur un marché mentionné au
-1 de l'article L. 214-36 du code monétaire et financier.
+I de l'article L. 214-28 du code monétaire et financier. 
 
-Le dénominateur est égal à l'actif de ladite entité.
+Le dénominateur est égal à l'actif de ladite entité. 
 
-II. - Les dispositions du I s'appliquent également aux investissements effectués par une entité mentionnée au 1° quinquies du
+II. – Les dispositions du I s'appliquent également aux investissements effectués par une entité mentionnée au 1° quinquies du
 II de l'article 163 quinquies B du code général des impôts directement, ou indirectement par l'intermédiaire de sociétés
 mentionnées au premier alinéa du 1° quater du même II, dans des sociétés qui répondent aux conditions prévues au 1° du même
-II et dont les titres sont admis aux négociations sur un marché dans les conditions du 3 de l'article L. 214-36 du code
+II et dont les titres sont admis aux négociations sur un marché dans les conditions du III de l'article L. 214-28 du code
 monétaire et financier.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2011-922 du 1er août 2011 - art. 23
+
 _Cite_:
 
-  - CGI 163 quinquies B
-  - Code monétaire et financier - art. L214-36 (M)
-
-_Créé par_:
-
-  - Décret n°2006-1726 du 23 décembre 2006 - art. 8 () JORF 30 décembre 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, CGI. - art. 163 quinquies B (V)
+  - Code monétaire et financier - art. L214-28 (VT)
 
 
 ###### Article 171 AW
 
-I. - La société de gestion du fonds commun de placement à risques adresse, dans les quatre mois qui suivent la clôture de
+I.-La société de gestion du fonds commun de placement à risques adresse, dans les quatre mois qui suivent la clôture de
 l'exercice du fonds, la déclaration prévue au I de l'article 242 quinquies du code général des impôts, établie sur papier
 libre, qui mentionne pour chaque investissement retenu pour le calcul du quota de 50 % prévu au 1° du II de l'article 163
-quinquies B du même code :
+quinquies B du même code : 
 
 1° La dénomination de la société ou de l'entité, l'adresse de son siège social et de son siège de direction effective si elle
-est différente ;
+est différente ; 
 
-2° L'activité principale de la société ;
+2° L'activité principale de la société ; 
 
 3° La capitalisation boursière de la société si ses titres sont admis à la négociation sur un marché d'instruments financiers
 d'un Etat partie à l'accord sur l'Espace économique européen dont le fonctionnement est assuré par une entreprise de marché
-ou un prestataire de services d'investissement ;
+ou un prestataire de services d'investissement ; 
 
 4° Le montant et la nature des investissements retenus pour le calcul du quota de 50 % précité et pour la limite de 20 %
-prévue au 3 de l'article L. 214-36 du code monétaire et financier.
+prévue au         III de l'article L. 214-28  du code monétaire et financier. 
 
-II. - Lorsque le fonds commun de placement à risques investit dans des sociétés mentionnées au premier alinéa du 1° quater du
+II.-Lorsque le fonds commun de placement à risques investit dans des sociétés mentionnées au premier alinéa du 1° quater du
 II de l'article 163 quinquies B du code général des impôts ou dans des entités mentionnées au l° quinquies du même II, la
-société de gestion joint en outre à la déclaration mentionnée au I :
+société de gestion joint en outre à la déclaration mentionnée au I : 
 
 1° Un état, établi sur papier libre, qui fait apparaître, pour chaque investissement dans des sociétés mentionnées au premier
 alinéa du 1° quater du II de l'article 163 quinquies B susmentionné, les éléments permettant d'apprécier le montant des
 titres de la société retenu pour l'appréciation du quota d'investissement de 50 % prévu au 1° du II du même article 163
-quinquies B et pour le calcul de la limite de 20 % prévue au 3 de l'article L. 214-36 du code monétaire et financier. Cet
-état indique notamment la dénomination sociale des sociétés dont les titres sont éligibles au quota de 50 %, l'adresse de
-leur siège social et de leur siège de direction effective si elle est différente, la nature de leur activité et leur
-capitalisation boursière si leurs titres sont admis à la négociation sur un marché réglementé ou organisé d'un Etat membre de
-la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
+quinquies B et pour le calcul de la limite de 20 % prévue au         III de l'article L. 214-28  du code monétaire et
+financier. Cet état indique notamment la dénomination sociale des sociétés dont les titres sont éligibles au quota de 50 %,
+l'adresse de leur siège social et de leur siège de direction effective si elle est différente, la nature de leur activité et
+leur capitalisation boursière si leurs titres sont admis à la négociation sur un marché réglementé ou organisé d'un Etat
+membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ; 
 
 2° Un état, établi sur une formule délivrée par l'administration, qui fait apparaître, pour chaque investissement dans des
 entités mentionnées au 1° quinquies du II de l'article 163 quinquies B du code général des impôts, les éléments permettant
 d'apprécier le montant des droits représentatifs du placement financier du fonds dans l'entité retenu dans le quota
-d'investissement de 50 % prévu au 1° du II du même article 163 quinquies B et pour le calcul de la limite de 20 % prévue au 3
-de l'article L. 214-36 du code monétaire et financier.
-
-**Nota:**
-
-Décret 2006-1726 du 23 décembre 2006 art. 12 : Les dispositions des articles 10 et 11 sont applicables aux exercices clos
-postérieurement à la date de publication du présent décret.
+d'investissement de 50 % prévu au 1° du II du même article 163 quinquies B et pour le calcul de la limite de 20 % prévue au
+III de l'article L. 214-28  du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2011-922 du 1er août 2011 - art. 23
+
 _Cite_:
 
-  - CGI 242 quinquies, 163 quinquies, 163 quinquies B
-  - Code monétaire et financier - art. L214-36 (M)
-
-_Créé par_:
-
-  - Décret n°2006-1726 du 23 décembre 2006 - art. 11 () JORF 30 décembre 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, CGI. - art. 163 quinquies B
+  - Code général des impôts, CGI. - art. 242 quinquies
+  - Code monétaire et financier - art. L214-28
 
 
 ##### VIII : Réductions d'impôts pour l'achat de biens culturels<a id=104></a>
