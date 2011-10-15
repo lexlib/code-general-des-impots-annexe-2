@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2011-10-01
+Version Consolidée au 2011-10-16
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -285,26 +285,26 @@ Version Consolidée au 2011-10-01
       - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#282)
       - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#283)
       - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#284)
-  - [Livre II : Recouvrement de l'impôt (art. 376 bis à 410)](#285)
-    - [Chapitre premier : Paiement de l'impôt (art. 376 bis à 384 F)](#286)
-      - [Section I : Impôts directs et taxes assimilées (art. 376 bis à 383)](#287)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#288)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#289)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#290)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#291)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#292)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 F)](#293)
-        - [I : Dation en paiement (art. 384 A à 384 A quater)](#294)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#295)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#296)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#297)
-          - [4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement (art. 384 A quater)](#298)
-        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 B à 384 F)](#299)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#300)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#301)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#302)
-    - [Chapitre II : Procédures (art. 385 à 396 C)](#303)
-      - [I : Taxes sur le chiffre d'affaires et taxes assimilées (art. 385 à 386)](#304)
+  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#285)
+    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 F)](#286)
+      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#287)
+        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#288)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#289)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#290)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#291)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#292)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#293)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 F)](#294)
+        - [I : Dation en paiement (art. 384 A à 384 A quater)](#295)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#296)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#297)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#298)
+          - [4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement (art. 384 A quater)](#299)
+        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 B à 384 F)](#300)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#301)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#302)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#303)
+    - [Chapitre II : Procédures (art. 396 A à 396 C)](#304)
       - [III : Dispositions communes (art. 396 A à 396 C)](#305)
     - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#306)
       - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#307)
@@ -21770,7 +21770,25 @@ _Cité par_:
 
 ### Section I : Impôts directs et taxes assimilées<a id=287></a>
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=288></a>
+#### 00I : Etablissement et mise en recouvrement des rôles<a id=288></a>
+
+###### Article 376-0 bis
+
+Le grade mentionné au second alinéa de l'article 1658 du code général des impôts est celui d'administrateur des finances
+publiques adjoint.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1658
+
+
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=289></a>
 
 ###### Article 376 bis
 
@@ -21941,7 +21959,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=289></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=290></a>
 
 ###### Article 379
 
@@ -22067,7 +22085,7 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=290></a>
+#### IV : Taxe sur les salaires. Taux majorés<a id=291></a>
 
 ###### Article 383
 
@@ -22102,9 +22120,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=291></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=292></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=292></a>
+#### I : Taxe sur la valeur ajoutée<a id=293></a>
 
 ###### Article 383 ter
 
@@ -22136,11 +22154,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=293></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=294></a>
 
-#### I : Dation en paiement<a id=294></a>
+#### I : Dation en paiement<a id=295></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=295></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=296></a>
 
 ###### Article 384 A
 
@@ -22184,7 +22202,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R1111-3 (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=296></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=297></a>
 
 ###### Article 384 A bis
 
@@ -22243,7 +22261,7 @@ _Cité par_:
   - HISTO: Edition du 1er janvier 2006
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=297></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=298></a>
 
 ###### Article 384 A ter
 
@@ -22287,7 +22305,7 @@ _Créé par_:
   - Décret n°2003-281 du 24 mars 2003 - art. 1 () JORF 29 mars 2003
 
 
-##### 4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement<a id=298></a>
+##### 4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement<a id=299></a>
 
 ###### Article 384 A quater
 
@@ -22357,7 +22375,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=299></a>
+#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=300></a>
 
 ###### Article 384 B
 
@@ -22549,9 +22567,9 @@ _Codifié par_:
   - HISTO: Edition du 27 octobre 1995
 
 
-## Chapitre I bis : Pénalités<a id=300></a>
+## Chapitre I bis : Pénalités<a id=301></a>
 
-### Section I : Commission des infractions fiscales<a id=301></a>
+### Section I : Commission des infractions fiscales<a id=302></a>
 
 ###### Article 384 septies-0 A
 
@@ -22661,7 +22679,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=302></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=303></a>
 
 ###### Article 384 septies A
 
@@ -22698,33 +22716,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=303></a>
-
-### I : Taxes sur le chiffre d'affaires et taxes assimilées<a id=304></a>
-
-###### Article 385
-
-Les taxes sur le chiffre d'affaires et les taxes assimilées exigibles des personnes qui changent fréquemment de lieu de
-séjour ou qui séjournent dans des locaux d'emprunt ou des locaux meublés font l'objet de mesures spéciales de recouvrement.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 4
-
-
-###### Article 386
-
-Dès qu'ils ont connaissance de la réalisation, par les personnes susvisées, d'opérations imposables auxdites taxes, les
-agents des impôts peuvent établir les bases d'imposition et le décompte des droits exigibles.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 4
-
+## Chapitre II : Procédures<a id=304></a>
 
 ### III : Dispositions communes<a id=305></a>
 
@@ -23201,18 +23193,14 @@ _Cité par_:
 
 ###### Article 410
 
-Chaque fonctionnaire des impôts ou chaque fonctionnaire des douanes et droits indirects peut déléguer sa signature aux agents
-placés sous son autorité dans les conditions fixées par le directeur général des impôts ou le directeur général des douanes
-et droits indirects, selon le cas.
+Chaque fonctionnaire de la direction générale des finances publiques ou chaque fonctionnaire des douanes et droits indirects
+peut déléguer sa signature aux agents placés sous son autorité dans les conditions fixées par le directeur général des
+finances publiques ou le directeur général des douanes et droits indirects, selon le cas.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2003-192 du 3 mars 2003 - art. 1 () JORF 8 mars 2003
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2003
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 3
 
 
