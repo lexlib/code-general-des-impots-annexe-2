@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-04-08
+Version Consolidée au 2012-04-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -286,27 +286,28 @@ Version Consolidée au 2012-04-08
         - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#283)
         - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#284)
         - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#285)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#286)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#287)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#288)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 F)](#289)
-        - [I : Dation en paiement (art. 384 A à 384 A quater)](#290)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#291)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#292)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#293)
-          - [4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement (art. 384 A quater)](#294)
-        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 B à 384 F)](#295)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#296)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#297)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#298)
-    - [Chapitre II : Procédures (art. 396 A à 396 C)](#299)
-      - [III : Dispositions communes (art. 396 A à 396 C)](#300)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#301)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#302)
-      - [Section II : Procédure de sauvegarde ou de redressement judiciaire (art. 396 bis A)](#303)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#304)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#305)
-    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#306)
+        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#286)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#287)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#288)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#289)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 F)](#290)
+        - [I : Dation en paiement (art. 384 A à 384 A quater)](#291)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A)](#292)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#293)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#294)
+          - [4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement (art. 384 A quater)](#295)
+        - [I bis : Versement pour dépassement du plafond légal de densité (1) (art. 384 B à 384 F)](#296)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#297)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#298)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#299)
+    - [Chapitre II : Procédures (art. 396 A à 396 C)](#300)
+      - [III : Dispositions communes (art. 396 A à 396 C)](#301)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis à 396 bis A)](#302)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#303)
+      - [Section II : Procédure de sauvegarde ou de redressement judiciaire (art. 396 bis A)](#304)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#305)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#306)
+    - [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#307)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -21724,7 +21725,96 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=286></a>
+#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=286></a>
+
+###### Article 382 bis
+
+La demande en décharge de responsabilité prévue par les dispositions du II de l'article 1691 bis du code général des impôts
+est adressée au directeur départemental des finances publiques du lieu d'établissement des impositions concernées ou,
+s'agissant d'impositions et de pénalités recouvrées par un service à compétence nationale, au directeur chargé de ce service.
+Elle est appuyée de toutes les justifications nécessaires à l'appréciation de la situation financière et patrimoniale, nette
+de charges, du demandeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-511 du 18 avril 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1691 bis
+
+
+###### Article 382 quater
+
+Si aucune décision n'a été prise dans les délais prévus à l'article 382 ter ou lorsque la décision, notifiée par lettre
+recommandée avec demande d'avis de réception, ne lui donne pas satisfaction, le demandeur doit, à peine de forclusion, porter
+l'affaire devant le tribunal compétent dans le délai de deux mois à compter :
+
+a) Soit de la date d'expiration du délai mentionné au premier alinéa de l'article 382 ter ;
+
+b) Soit de la date de notification de la décision prise sur la demande en décharge.
+
+La procédure ne peut, à peine d'irrecevabilité, être engagée avant ces dates.
+
+Le demandeur ne peut soumettre au juge des pièces justificatives autres que celles qu'il a déjà produites à l'appui de la
+demande de décharge de responsabilité qu'il a présentée au directeur départemental des finances publiques ou au directeur en
+charge du service à compétence nationale, ni invoquer des faits autres que ceux exposés dans cette demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-511 du 18 avril 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 382 ter
+
+
+###### Article 382 quinquies
+
+La demande prévue au III de l'article 1691 bis du code général des impôts tendant à obtenir la remise partielle ou totale des
+impositions laissées à la charge d'une personne ayant bénéficié d'une décharge de responsabilité solidaire en application du
+II de l'article 1691 bis est adressée au directeur départemental des finances publiques du lieu d'établissement des
+impositions concernées ou, s'agissant d'impositions et pénalités recouvrées par un service à compétence nationale, au
+directeur chargé de ce service. Elle peut lui être adressée simultanément ou postérieurement au dépôt d'une demande en
+décharge de responsabilité solidaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-511 du 18 avril 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1691 bis
+
+
+###### Article 382 ter
+
+Le directeur départemental des finances publiques ou le directeur chargé du service à compétence nationale se prononce dans
+un délai de six mois à compter de la date de sa réception sur la demande de décharge de responsabilité. Ce délai peut être
+prorogé dans la limite de trois mois après information du demandeur par lettre simple.
+
+Lorsque l'administration demande la production de pièces complémentaires nécessaires à l'instruction de la demande, le délai
+d'instruction mentionné au premier alinéa est suspendu jusqu'à la date fixée pour produire les pièces requises. Toutefois, la
+production de ces pièces avant l'expiration du délai fixé met fin à cette suspension.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-511 du 18 avril 2012 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 382 quater (V)
+
+
+#### IV : Taxe sur les salaires. Taux majorés<a id=287></a>
 
 ###### Article 383
 
@@ -21759,9 +21849,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=287></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=288></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=288></a>
+#### I : Taxe sur la valeur ajoutée<a id=289></a>
 
 ###### Article 383 ter
 
@@ -21793,11 +21883,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=289></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=290></a>
 
-#### I : Dation en paiement<a id=290></a>
+#### I : Dation en paiement<a id=291></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=291></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=292></a>
 
 ###### Article 384 A
 
@@ -21841,7 +21931,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R1111-3 (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=292></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=293></a>
 
 ###### Article 384 A bis
 
@@ -21896,7 +21986,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=293></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=294></a>
 
 ###### Article 384 A ter
 
@@ -21944,7 +22034,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-##### 4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement<a id=294></a>
+##### 4° : Remise à certains établissements d'instruments financiers destinés à la recherche ou l'enseignement<a id=295></a>
 
 ###### Article 384 A quater
 
@@ -22014,7 +22104,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=295></a>
+#### I bis : Versement pour dépassement du plafond légal de densité (1)<a id=296></a>
 
 ###### Article 384 B
 
@@ -22204,9 +22294,9 @@ _Cite_:
   - Code de l'urbanisme - art. R*424-1
 
 
-## Chapitre I bis : Pénalités<a id=296></a>
+## Chapitre I bis : Pénalités<a id=297></a>
 
-### Section I : Commission des infractions fiscales<a id=297></a>
+### Section I : Commission des infractions fiscales<a id=298></a>
 
 ###### Article 384 septies-0 A
 
@@ -22316,7 +22406,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=298></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=299></a>
 
 ###### Article 384 septies A
 
@@ -22353,9 +22443,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=299></a>
+## Chapitre II : Procédures<a id=300></a>
 
-### III : Dispositions communes<a id=300></a>
+### III : Dispositions communes<a id=301></a>
 
 ###### Article 396 A
 
@@ -22458,9 +22548,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1912
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=301></a>
+## Chapitre II bis : Sûretés et privilèges<a id=302></a>
 
-### Section I : Publicité du privilège du Trésor<a id=302></a>
+### Section I : Publicité du privilège du Trésor<a id=303></a>
 
 ###### Article 396 bis
 
@@ -22592,7 +22682,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-### Section II : Procédure de sauvegarde ou de redressement judiciaire<a id=303></a>
+### Section II : Procédure de sauvegarde ou de redressement judiciaire<a id=304></a>
 
 ###### Article 396 bis A
 
@@ -22616,9 +22706,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1929 septies (Dis)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=304></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=305></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=305></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=306></a>
 
 ###### Article 396 duodecies
 
@@ -22761,7 +22851,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects<a id=306></a>
+## Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects<a id=307></a>
 
 ###### Article 408
 
