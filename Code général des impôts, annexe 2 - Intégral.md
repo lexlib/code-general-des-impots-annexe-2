@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2012-11-10
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -22029,16 +22029,16 @@ _Cité par_:
 
 I. L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou
 de partage dont il est redevable par la remise d'immeubles visés à l'article 1716 bis du code général des impôts, doit
-déposer au service des impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte constatant la mutation,
-le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de
-chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé. 
+déposer au service des impôts ou au service de la publicité foncière compétent pour enregistrer l'acte constatant la
+mutation, le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la
+valeur de chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé. 
 
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
 de l'acte constatant la mutation ou le partage. 
 
-II. L'offre est adressée par le service des impôts ou la conservation des hypothèques à une commission dont la composition
-est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la protection de la
-nature (1). 
+II. L'offre est adressée par le service des impôts    ou le service de la publicité foncière à une commission dont la
+composition est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget et du ministre chargé de la
+protection de la nature (1). 
 
 Avant de se prononcer, cette commission consulte le Conservatoire de l'espace littoral et des rivages lacustres. 
 
@@ -22066,7 +22066,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-430 du 29 mars 2012 - art. 18
+  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 _Cité par_:
 
@@ -22085,16 +22085,16 @@ _Cite_:
 I.-L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou
 de partage dont il est redevable par la remise d'immeubles en nature de bois et forêts ou espaces naturels pouvant être
 incorporés au domaine forestier de l'Etat mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service
-des impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte constatant la mutation, le partage ou la
+des impôts ou au service de la publicité foncière compétent pour enregistrer l'acte constatant la mutation, le partage ou la
 déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de chacun des biens
 qu'il envisage de remettre à l'Etat. Il en est délivré récépissé. 
 
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
 de l'acte constatant la mutation ou le partage. 
 
-II.-L'offre est adressée par le service des impôts ou la conservation des hypothèques à une commission dont la composition
-est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget, du ministre chargé des forêts et du ministre
-chargé de la protection de la nature. 
+II.-L'offre est adressée par le service des impôts    ou le service de la publicité foncière à une commission dont la
+composition est fixée par arrêté conjoint du Premier ministre, du ministre chargé du budget, du ministre chargé des forêts et
+du ministre chargé de la protection de la nature. 
 
 Avant de se prononcer, cette commission consulte l'Office national des forêts. 
 
@@ -22119,7 +22119,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-430 du 29 mars 2012 - art. 18
+  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 _Cite_:
 
@@ -22133,15 +22133,15 @@ _Cite_:
 I.-L'héritier, le donataire, le légataire ou le copartageant qui désire acquitter tout ou partie des droits de mutation ou de
 partage dont il est redevable par la remise de blocs de titres de sociétés cotées, de titres d'organismes de placement
 collectif en valeurs mobilières investis en titres de sociétés cotées ou en obligations négociables, ainsi que d'obligations
-négociables, mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service des impôts ou à la
-conservation des hypothèques compétent pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de
+négociables, mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service des impôts ou    au service
+de la publicité foncière compétent pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de
 succession, une offre de dation à l'Etat indiquant le marché sur lequel sont cotés les titres qu'il envisage de remettre à
-l'Etat ainsi que leur nombre et leur code d'identification sur ce marché.L'offre est accompagnée de la copie du dernier
+l'Etat ainsi que leur nombre et leur code d'identification sur ce marché. L'offre est accompagnée de la copie du dernier
 relevé de compte titres sur lequel les titres sont inscrits. Il en est délivré récépissé. 
 
 Toutefois, l'offre n'est recevable que si l'imposition due et la valeur liquidative ou le cours de bourse des titres offerts
 en dation de la veille du jour du dépôt de l'offre sont supérieurs ou égaux à un montant fixé par arrêté conjoint des
-ministres chargés du budget, de l'enseignement supérieur et de la recherche.
+ministres chargés du budget, de l'enseignement supérieur et de la recherche. 
 
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou
 de l'acte constatant la mutation ou le partage. 
@@ -22158,7 +22158,7 @@ III.-Au vu de l'avis de la commission, le ministre chargé de l'enseignement sup
 le ministre chargé de l'enseignement supérieur ou celui chargé de la recherche ou ces deux ministres conjointement, suivant
 la nature du projet, proposent au ministre chargé du budget l'octroi ou le refus de l'agrément. 
 
-IV.-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
+IV.-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception. 
 
 V.-En cas de décision d'agrément, la dation en paiement n'est parfaite que si, d'une part, dans le délai mentionné ci-
 dessous, le demandeur accepte cette décision et transfère à l'Etat les titres offerts et si, d'autre part, au jour du
@@ -22172,7 +22172,7 @@ quatre mois si l'un au moins des dépositaires des titres offerts en dation est 
 
 Lorsque le dernier cours de clôture connu en bourse ou la dernière valeur liquidative des titres au jour de leur transfert
 effectif dans les comptes de l'Etat est inférieur au montant de l'imposition due, la dation est parfaite si le demandeur
-acquitte en numéraire le solde dû, dans le même délai.
+acquitte en numéraire le solde dû, dans le même délai. 
 
 L'ensemble des frais afférents à l'opération de transfert des titres à l'Etat est à la charge du demandeur. 
 
@@ -22187,9 +22187,9 @@ la cession.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1100 du 28 octobre 2008 - art. 1
+  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 _Cite_:
 
