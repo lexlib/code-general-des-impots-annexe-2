@@ -1,29 +1,28 @@
 # Article 310 HB quater
 
-Les zones dans lesquelles l'aménagement du territoire justifie une exonération temporaire de taxe professionnelle en faveur
-des entreprises qui procèdent aux opérations énumérées à l'article 1465 du code général des impôts sont définies par arrêté
-du ministre du budget (1).
+Les zones dans lesquelles l'aménagement du territoire justifie une exonération temporaire de cotisation foncière des
+entreprises en faveur des entreprises qui procèdent aux opérations énumérées à l'article 1465 du code général des impôts sont
+définies par arrêté du ministre du budget (1). 
 
-(1) Voir Annexe IV, art. 121 quinquies DB bis, annexes I, et IV à l'arrêté du 24 novembre 1980 (J.O. du 7 décembre) et annexe
-de l'arrêté du 24 novembre 1982 (J.O. du 24 mars 1983).
+(1) Voir Annexe IV, art. 121 quinquies DB bis, annexes I, et IV à l'arrêté du 24 novembre 1980 (J. O. du 7 décembre) et
+annexe de l'arrêté du 24 novembre 1982 (J. O. du 24 mars 1983).
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 2-6.1.16 [3]° de la loi n° 2009-1673 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Arrêté 1980-11-24 ANNEXES I, IV
-  - Arrêté 1982-11-24
-  - CGI 1465
-  - CGIAN4 121 quinquies DB bis
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-875 1984-10-01 (Décret de codification) : a modifié la table des matières de cet article
-
-_Créé par_:
-
-  - Décret n°80-921 du 21 novembre 1980 - art. 3 (V) JORF 23 novembre 1980
-
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°81-866 du 15 septembre 1981
+
+_Modifié par_:
+
+  - Décret n°2013-463 du 3 juin 2013 - art. 3
+
+_Cite_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 121 quinquies DB bis (P)
+  - Code général des impôts, CGI. - art. 1465
+  - 
