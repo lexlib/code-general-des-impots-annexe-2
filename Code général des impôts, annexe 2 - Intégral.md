@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2013-07-31
+Version Consolidée au 2013-12-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -17973,8 +17973,8 @@ _Cite_:
 
 Les dispositions du code général des impôts relatives à la taxe foncière sur les propriétés bâties, la taxe foncière sur les
 propriétés non bâties, la taxe d'habitation, la cotisation foncière des entreprises et leurs taxes annexes sont applicables
-dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sous réserve de l'application des
-articles 330 à 333 J. 
+dans les départements de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte et de la Réunion, sous réserve de
+l'application des articles 330 à 333 J. 
 
 2me alinéa : dispositions disjointes
 
@@ -17982,11 +17982,11 @@ articles 330 à 333 J.
 
 _Modifié par_:
 
-  - Décret n°2011-2064 du 30 décembre 2011 - art. 1
+  - Décret n°2013-1182 du 18 décembre 2013 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 330 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 330
 
 
 ##### I : Taxes foncières<a id=242></a>
@@ -18130,22 +18130,27 @@ deuxième alinéa de l'article 331 et de l'article 332 est, à compter de 1991, 
 1989, majorée en 1990 et chacune des années suivantes proportionnellement à la variation des valeurs locatives des logements
 résultant de l'application des articles 1518 et 1518 bis du code général des impôts.
 
+Pour le Département de Mayotte, la valeur locative moyenne communale à prendre en compte pour l'application des dispositions
+du deuxième alinéa du I de l'article 331 et de l'article 332 est, au titre des impositions de 2014, celle calculée en
+retenant les valeurs locatives des locaux d'habitation, autres qu'exceptionnels, présents sur le territoire de la commune au
+1er janvier 2014. A compter de 2015, la valeur locative moyenne est déterminée conformément à l'article 310 H.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°90-1127 du 17 décembre 1990 - art. 1 (V) JORF 21 décembre 1990
 
 _Codifié par_:
 
-  - Décret n°91-883 1991-09-09
+  - Décret n°91-883 du 9 septembre 1991
+
+_Modifié par_:
+
+  - Décret n°2013-1182 du 18 décembre 2013 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 310 H (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 331 (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 332 (V)
-  - Code général des impôts, CGI. - art. 1518 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 310 H
+  - Code général des impôts, annexe 2, CGIAN2. - art. 331
+  - Code général des impôts, annexe 2, CGIAN2. - art. 332
+  - Code général des impôts, CGI. - art. 1518
 
 
 ##### IV : Règles d'évaluation de la valeur locative des biens imposables<a id=247></a>
@@ -18153,8 +18158,11 @@ _Cite_:
 ###### Article 333
 
 La valeur locative des propriétés bâties et non bâties qui sont situées dans les départements de la Guadeloupe, de la Guyane,
-de la Martinique et de la Réunion est déterminée conformément aux règles applicables dans les autres départements sous
-réserve des adaptations fixées par les articles 333 A à 333 J.
+de la Martinique, de Mayotte et de la Réunion est déterminée conformément aux règles applicables dans les autres départements
+sous réserve des adaptations fixées par les articles 333 A à 333 J.
+
+Pour le Département de Mayotte, par dérogation aux articles 333 A à 333 J, la valeur locative est déterminée à la date du 1er
+janvier 2012.
 
 **Liens relatifs à cet article**
 
@@ -18164,15 +18172,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°87-940 1987-11-23
+  - Décret n°87-940 du 23 novembre 1987
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+  - Décret n°2013-1182 du 18 décembre 2013 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 333 A (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 333 A
 
 
 ##### A : Évaluation des propriétés bâties<a id=248></a>
@@ -18400,11 +18408,21 @@ et de la Réunion par les redevables de la contribution foncière des propriét�
 les redevables de l'impôt locatif. Lorsqu'une propriété bâtie n'est pas passible de la contribution foncière ou de l'impôt
 locatif, la déclaration est souscrite par l'occupant des locaux. 
 
-Ces déclarations peuvent être rédigées avec le concours d'agents désignés par le directeur des services fiscaux. Ces agents
-assurent la collecte de ces documents. 
+Pour la première évaluation des locaux dans le Département de Mayotte, les redevables de l'impôt foncier sur les terrains ou
+de la contribution des patentes sont tenus de souscrire les déclarations prévues à l'article 1502 du code général des
+impôts. 
 
-Les dates limites de souscription des déclarations sont fixées par arrêté préfectoral sur proposition du directeur des
-services fiscaux.
+Les déclarations prévues à l'alinéa précédent pour les locaux à usage professionnel ou commercial sont souscrites par le
+redevable de la contribution des patentes au 1er janvier 2013 de manière commune avec les déclarations prévues à l'article 34
+de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 sur un modèle déclaratif unique, adapté par
+arrêté préfectoral sur proposition du directeur régional des finances publiques. Lorsqu'une propriété bâtie n'est pas
+passible de la contribution des patentes, la déclaration est souscrite par le propriétaire des locaux. 
+
+Ces déclarations peuvent être rédigées avec le concours d'agents désignés par le directeur départemental des finances
+publiques. Ces agents assurent la collecte de ces documents. 
+
+Les dates limites de souscription des déclarations sont fixées par arrêté préfectoral sur proposition du directeur
+départemental des finances publiques.
 
 **Liens relatifs à cet article**
 
@@ -18414,15 +18432,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°87-940 1987-11-23
-
-_Créé par_:
-
-  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+  - Décret n°87-940 du 23 novembre 1987
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1502 (V)
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 34 (VT)
+  - Code général des impôts, CGI. - art. 1502
+
+_Modifié par_:
+
+  - Décret n°2013-1182 du 18 décembre 2013 - art. 1
 
 
 ##### B : Évaluation des propriétés non bâties.<a id=253></a>
