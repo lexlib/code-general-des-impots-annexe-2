@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -8884,8 +8884,8 @@ L'option peut être dénoncée à partir du 1er janvier de la neuvième année c
 Dans le cas d'une option au titre d'un immeuble non encore achevé, la dénonciation peut intervenir à compter du 1er janvier
 de la neuvième année qui suit celle au cours de laquelle l'immeuble a été achevé.
 
-L'option ou sa dénonciation prend effet à compter du premier jour du mois suivant celui au cours duquel elle est formulée
-auprès du service des impôts.
+L'option ou sa dénonciation prend effet à compter du premier jour du mois au cours duquel elle est formulée auprès du service
+des impôts.
 
 Toutefois, lorsque tout ou partie des immeubles intéressés cesse, au cours de la période couverte par l'option, d'être
 destiné à un usage pour lequel celle-ci est possible, la dénonciation est obligatoire en ce qui concerne les locaux qui ont,
@@ -8895,7 +8895,7 @@ de ce fait, changé de destination.
 
 _Modifié par_:
 
-  - Décret n°2010-1075 du 10 septembre 2010 - art. 2
+  - Décret n°2014-44 du 20 janvier 2014 - art. 1
 
 _Cité par_:
 
@@ -9131,18 +9131,18 @@ _Cite_:
 
 ###### Article 202
 
-L'option pour le paiement de la taxe sur la valeur ajoutée exercée par les personnes qui donnent en location, en vertu d'un
-bail ayant date certaine, des terres et bâtiments d'exploitation à usage agricole peut être dénoncée à partir du 1er janvier
-de la cinquième année civile qui suit celle au cours de laquelle elle a été exercée.
+L'option pour le paiement de la taxe sur la valeur ajoutée exercée par les personnes qui donnent en location des terres et
+bâtiments d'exploitation à usage agricole peut être dénoncée à partir du 1er janvier de la cinquième année civile qui suit
+celle au cours de laquelle elle a été exercée.
 
-L'option ou sa dénonciation prend effet à compter du premier jour du mois suivant celui au cours duquel elle est formulée
-auprès du service des impôts.
+L'option ou sa dénonciation prend effet à compter du premier jour du mois au cours duquel elle est formulée auprès du service
+des impôts.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1075 du 10 septembre 2010 - art. 2
+  - Décret n°2014-44 du 20 janvier 2014 - art. 1
 
 
 ##### III : Exonérations<a id=106></a>
@@ -9759,43 +9759,56 @@ _Cite_:
 
 ###### Article 210
 
-I.-1. La taxe sur la valeur ajoutée qui a grevé certains biens constituant des immobilisations et utilisés pour la
+I. – 1. La taxe sur la valeur ajoutée qui a grevé certains biens constituant des immobilisations et utilisés pour la
 réalisation d'opérations ouvrant droit à déduction peut être déduite, dans les conditions et suivant les modalités prévues au
-2 et au 3, par l'entreprise utilisatrice qui n'en est pas elle-même propriétaire. 
+2 et au 3, par l'entreprise utilisatrice qui n'en est pas elle-même propriétaire.
 
-2. La taxe déductible est celle afférente : 
+2. La taxe déductible est celle afférente :
 
 1° Aux dépenses exposées pour les investissements publics que l'Etat, les collectivités territoriales ainsi que leurs
-groupements, ou leurs établissements publics confient à l'entreprise utilisatrice afin qu'elle assure, à ses frais et
-risques, la gestion du service public qu'ils lui ont déléguée ; 
+groupements, ou leurs établissements publics n'utilisent pas pour la réalisation d'opérations ouvrant droit à déduction et
+qu'ils confient à l'entreprise utilisatrice afin qu'elle assure, à ses frais et risques, la gestion du service public qu'ils
+lui ont déléguée ;
 
 2° Aux immeubles édifiés par les sociétés de construction dont les parts ou actions donnent vocation à l'attribution en
-propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble. 
+propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
 
 3. La taxe déductible est celle due ou supportée à raison de l'acquisition ou de la construction du bien, ou de la
 réalisation des travaux. La mise à disposition ou l'entrée en jouissance du bien, le retrait ou l'interruption dans la
 jouissance du bien sont assimilés à des transferts de propriété. Les personnes énumérées au 2 délivrent à l'utilisateur une
-attestation du montant de la taxe qui a grevé le bien. Une copie est adressée au service des impôts. 
+attestation du montant de la taxe qui a grevé le bien. Une copie est adressée au service des impôts.
 
-II.-Les redevables de la taxe sur la valeur ajoutée qui, compte tenu des dispositions du 2° du 1 et du 2° du 4 de l'article
+II. – Les redevables de la taxe sur la valeur ajoutée qui, compte tenu des dispositions du 2° du 1 et du 2° du 4 de l'article
 298 du code général des impôts, ne peuvent opérer eux-mêmes les déductions auxquelles ils ont droit sont autorisés à
 transférer leurs droits à déduction aux redevables de la taxe sur la valeur ajoutée exigible lors de la mise à la
-consommation des produits pétroliers et assimilés énumérés au tableau B de l'article 265 du code des douanes. 
+consommation des produits pétroliers et assimilés énumérés au tableau B de l'article 265 du code des douanes.
 
 Ce transfert s'effectue sous le couvert de certificats de transfert de droits à déduction, délivrés par la direction générale
 des douanes et droits indirects.
 
+**Nota:**
+
+Décret n° 2015-1763 du 24 décembre 2015, art. 2 : L'article 1er de ce décret a abrogé l'article 210 de l'annexe II du code
+général des imopôts. Cependant, conformément à son article 2, ces dispositions s'appliquent aux dépenses d'investissements
+publics mis à disposition de délégataires de service public en application de contrats de délégation conclus à compter du 1er
+janvier 2016 et aux dépenses d'édification ou d'acquisition d'immeubles par des sociétés civiles d'attribution pour lesquels
+un état descriptif de division a été établi à compter de cette date.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-294 du 1er avril 2008 - art. 2
 
 _Cité par_:
 
   - Décret n°2014-44 du 20 janvier 2014 (V)
   - Code général des collectivités territoriales - art. R1615-2 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 207 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-44 du 20 janvier 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2015-1763 du 24 décembre 2015 - art. 1
 
 _Cite_:
 
