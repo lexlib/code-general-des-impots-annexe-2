@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2014-06-19
+Version Consolidée au 2014-07-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -1326,35 +1326,48 @@ _Cite_:
 ###### Article 39 A
 
 Pour l'application du 2° de l'article 92 A du code général des impôts, constituent des récompenses internationales de niveau
-équivalent au prix Nobel dans les domaines littéraire, artistique ou scientifique les récompenses suivantes : 
+équivalent au prix Nobel dans les domaines littéraire, artistique ou scientifique les récompenses suivantes :
 
-a. Le prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel ; 
+a. Le prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel ;
 
-b. Le prix Turing pour l'informatique ; 
+b. Le prix Turing pour l'informatique ;
 
-c. Le prix Pritzker pour l'architecture ; 
+c. Le prix Pritzker pour l'architecture ;
 
-d. Le prix Abel et la médaille Fields pour les mathématiques ; 
+d. Le prix Abel et la médaille Fields pour les mathématiques ;
 
 e. Le prix Crafoord pour l'astronomie et les mathématiques, les géosciences et les biosciences et les travaux sur la
-polyarthrite ; 
+polyarthrite ;
 
-f. Les prix Wolf pour l'agriculture, l'art, la médecine, la physique, la chimie et les mathématiques ; 
+f. Les prix Wolf pour l'agriculture, l'art, la médecine, la physique, la chimie et les mathématiques ;
 
 g. Les prix Balzan dans la catégorie des lettres, sciences morales et arts et dans la catégorie des sciences physiques,
-naturelles, médicales et mathématiques ; 
+naturelles, médicales et mathématiques ;
 
-h. Le Japan Prize en sciences ; 
+h. Le Japan Prize en sciences ;
 
-i. Les prix Lasker pour la recherche médicale ; 
+i. Les prix Lasker pour la recherche médicale ;
 
-j. Les prix Gairdner pour la recherche médicale.
+j. Les prix Gairdner pour la recherche médicale ;
+
+k. Les prix de la fondation " Fundamental Physics Prize Foundation " dans le domaine de la physique ;
+
+l. Les prix " Breakthrough Prize in Life Sciences " dans le domaine des sciences de la vie ;
+
+m. Les prix " Shaw " pour l'astronomie, les sciences de la vie et la médecine, les mathématiques ;
+
+n. Le prix " Queen Elizabeth Prize for Engineering " dans le domaine de l'ingénierie ;
+
+o. Le prix " Holberg International Memorial Prize " dans les domaines des humanités, des sciences sociales, des arts, du
+droit et de la théologie ;
+
+p. Les " ENI Awards " dans le domaine de l'énergie et de l'environnement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-570 du 20 mai 2009 - art. 1
+  - Décret n°2014-839 du 24 juillet 2014 - art. 1
 
 _Cite_:
 
