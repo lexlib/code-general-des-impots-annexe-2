@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-01-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -9970,35 +9970,48 @@ _Cité par_:
 ###### Article 242-0 O
 
 Un assujetti non établi en France doit satisfaire aux conditions suivantes pour obtenir le remboursement de la taxe sur la
-valeur ajoutée mentionné à l'article 242-0 N : 
+valeur ajoutée mentionné à l'article 242-0 N :
 
 1° au cours de la période sur laquelle porte la demande de remboursement, l'assujetti doit avoir été établi hors de France au
-sens du 1° de l'article 242-0 M ; 
+sens du 1° de l'article 242-0 M ;
 
 2° au cours de la période sur laquelle porte la demande de remboursement, l'assujetti ne doit avoir effectué aucune livraison
-de biens ni prestations de services en France à l'exception des opérations suivantes : 
+de biens ni prestations de services en France à l'exception des opérations suivantes :
 
 a. les prestations de services de transports et les opérations accessoires qui sont exonérées en application du I, des 7° à
 11° bis et 14° du II de l'article 262 du code général des impôts, des articles 262 bis, 263, ainsi que du 2° du III de
-l'article 291 du même code ; 
+l'article 291 du même code ;
 
 b. les opérations pour lesquelles la taxe est acquittée par l'acquéreur, le destinataire ou le preneur mentionnées au second
-alinéa du 1 et aux 2, 2 ter, 2 quinquies, 2 sexies de l'article 283 du code général des impôts ; 
+alinéa du 1 et aux 2,2 ter, 2 quinquies, 2 sexies de l'article 283 du code général des impôts ;
 
-c. les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des impôts.
+c. les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 277 A du code général des
+impôts ;
+
+d. Les prestations de services mentionnées à l'article 259 D du code général des impôts lorsqu'elles sont déclarées selon le
+régime particulier prévu aux articles 369 bis à 369 duodecies de la directive 2006/112/CE du 28 novembre 2006.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux demandes de remboursement de la taxe sur la valeur ajoutée présentées au titre des périodes
+postérieures au 1er janvier 2015 .
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-413 du 27 avril 2010 - art. 1
+  - Décret n°2015-19 du 9 janvier 2015 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 242-0 M
-  - Code général des impôts, CGI. - art. 262
-  - Code général des impôts, CGI. - art. 277 A
-  - Code général des impôts, CGI. - art. 283
+  - Code général des impôts, CGI. - art. 259 D (V)
+  - Code général des impôts, CGI. - art. 262 (VT)
+  - Code général des impôts, CGI. - art. 262 bis (V)
+  - Code général des impôts, CGI. - art. 263 (V)
+  - Code général des impôts, CGI. - art. 277 A (V)
+  - Code général des impôts, CGI. - art. 283 (V)
+  - Code général des impôts, CGI. - art. 291 (V)
 
 _Cité par_:
 
@@ -10431,14 +10444,19 @@ _Cite_:
 ###### Article 242-0 Z sexies
 
 La taxe sur la valeur ajoutée n'est remboursée aux assujettis établis hors de l'Union européenne en application des articles
-242-0 Z quater à 242-0 Z decies que si elle est au moins égale à une somme de 25 € ou 200 €, selon que le remboursement est
+242-0 Z quater à 242-0 Z decies que si elle est au moins égale à une somme de 50 € ou 400 €, selon que le remboursement est
 demandé au titre d'une année ou d'un trimestre.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux demandes de remboursement de la taxe sur la valeur ajoutée présentées au titre des périodes
+postérieures au 1er janvier 2015 .
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-413 du 27 avril 2010 - art. 1
+  - Décret n°2015-19 du 9 janvier 2015 - art. 1
 
 _Cite_:
 
