@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-08-06
+Version Consolidée au 2015-09-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -20794,11 +20794,26 @@ _Abrogé par_:
 
 ###### Article 376 ter
 
-L'option est obligatoirement formulée au moyen d'imprimés fournis par l'administration et accompagnée d'une autorisation du
-contribuable donnée à l'établissement dépositaire de débiter son compte du montant des avis de prélèvements émis par le
-Trésor public.
+L'option est accompagnée d'un mandat par lequel le contribuable autorise la direction générale des finances publiques à
+émettre des ordres de prélèvement payables sur son compte et l'établissement dépositaire à débiter son compte du montant de
+ces ordres.
+
+Elle est formulée, au choix du contribuable, soit au moyen d'imprimés fournis par l'administration, soit, de manière
+dématérialisée, sur le site de paiement en ligne de la direction générale des finances publiques. Dans ce dernier cas, la
+signature et la transmission du mandat sont également effectuées sur ce site.
+
+L'option prend fin de plein droit dans le cas où aucun ordre de prélèvement n'a été présenté pendant une période de trente-
+six mois.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2015-1136 du 14 septembre 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2017-975 du 10 mai 2017 - art. 2
 
 _Cité par_:
 
