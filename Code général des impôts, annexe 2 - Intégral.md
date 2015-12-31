@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2015-11-15
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -253,41 +253,42 @@ Version Consolidée au 2015-11-15
               - [3° : Etablissements industriels. (art. 333 D à 333 G)](#250)
               - [4° : Procédure (art. 333 H)](#251)
             - [B : Évaluation des propriétés non bâties. (art. 333 I à 333 J)](#252)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 371 à 376)](#253)
-      - [Chapitre premier : Obligations des contribuables (art. 371)](#254)
-        - [Section II : Forains (art. 371)](#255)
-      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z)](#256)
-        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#257)
-        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#258)
-      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis L)](#259)
-      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#260)
-      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#261)
-      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#262)
-  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#263)
-    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#264)
-      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#265)
-        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#266)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#267)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#268)
-        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#269)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#270)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#271)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#272)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#273)
-        - [I : Dation en paiement (art. 384 A à 384 A ter)](#274)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#275)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#276)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#277)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#278)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#279)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#280)
-    - [Chapitre II : Procédures (art. 396 B à 396 C)](#281)
-      - [III : Dispositions communes (art. 396 B à 396 C)](#282)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#283)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#284)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#285)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#286)
-    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#287)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 370 C à 376)](#253)
+      - [Chapitre premier : Obligations des contribuables (art. 370 C à 371)](#254)
+        - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#255)
+        - [Section II : Forains (art. 371)](#256)
+      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z)](#257)
+        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#258)
+        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#259)
+      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis L)](#260)
+      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#261)
+      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#262)
+      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#263)
+  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#264)
+    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#265)
+      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#266)
+        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#267)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#268)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#269)
+        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#270)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#271)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#272)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#273)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#274)
+        - [I : Dation en paiement (art. 384 A à 384 A ter)](#275)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#276)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#277)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#278)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#279)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#280)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#281)
+    - [Chapitre II : Procédures (art. 396 B à 396 C)](#282)
+      - [III : Dispositions communes (art. 396 B à 396 C)](#283)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#284)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#285)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#286)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#287)
+    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#288)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -9497,12 +9498,12 @@ _Cite_:
 
 ###### Article 207
 
-I.-Sous réserve des dispositions qui suivent, la déduction opérée dans les conditions mentionnées aux articles 205 et 206 est
-définitivement acquise à l'entreprise. 
+I. – Sous réserve des dispositions qui suivent, la déduction opérée dans les conditions mentionnées aux articles 205 et 206
+est définitivement acquise à l'entreprise. 
 
-II.-1. Pour les biens immobilisés, une régularisation de la taxe initialement déduite est opérée chaque année pendant cinq
+II. – 1. Pour les biens immobilisés, une régularisation de la taxe initialement déduite est opérée chaque année pendant cinq
 ans, dont celle au cours de laquelle ils ont été acquis, importés, achevés, utilisés pour la première fois ou transférés
-entre secteurs d'activité constitués en application de l'article 209. 
+entre secteurs d'activité constitués en application de l'article 209.
 
 2. Chaque année, la régularisation est égale au cinquième du produit de la taxe initiale par la différence entre le
 coefficient de déduction de l'année et le coefficient de déduction de référence mentionné au 2 du V. Elle prend la forme
@@ -9524,12 +9525,12 @@ valeur absolue, à un dixième.
 
 1° Aux biens immobilisés dont le coefficient d'assujettissement de référence est nul ; 
 
-2° Aux immeubles livrés, acquis, apportés ou utilisés pour la première fois avant le 1er janvier 1996. 
+2° Aux immeubles livrés, acquis, apportés ou utilisés pour la première fois avant le 1er janvier 1996.
 
 6. Pour la détermination des coefficients de référence mentionnés au 2 et au 4, il n'est pas tenu compte des dispositions du
 1° et du 2° du 2 du V au titre de l'année où il est fait application de ces dispositions. 
 
-III.-1. Une régularisation de la taxe initialement déduite et grevant un bien immobilisé est également opérée : 
+III. – 1. Une régularisation de la taxe initialement déduite et grevant un bien immobilisé est également opérée : 
 
 1° Lorsqu'il est cédé ou apporté, sans que cette opération soit soumise à la taxe sur le prix total, sur la valeur totale ou
 dans les conditions fixées à l'article 268 du code général des impôts, ou est transféré entre secteurs d'activité constitués
@@ -9546,8 +9547,7 @@ lorsqu'il cesse d'être utilisé à des opérations ouvrant droit à déduction 
 5° Lorsqu'il cesse d'être utilisé à des opérations imposables. 
 
 2. Cette régularisation est égale à la somme des régularisations qui auraient été effectuées jusqu'au terme de la période de
-régularisation en application des 1, 2, 3 et 5 du II, en considérant que pour chacune des années restantes de cette
-période : 
+régularisation en application des 1,2,3 et 5 du II, en considérant que pour chacune des années restantes de cette période : 
 
 1° Dans les cas visés au 1° du 1, le coefficient de taxation est égal à zéro ; 
 
@@ -9562,9 +9562,9 @@ période :
 3. Dans les cas visés au 1° du 1, sous réserve que le bien constitue également une immobilisation pour le bénéficiaire de la
 cession, de l'apport ou du transfert, celui-ci peut déduire une fraction du montant de taxe sur la valeur ajoutée ayant grevé
 initialement le bien, à proportion du rapport entre le nombre d'années restant à courir, pour le cédant ou l'apporteur,
-jusqu'au terme de la période de régularisation et le nombre d'années total de celle-ci.A cette fin, le cédant ou l'apporteur
+jusqu'au terme de la période de régularisation et le nombre d'années total de celle-ci. A cette fin, le cédant ou l'apporteur
 délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de déduire. Cette déduction est
-opérée dans les conditions prévues à l'article 206. 
+opérée dans les conditions prévues à l'article 206.
 
 4. Les dispositions des 1 à 3 ne sont pas applicables : 
 
@@ -9577,7 +9577,7 @@ a. Qui ont été volés ou détruits, dès lors qu'il est justifié du vol ou de
 
 b. Dont le coefficient d'assujettissement de référence est nul. 
 
-IV.-1. (alinéa abrogé) 
+IV. – 1. (alinéa abrogé) 
 
 2. Lorsqu'un bien en stock, ou un bien immobilisé non encore utilisé, vient à être utilisé à des opérations ouvrant droit à
 déduction, la taxe initiale peut être déduite à proportion du coefficient de déduction résultant de ce changement. 
@@ -9585,11 +9585,10 @@ déduction, la taxe initiale peut être déduite à proportion du coefficient de
 3. Pour l'application du II et des 1° et 2° du 1 du III, un immeuble ou une fraction d'immeuble en stock est considéré comme
 immobilisé lorsque, au 31 décembre de la deuxième année qui suit celle au cours de laquelle est intervenu l'achèvement de
 l'immeuble, il est utilisé pendant plus d'un an pour une opération relevant d'une activité économique mentionnée à l'article
-256 A du code général des impôts.
+256 A du code général des impôts. 
 
-V.-1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271 du code général des impôts
-ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 du I de l'article
-210. 
+V. – 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271 du code général des impôts
+ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article. 
 
 2. Les coefficients d'assujettissement, de taxation et d'admission de référence sont initialement égaux aux coefficients
 retenus pour le calcul de la déduction opérée en application de l'article 206 lors de l'acquisition, de l'importation ou de
@@ -9605,7 +9604,7 @@ prennent la valeur des coefficients mentionnés respectivement aux 3° à 5° du
 Le coefficient de déduction de référence est égal au produit des coefficients d'assujettissement, de taxation et d'admission
 de référence résultant des dispositions qui précèdent. 
 
-VI.-Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas suivants : 
+VI. – Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas suivants : 
 
 1° Lorsque les marchandises ont disparu ; 
 
@@ -9616,26 +9615,33 @@ Ce reversement doit être opéré avant le 25 du mois qui suit celui au cours du
 intervenu. Toutefois, ces reversements ne sont pas exigés lorsque les biens ont été détruits avant toute utilisation ou
 cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.
 
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1763 du 24 décembre 2015, les présentes dispositions s'appliquent aux dépenses
+d'investissements publics mis à disposition de délégataires de service public en application de contrats de délégation
+conclus à compter du 1er janvier 2016 et aux dépenses d'édification ou d'acquisition d'immeubles par des sociétés civiles
+d'attribution pour lesquels un état descriptif de division a été établi à compter de cette date.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-965 du 31 juillet 2015 - art. 1
+  - Décret n°2015-1763 du 24 décembre 2015 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 205
   - Code général des impôts, annexe 2, CGIAN2. - art. 206
-  - Code général des impôts, annexe 2, CGIAN2. - art. 210
-  - Code général des impôts, annexe 2, CGIAN2. - art. 268
   - Code général des impôts, CGI. - art. 256 A
   - Code général des impôts, CGI. - art. 257 bis
+  - Code général des impôts, CGI. - art. 268 (V)
+  - Code général des impôts, CGI. - art. 271 (V)
   - Code monétaire et financier - art. L313-7
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 208 (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 209 (M)
   - Code général des impôts, annexe 2, CGIAN2. - art. 260 K (V)
 
 
@@ -14900,25 +14906,16 @@ _Cité par_:
 ###### Article 292 B
 
 I. Les assureurs qui doivent verser des sommes, rentes ou émoluments quelconques au titre des contrats mentionnés à l'article
-292 A doivent, dans les quarante-cinq jours qui suivent le jour où ils ont connaissance du décès de l'assuré sur la tête
-duquel un ou plusieurs contrats en cause ont été souscrits, adresser à la direction départementale ou, le cas échéant,
-régionale des finances publiques du domicile de l'assuré un document faisant connaître : 
-
-1. Le nom ou la raison sociale et le domicile de l'assureur ; 
-
-2. Les nom, prénoms et domicile de l'assuré ainsi que la date de son décès ; 
-
-3. Les nom, prénoms et domicile du ou des bénéficiaires ; 
-
-4. La date de souscription du ou des contrats ; 
-
-5. Le montant des primes versées après le soixante-dixième anniversaire de l'assuré pour chacun des contrats. 
+292 A déclarent à l'administration fiscale, dans les soixante jours qui suivent le jour où ils ont connaissance du décès de
+l'assuré sur la tête duquel un ou plusieurs contrats en cause ont été souscrits, les éléments mentionnés aux I et II de
+l'article 370 C ainsi que le montant des primes versées après le soixante-dixième anniversaire de l'assuré et leur
+répartition entre chacun des bénéficiaires pour chaque contrat. 
 
 Les mêmes obligations incombent aux assureurs pour les contrats souscrits avant le 20 novembre 1991, lorsque des avenants
 prévus à l'article L. 112-3 du code des assurances de nature à transformer l'économie même de ces contrats ont été souscrits
-après cette date. 
+après cette date. Les dates, les références ou numéros de police de ces avenants sont alors déclarés. 
 
-Ces documents sont établis sur des formules imprimées délivrées sans frais par le service des impôts. 
+Ces éléments sont déclarés dans les conditions prévues aux V à VII de l'article 370 C. 
 
 II. Les assureurs ne peuvent se libérer des sommes, rentes ou émoluments quelconques dus au titre des contrats mentionnés à
 l'article 292 A que dans les conditions prévues aux premier et deuxième alinéas du III de l'article 806 du code général des
@@ -14931,11 +14928,12 @@ aux obligations édictées au I du présent article.
 
 _Modifié par_:
 
-  - Décret n°2012-430 du 29 mars 2012 - art. 7
+  - Décret n°2015-362 du 30 mars 2015 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 292 A
+  - Code général des impôts, CGI. - art. 806
   - Code des assurances - art. L112-3
 
 _Cité par_:
@@ -15816,51 +15814,51 @@ _Codifié par_:
 
 ###### Article 306-0 F
 
-I.-Les organismes d'assurance et assimilés qui doivent verser des sommes, rentes ou valeurs quelconques entrant dans le champ
-d'application de l'article 990 I du code général des impôts ne peuvent se libérer de ces sommes, rentes ou valeurs dues par
-eux à raison du décès de l'assuré à chaque bénéficiaire désigné au contrat qu'après avoir adressé à la direction
-départementale ou, le cas échéant, régionale des finances publiques du domicile de l'assuré, dans les soixante jours qui
-suivent le jour où ils ont eu connaissance du décès de celui-ci, une déclaration contenant les informations énumérées au IV
-de l'article 806 du code général des impôts, en précisant au titre de chaque contrat et pour chaque bénéficiaire : 
+I. – Les organismes d'assurance et assimilés qui doivent verser des sommes, rentes ou valeurs quelconques entrant dans le
+champ d'application de l'article 990 I du code général des impôts ne peuvent se libérer de ces sommes, rentes ou valeurs dues
+par eux à raison du décès de l'assuré à chaque bénéficiaire désigné au contrat qu'après avoir déclaré à l'administration
+fiscale dans les soixante jours qui suivent le jour où ils ont eu connaissance du décès de l'assuré les éléments mentionnés
+aux I et II de l'article 370 C, et au titre de chaque contrat et pour chaque bénéficiaire : 
 
 a. L'assiette du prélèvement ; 
 
-b. Le montant de l'abattement pratiqué ; 
+b. Le montant des différents abattements pratiqués ; 
 
-c. Le montant du prélèvement acquitté au titre des sommes, rentes ou valeurs dues à chaque bénéficiaire. 
+c. Le montant du prélèvement acquitté au titre des sommes, rentes ou valeurs dues à chaque bénéficiaire ; 
 
-L'obligation faite aux organismes d'assurance et assimilés de déclarer les sommes, rentes ou valeurs dues au jour du décès de
-l'assuré au titre de chaque contrat rachetable qui correspondent aux primes versées à compter du 13 octobre 1998 et le
-montant des primes versées à compter de la même date au titre de chaque contrat non rachetable est satisfaite par la
-communication à l'administration fiscale des éléments suivants : 
+d. La date de souscription et le numéro de police du ou des avenants prévus par l'article L. 112-3 du code des assurances de
+nature à transformer l'économie même du contrat ; 
 
-a. Pour la fraction rachetable de chaque contrat mentionné au I de l'article 990 I précité : la part de la valeur de rachat
+e. Pour la fraction rachetable de chaque contrat mentionné au I de l'article 990 I précité : la part de la valeur de rachat
 au jour du décès de l'assuré qui correspond aux sommes, rentes ou valeurs dues à raison des primes versées à compter du 13
-octobre 1998 ; 
+octobre 1998 ; pour la fraction rachetable de chaque contrat contenant une clause prévoyant un différé de paiement du capital
+par l'assureur au bénéficiaire, la valeur de rachat déterminée au jour du versement des sommes, rentes ou valeurs
+quelconques ; 
 
-b. Pour la fraction non rachetable de chaque contrat mentionné au I de l'article 990 I précité : le produit résultant de la
+f. Pour la fraction non rachetable de chaque contrat mentionné au I de l'article 990 I précité : le produit résultant de la
 multiplication du montant du capital-décès dû, diminué de la valeur de rachat au jour du décès de l'assuré, par le taux de
 mortalité qui correspond à l'âge de l'assuré lors de son décès dans la table de mortalité applicable à cette date ; pour les
 contrats non rachetables : la prime annuelle ou le montant de la prime unique versée à la souscription du contrat, lorsque
 celle-ci est intervenue à compter du 13 octobre 1998. 
 
-II.-a. Ces déclarations sont établies sur des formules imprimées délivrées sans frais par le service des impôts. 
+II. – Les éléments mentionnés au I sont déclarés dans les conditions prévues aux V à VII de l'article 370 C. 
 
-b. Le comptable public compétent mentionné au II de l'article 990 I précité est le comptable de la direction générale des
-finances publiques chargé de la formalité de l'enregistrement. 
-
-III.-(sans objet).
+III. – (Sans objet).
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-430 du 29 mars 2012 - art. 8
+  - Décret n°2015-362 du 30 mars 2015 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 370 C (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 806
   - Code général des impôts, CGI. - art. 990 I (V)
+  - Code des assurances - art. L112-3 (V)
 
 
 ###### Article 306-0 F bis
@@ -18660,7 +18658,103 @@ _Cite_:
 
 ### Chapitre premier : Obligations des contribuables<a id=254></a>
 
-#### Section II : Forains<a id=255></a>
+#### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés<a id=255></a>
+
+###### Article 370 C
+
+I. – Les déclarations de souscription et de dénouement mentionnées au I de l'article 1649 ter du code général des impôts
+comportent les indications suivantes :
+
+1° Le nom ou la raison sociale et la domiciliation de l'organisme ;
+
+2° La nature du contrat ou placement ;
+
+3° La date de souscription du contrat ou placement ;
+
+4° La référence du contrat ou placement, ou son numéro de police ;
+
+5° Les noms, prénoms, date et lieu de naissance, et domicile du ou des souscripteurs personnes physiques ainsi que la raison
+sociale, l'adresse du siège et le numéro SIREN ou RNA du ou des souscripteurs personnes morales ;
+
+6° Les nom, prénoms, date et lieu de naissance, et domicile du ou des assurés ;
+
+7° En cas de dénouement du contrat ou placement, la date et la cause de ce dénouement ;
+
+8° En cas de décès du souscripteur n'entraînant pas le dénouement du contrat, la date du décès ainsi que les noms, prénoms,
+date et lieu de naissance, et domicile du ou des ayants droit.
+
+II. – En cas de dénouement du contrat ou placement par décès de l'assuré, les éléments mentionnés aux articles 292 B ou 306-0
+F sont également déclarés ainsi que :
+
+1° Les noms, prénoms, date et lieu de naissance, et domicile du ou des bénéficiaires personnes physiques ;
+
+2° La raison sociale, l'adresse du siège et le numéro SIREN ou RNA du ou des bénéficiaires personnes morales ;
+
+3° Le montant des sommes, rentes ou valeurs quelconques devant être versées à chacun des bénéficiaires ;
+
+4° En cas de démembrement de la clause bénéficiaire, la qualité de nu-propriétaire ou d'usufruitier des bénéficiaires
+concernés et la part leur revenant dans les sommes, rentes ou valeurs quelconques devant être versées.
+
+III. – En cas de versement à la Caisse des dépôts et consignations de sommes en application des articles L. 132-27-2 du code
+des assurances et L. 223-25-4 du code de la mutualité, la date et le montant des sommes ainsi versées sont également
+déclarés.
+
+IV. – Les déclarations mentionnées au II de l'article 1649 ter du code général des impôts comportent les indications
+mentionnées aux 1° à 5° du présent I.
+
+V. – Les déclarations prévues aux I et II de l'article 1649 ter du code général des impôts s'effectuent de manière
+dématérialisée. Les déclarations mentionnées au I de l'article précité s'effectuent, selon le cas, dans les soixante jours
+suivant la souscription ou le dénouement du contrat, ou en cas de dénouement du contrat par décès de l'assuré, dans les
+soixante jours de la date de prise de connaissance du décès de l'assuré. La déclaration mentionnée au II de ce même article
+s'effectue au plus tard le 15 juin de l'année.
+
+Ces déclarations font l'objet d'un traitement informatisé dénommé " gestion du fichier des contrats de capitalisation et
+d'assurance-vie " qui recense, sur support informatique, les contrats et placements mentionnés à l'article 1649 ter du code
+général des impôts et porte à la connaissance des services autorisés à consulter ce fichier, pour chaque contrat ou
+placement, les éléments mentionnés à l'article précité et aux I à IV.
+
+VI. – En cas de modification des éléments mentionnés aux I à IV, une nouvelle déclaration comportant les éléments modifiés
+est effectuée dans les conditions prévues au V, dans les soixante jours de la prise de connaissance de ces modifications par
+les personnes morales mentionnées au I de l'article 1649 ter du code général des impôts.
+
+VII. – Si les éléments mentionnés au II ne peuvent pas être déclarés dans les soixante jours de la date de prise de
+connaissance du décès de l'assuré, une nouvelle déclaration comportant les nouveaux éléments est effectuée, dans les
+conditions prévues au V, dans les soixante jours de la prise de connaissance de ces nouveaux éléments par les personnes
+morales mentionnées au I de l'article 1649 ter du code général des impôts.
+
+Si les éléments mentionnés au 8° du I ne peuvent pas être déclarés dans les soixante jours de la date de prise de
+connaissance du décès du souscripteur, une nouvelle déclaration doit être effectuée dans les mêmes conditions que celles
+prévues au premier alinéa du présent VII.
+
+VIII. – Pour les contrats souscrits avant le 1er janvier 1998 et placés sous le régime fiscal de l'anonymat, le contrat est
+déclaré conformément aux dispositions du présent article lorsque le souscripteur ou le bénéficiaire opte pour la levée de
+l'anonymat.
+
+IX. – Les déclarations mentionnées à l'article 1649 ter du code général des impôts sont conservées jusqu'à la fin de la
+trentième année suivant celle du dépôt de la déclaration de dénouement.
+
+En cas de versement prévu au III et par exception à l'alinéa précédant, les déclarations sont conservées jusqu'à la fin de la
+vingtième année suivant celle de ce versement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-362 du 30 mars 2015 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 292 B
+  - Code général des impôts, CGI. - art. 1649 ter
+  - Code des assurances - art. L132-27-2
+  - Code de la mutualité - art. L223-25-4
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 306-0 F (V)
+
+
+#### Section II : Forains<a id=256></a>
 
 ###### Article 371
 
@@ -18691,9 +18785,9 @@ _Codifié par_:
   - HISTO: Edition du 10 août 1987
 
 
-### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=256></a>
+### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=257></a>
 
-#### Section I : Centres de gestion agréés<a id=257></a>
+#### Section I : Centres de gestion agréés<a id=258></a>
 
 ###### Article 371 A
 
@@ -19309,7 +19403,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### Section II : Associations agréées des professions libérales<a id=258></a>
+#### Section II : Associations agréées des professions libérales<a id=259></a>
 
 ###### Article 371 M
 
@@ -19783,7 +19877,7 @@ _Cite_:
   - Décret n°77-1519 du 31 décembre 1977 - art. 8 (V)
 
 
-### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=259></a>
+### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=260></a>
 
 ###### Article 371 bis A
 
@@ -20162,7 +20256,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1649 quater L
 
 
-### Chapitre I ter : Centre de formalités des entreprises<a id=260></a>
+### Chapitre I ter : Centre de formalités des entreprises<a id=261></a>
 
 ###### Article 371 AI
 
@@ -20477,7 +20571,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
-### Chapitre II : Sociétés immobilières de copropriété<a id=261></a>
+### Chapitre II : Sociétés immobilières de copropriété<a id=262></a>
 
 ###### Article 372
 
@@ -20628,7 +20722,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=262></a>
+### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=263></a>
 
 ###### Article 376
 
@@ -20687,13 +20781,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*81-1 (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=263></a>
+# Livre II : Recouvrement de l'impôt<a id=264></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=264></a>
+## Chapitre premier : Paiement de l'impôt<a id=265></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=265></a>
+### Section I : Impôts directs et taxes assimilées<a id=266></a>
 
-#### 00I : Etablissement et mise en recouvrement des rôles<a id=266></a>
+#### 00I : Etablissement et mise en recouvrement des rôles<a id=267></a>
 
 ###### Article 376-0 bis
 
@@ -20711,7 +20805,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1658
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=267></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=268></a>
 
 ###### Article 376 bis
 
@@ -20897,7 +20991,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=268></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=269></a>
 
 ###### Article 379
 
@@ -21023,7 +21117,7 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=269></a>
+#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=270></a>
 
 ###### Article 382 bis
 
@@ -21112,7 +21206,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 382 quater (V)
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=270></a>
+#### IV : Taxe sur les salaires. Taux majorés<a id=271></a>
 
 ###### Article 383
 
@@ -21147,9 +21241,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=271></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=272></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=272></a>
+#### I : Taxe sur la valeur ajoutée<a id=273></a>
 
 ###### Article 383 ter
 
@@ -21181,11 +21275,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=273></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=274></a>
 
-#### I : Dation en paiement<a id=274></a>
+#### I : Dation en paiement<a id=275></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=275></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=276></a>
 
 ###### Article 384 A
 
@@ -21268,7 +21362,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=276></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=277></a>
 
 ###### Article 384 A bis
 
@@ -21311,7 +21405,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=277></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=278></a>
 
 ###### Article 384 A ter
 
@@ -21359,9 +21453,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-## Chapitre I bis : Pénalités<a id=278></a>
+## Chapitre I bis : Pénalités<a id=279></a>
 
-### Section I : Commission des infractions fiscales<a id=279></a>
+### Section I : Commission des infractions fiscales<a id=280></a>
 
 ###### Article 384 septies-0 A
 
@@ -21488,7 +21582,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=280></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=281></a>
 
 ###### Article 384 septies A
 
@@ -21525,9 +21619,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=281></a>
+## Chapitre II : Procédures<a id=282></a>
 
-### III : Dispositions communes<a id=282></a>
+### III : Dispositions communes<a id=283></a>
 
 ###### Article 396 B
 
@@ -21595,9 +21689,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1912
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=283></a>
+## Chapitre II bis : Sûretés et privilèges<a id=284></a>
 
-### Section I : Publicité du privilège du Trésor<a id=284></a>
+### Section I : Publicité du privilège du Trésor<a id=285></a>
 
 ###### Article 396 bis
 
@@ -21729,9 +21823,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=285></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=286></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=286></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=287></a>
 
 ###### Article 396 duodecies
 
@@ -21874,7 +21968,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=287></a>
+## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=288></a>
 
 ###### Article 408
 
