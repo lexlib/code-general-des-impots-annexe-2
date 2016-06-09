@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-05-12
+Version Consolidée au 2016-06-10
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -13597,20 +13597,27 @@ _Codifié par_:
 
 ###### Article 284
 
-Les fabricants et les fournisseurs agréés communiquent leur prix de vente au détail des tabacs manufacturés, pour chacun de
-leurs produits, à la direction générale des douanes et droits indirects.
+A la demande de l'administration, les fournisseurs agréés communiquent, par voie dématérialisée auprès de la direction
+générale des douanes et droits indirects, les prix de vente au détail des tabacs manufacturés, pour chacun de leurs produits
+par marque et dénomination commerciale.
 
-Les prix sont homologués par arrêté du ministre chargé du budget et publiés au Journal officiel de la République française.
+Les prix sont homologués par arrêté conjoint du ministre chargé du budget et du ministre chargé de la santé et publiés au
+Journal officiel de la République française.
+
+**Nota:**
+
+Conformément à la décision du Conseil d'Etat nos 405705, 405767 du 7 février 2018, Article 1 : Le décret du 7 juin 2016 est
+annulé, d’une part, en tant qu’il n’a pas fixé la fréquence selon laquelle, au cours de l’année civile, l’administration
+sollicite, aux fins d’homologation, la communication des prix des produits du tabac et le délai maximal dans lequel elle
+homologue les prix ainsi communiqués et, d’autre part, en tant qu’il ne permet pas aux fabricants de produits du tabac de
+communiquer directement leurs prix à l’administration. Les décisions implicites de rejet des recours gracieux et de refus
+d’abroger qui ont été opposées aux requérantes sont annulées dans la même mesure.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°99-503 du 16 juin 1999 - art. 1 () JORF 18 juin 1999
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
+  - Décret n°2016-757 du 7 juin 2016 - art. 1
 
 
 ###### Article 285
