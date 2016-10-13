@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2016-10-07
+Version Consolidée au 2016-10-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -256,38 +256,40 @@ Version Consolidée au 2016-10-07
         - [Section I : Registre public des trusts (art. 368 à 368 C)](#253)
         - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#254)
         - [Section II : Forains (art. 371)](#255)
-      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z)](#256)
+      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z undecies)](#256)
         - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#257)
         - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#258)
-      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis L)](#259)
-      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#260)
-      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#261)
-      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#262)
-  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#263)
-    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#264)
-      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#265)
-        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#266)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#267)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#268)
-        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#269)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#270)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#271)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#272)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#273)
-        - [I : Dation en paiement (art. 384 A à 384 A ter)](#274)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#275)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#276)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#277)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#278)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#279)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#280)
-    - [Chapitre II : Procédures (art. 396 B à 396 C)](#281)
-      - [III : Dispositions communes (art. 396 B à 396 C)](#282)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#283)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#284)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#285)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#286)
-    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#287)
+        - [Section III : Organismes mixtes de gestion agréés (art. 371 Z bis à 371 Z undecies)](#259)
+      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis N)](#260)
+      - [Chapitre Ier bis B : Certificateurs à l'étranger (art. 371 ter A à 371 ter H)](#261)
+      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#262)
+      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#263)
+      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#264)
+  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#265)
+    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#266)
+      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#267)
+        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#268)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#269)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#270)
+        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#271)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#272)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#273)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#274)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#275)
+        - [I : Dation en paiement (art. 384 A à 384 A ter)](#276)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#277)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#278)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#279)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#280)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#281)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#282)
+    - [Chapitre II : Procédures (art. 396 B à 396 C)](#283)
+      - [III : Dispositions communes (art. 396 B à 396 C)](#284)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#285)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#286)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#287)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#288)
+    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#289)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -19022,10 +19024,10 @@ professionnelles de personnes exerçant la même profession, des métiers simila
 unions. 
 
 Les centres doivent avoir pour objet de fournir à leurs adhérents industriels, commerçants, artisans ou agriculteurs tous
-services en matière de gestion notamment dans les domaines de l'assistance technique et de la formation ainsi qu'une analyse
-des informations économiques, comptables et financières en matière de prévention des difficultés économiques et financières.
-Ces services sont réservés aux membres adhérents. Les formations proposées par l'organisme agréé sont également offertes au
-représentant de l'adhérent. 
+services en matière de gestion notamment dans les domaines de l'assistance technique et de la formation ayant trait au droit,
+à la fiscalité, à la comptabilité ou à la gestion ainsi qu'une analyse des informations économiques, comptables et
+financières en matière de prévention des difficultés économiques et financières. Ces services sont réservés aux membres
+adhérents. Les formations proposées par l'organisme agréé sont également offertes au représentant de l'adhérent. 
 
 Ils ne peuvent agir en qualité de mandataires de leurs membres. 
 
@@ -19047,7 +19049,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-185 du 17 février 2015 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
@@ -19084,12 +19086,12 @@ _Cité par_:
 
 En application de l'article 1649 quater E du code général des impôts, les centres doivent conclure avec l'administration
 fiscale une convention précisant le rôle du ou des agents de cette administration chargés d'apporter leur assistance
-technique au centre (1).
+technique au centre (1). Un modèle de cette convention est fixé par arrêté du ministre chargé du budget. 
 
 L'administration peut refuser de conclure une convention avec des centres créés ou dirigés en fait par des syndicats ou
 organisations professionnelles qui eux-mêmes ont été dirigés au cours des cinq dernières années par des personnes ayant été
 condamnées depuis moins de cinq ans pour avoir organisé ou tenté d'organiser le refus collectif de l'impôt au sens de
-l'article 1747 du code général des impôts.
+l'article 1747 du code général des impôts. 
 
 (1) Annexe IV, art. 164 F vicies.
 
@@ -19100,10 +19102,14 @@ _Cité par_:
   - Arrêté du 25 novembre 2010 - art. 1 (Ab)
   - Code général des impôts, CGI. - art. 1649 quater E (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
 _Cite_:
 
-  - CGI 1649 quater E, 1747
-  - CGIAN4 164 F vicies
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F vicies (P)
+  - Code général des impôts, CGI. - art. 1747
 
 
 ###### Article 371 D
@@ -19118,24 +19124,21 @@ condamnations pour blessures, coups ou homicide involontaires et pour infraction
 
 D'une amende fiscale prononcée par un tribunal ; 
 
-D'une sanction fiscale prononcée par l'administration pour manoeuvres frauduleuses.
+D'une sanction fiscale prononcée par l'administration pour manœuvres frauduleuses. 
 
-**Nota:**
-
-Conformément au décret n° 2013-1034 du 15 novembre 2013, article 2 : Ces dispositions s'appliquent aux demandes d'agrément ou
-de renouvellement d'agrément présentées conformément aux articles 371 F et 371 R de l'annexe II au code général des impôts
-déposées à compter du 1er janvier 2014.
+Les centres établissent, par la production d'attestations sur l'honneur faites par les intéressés, que les personnes qui les
+administrent ne sont pas frappées par les interdictions prévues aux articles 371 K bis et 371 V bis.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cité par_:
 
-  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 QA (M)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 EA (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 QA (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 R (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 V (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z duodecies (V)
@@ -19144,6 +19147,8 @@ _Cité par_:
 
 _Cite_:
 
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 K bis (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 V bis (V)
   - Code général des impôts, CGI. - art. 1750
   - Code de procédure pénale - art. 775
 
@@ -19156,10 +19161,11 @@ doivent être représentés à hauteur d'un minimum d'un tiers des sièges. Les 
 mentionnés à l'article 1649 quater C du code général des impôts et autres que les adhérents peuvent être membres associés et
 participer au conseil d'administration ou à tout autre organe dirigeant, à hauteur d'un maximum d'un tiers des sièges. 
 
-Ils doivent comporter en outre les stipulations suivantes : 
+Les statuts doivent comporter en outre les stipulations suivantes : 
 
-1° Le centre fournit à ses membres adhérents imposés d'après leur bénéfice réel dans un délai de neuf mois suivant la clôture
-de leur exercice comptable, un dossier comprenant : 
+1° Le centre fournit à ses membres adhérents imposés d'après leur bénéfice réel dans un délai de deux mois suivant la date de
+réception de la déclaration de résultats par le centre et au plus tard de neuf mois suivant la clôture de leur exercice
+comptable lorsque celui-ci ne coïncide pas avec l'année civile, un dossier comprenant : 
 
 a. Les ratios et les autres éléments caractérisant la situation financière et économique de l'entreprise : la nature de ces
 ratios et autres éléments est fixée par arrêté du ministre du budget, du ministre de l'agriculture, du ministre de
@@ -19167,10 +19173,10 @@ l'industrie et du ministre du commerce et de l'artisanat (1) ;
 
 b. Un commentaire sur la situation financière et économique de l'entreprise ; 
 
-c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et dans le même délai de neuf mois, le centre
-fournit à ses adhérents une analyse comparative des bilans et des comptes de résultat de l'entreprise. Toutefois, pour les
-entreprises soumises au régime simplifié d'imposition, seule l'analyse comparative des comptes d'exploitation doit être
-fournie ; 
+c. A partir de la clôture du deuxième exercice suivant celui de l'adhésion et dans les délais prévus au premier alinéa du
+présent 1°, le centre fournit à ses adhérents une analyse comparative des bilans et des comptes de résultat de l'entreprise.
+Toutefois, pour les entreprises soumises au régime simplifié d'imposition, seule l'analyse comparative des comptes
+d'exploitation doit être fournie ; 
 
 d. Un document de synthèse présentant une analyse des informations économiques, comptables et financières de l'entreprise et
 lui indiquant, le cas échéant, les démarches à accomplir ; 
@@ -19188,15 +19194,40 @@ les éléments nécessaires à l'établissement d'une comptabilité sincère de 
 
 b. Abrogé ; 
 
-c. L'obligation de communiquer au centre le bilan et les comptes de résultat ainsi que tous documents annexes ; 
+c. L'obligation de communiquer au centre le bilan, les comptes de résultat, tous documents annexes, ainsi que tout document
+sollicité par le centre dans le cadre des contrôles réalisés en application de l'article 1649 quater E du code général des
+impôts ; 
 
 d. Abrogé ; 
 
 e. L'autorisation pour le centre de communiquer à l'administration fiscale, dans le cadre de l'assistance que cette dernière
-lui apporte, les documents mentionnés au présent article. 
+lui apporte, les documents mentionnés au présent article, à l'exception des documents, quels qu'ils soient, fournissant une
+vision exhaustive des opérations comptables de l'entreprise. 
 
 En cas de manquements graves ou répétés aux engagements ou obligations sus-énoncés l'adhérent est exclu du centre. Il doit
 être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés. 
+
+4° Le centre réalise un examen périodique de sincérité de pièces justificatives de ses adhérents dans le but de vérifier que
+leurs déclarations fiscales sont correctement établies. Cet examen suit une méthode établie par le centre pour l'ensemble de
+ses adhérents. Pour déterminer les adhérents faisant l'objet, au titre d'une année donnée, d'un examen périodique de pièces
+justificatives, le centre sélectionne des adhérents selon une méthode fixée par arrêté du ministre chargé du budget assurant
+la réalisation de cet examen au moins tous les six ans lorsque les comptes de l'adhérent sont tenus ou présentés annuellement
+par un professionnel de l'expertise comptable et au moins tous les trois ans dans le cas contraire. Le nombre des pièces
+examinées est modulé selon la taille de l'entreprise. Le choix des pièces examinées prend appui sur la remise, par
+l'adhérent, d'un document fournissant une vision exhaustive des opérations comptables de l'entreprise. Ce document est
+détruit par le centre une fois l'examen réalisé. Il n'est en aucun cas fourni par le centre à l'administration fiscale.
+L'adhérent est mis en mesure de présenter ses observations en réponse aux éventuelles questions et critiques formulées par le
+centre dans le cadre de cet examen. 
+
+Cet examen fait l'objet du compte rendu de mission tel que prévu à l'article 1649 quater E du code général des impôts ; 
+
+5° Le centre assure la traçabilité de l'ensemble de ses missions de contrôle ; 
+
+6° Le centre contrôle la capacité de ses adhérents à respecter, le cas échéant, le I de l'article L. 47 A du livre des
+procédures fiscales ; 
+
+7° Le centre se soumet à un contrôle de l'administration destiné à vérifier la conformité de son organisation et de ses
+travaux aux dispositions du code général des impôts. 
 
 (1) Voir annexe IV, art. 164 F unvicies.
 
@@ -19209,11 +19240,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies
+  - Code général des impôts, CGI. - art. 1649 quater C
+  - Code général des impôts, CGI. - art. 1649 quater E
+  - Livre des procédures fiscales - art. L47 A
 
 
 ###### Article 371 EA
@@ -19222,8 +19256,9 @@ Les statuts des centres doivent contenir des stipulations selon lesquelles les c
 
 1° S'ils ont recours à la publicité, à ne pas porter atteinte à l'indépendance, à la dignité et à l'honneur de l'institution,
 pas plus qu'aux règles du secret professionnel, à la loyauté envers les adhérents et les autres centres se livrant à la même
-activité, quel que soit le support utilisé, et à ne pas avoir recours au démarchage ou à toute autre forme de
-sollicitation ; 
+activité, quel que soit le support utilisé, et à n'avoir recours au démarchage que sous réserve de procurer au public visé
+une information utile, exempte de tout élément comparatif, ne contenant aucune inexactitude ni induisant le public en erreur,
+mise en œuvre avec discrétion et adoptant une expression décente et empreinte de retenue ; 
 
 2° A faire figurer sur leur correspondance et sur tous les documents établis par leurs soins leur qualité de centres de
 gestion agréés et les références de la décision d'agrément ; 
@@ -19241,20 +19276,25 @@ encourir en raison des négligences et fautes commises dans l'exercice de leurs 
 retrait ; 
 
 6° A réclamer une cotisation dont le montant est identique, pour l'ensemble des adhérents. Toutefois la cotisation réclamée
-aux adhérents relevant des régimes prévus aux articles 64 à 65 B ou 50-0 du code général des impôts peut être réduite.
+aux adhérents relevant des régimes prévus aux articles 64 bis ou 50-0 du code général des impôts, ainsi qu'aux entreprises
+adhérant à un centre au cours de leur première année d'activité peut être réduite ; 
+
+7° A ne pas sous-traiter les missions prévues à l'article 1649 quater E du même code à des professionnels de l'expertise
+comptable ou avocats dont l'adhérent a utilisé les services au titre de l'exercice contrôlé, ainsi que les structures dans
+lesquelles ceux-ci exercent.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
-  - Code général des impôts, CGI. - art. 50-0 (V)
-  - Code général des impôts, CGI. - art. 64 (V)
-  - Code des assurances (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D
+  - Code général des impôts, CGI. - art. 1649 quater E
+  - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 64 bis
 
 _Cité par_:
 
@@ -19287,87 +19327,63 @@ _Cité par_:
 
 ###### Article 371 F
 
-Les demandes d'agrément accompagnées des documents désignés à l'article 11 du décret n° 75-911 du 6 octobre 1975 sont remises
-au directeur départemental ou, le cas échéant, régional des finances publiques du département dans lequel le centre de
-gestion a son siège. 
+Les demandes d'agrément sont remises au directeur départemental ou, le cas échéant, régional des finances publiques du
+département dans lequel le centre de gestion a son siège. 
+
+Toute demande d'agrément d'un centre de gestion doit être accompagnée des documents suivants : 
+
+1° Un exemplaire des statuts et, le cas échéant, du règlement intérieur du centre ; 
+
+2° La justification de l'exécution des formalités prévues par la législation en vigueur pour la création et la régularité du
+fonctionnement de l'association ; 
+
+3° La liste des personnes qui dirigent ou administrent le centre avec, pour chacune d'elles, l'indication de leur nom,
+prénoms, date et lieu de naissance, domicile, profession et de la nature de l'activité exercée dans le centre ; 
+
+4° Pour chacun des dirigeants ou administrateurs, le certificat prévu à l'article 371 D ; 
+
+5° La liste des membres à la date de la présentation de la demande avec indication du nom, de la profession et du lieu
+d'exercice de celle-ci ; 
+
+6° Une copie du contrat d'assurance mentionné au 4° de l'article 371 EA ; 
+
+7° L'engagement prévu à l'article 371 EB ; 
+
+8° Le texte de la convention conclue avec l'administration fiscale ; 
+
+9° Une notice indiquant la nature des services rendus par le centre à ses membres adhérents ; 
+
+10° Un rapport des personnes ou organismes qui ont pris l'initiative de la création du centre ; 
+
+11° Une attestation sur l'honneur de chacun des administrateurs, selon laquelle ils ne sont pas frappés par les interdictions
+prévues aux articles 371 K bis, 371 V bis et 371 Z terdecies. 
 
 Après s'être assuré que le dossier est complet, le directeur départemental ou, le cas échéant, régional des finances
 publiques en délivre récépissé.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°75-911 du 6 octobre 1975 - art. 11
-
 _Modifié par_:
 
-  - Décret n°2012-430 du 29 mars 2012 - art. 17
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 K bis (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 V bis (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z terdecies (V)
 
 
 ###### Article 371 G
 
-La décision d'agrément est prise par une commission instituée au chef-lieu de région. 
-
-Cette commission, placée sous la présidence du directeur régional des finances publiques en fonction au chef-lieu de région
-dans laquelle le centre a son siège, comprend également : 
-
-a. un fonctionnaire de la direction régionale des finances publiques ; 
-
-b. un représentant du ministre chargé de l'industrie ; 
-
-c. un représentant du ministre chargé du commerce et de l'artisanat ; 
-
-d. un membre de l'ordre des experts-comptables désigné par le conseil régional de l'ordre ; 
-
-e. un industriel, un commerçant et un artisan désignés respectivement par le président de la chambre de commerce et
-d'industrie de région et par le président de la chambre régionale de métiers et de l'artisanat. 
-
-Lorsque la demande d'agrément est présentée par un centre de gestion apportant son assistance principalement aux
-agriculteurs, les représentants du ministre chargé de l'industrie et du ministre chargé du commerce et de l'artisanat sont
-remplacés par deux représentants du ministre de l'agriculture et les trois représentants de la profession sont désignés parmi
-les exploitants agricoles de la région par le président de la chambre régionale d'agriculture, au vu d'une liste de six noms
-présentée par chacune des fédérations départementales de syndicats d'exploitants agricoles de la région. 
-
-Le président désigne des suppléants parmi ses collaborateurs. Les autres membres suppléants de la commission sont nommés dans
-les mêmes conditions que les titulaires.
-
-Le membre d'une commission qui, au cours de son mandat, décède, démissionne ou perd la qualité au titre de laquelle il a été
-désigné est remplacé pour la durée du mandat restant à courir par une personne désignée dans les mêmes conditions. 
-
-La commission se réunit sur convocation de son président, qui fixe l'ordre du jour. Cette convocation peut être adressée par
-tout moyen, y compris par télécopie ou par courrier électronique. Il en est de même des pièces ou documents nécessaires à la
-préparation de la réunion ou établis à l'issue de celle-ci. 
-
-Sauf urgence, les membres de la commission reçoivent, quinze jours au moins avant la date de la réunion, une convocation
-comportant l'ordre du jour et, le cas échéant, les documents nécessaires à l'examen des affaires qui y sont inscrites. 
-
-Lorsqu'il n'est pas suppléé, le membre d'une commission peut donner mandat à un autre membre. Sauf dispositions contraires,
-nul ne peut détenir plus d'un mandat. 
-
-Le quorum est atteint lorsque la moitié au moins des membres composant la commission sont présents, y compris les membres
-prenant part aux débats au moyen d'une conférence téléphonique ou audiovisuelle. 
-
-Lorsque le quorum n'est pas atteint, la commission délibère valablement sans condition de quorum après une nouvelle
-convocation portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé. 
-
-La commission se prononce à la majorité des voix des membres présents ou représentés. En cas de partage égal des voix, la
-voix du président de la commission est prépondérante.
-
-Les membres d'une commission ne peuvent prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire objet
-de la délibération. La violation de cette règle entraîne la nullité de la décision prise à la suite de cette délibération
-lorsqu'il n'est pas établi que la participation du ou des membres intéressés est restée sans influence sur la délibération. 
-
-Le procès-verbal de la réunion de la commission indique le nom et la qualité des membres présents, les questions traitées au
-cours de la séance et le sens de chacune des délibérations. 
-
-Tout membre de la commission peut demander qu'il soit fait mention de son désaccord avec la décision rendue.
+La décision d'agrément est prise par le directeur régional des finances publiques de la région dans laquelle le centre
+demandeur a son siège.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-470 du 11 avril 2012 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cité par_:
 
@@ -19378,10 +19394,10 @@ _Cité par_:
 
 ###### Article 371 H
 
-La commission rend sa décision dans un délai de quatre mois à compter de la date de délivrance du récépissé mentionné à
-l'article 371 F.
+Le directeur mentionné à l'article 371 G se prononce dans le délai de quatre mois suivant la date de délivrance du récépissé
+prévu à l'article 371 F. 
 
-L'absence de décision dans le délai fixé vaut acceptation de la demande. Le refus d'agrément doit être motivé.
+L'absence de décision dans le délai fixé vaut acceptation de la demande. Le refus d'agrément est motivé.
 
 **Liens relatifs à cet article**
 
@@ -19391,11 +19407,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-1253 du 4 octobre 2005 - art. 1 () JORF 6 octobre 2005
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 
 ###### Article 371 J
@@ -19425,7 +19437,7 @@ _Modifié par_:
 
 ###### Article 371 K
 
-La commission mentionnée à l'article 371 G, après avoir mis le centre en mesure de présenter ses observations sur les faits
+Le directeur mentionné à l'article 371 G, après avoir mis en demeure le centre de présenter ses observations sur les faits
 qui lui sont reprochés, peut lui retirer l'agrément :
 
 1° En cas d'inexécution des engagements pris par le centre ou de violation des obligations qui lui incombent en vertu des
@@ -19434,20 +19446,17 @@ statuts ou du règlement intérieur ;
 2° En cas de non-respect de la convention prévue à l'article 371 C entraînant la dénonciation de celle-ci par
 l'administration fiscale ;
 
-3° Au cas où le nombre des adhérents du centre, tel qu'il est défini à l'article 371 B, est inférieur pendant plus d'un an
-aux chiffres minima prévus à cet article ;
+3° Au cas où le nombre des adhérents du centre, tel qu'il est défini à l'article 371 B, est inférieur pendant plus d'un an au
+seuil fixé à cet article ;
 
 4° Au cas où le centre conserve parmi ses dirigeants ou administrateurs une personne n'ayant pas respecté ses obligations
 déclaratives ou de paiement en matière fiscale ou ayant fait l'objet, postérieurement à l'agrément, d'une des sanctions
 prévues à l'article 371 D ;
 
 5° Au cas où le centre ne prononce pas l'exclusion des adhérents qui ne respectent pas les obligations leur incombant en
-vertu des statuts ou du règlement intérieur.
+vertu des statuts ou du règlement intérieur ;
 
-**Nota:**
-
-Conformément au décret n° 2013-1034 du 15 novembre 2013, article 2 : Ces dispositions ne s'appliquent pas aux agréments
-délivrés avant le 1er janvier 2014.
+6° En cas de maintien d'un bureau secondaire ne respectant pas les conditions prévues à l'article 371 B pendant plus d'un an.
 
 **Liens relatifs à cet article**
 
@@ -19457,7 +19466,30 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+
+###### Article 371 K bis
+
+Un centre ayant fait l'objet d'une décision de non-renouvellement ou de retrait d'agrément, pour un motif autre que les
+conditions posées à l'article 371 B, ne peut déposer de nouvelle demande d'agrément au cours des deux années suivant ladite
+décision. 
+
+Ses administrateurs ne peuvent siéger au sein du conseil d'administration d'un centre, d'une association agréé ou d'un
+organisme mixte de gestion agréé au cours des deux années suivant la décision de non-renouvellement ou de retrait d'agrément.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 F (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 R (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
 
 
 ###### Article 371 L
@@ -19475,11 +19507,14 @@ b) En cas de première adhésion à un centre agréé pour l'imposition du bén�
 à la date de l'adhésion. Le contribuable ayant repris une activité après cessation est considéré comme adhérant pour la
 première fois ; 
 
-c) En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les
-conditions prévues à l'article 53 A du code général des impôts ; 
+c) En cas de retrait ou de non-renouvellement d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours
+déclaré dans les conditions prévues à l'article 53 A du code général des impôts ; 
 
 d) En cas de démission d'un centre de gestion agréé suivie, dans le délai maximum de trente jours à la date de la démission,
-de l'adhésion à un autre centre de gestion agréé. 
+de l'adhésion à un autre centre de gestion agréé ; 
+
+e) En cas de première adhésion à un centre de gestion agréé avant la clôture de l'exercice comptable pour les contribuables
+franchissant les limites de chiffre d'affaires des régimes définis aux articles 64 bis ou 50-0 du code général des impôts. 
 
 Les déclarations de résultats des membres adhérents d'un centre de gestion agréé, mentionnés au premier alinéa, doivent être
 accompagnées d'une attestation fournie par le centre indiquant la date d'adhésion et, le cas échéant, la date à laquelle est
@@ -19490,7 +19525,7 @@ attestation.
 
 _Modifié par_:
 
-  - Décret n°2012-470 du 11 avril 2012 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cité par_:
 
@@ -19500,30 +19535,32 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 158 (V)
-  - Code général des impôts, CGI. - art. 53 A (V)
+  - Code général des impôts, CGI. - art. 158
+  - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 53 A
+  - Code général des impôts, CGI. - art. 64 bis
 
 
 ###### Article 371 LA
 
 Pour l'application de l'article 1649 quater E bis du code général des impôts, la clientèle des industriels, commerçants,
 artisans et agriculteurs est informée de leur qualité d'adhérent d'un centre de gestion agréé et de ses conséquences en ce
-qui concerne l'acceptation des règlements par chèque selon les modalités fixées par les articles 371 LB à 371 LE.
+qui concerne l'acceptation des règlements par chèque ou par carte bancaire selon les modalités fixées par les articles 371 LB
+à 371 LE.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1649 quater E bis
-  - CGIAN2 371 LB à 371 LE
-
-_Créé par_:
-
-  - Décret n°79-638 du 27 juillet 1979 - art. 1 (V) JORF 28 juillet 1979
-
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°81-866 du 15 septembre 1981
+
+_Modifié par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 quater E bis
 
 
 ###### Article 371 LB
@@ -19532,7 +19569,8 @@ L'information mentionnée à l'article 371 LA comprend :
 
 1° L'apposition, dans les locaux destinés à recevoir la clientèle ainsi que dans les emplacements ou véhicules aménagés en
 vue d'effectuer des ventes ou des prestations de services, d'un document écrit reproduisant de façon apparente le texte
-mentionné à l'article 371 LC et placé de manière à pouvoir être lu sans difficulté par cette clientèle ;
+mentionné à l'article 371 LC, mentionnant le nom du centre de gestion auquel adhère le professionnel et placé de manière à
+pouvoir être lu sans difficulté par cette clientèle ;
 
 2° La reproduction dans la correspondance et sur les documents professionnels adressés ou remis aux clients, du texte
 mentionné à l'article précité ; ce texte doit être nettement distinct des mentions relatives à l'activité professionnelle
@@ -19544,13 +19582,13 @@ _Cite_:
 
   - CGIAN2 371 LA, 371 LC
 
-_Créé par_:
-
-  - Décret n°79-638 du 27 juillet 1979 - art. 2 (V) JORF 28 juillet 1979
-
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°81-866 du 15 septembre 1981
+
+_Modifié par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cité par_:
 
@@ -19561,8 +19599,8 @@ _Cité par_:
 
 Le texte prévu à l'article 371 LB est le suivant :
 
-"Acceptant le règlement des sommes dues par chèques libellés à son nom en sa qualité de membre d'un centre de gestion agréé
-par l'administration fiscale."
+"Acceptant le règlement des sommes dues par chèques libellés à son nom ou par carte bancaire en sa qualité de membre d'un
+centre de gestion agréé par l'administration fiscale."
 
 **Liens relatifs à cet article**
 
@@ -19570,13 +19608,13 @@ _Cite_:
 
   - CGIAN2 371 LB
 
-_Créé par_:
-
-  - Décret n°79-638 du 27 juillet 1979 - art. 3 (V) JORF 28 juillet 1979
-
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°81-866 du 15 septembre 1981
+
+_Modifié par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 
 ###### Article 371 LD
@@ -19641,11 +19679,14 @@ Les unions ou fédérations d'associations professionnelles regroupant des profe
 prendre l'initiative de la création d'une association agréée lorsque chacune des associations qui les composent peut être
 regardée individuellement comme ayant vocation à créer une telle association. 
 
-Les associations doivent avoir pour objet de développer chez leurs membres l'usage de la comptabilité et de faciliter à ces
-derniers l'accomplissement de leurs obligations administratives et fiscales. Elles fournissent à leurs membres une analyse
-des informations économiques, comptables et financières en matière de prévention des difficultés économiques et financières.
-Ces services sont réservés aux seuls adhérents de l'association exerçant une profession libérale ou titulaires de charges et
-offices. Les formations proposées par l'organisme agréé sont également offertes au représentant de l'adhérent. 
+Les associations doivent avoir pour objet de développer chez leurs membres l'usage de la comptabilité, sous réserve des
+dispositions de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et
+réglementant le titre et la profession d'expert-comptable, de faciliter à ces derniers l'accomplissement de leurs obligations
+administratives et fiscales et de leur fournir une assistance en matière de gestion. Elles fournissent à leurs membres une
+analyse des informations économiques, comptables et financières en matière de prévention des difficultés économiques et
+financières. Ces services sont réservés aux seuls adhérents de l'association exerçant une profession libérale ou titulaires
+de charges et offices. Les formations proposées par l'organisme agréé ont trait au droit, à la fiscalité, à la comptabilité
+ou à la gestion et sont également offertes au représentant de l'adhérent. 
 
 Elles ne peuvent agir en qualité de mandataires de leurs membres. 
 
@@ -19658,6 +19699,12 @@ de leurs déclarations fiscales, à l'occasion de leur première déclaration pa
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°45-2138 du 19 septembre 1945
+  - Code général des impôts, CGI. - art. 1649 quater F
+  - Code du travail - art. L2111-1
+
 _Cité par_:
 
   - Arrêté du 25 novembre 2010 - art. (Ab)
@@ -19666,12 +19713,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-185 du 17 février 2015 - art. 1
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1649 quater F
-  - Code du travail - art. L2111-1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 
 ###### Article 371 N
@@ -19696,12 +19738,12 @@ _Cité par_:
 
 En application de l'article 1649 quater H du code général des impôts, les associations doivent conclure avec l'administration
 fiscale une convention précisant le rôle du ou des agents de cette administration chargés d'apporter leur assistance
-technique à l'association. Un modèle de cette convention est fixé par arrêté du ministre chargé des finances (1).
+technique à l'association. Un modèle de cette convention est fixé par arrêté du ministre chargé du budget (1). 
 
 L'administration peut refuser de conclure une convention avec des associations créées ou dirigées en fait par des
 organisations professionnelles qui elles-mêmes ont été dirigées au cours des cinq dernières années par des personnes ayant
 été condamnées depuis moins de cinq ans pour avoir organisé ou tenté d'organiser le refus collectif de l'impôt au sens de
-l'article 1747 du code précité.
+l'article 1747 du code précité. 
 
 (1) Annexe IV, art. 164 F duovicies.
 
@@ -19713,10 +19755,14 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1649 quater H (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 V (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
 _Cite_:
 
-  - CGI 1649 quater H, 1747
-  - CGIAN4 164 F duodecies
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F duovicies (P)
+  - Code général des impôts, CGI. - art. 1747
 
 
 ###### Article 371 P
@@ -19742,9 +19788,9 @@ Les statuts des associations doivent contenir les clauses suivantes :
 
 1° L'association a pour objet de fournir à ses membres adhérents des services ou informations qui leur permettent de
 développer l'usage de la comptabilité et qui facilitent l'accomplissement de leurs obligations administratives et fiscales.
-L'association fournit à ses membres adhérents, dans un délai de neuf mois qui suit la date de clôture de leur exercice, un
-document de synthèse présentant une analyse des informations économiques, comptables et financières de l'entreprise et lui
-indiquant, le cas échéant, les démarches à accomplir afin de régler ces difficultés ; 
+L'association fournit à ses membres adhérents, dans un délai de deux mois suivant la date de réception de la déclaration de
+résultats par l'association, un document de synthèse présentant une analyse des informations économiques, comptables et
+financières de l'entreprise et lui indiquant, le cas échéant, les démarches à accomplir afin de régler ces difficultés ; 
 
 La nature des ratios et autres éléments caractérisant la situation économique et financière de l'entreprise et devant figurer
 dans ce document de synthèse est fixée par arrêté du ministre chargé du budget et du ministre chargé des professions
@@ -19763,17 +19809,42 @@ adressées, conformément aux articles 371 X à 371 Z, par les ordres et organis
 connaissance des revenus de leurs ressortissants ; 
 
 b. L'engagement par ceux de ces membres dont les déclarations de bénéfices sont élaborées par l'association de fournir à
-celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ; 
+celle-ci tous les éléments nécessaires à l'établissement de déclarations sincères et complètes ainsi que tout document
+sollicité par l'association dans le cadre des contrôles réalisés en application de l'article 1649 quater H du code général
+des impôts ; 
 
 c. L'engagement par ceux de ces membres qui ne font pas élaborer leur déclaration par l'association, de lui communiquer
 préalablement à l'envoi au service des impôts des entreprises de la déclaration prévue à l'article 97 du code général des
 impôts, le montant du résultat imposable et l'ensemble des données utilisées pour la détermination de ce résultat ; 
 
 d. L'autorisation pour l'association de communiquer à l'administration fiscale, dans le cadre de l'assistance que cette
-dernière lui apporte, les documents mentionnés au présent article ; 
+dernière lui apporte, les documents mentionnés au présent article, à l'exception des documents comptables, quels qu'ils
+soient, fournissant une vision exhaustive des opérations comptables de l'entreprise ; 
 
 e. En cas de manquements graves ou répétés aux engagements énoncés ci-dessus, l'adhérent sera exclu de l'association. Il
-devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés.
+devra être mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés. 
+
+4° L'association réalise un examen périodique de sincérité de pièces justificatives de ses adhérents dans le but de vérifier
+que leurs déclarations fiscales sont correctement établies. Cet examen suit une méthode établie par l'association pour
+l'ensemble de ses adhérents. Pour déterminer les adhérents faisant l'objet, au titre d'une année donnée, d'un examen
+périodique de pièces justificatives, l'association sélectionne des adhérents selon une méthode fixée par arrêté du ministre
+chargé du budget assurant la réalisation de cet examen au moins tous les six ans lorsque les comptes de l'adhérent sont tenus
+ou présentés annuellement par un professionnel de l'expertise comptable et au moins tous les trois ans dans le cas contraire.
+Le nombre des pièces examinées est modulé selon la taille de l'entreprise. Le choix des pièces examinées prend appui sur la
+remise, par l'adhérent, d'un document fournissant une vision exhaustive des opérations comptables de l'entreprise. Ce
+document est détruit par l'association une fois l'examen réalisé. Il n'est en aucun cas fourni par l'association à
+l'administration fiscale. L'adhérent est mis en mesure de présenter ses observations en réponse aux éventuelles questions et
+critiques formulées par l'association dans le cadre de cet examen. 
+
+Cet examen fait l'objet du compte rendu de mission tel que prévu à l'article 1649 quater H du code général des impôts ; 
+
+5° L'association assure la traçabilité de l'ensemble de ses missions de contrôle ; 
+
+6° L'association contrôle la capacité de ses adhérents à respecter, le cas échéant, le I de l'article L. 47 A du livre des
+procédures fiscales ; 
+
+7° L'association se soumet à un contrôle de l'administration destiné à vérifier la conformité de son organisation et de ses
+travaux aux dispositions du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -19785,13 +19856,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-470 du 11 avril 2012 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 X
   - Code général des impôts, CGI. - art. 1649 quater F
+  - Code général des impôts, CGI. - art. 1649 quater H
   - Code général des impôts, CGI. - art. 97
+  - Livre des procédures fiscales - art. L47 A
 
 
 ###### Article 371 QA
@@ -19800,8 +19873,9 @@ Les statuts doivent comporter des clauses selon lesquelles les associations s'en
 
 1° Si elles ont recours à la publicité, à ne pas porter atteinte à l'indépendance, à la dignité et à l'honneur de
 l'institution, pas plus qu'aux règles du secret professionnel, à la loyauté envers les adhérents et les autres associations
-se livrant à la même activité, quel que soit le support utilisé, et à ne pas avoir recours au démarchage ou à toute autre
-forme de sollicitation ; 
+se livrant à la même activité, quel que soit le support utilisé, et à n'avoir recours au démarchage que sous réserve de
+procurer au public visé une information utile, exempte de tout élément comparatif, ne contenant aucune inexactitude ni
+induisant le public en erreur, mise en œuvre avec discrétion et adoptant une expression décente et empreinte de retenue ; 
 
 2° A faire figurer sur leur correspondance et sur tous les documents établis par leurs soins leur qualité d'associations
 agréées et les références de la décision d'agrément ; 
@@ -19821,18 +19895,26 @@ encourir en raison des négligences et fautes commises dans l'exercice de leurs 
 retrait d'agrément ; 
 
 7° A réclamer une cotisation dont le montant est identique pour l'ensemble des adhérents. Toutefois, la cotisation réclamée
-aux adhérents relevant du régime prévu à l'article 102 ter du code général des impôts peut être réduite.
+aux adhérents relevant du régime prévu à l'article 102 ter du code général des impôts, ainsi qu'aux entreprises adhérant à
+une association, au cours de leur première année d'activité peut être réduite. La cotisation réclamée aux adhérents, sociétés
+de personnes et sociétés en participation n'ayant pas opté pour le régime fiscal des sociétés de capitaux ou sociétés civiles
+professionnelles constituées entre personnes réalisant des bénéfices non commerciaux, peut être majorée ; 
+
+8° A ne pas sous-traiter les missions prévues à l'article 1649 quater H à des professionnels de l'expertise comptable ou
+avocats dont l'adhérent a utilisé les services au titre de l'exercice contrôlé, ainsi que les structures dans lesquelles
+ceux-ci exercent.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-1716 du 5 décembre 2007 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
-  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 371 D (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
   - Code général des impôts, CGI. - art. 102 ter
+  - Code général des impôts, CGI. - art. 1649 quater H
 
 _Cité par_:
 
@@ -19843,22 +19925,54 @@ _Cité par_:
 
 ###### Article 371 R
 
-Les demandes d'agrément, accompagnées des documents désignés à l'article 11 du décret n° 77-1519 du 31 décembre 1977, sont
-remises au directeur départemental ou, le cas échéant, régional des finances publiques du département dans lequel
-l'association a son siège. 
+Les demandes d'agrément sont remises au directeur départemental ou, le cas échéant, régional des finances publiques du
+département dans lequel l'association a son siège. 
+
+Toute demande d'agrément d'une association agréée doit être accompagnée des documents suivants : 
+
+1° Un exemplaire des statuts et, le cas échéant, du règlement intérieur de l'association ; 
+
+2° La justification de l'exécution des formalités prévues par la législation en vigueur pour la création et la régularité du
+fonctionnement de l'association ; 
+
+3° La liste des personnes qui dirigent ou administrent l'association avec, pour chacune d'elles, l'indication de leurs nom,
+prénoms, date et lieu de naissance, domicile, profession et de la nature de l'activité exercée dans l'association ; 
+
+4° Pour chacun des dirigeants ou administrateurs, le certificat prévu à l'article 371 D ; 
+
+5° La liste des membres à la date de la présentation de la demande avec indication du nom, de la profession et du lieu
+d'exercice de celle-ci ; 
+
+6° Une copie du contrat d'assurance mentionné au 4° de l'article 371 QA ; 
+
+7° L'engagement prévu au 5° de l'article 371 QA ; 
+
+8° Le texte de la convention conclue avec l'administration fiscale ; 
+
+9° Une notice indiquant la nature des services rendus par l'association à ses membres adhérents ; 
+
+10° Un rapport des personnes, ordres ou organisations professionnelles ayant pris l'initiative de la création de
+l'association ; 
+
+11° Une attestation sur l'honneur de chacun des administrateurs, selon laquelle ils ne sont pas frappés par les interdictions
+prévues aux articles 371 K bis, 371 V bis et 371 Z terdecies. 
 
 Après s'être assuré que le dossier est complet, le directeur départemental ou, le cas échéant, régional des finances
 publiques en délivre récépissé.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°77-1519 du 31 décembre 1977 - art. 11
-
 _Modifié par_:
 
-  - Décret n°2012-430 du 29 mars 2012 - art. 17
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 K bis (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 QA (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 V bis (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z terdecies (V)
 
 
 ###### Article 371 S
@@ -19930,38 +20044,70 @@ _Modifié par_:
 ###### Article 371 V
 
 Le directeur mentionné à l'article 371 S, après avoir mis en demeure l'association de présenter ses observations sur les
-faits qui lui sont reprochés, peut lui retirer l'agrément :
+faits qui lui sont reprochés, peut lui retirer l'agrément : 
 
 1° En cas d'inexécution des engagements pris par l'association ou de violation des obligations qui lui incombent en vertu des
-statuts ou du règlement intérieur ;
+statuts ou du règlement intérieur ; 
 
 2° En cas de non-respect de la convention prévue à l'article 371 O entraînant la dénonciation de celle-ci par
-l'administration fiscale ;
+l'administration fiscale ; 
 
 3° Au cas où le nombre des adhérents de l'association, tel qu'il est défini à l'article 371 N est inférieur pendant plus d'un
-an au chiffre minimum prévu à cet article ;
+an au seuil fixé à cet article ; 
 
 4° Au cas où l'association conserve parmi ses dirigeants ou administrateurs une personne n'ayant pas respecté ses obligations
 déclaratives ou de paiement en matière fiscale ou ayant fait l'objet, postérieurement à l'agrément, d'une des sanctions
-prévues à l'article 371 D ;
+prévues à l'article 371 D ; 
 
 5° Au cas où l'association ne prononce pas l'exclusion des adhérents qui ne respectent pas les obligations leur incombant en
-vertu des statuts ou du règlement intérieur.
+vertu des statuts ou du règlement intérieur ; 
+
+6° En cas de maintien d'un bureau secondaire ne respectant pas les conditions prévues à l'article 371 N pendant plus d'un an.
 
 **Nota:**
 
-Conformément au décret n° 2013-1034 du 15 novembre 2013, article 2 : Ces dispositions ne s'appliquent pas aux agréments
-délivrés avant le 1er janvier 2014.
+
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGIAN2 371 O, 371 N, 371 D, 371 S
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 N (VT)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 O (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 S (V)
 
 _Modifié par_:
 
-  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+
+###### Article 371 V bis
+
+Une association ayant fait l'objet d'une décision de non-renouvellement ou de retrait d'agrément, pour un motif autre que les
+conditions posées à l'article 371 N, ne peut déposer de nouvelle demande d'agrément au cours des deux années suivant ladite
+décision. 
+
+Ses administrateurs ne peuvent siéger au sein du conseil d'administration d'un centre, d'une association agréée, ou d'un
+organisme mixte de gestion agréé au cours des deux années suivant la décision de non-renouvellement ou de retrait d'agrément.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 F (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 R (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 N (VT)
 
 
 ###### Article 371 W
@@ -19979,11 +20125,14 @@ b) En cas de première adhésion à une association agréée pour l'imposition d
 d'imposition commencée depuis moins de cinq mois à la date de l'adhésion. Le contribuable ayant repris une activité après
 cessation est considéré comme adhérant pour la première fois ; 
 
-c) En cas de retrait d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours déclaré dans les
-conditions prévues à l'article 97 du code général des impôts ; 
+c) En cas de retrait ou de non-renouvellement d'agrément, pour l'imposition du bénéfice de l'année ou de l'exercice en cours
+déclaré dans les conditions prévues à l'article 97 du code général des impôts ; 
 
 d) En cas de démission d'une association agréée suivie, dans le délai maximum de trente jours à la date de la démission, de
-l'adhésion à une autre association agréée. 
+l'adhésion à une autre association agréée ; 
+
+e) En cas de première adhésion à une association agréée avant la clôture de l'exercice comptable pour les contribuables
+franchissant les limites de chiffre d'affaires du régime défini à l'article 102 ter du code général des impôts. 
 
 Les déclarations de résultats des membres adhérents d'une association agréée, mentionnés au premier alinéa, doivent être
 accompagnées d'une attestation fournie par l'association indiquant la date d'adhésion et, le cas échéant, la date à laquelle
@@ -19994,7 +20143,7 @@ attestation.
 
 _Modifié par_:
 
-  - Décret n°2012-470 du 11 avril 2012 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cité par_:
 
@@ -20002,6 +20151,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 102 ter
   - Code général des impôts, CGI. - art. 158
   - Code général des impôts, CGI. - art. 97
 
@@ -20028,46 +20178,50 @@ _Cité par_:
 ###### Article 371 Y
 
 Par l'engagement prévu à l'article 371 X, les ordres et organisations mentionnés à l'article précité s'obligent notamment à
-faire à leurs ressortissants les recommandations suivantes :
+faire à leurs ressortissants les recommandations suivantes : 
 
 1° Tenir les documents prévus à l'article 99 du code général des impôts conformément à l'un des plans comptables
-professionnels agréés par le ministre de l'économie et des finances ;
+professionnels agréés par le ministre de l'économie et des finances ; 
 
 2° En ce qui concerne les adhérents non soumis au secret professionnel en application des articles 226-13 et 226-14 du code
 pénal, mentionner, outre les indications prévues par l'article 1649 quater G du code général des impots, la nature des
-prestations fournies ;
+prestations fournies ; 
 
-3° Accepter le règlement des honoraires par chèques libellés dans tous les cas à leur ordre et ne pas endosser ces chèques,
-sauf pour remise directe à l'encaissement.
+3° Accepter le règlement des honoraires par carte bancaire ou par chèques libellés dans tous les cas à leur ordre et ne pas
+endosser ces chèques, sauf pour remise directe à l'encaissement. 
 
 4° Informer leurs clients de leur qualité d'adhérent à une association agréée, si tel est le cas, et de ses conséquences en
-ce qui concerne notamment l'acceptation du paiement des honoraires par chèques. Les modalités de cette information sont, en
-tant que de besoin, précisées par arrêté (1) ;
+ce qui concerne notamment l'acceptation du paiement des honoraires par chèque ou par carte bancaire selon les modalités
+cumulatives suivantes : 
+
+a) Par apposition dans les locaux destinés à recevoir la clientèle d'un document écrit et placé de manière à pouvoir être lu
+sans difficulté par cette clientèle, mentionnant le nom de l'association agréée et reproduisant le texte suivant : " Membre
+d'une association agréée par l'administration fiscale acceptant à ce titre le règlement des honoraires par carte bancaire ou
+par chèques libellés à son nom " ; 
+
+b) Par la reproduction dans la correspondance et sur les documents professionnels adressés ou remis aux clients du texte
+mentionné au a ; ce texte doit être placé de manière à n'engendrer aucune confusion avec les titres ou qualités
+universitaires et professionnelles. 
+
+Les associations agréées portent les obligations définies aux a et b à la connaissance de leurs adhérents. Ceux-ci informent
+par écrit l'association agréée à laquelle ils appartiennent de l'exécution de ces obligations. L'association s'assure de leur
+exécution effective ; 
 
 5° Pour les membres des professions de santé, inscrire sur les feuilles de maladie ou de soins, conformément aux dispositions
 de l'article L 97 du livre des procédures fiscales et du décret n° 72-480 du 12 juin 1972, l'intégralité des honoraires
-effectivement perçus même s'ils ne peuvent que partiellement donner lieu à remboursement pour les assurés.
+effectivement perçus même s'ils ne peuvent que partiellement donner lieu à remboursement pour les assurés. 
 
 (1) Annexe IV, art. 164 F quaterdecies à 164 F octovicies.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 1649 quater G, 99
-  - CGIAN2 371
-  - Livre des procédures fiscales - art. L97 (M)
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-  - Décret n°72-480 1972-06-12
+  - Décret n°99-382 du 18 mai 1999
 
 _Modifié par_:
 
-  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cité par_:
 
@@ -20075,42 +20229,448 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexdecies (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quatervicies (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 1999
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F quaterdecies (Ab)
+  - Code général des impôts, CGI. - art. 1649 quater G
+  - Code général des impôts, CGI. - art. 99
+  - Livre des procédures fiscales - art. L97
+  - Code pénal - art. 226-13
+  - Code pénal - art. 226-14
 
 
 ###### Article 371 Z
 
 En cas de manquements graves et répétés aux recommandations prévues à l'article 371 Y, les adhérents des associations agréées
-sont exclus de l'association dans les conditions fixées à l'article 8 du décret n° 77-1519 du 31 décembre 1977 relatif aux
-conditions d'agrément des associations ayant pour objet de développer l'usage de la comptabilité et de faciliter
-l'accomplissement de leurs obligations administratives et fiscales par les membres des professions libérales et les
-titulaires des charges et offices.
+sont exclus de l'association dans les conditions fixées au e du 3° de l'article 371 Q.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
 _Cite_:
 
-  - CGIAN2 371 Y
-  - Décret n°77-1519 du 31 décembre 1977 - art. 8 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Q (VT)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Y (V)
 
 
-### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=259></a>
+#### Section III : Organismes mixtes de gestion agréés<a id=259></a>
 
-###### Article 371 bis A
+###### Article 371 Z bis
 
-L'autorisation prévue à l'article 1649 quater L du code général des impôts est délivrée par le commissaire du Gouvernement
-auprès du conseil régional compétent, lors de l'inscription d'un expert-comptable ou d'une société d'expertise comptable au
-tableau de l'ordre des experts-comptables ou lors de l'inscription d'une association de gestion et de comptabilité à la suite
-de ce tableau. Cette autorisation est délivrée après avis favorable du commissaire du Gouvernement à l'inscription de
-l'intéressé.
+Pour bénéficier de l'agrément prévu par l'article 1649 quater K ter du code général des impôts, les organismes mixtes doivent
+avoir pour objet de fournir à leurs adhérents industriels, commerçants, artisans ou agriculteurs les services mentionnés à
+l'article 371 A, dans les conditions prévues par cet article, et à leurs adhérents membres de professions libérales et
+titulaires de charges et offices les services mentionnés à l'article 371 M, dans les conditions prévues par cet article.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2010-297 du 19 mars 2010 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 A (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 M (V)
+  - Code général des impôts, CGI. - art. 1649 quater K (V)
+
+
+###### Article 371 Z decies
+
+Le directeur mentionné à l'article 371 Z nonies se prononce dans le délai de quatre mois suivant la date de délivrance du
+récépissé prévu à l'article 371 Z octies. 
+
+L'absence de décision dans le délai fixé vaut acceptation de la demande. Le refus d'agrément est motivé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z nonies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z undecies (V)
+
+
+###### Article 371 Z duodecies
+
+Le directeur mentionné à l'article 371 Z nonies, après avoir mis en demeure l'organisme mixte de présenter ses observations
+sur les faits qui lui sont reprochés, peut lui retirer l'agrément : 
+
+1° En cas d'inexécution des engagements pris par l'organisme mixte ou de violation des obligations qui lui incombent en vertu
+des statuts ou du règlement intérieur ; 
+
+2° En cas de non-respect de la convention prévue à l'article 371 Z quater, entraînant la dénonciation de celle-ci par
+l'administration fiscale ; 
+
+3° Si le nombre des adhérents de l'organisme mixte est inférieur, pendant plus d'un an, au seuil fixé à l'article 371 Z
+ter ; 
+
+4° Si l'organisme mixte conserve parmi ses dirigeants ou administrateurs une personne n'ayant pas respecté ses obligations
+déclaratives ou de paiement en matière fiscale ou ayant fait l'objet, postérieurement à l'agrément, d'une des sanctions
+prévues à l'article 371 D ; 
+
+5° Si l'organisme mixte ne prononce pas l'exclusion des adhérents qui ne respectent pas les obligations leur incombant en
+vertu des statuts ou du règlement intérieur ; 
+
+6° En cas de maintien d'un bureau secondaire ne respectant pas les conditions prévues à l'article 371 Z ter pendant plus d'un
+an.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z nonies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z quater (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z ter (VD)
+
+
+###### Article 371 Z nonies
+
+La décision d'agrément est prise par le directeur régional des finances publiques de la région dans laquelle l'organisme de
+gestion demandeur a son siège.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z decies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z duodecies (V)
+
+
+###### Article 371 Z octies
+
+Les demandes d'agrément sont remises au directeur départemental ou, le cas échéant, régional des finances publiques du
+département dans lequel l'organisme de gestion a son siège. 
+
+Toute demande d'agrément d'un organisme mixte est accompagnée des documents suivants : 
+
+1° Un exemplaire des statuts et, le cas échéant, du règlement intérieur de l'organisme ; 
+
+2° La justification de l'exécution des formalités prévues par la législation en vigueur pour la création et la régularité du
+fonctionnement de l'association ; 
+
+3° La liste des personnes qui dirigent ou administrent l'organisme avec, pour chacune d'elles, l'indication de leurs nom,
+prénoms, date et lieu de naissance, domicile, profession et de la nature de l'activité exercée dans l'organisme ; 
+
+4° Pour chacun des dirigeants ou administrateurs, le certificat prévu à l'article 371 D ; 
+
+5° La liste des membres à la date de la présentation de la demande avec indication du nom, de la profession et du lieu
+d'exercice de celle-ci ; 
+
+6° Une copie du contrat d'assurance mentionné au 4° des articles 371 EA et 371 QA ; 
+
+7° L'engagement prévu à l'article 371 EB et au 5° de l'article 371 QA ; 
+
+8° Le texte de la convention conclue avec l'administration fiscale ; 
+
+9° Une notice indiquant la nature des services rendus par l'organisme à ses membres adhérents ; 
+
+10° Un rapport des personnes, ordres ou organisations professionnelles ayant pris l'initiative de la création de
+l'organisme ; 
+
+11° Une attestation sur l'honneur de chacun des administrateurs, selon laquelle ils ne sont pas frappés par les interdictions
+prévues aux articles 371 K bis, 371 V bis et 371 Z terdecies. 
+
+Après s'être assuré que le dossier est complet, le directeur départemental ou, le cas échéant, régional des finances
+publiques en délivre récépissé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 EA (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 EB (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 K bis (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 QA (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 V bis (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z terdecies (V)
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z decies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z undecies (V)
+
+
+###### Article 371 Z quater
+
+En application de l'article 1649 quater K ter du code général des impôts, les organismes mixtes concluent avec
+l'administration fiscale une convention précisant le rôle du ou des agents de cette administration chargés d'apporter leur
+assistance technique à l'organisme mixte. Un modèle de cette convention est fixé par arrêté du ministre chargé du budget. 
+
+L'administration peut refuser de conclure une convention avec des organismes mixtes créés ou dirigés en fait par des
+organisations professionnelles qui elles-mêmes ont été dirigées au cours des cinq dernières années par des personnes ayant
+été condamnées depuis moins de cinq ans pour avoir organisé ou tenté d'organiser le refus collectif de l'impôt au sens de
+l'article 1747 du code précité. 
+
+L'agrément spécifique d'organisme mixte de gestion agréé prévu à l'article 1649 quater K ter du même code se substitue à
+l'agrément délivré au centre de gestion mentionné à l'article 1649 quater C ou à l'association agréée mentionnée à l'article
+1649 quater F du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z duodecies (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 quater C (V)
+  - Code général des impôts, CGI. - art. 1649 quater F (V)
+  - Code général des impôts, CGI. - art. 1649 quater K ter (V)
+  - Code général des impôts, CGI. - art. 1747 (V)
+
+
+###### Article 371 Z quaterdecies
+
+Pour l'application du 7 de l'article 158 du code général des impôts, un contribuable mentionné au 1° de ce 7 n'est pas
+adhérent d'un organisme mixte de gestion agréé s'il n'a pas été membre adhérent de cet organisme pendant toute la durée de
+l'exercice considéré. 
+
+Cette condition n'est toutefois pas exigée dans les cas prévus aux a, b, c, d et e des articles 371 L et 371 W. 
+
+Les déclarations de résultats des membres adhérents d'un organisme mixte agréé, mentionnés au premier alinéa, sont
+accompagnées d'une attestation fournie par l'organisme mixte indiquant la date d'adhésion et, le cas échéant, la date à
+laquelle est intervenue la perte de la qualité d'adhérent. L'organisme mixte et le membre adhérent sont identifiés sur cette
+attestation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 W (V)
+  - Code général des impôts, CGI. - art. 158
+
+
+###### Article 371 Z quindecies
+
+Pour l'application de l'article 1649 quater E bis du code général des impôts, la clientèle des industriels, commerçants,
+artisans et agriculteurs est informée de leur qualité d'adhérent d'un organisme mixte de gestion agréé et de ses conséquences
+en ce qui concerne l'acceptation des règlements par chèque et par carte bancaire selon les modalités fixées par les articles
+371 LB à 371 LD. 
+
+En cas de manquements graves ou répétés à ces obligations, les adhérents sont exclus de l'organisme mixte dans les conditions
+prévues à l'article 371 Z sexies.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 LB (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexies (V)
+  - Code général des impôts, CGI. - art. 1649 quater E bis
+
+
+###### Article 371 Z quinquies
+
+Les organismes mixtes sont soumis aux obligations prévues à l'article 371 D.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 D (V)
+
+
+###### Article 371 Z septies
+
+Les statuts des organismes mixtes comportent les clauses selon lesquelles ces organismes prennent les engagements mentionnés
+aux articles 371 EA, 371 EB et 371 QA. 
+
+Sous réserve des exceptions prévues aux articles 371 EA et 371 QA, une cotisation de montant unique s'applique à l'ensemble
+des adhérents des organismes mixtes. Toutefois, l'organisme mixte peut appliquer une cotisation différenciée selon la
+catégorie d'imposition de ses adhérents, sans que l'écart entre les cotisations demandées soit supérieur à 20 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 EA (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 QA (V)
+
+
+###### Article 371 Z sexdecies
+
+Pour l'application de l'article 1649 quater F du code général des impôts, les membres des professions libérales et titulaires
+de charges et offices adhérents d'un organisme mixte agréé respectent les recommandations prévues à l'article 371 Y. 
+
+En cas de manquements graves et répétés à ces recommandations, ils sont exclus de l'organisme mixte dans les conditions
+prévues à l'article 371 Z sexies.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Y (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexies (V)
+  - Code général des impôts, CGI. - art. 1649 quater F
+
+
+###### Article 371 Z sexies
+
+Les statuts de l'organisme mixte prévoient les conditions de participation à sa gestion des personnes ou organismes qui ont
+pris l'initiative de sa création, ainsi que la composition de son conseil d'administration, dans les conditions prévues par
+les articles 371 E et 371 Q. 
+
+Ils prévoient en outre les clauses suivantes : 
+
+1° Les organismes mixtes fournissent les services et documents prévus par le 1° de l'article 371 E pour leurs adhérents
+industriels, commerçants, artisans ou agriculteurs et par le 1° de l'article 371 Q pour leurs adhérents membres de
+professions libérales et titulaires de charges et offices ; 
+
+2° L'organisme mixte élabore pour ceux de ses membres adhérents placés sous un régime réel d'imposition les déclarations
+afférentes à leur exploitation destinées à l'administration fiscale, lorsque ces membres en font la demande, dans les
+conditions prévues par le 2° de l'article 371 E et le 2° de l'article 371 Q ; 
+
+3° L'adhésion à l'organisme mixte implique pour les membres industriels, commerçants, artisans ou agriculteurs imposés
+d'après leur bénéfice réel le respect des engagements et obligations prévus par le 3° de l'article 371 E et pour les membres
+de professions libérales et titulaires de charges et offices le respect des engagements prévus par le 3° de l'article 371 Q. 
+
+En cas de manquements graves ou répétés à ces obligations et engagements, l'adhérent est exclu de l'organisme mixte. Il est
+mis en mesure, avant toute décision d'exclusion, de présenter sa défense sur les faits qui lui sont reprochés ; 
+
+4° L'organisme mixte réalise un examen périodique de sincérité des pièces justificatives de ses adhérents dans les conditions
+prévues par le 4° de l'article 371 E et le 4° de l'article 371 Q ; 
+
+5° L'organisme mixte assure la traçabilité de l'ensemble de ses missions de contrôle ; 
+
+6° L'organisme mixte contrôle la capacité de ses adhérents à respecter, le cas échéant, le I de l'article L. 47 A du livre
+des procédures fiscales ; 
+
+7° L'organisme mixte se soumet à un contrôle de l'administration destiné à vérifier la conformité de son organisation et de
+ses travaux aux dispositions du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 E (VT)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Q (VT)
+  - Livre des procédures fiscales - art. L47 A
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z quindecies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexdecies (V)
+
+
+###### Article 371 Z terdecies
+
+Un organisme mixte ayant fait l'objet d'une décision de non-renouvellement ou de retrait d'agrément, pour un motif autre que
+les conditions posées à l'article 371 Z ter, ne peut déposer de nouvelle demande d'agrément au cours des deux années suivant
+ladite décision. 
+
+Ses administrateurs ne peuvent siéger au sein du conseil d'administration d'un centre, d'une association agréée, ou d'un
+organisme mixte de gestion agréé au cours des deux années suivant la décision de non-renouvellement ou de retrait d'agrément.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 F (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 R (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z ter (VD)
+
+
+###### Article 371 Z undecies
+
+L'agrément est délivré pour une période de trois ans. Il peut être renouvelé selon la procédure prévue aux articles 371 Z
+octies à 371 Z decies sur demande présentée au plus tard six mois avant l'expiration de l'agrément en cours. 
+
+Le renouvellement de l'agrément intervient, à l'exception du premier renouvellement, tous les six ans. 
+
+Lors de l'examen de la demande de renouvellement de l'agrément, il est tenu compte de l'action exercée par l'organisme mixte
+pour, d'une part, améliorer la gestion des entreprises adhérentes et s'assurer de la sincérité des résultats qu'elles
+déclarent s'agissant de ses adhérents industriels, commerçants, artisans et agriculteurs et, d'autre part, pour améliorer la
+connaissance des revenus de ses adhérents membres des professions libérales et titulaires de charges et offices.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z decies (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
+
+
+### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=260></a>
+
+###### Article 371 bis A
+
+L'autorisation prévue à l'article 1649 quater L du code général des impôts est délivrée par le commissaire du Gouvernement
+auprès du conseil régional compétent, lors de l'inscription d'un expert-comptable, d'une société d'expertise comptable ou
+d'une succursale d'expertise comptable au tableau de l'ordre des experts-comptables ou lors de l'inscription d'une
+association de gestion et de comptabilité à la suite de ce tableau. Cette autorisation est délivrée après avis favorable du
+commissaire du Gouvernement à l'inscription de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
@@ -20122,7 +20682,8 @@ _Cite_:
 Pour l'application des dispositions du b du 1° du 7 de l'article 158 du code général des impôts, le professionnel de
 l'expertise comptable sollicite par écrit la signature d'une convention auprès du commissaire du Gouvernement près le conseil
 régional de l'ordre des experts-comptables dans le ressort duquel ce professionnel de l'expertise comptable est inscrit et,
-en cas de pluralité d'établissements, dans le ressort du conseil régional de son établissement principal. 
+en cas de pluralité d'établissements, dans le ressort du conseil régional de son établissement principal. Un modèle de cette
+convention est fixé par arrêté du ministre chargé du budget. 
 
 La demande est accompagnée d'un certificat délivré par l'administration fiscale, sur demande de l'expert-comptable, de la
 société d'expertise comptable, de l'association de gestion et de comptabilité ou de chacun de leurs dirigeants et
@@ -20138,12 +20699,6 @@ b) D'une amende fiscale prononcée par un tribunal ;
 
 c) D'une sanction fiscale prononcée par l'administration pour manœuvres frauduleuses.
 
-**Nota:**
-
-Conformément au décret n° 2013-1034 du 15 novembre 2013, article 2 : Ces dispositions s'appliquent aux demandes d'agrément ou
-de renouvellement d'agrément présentées conformément aux articles 371 F et 371 R de l'annexe II au code général des impôts
-déposées à compter du 1er janvier 2014.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -20154,20 +20709,19 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis F (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis H (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis I (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis K (M)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis K (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis L (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis M (V)
 
 _Modifié par_:
 
-  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 158
   - Code général des impôts, CGI. - art. 1750
   - Code de procédure pénale - art. 775
-  - Code de la route.
 
 
 ###### Article 371 bis C
@@ -20263,9 +20817,11 @@ _Cite_:
 
 ###### Article 371 bis F
 
-Le professionnel de l'expertise comptable qui a conclu la convention prévue à l'article 371 bis B transmet à ses clients ou
-adhérents imposés d'après leur bénéfice réel, dans un délai de neuf mois suivant la clôture de leur exercice comptable, un
-dossier comprenant : 
+Le professionnel de l'expertise comptable qui a conclu la convention prévue à l'article 371 bis B : 
+
+1° Transmet à ses clients ou adhérents imposés d'après leur bénéfice réel, dans un délai de deux mois suivant la date de
+réception de la déclaration de résultats et au plus tard de neuf mois suivant la clôture de leur exercice comptable lorsque
+celui-ci ne coïncide pas avec l'année civile, un dossier comprenant : 
 
 a) Les ratios et les autres éléments caractérisant la situation financière et économique de l'entreprise ; 
 
@@ -20276,37 +20832,59 @@ bilans et des comptes de résultat de l'entreprise. Toutefois, pour les entrepri
 seule l'analyse comparative des comptes de résultat est adressée ; 
 
 d) Un document de synthèse présentant une analyse économique en matière de prévention des difficultés économiques et
-financières de l'entreprise avec l'indication, le cas échéant, des démarches à accomplir.
+financières de l'entreprise avec l'indication, le cas échéant, des démarches à accomplir ; 
+
+2° Réalise un examen périodique de sincérité de pièces justificatives de ses clients ou adhérents dans le but de vérifier que
+leurs déclarations fiscales sont correctement établies. Cet examen suit une méthode établie par le professionnel pour
+l'ensemble de ses clients ou adhérents. Pour déterminer les clients ou adhérents faisant l'objet, au titre d'une année
+donnée, d'un examen périodique de pièces justificatives, le professionnel sélectionne des clients ou adhérents selon une
+méthode fixée par arrêté du ministre chargé du budget assurant la réalisation de cet examen au moins tous les trois ans. Le
+nombre des pièces examinées est modulé selon la taille de l'entreprise. Le choix des pièces examinées prend appui sur un
+document fournissant une vision exhaustive des opérations comptables de l'entreprise. Il n'est en aucun cas fourni par le
+professionnel à l'administration fiscale. Le client ou l'adhérent est mis en mesure de présenter ses observations en réponse
+aux éventuelles questions et critiques formulées par le professionnel dans le cadre de cet examen. 
+
+Cet examen et les contrôles annuels effectués par le professionnel font l'objet du compte rendu de mission tel que prévu aux
+articles 1649 quater E et 1649 quater H du code général des impôts ; 
+
+3° Le professionnel assure la traçabilité de l'ensemble de ses missions de contrôles ; 
+
+4° Le professionnel contrôle la capacité de leurs clients ou adhérents à respecter, le cas échéant, le I de l'article L. 47 A
+du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-1034 du 15 novembre 2013 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+  - Code général des impôts, CGI. - art. 1649 quater E (V)
+  - Code général des impôts, CGI. - art. 1649 quater H
+  - Livre des procédures fiscales - art. L47 A
 
 
 ###### Article 371 bis G
 
 Le respect des engagements prévus par la convention est examiné, une fois au moins tous les trois ans, dans le cadre du
-contrôle de qualité mis en œuvre par la profession ou sur requête de l'administration fiscale. 
+contrôle de qualité mis en œuvre par l'administration fiscale et destiné à vérifier la conformité de son organisation et de
+ses travaux aux dispositions du code général des impôts.  
 
 Les résultats de ce contrôle sont transmis au commissaire du Gouvernement dans un délai de trois mois après sa conclusion.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2012-432 du 30 mars 2012 - art. 200
-
 _Cité par_:
 
   - Arrêté du 3 mai 2012 - art. 420 (V)
   - Arrêté du 3 mai 2012 - art. 436 (VD)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis H (M)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis H (V)
+
+_Modifié par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 
 ###### Article 371 bis H
@@ -20328,7 +20906,13 @@ l'application des dispositions du b du 1° du 7 de l'article 158 du code génér
 manquements graves et répétés aux obligations comptables, fiscales et sociales de son client ou adhérent ; 
 
 e) En cas d'inobservation par le professionnel de l'expertise comptable de ses obligations stipulées dans la convention
-prévue à l'article 371 bis B. 
+prévue à l'article 371 bis B ; 
+
+f) Au cas où le nombre des clients ou adhérents du professionnel, tel qu'il est défini à l'article 371 bis C bis, est
+inférieur pendant plus d'un an au seuil fixé à cet article ; 
+
+g) En cas de maintien d'un établissement secondaire ne respectant pas les conditions prévues à l'article 371 bis C bis
+pendant plus d'un an. 
 
 Le commissaire du Gouvernement met préalablement le professionnel de l'expertise comptable en mesure de présenter ses
 observations sur les faits qui lui sont reprochés. 
@@ -20338,18 +20922,20 @@ motivée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-297 du 19 mars 2010 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis C bis (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis G (V)
-  - Code général des impôts, CGI. - art. 158 (V)
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1743 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
+  - Code général des impôts, CGI. - art. 158
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1743
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
 
 _Cité par_:
 
@@ -20398,9 +20984,11 @@ _Cite_:
 ###### Article 371 bis K
 
 Le professionnel de l'expertise comptable dont l'autorisation ou la convention sont devenues caduques en vertu de l'article
-371 bis J ne peut déposer une nouvelle demande d'autorisation ou de convention qu'à l'expiration d'un délai de six mois
-suivant la date à laquelle elles sont devenues caduques, à condition qu'il ne fasse plus l'objet d'une suspension et qu'il
-soit inscrit au tableau de l'ordre des experts-comptables ou à la suite de celui-ci. 
+371 bis J ou dont la convention a été résiliée en vertu de l'article 371 bis H pour un motif autre que le non-respect des
+conditions posées à l'article 371 bis C bis ne peut déposer une nouvelle demande d'autorisation ou de convention qu'à
+l'expiration d'un délai de deux ans suivant la date à laquelle elles sont devenues caduques ou la convention a été résiliée,
+à condition qu'il ne fasse plus l'objet d'une suspension et qu'il soit inscrit au tableau de l'ordre des experts-comptables
+ou à la suite de celui-ci. 
 
 La demande d'autorisation formulée à la suite d'une suspension est adressée par écrit au commissaire du Gouvernement
 mentionné à l'article 371 bis B. Celui-ci examine la situation du demandeur au regard de ses obligations fiscales et sociales
@@ -20410,15 +20998,17 @@ La demande de nouvelle convention est soumise à la procédure prévue aux artic
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-297 du 19 mars 2010 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis C (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis J (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis C
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis C bis (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis H (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis J
 
 
 ###### Article 371 bis L
@@ -20451,7 +21041,11 @@ maximum de trente jours suivant la date de la résiliation de la lettre de missi
 comptable ; 
 
 e) En cas de démission d'un centre de gestion agréé ou d'une association agréée suivie, dans le délai maximum de trente
-jours, de la conclusion d'une lettre de mission avec un professionnel de l'expertise comptable. 
+jours, de la conclusion d'une lettre de mission avec un professionnel de l'expertise comptable ; 
+
+f) En cas de signature d'une première lettre de mission avec un professionnel de l'expertise comptable avant la clôture de
+l'exercice comptable pour les contribuables franchissant les limites de chiffre d'affaires des régimes définis aux articles
+50-0,64 bis et 102 ter du code général des impôts. 
 
 Les déclarations de résultats des clients ou adhérents mentionnés au premier alinéa sont accompagnées d'une attestation
 fournie par le professionnel de l'expertise comptable indiquant la date de signature de la lettre de mission spécifique et le
@@ -20461,21 +21055,243 @@ système de transfert des données fiscales et comptables.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-297 du 19 mars 2010 - art. 1
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+  - Code général des impôts, CGI. - art. 102 ter
+  - Code général des impôts, CGI. - art. 158
+  - Code général des impôts, CGI. - art. 1649 quater L
+  - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 64 bis
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis D (V)
 
+
+###### Article 371 bis M
+
+Pour l'application du dernier alinéa de l'article 1649 quater L du code général des impôts, les clients ou adhérents d'un
+professionnel de l'expertise comptable ayant signé la convention prévue à l'article 371 bis B informent leur clientèle de
+leur recours aux services dudit professionnel et de ses conséquences en ce qui concerne l'acceptation des règlements par
+carte bancaire ou par chèque selon les modalités cumulatives suivantes : 
+
+1° Par apposition dans les locaux destinés à recevoir la clientèle, ainsi que dans les emplacements ou véhicules aménagés en
+vue d'effectuer des ventes ou des prestations de services, d'un document écrit et placé de manière à pouvoir être lu sans
+difficulté par cette clientèle reproduisant le texte suivant : " Client ou adhérent d'un viseur fiscal conventionné par
+l'administration fiscale acceptant à ce titre le règlement des honoraires par carte bancaire ou par chèques libellés à son
+nom " ; 
+
+2° Par la reproduction dans la correspondance et sur les documents professionnels adressés ou remis aux clients du texte
+mentionné au 1° ; ce texte est placé de manière à n'engendrer aucune confusion avec les titres ou qualités universitaires et
+professionnelles. 
+
+Les professionnels de l'expertise comptable ayant signé la convention prévue à l'article 371 bis B portent les obligations
+définies aux 1° et au 2° à la connaissance de leurs clients ou adhérents. Ceux-ci informent par écrit le professionnel de
+l'expertise comptable conventionné auquel ils ont recours de l'exécution de ces obligations. Le professionnel de l'expertise
+comptable ayant signé la convention prévue à l'article 371 bis B s'assure de leur exécution effective.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 158
-  - Code général des impôts, CGI. - art. 1649 quater L
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
+  - Code général des impôts, CGI. - art. 1649 quater L (V)
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis N (V)
 
 
-### Chapitre I ter : Centre de formalités des entreprises<a id=260></a>
+###### Article 371 bis N
+
+En cas de manquements graves ou répétés aux dispositions de l'article 371 bis M, la lettre de mission des clients ou
+adhérents du professionnel de l'expertise comptable est résiliée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis M (V)
+
+
+### Chapitre Ier bis B : Certificateurs à l'étranger<a id=261></a>
+
+###### Article 371 ter A
+
+La convention prévue à l'article 1649 quater N du code général des impôts est délivrée par le directeur général des finances
+publiques sur demande accompagnée de justificatifs d'identité, de résidence, de moralité fiscale attestant que le
+professionnel ou organisme a respecté ses obligations déclaratives et de paiement en matière fiscale au regard de la
+législation de son pays d'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 ter B (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 quater N (V)
+
+
+###### Article 371 ter B
+
+Les demandes de conventionnement, accompagnées des justificatifs désignés à l'article 371 ter A, sont remises au directeur
+général des finances publiques. 
+
+Après s'être assuré que le dossier est complet, le directeur général des finances publiques en délivre récépissé. 
+
+Le directeur général des finances publiques se prononce dans le délai de quatre mois suivant la date de délivrance du
+récépissé. 
+
+L'absence de décision dans le délai fixé vaut acceptation de la demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 ter A (V)
+
+
+###### Article 371 ter C
+
+Le directeur général des finances publiques peut refuser de conclure la convention : 
+
+a) En cas de manquements constatés aux obligations déclaratives et de paiement en matière fiscale au regard de la législation
+de son pays d'établissement ; 
+
+b) En cas de non-respect des conditions de résidence et de qualité professionnelle fixées à l'article 1649 quater N du code
+général des impôts. 
+
+En cas de refus, une décision motivée est notifiée au demandeur par pli recommandé avec demande d'avis de réception. 
+
+Dans le cas contraire, le directeur général des finances publiques adresse au professionnel ou à l'organisme une convention
+dont le modèle est fixé par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 quater N (V)
+
+
+###### Article 371 ter D
+
+La convention n'est ni cessible ni transmissible.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+
+###### Article 371 ter E
+
+La convention est conclue pour une période de trois ans. Elle est renouvelable une fois par tacite reconduction pour la même
+durée, sauf dénonciation par le directeur général des finances publiques ou par le professionnel ou organisme trois mois au
+moins avant la date d'expiration de la convention en cours. 
+
+Elle peut être renouvelée pour la même durée selon la procédure initiale sur demande présentée trois mois au moins avant la
+date d'expiration de la convention en cours. 
+
+Le directeur général des finances publiques statue sur la demande et informe le demandeur de sa décision dans les mêmes
+conditions qu'une demande initiale. 
+
+Le certificateur à l'étranger dont la convention n'est pas renouvelée en informe ses clients ou adhérents dans le mois qui
+suit la date de notification du non-renouvellement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+
+###### Article 371 ter F
+
+Le demandeur s'engage par la convention : 
+
+1° A respecter une stricte indépendance dans l'examen des déclarations fiscales de son client ou adhérent en confiant cet
+examen à une personne n'ayant pas participé à la tenue de la comptabilité de ce dernier ; 
+
+2° A contrôler la déclaration des revenus encaissés à l'étranger et la déclaration de résultats déposée à l'étranger
+afférente aux revenus de source étrangère provenant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales ; 
+
+3° A adresser un compte rendu de mission à son adhérent ou client dans les deux mois qui suivent la fin des opérations de
+contrôles et au plus tard dans les huit mois de la réception de la déclaration des revenus encaissés à l'étranger par un
+contribuable domicilié en France. Dans le même délai, le certificateur transmet une copie de ce compte rendu par voie
+dématérialisée à la direction générale des finances publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+
+###### Article 371 ter G
+
+Le directeur général des finances publiques peut résilier la convention s'il constate que le certificateur à l'étranger ou la
+société dans laquelle il exerce sa profession ont fait l'objet de manquements à l'une des obligations stipulées dans la
+convention individuelle. 
+
+Avant de prendre sa décision, le directeur général des finances publiques met le certificateur à l'étranger en mesure de
+présenter ses observations sur les faits qui lui sont reprochés. 
+
+La décision de résiliation motivée est notifiée au certificateur à l'étranger par pli recommandé avec demande d'avis de
+réception. 
+
+Le certificateur à l'étranger dont la convention est résiliée en informe ses clients ou adhérents dans le mois qui suit la
+date de notification du non-renouvellement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+
+###### Article 371 ter H
+
+Le certificateur à l'étranger dont la convention est caduque ou a été résiliée en application des dispositions du présent
+chapitre ne peut déposer une nouvelle demande de convention qu'à l'expiration d'un délai de deux ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1356 du 11 octobre 2016 - art. 1
+
+
+### Chapitre I ter : Centre de formalités des entreprises<a id=262></a>
 
 ###### Article 371 AI
 
@@ -20790,7 +21606,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
-### Chapitre II : Sociétés immobilières de copropriété<a id=261></a>
+### Chapitre II : Sociétés immobilières de copropriété<a id=263></a>
 
 ###### Article 372
 
@@ -20941,7 +21757,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=262></a>
+### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=264></a>
 
 ###### Article 376
 
@@ -20999,13 +21815,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*81-1 (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=263></a>
+# Livre II : Recouvrement de l'impôt<a id=265></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=264></a>
+## Chapitre premier : Paiement de l'impôt<a id=266></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=265></a>
+### Section I : Impôts directs et taxes assimilées<a id=267></a>
 
-#### 00I : Etablissement et mise en recouvrement des rôles<a id=266></a>
+#### 00I : Etablissement et mise en recouvrement des rôles<a id=268></a>
 
 ###### Article 376-0 bis
 
@@ -21023,7 +21839,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1658
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=267></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=269></a>
 
 ###### Article 376 bis
 
@@ -21209,7 +22025,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=268></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=270></a>
 
 ###### Article 379
 
@@ -21335,7 +22151,7 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=269></a>
+#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=271></a>
 
 ###### Article 382 bis
 
@@ -21424,7 +22240,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 382 quater (V)
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=270></a>
+#### IV : Taxe sur les salaires. Taux majorés<a id=272></a>
 
 ###### Article 383
 
@@ -21459,9 +22275,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=271></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=273></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=272></a>
+#### I : Taxe sur la valeur ajoutée<a id=274></a>
 
 ###### Article 383 ter
 
@@ -21493,11 +22309,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=273></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=275></a>
 
-#### I : Dation en paiement<a id=274></a>
+#### I : Dation en paiement<a id=276></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=275></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=277></a>
 
 ###### Article 384 A
 
@@ -21580,7 +22396,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=276></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=278></a>
 
 ###### Article 384 A bis
 
@@ -21623,7 +22439,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=277></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=279></a>
 
 ###### Article 384 A ter
 
@@ -21668,9 +22484,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-## Chapitre I bis : Pénalités<a id=278></a>
+## Chapitre I bis : Pénalités<a id=280></a>
 
-### Section I : Commission des infractions fiscales<a id=279></a>
+### Section I : Commission des infractions fiscales<a id=281></a>
 
 ###### Article 384 septies-0 A
 
@@ -21797,7 +22613,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=280></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=282></a>
 
 ###### Article 384 septies A
 
@@ -21834,9 +22650,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=281></a>
+## Chapitre II : Procédures<a id=283></a>
 
-### III : Dispositions communes<a id=282></a>
+### III : Dispositions communes<a id=284></a>
 
 ###### Article 396 B
 
@@ -21904,9 +22720,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1912
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=283></a>
+## Chapitre II bis : Sûretés et privilèges<a id=285></a>
 
-### Section I : Publicité du privilège du Trésor<a id=284></a>
+### Section I : Publicité du privilège du Trésor<a id=286></a>
 
 ###### Article 396 bis
 
@@ -22038,9 +22854,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=285></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=287></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=286></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=288></a>
 
 ###### Article 396 duodecies
 
@@ -22183,7 +22999,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=287></a>
+## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=289></a>
 
 ###### Article 408
 
