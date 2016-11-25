@@ -24,9 +24,13 @@ _Cite_:
   - CGI 407, 408
   - CGIAN3 169 bis
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 3
+  - DEPLACE: Décret n°2016-1585 du 24 novembre 2016 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-1586 du 24 novembre 2016 - art. 1 (V)
 
 _Cité par_:
 
