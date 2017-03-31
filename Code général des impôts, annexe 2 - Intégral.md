@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2017-02-04
+Version Consolidée au 2017-04-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -8702,9 +8702,9 @@ _Créé par_:
 Le ministre chargé de la culture saisit la commission consultative des trésors nationaux mentionnée à l'article L. 111-4 du
 code du patrimoine, afin qu'elle se prononce sur la valeur d'acquisition du bien. 
 
-Il soumet en outre la question de l'intérêt du classement de ce bien, selon le cas, à l'avis de la Commission nationale des
-monuments historiques prévue par l'article L. 611-1 du code du patrimoine ou à celui du Conseil supérieur des archives
-mentionné à l'article R. 212-79 du même code. 
+Il soumet en outre la question de l'intérêt du classement de ce bien, selon le cas, à l'avis de la Commission nationale du
+patrimoine et de l'architecture prévue par l'article L. 611-1 du code du patrimoine ou à celui du Conseil supérieur des
+archives mentionné à l'article R. 212-79 du même code. 
 
 Le ministre chargé de la culture transmet sans délai les avis prévus aux premier et deuxième alinéas au ministre chargé du
 budget.
@@ -8721,7 +8721,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-653 du 4 mai 2012 - art. 2
+  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 _Cité par_:
 
@@ -8730,6 +8730,7 @@ _Cité par_:
 _Cite_:
 
   - Code du patrimoine - art. L111-4
+  - Code du patrimoine - art. L611-1 (VT)
   - Code du patrimoine - art. R212-79
 
 
