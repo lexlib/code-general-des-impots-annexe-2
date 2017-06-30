@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2017-05-06
+Version Consolidée au 2017-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -13342,7 +13342,7 @@ _Cite_:
 
 ###### Article 286 I
 
-I.-1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1234/2007 du
+I. – 1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1234/2007 du
 Conseil du 22 octobre 2007 portant organisation commune des marchés dans le secteur agricole et dispositions spécifiques en
 ce qui concerne certains produits de ce secteur (règlement " OCM unique "), la comptabilité matières est constituée par les
 registres vitivinicoles prévus par le règlement (CE) n° 436/2009 de la Commission du 26 mai 2009 portant modalités
@@ -13353,7 +13353,7 @@ registres à tenir dans le secteur vitivinicole ;
 2° L'entrepositaire agréé doit remettre une copie des documents constituant la comptabilité matières aux agents des douanes
 et droits indirects, sur leur demande. 
 
-II.-Outre les dispositions de la réglementation communautaire susmentionnée, les registres vitivinicoles sont établis de la
+II. – Outre les dispositions de la réglementation communautaire susmentionnée, les registres vitivinicoles sont établis de la
 manière suivante. 
 
 1° Les différentes opérations sont enregistrées, sans blanc ni rature, sur un registre aux pages numérotées, ou selon une
@@ -13400,7 +13400,7 @@ aux dispositions européennes et aux informations prévues au 1° du II ;
 
 b) La reprise des inventaires physiques des produits réalisés au moment de la clôture de l'exercice comptable. 
 
-III.-Les entrepositaires agréés doivent effectuer la balance des registres en y inscrivant pour tous les produits
+III. – Les entrepositaires agréés doivent effectuer la balance des registres en y inscrivant pour tous les produits
 vitivinicoles, au plus tard le dixième jour de chaque mois, le stock théorique en début du mois précédent, le stock théorique
 en fin du mois précédent et le total des entrées et des sorties du mois précédent. 
 
@@ -13411,14 +13411,14 @@ Les entrepositaires agréés transmettent au service des douanes et droits indir
 le dixième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa et,
 le cas échéant, ceux prévus au 1° du II. 
 
-IV.-Les registres doivent être clôturés une fois par an pour les récoltants y compris les sociétés coopératives et leurs
+IV. – Les registres doivent être clôturés une fois par an pour les récoltants y compris les sociétés coopératives et leurs
 unions. La déclaration annuelle est transmise au service des douanes et droits indirects territorialement compétent, au plus
 tard le dixième jour du deuxième mois qui suit la clôture des comptes. 
 
-V.-Les registres peuvent être constitués par des annotations au verso des déclarations de récolte et des stocks mentionnées à
-l'article 407 du code général des impôts. 
+V. – Les registres peuvent être constitués par des annotations au verso des déclarations de récolte et des stocks mentionnées
+à l'article 407 du code général des impôts. 
 
-VI.-Les registres sont tenus par entrepôt fiscal suspensif de droits d'accises et sur les lieux mêmes où les produits sont
+VI. – Les registres sont tenus par entrepôt fiscal suspensif de droits d'accises et sur les lieux mêmes où les produits sont
 détenus. 
 
 Au sein d'un site d'exploitation, les registres sont tenus au siège de l'exploitation. 
@@ -13428,15 +13428,15 @@ Le siège de l'exploitation s'entend du lieu où est située l'installation prin
 Dans ce cas, les entrepositaires agréés sont tenus d'indiquer à l'administration des douanes et droits indirects l'adresse de
 ce lieu. 
 
-VII.-Les registres vitivinicoles peuvent être regroupés sur un seul document. 
+VII. – Les registres vitivinicoles peuvent être regroupés sur un seul document. 
 
-VIII.-Les registres et les pièces justificatives nécessaires à leur tenue et les documents prévus aux IV et VI sont conservés
-dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des procédures fiscales. 
+VIII. – Les registres et les pièces justificatives nécessaires à leur tenue et les documents prévus aux IV et VI sont
+conservés dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des procédures fiscales. 
 
-IX.-La validation des documents mentionnés aux articles 302 M et 302 M ter du code général des impôts pour l'expédition ou
-l'enlèvement des produits vitivinicoles n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la
-tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614
-et 614 A dudit code. 
+IX. – La validation des documents mentionnés aux articles 302 M, 302 M bis et 302 M ter du code général des impôts pour
+l'expédition ou l'enlèvement des produits vitivinicoles n'est possible que si l'entrepositaire agréé respecte les obligations
+afférentes à la tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées
+aux articles 614 et 614 A dudit code. 
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur interrégional des douanes et droits indirects.
@@ -13463,253 +13463,256 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 302 D
   - Code général des impôts, CGI. - art. 302 M
-  - Code général des impôts, CGI. - art. 407
+  - Code général des impôts, CGI. - art. 302 M bis (VD)
+  - Code général des impôts, CGI. - art. 302 M ter (VD)
+  - Code général des impôts, CGI. - art. 407 (V)
+  - Code général des impôts, CGI. - art. 450 (VD)
   - Code général des impôts, CGI. - art. 614
   - Livre des procédures fiscales - art. L102 B
   - Code rural ancien - art. 661
   - Code rural - art. L621-1
-  - Code rural - art. L632-1
+  - Code rural - art. L632-1 (V)
 
 
 ###### Article 286 J
 
-I.-1° Pour les entrepositaires agréés autres que ceux produisant des produits vitivinicoles, la comptabilité matières est
-constituée : 
+I. – 1° Pour les entrepositaires agréés autres que ceux produisant des produits vitivinicoles, la comptabilité matières est
+constituée :
 
-a) Soit par des documents établis conformément aux modèles prévus par arrêté du ministre chargé du budget ; 
+a) Soit par des documents établis conformément aux modèles prévus par arrêté du ministre chargé du budget ;
 
 b) Soit, pour les personnes concernées, par les registres vitivinicoles prévus par le règlement (CE) n° 436/2009 de la
 Commission du 26 mai 2009 portant modalités d'application du règlement (CE) n° 479/2008 du Conseil en ce qui concerne le
 casier viticole, les déclarations obligatoires et l'établissement des informations pour le suivi du marché, les documents
-accompagnant les transports des produits et les registres à tenir dans le secteur vitivinicole ; 
+accompagnant les transports des produits et les registres à tenir dans le secteur vitivinicole ;
 
 c) Soit enfin, sur agrément délivré par le directeur interrégional des douanes et droits indirects, en vertu de l'article 286
-K : 
+K :
 
 1. Par des documents établis selon d'autres modèles, sous réserve que soient reprises toutes les informations mentionnées au
 présent article, ainsi que les déclarations qu'il prévoit et, le cas échéant, les informations particulières relatives aux
 bouilleurs de cru et aux distilleries mentionnées respectivement aux articles 37 à 56 et 57 à 87 de l'annexe I au code
-général des impôts ; 
+général des impôts ;
 
 2. Par la comptabilité commerciale ou les différents registres, dont la tenue est rendue obligatoire par le code général des
 impôts et, le cas échéant, par le III de l'article 277 A de ce code et la réglementation communautaire lorsque les produits
-font l'objet d'un placement sous un régime suspensif douanier communautaire. 
+font l'objet d'un placement sous un régime suspensif douanier communautaire.
 
-2° Cette comptabilité matières doit faire apparaître : 
+2° Cette comptabilité matières doit faire apparaître :
 
-a) Toutes les informations prévues au VII et au IX ; 
+a) Toutes les informations prévues au VII et au IX ;
 
 b) Les informations relatives aux productions, transformations, stocks et mouvements de produits mentionnés au III de
 l'article 302 G du code général des impôts et des produits alcooligènes mentionnés à l'article 338 du même code, exprimées en
 volume d'alcool pur et en volume effectif pour les alcools, en volume effectif pour les produits intermédiaires et les
-produits mentionnés à l'article 438 dudit code et en volume effectif par degré alcoométrique, pour les bières. 
+produits mentionnés à l'article 438 dudit code et en volume effectif par degré alcoométrique, pour les bières.
 
 3° L'entrepositaire agréé doit remettre une copie des documents constituant la comptabilité matières aux agents des douanes
-et droits indirects, sur leur demande. 
+et droits indirects, sur leur demande.
 
-II.-1° Les entrepositaires agréés mentionnés au I tiennent la comptabilité matières à l'adresse de l'entrepôt fiscal
-suspensif des droits d'accises auquel elle se rapporte. 
+II. – 1° Les entrepositaires agréés mentionnés au I tiennent la comptabilité matières à l'adresse de l'entrepôt fiscal
+suspensif des droits d'accises auquel elle se rapporte.
 
 2° Cependant ils peuvent tenir la comptabilité matières de chacun de leurs entrepôts fiscaux suspensifs des droits d'accises
-à l'adresse d'un de ces entrepôts. 
+à l'adresse d'un de ces entrepôts.
 
-Dans ce cas : 
+Dans ce cas :
 
 a) Les entrepositaires agréés doivent pouvoir justifier, à tout moment, des entrées, des sorties et des stocks sur les lieux
-mêmes où les produits sont détenus ; 
+mêmes où les produits sont détenus ;
 
 b) Ils doivent informer l'administration des douanes et droits indirects du lieu où est tenue et conservée la comptabilité
-matières ; 
+matières ;
 
 c) Ils tiennent à l'adresse de ce lieu autant de comptabilités matières que d'entrepôts fiscaux suspensifs des droits
 d'accises concernés. Ces comptabilités matières doivent pouvoir être communiquées sans délai aux agents des douanes et droits
-indirects. 
+indirects.
 
-III.-Lorsque les éléments constitutifs de la comptabilité matières doivent faire l'objet d'un agrément, l'entrepositaire
-agréé joint à sa demande un modèle de comptabilité ou de registre. 
+III. – Lorsque les éléments constitutifs de la comptabilité matières doivent faire l'objet d'un agrément, l'entrepositaire
+agréé joint à sa demande un modèle de comptabilité ou de registre.
 
 La demande d'agrément est transmise au directeur interrégional des douanes et droits indirects ayant dans le ressort
 territorial de sa circonscription le ou les entrepôts fiscaux suspensifs des droits d'accises concernés ou l'entrepôt fiscal
 suspensif des droits d'accises choisi par l'entrepositaire comme lieu unique de la tenue de la comptabilité matières de
-l'ensemble de ses entrepôts. 
+l'ensemble de ses entrepôts.
 
 La demande d'agrément contient l'adresse des entrepôts suspensifs des droits d'accises, ainsi que du lieu où sont tenus et
-conservés la comptabilité ou les registres. 
+conservés la comptabilité ou les registres.
 
-IV.-1° Les entrepositaires agréés doivent effectuer la balance du compte principal et des comptes de production ou de
+IV. – 1° Les entrepositaires agréés doivent effectuer la balance du compte principal et des comptes de production ou de
 transformation de leur comptabilité matières en y inscrivant, pour chaque produit, selon son tarif d'imposition ou selon sa
 nature, au plus tard le dixième jour de chaque mois, le stock théorique en début du mois précédent, le stock théorique en fin
-du mois précédent et le total des entrées et des sorties du mois précédent. 
+du mois précédent et le total des entrées et des sorties du mois précédent.
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au
-2° bis du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt. 
+2° bis du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
 
 Les entrepositaires agréés transmettent, pour chaque entrepôt fiscal suspensif des droits d'accises, au service des douanes
 et droits indirects territorialement compétent, au plus tard le dixième jour de chaque mois, une déclaration récapitulative
 comportant les renseignements mentionnés au premier alinéa, et, le cas échéant, ceux prévus par les règlements ou accords
-interprofessionnels et ceux prévus au 7° du VII. 
+interprofessionnels et ceux prévus au 7° du VII.
 
 Pour les produits mentionnés à l'article 575 A du code général des impôts, les entrepositaires agréés transmettent, pour
 chaque entrepôt fiscal suspensif des droits d'accises, au service des douanes et droits indirects territorialement compétent,
 au plus tard le quinzième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au
-premier alinéa. 
+premier alinéa.
 
 2° Sous réserve des dispositions des articles 56 et 71 de l'annexe I au code général des impôts, les entrepositaires agréés
 effectuent, chaque année, à la date de clôture de leur exercice commercial, selon les modalités fixées au VII, un inventaire
 des stocks de chacun de leurs entrepôts suspensifs des droits d'accises, arrêtent la comptabilité matières et la transmettent
 au plus tard le dixième jour du deuxième mois qui suit, ainsi que les résultats de l'inventaire des stocks, au service des
-douanes et droits indirects mentionné au troisième alinéa du 1°. 
+douanes et droits indirects mentionné au troisième alinéa du 1°.
 
-V.-La comptabilité matières reprend les opérations citées aux II et IV de l'article 302 G du code général des impôts
-effectuées en suspension de droits ou en droits acquittés, dans un entrepôt fiscal suspensif des droits d'accises. 
+V. – La comptabilité matières reprend les opérations citées aux II et IV de l'article 302 G du code général des impôts
+effectuées en suspension de droits ou en droits acquittés, dans un entrepôt fiscal suspensif des droits d'accises.
 
-La comptabilité matières des produits en suspension de droits est distincte de celle des produits en droits acquittés. 
+La comptabilité matières des produits en suspension de droits est distincte de celle des produits en droits acquittés.
 
-VI.-1° La comptabilité matières des produits mentionnés au III de l'article 302 G du code général des impôts est
-constituée : 
+VI. – 1° La comptabilité matières des produits mentionnés au III de l'article 302 G du code général des impôts est
+constituée :
 
-a) D'un compte principal décrivant les réceptions, détentions et expéditions de produits ; 
+a) D'un compte principal décrivant les réceptions, détentions et expéditions de produits ;
 
 b) De deux comptes pour les opérations de production ou de transformation des produits : le premier compte pour
 l'enregistrement des produits au stade de leur production et le second pour leur enregistrement au stade de leur
-transformation. 
+transformation.
 
-Pour les productions à partir de matières premières non alcooliques, les entrées sont à inscrire au compte de production. 
+Pour les productions à partir de matières premières non alcooliques, les entrées sont à inscrire au compte de production.
 
-Pour les productions à partir de matières premières alcooliques, les entrées sont à inscrire au compte de transformation ; 
+Pour les productions à partir de matières premières alcooliques, les entrées sont à inscrire au compte de transformation ;
 
 c) Le cas échéant, d'un compte de subdivision du compte principal, pour les alcools et les boissons alcooliques logés dans
-des fûts en bois non pourvus d'un revêtement intérieur ou extérieur destiné à assurer l'étanchéité. 
+des fûts en bois non pourvus d'un revêtement intérieur ou extérieur destiné à assurer l'étanchéité.
 
-2° Dispositions devenues sans objet. 
+2° Dispositions devenues sans objet.
 
-3° Par exception aux dispositions du 1°, la comptabilité matières des fabricants de bières est constituée : 
+3° Par exception aux dispositions du 1°, la comptabilité matières des fabricants de bières est constituée :
 
 a) D'un compte principal décrivant les réceptions, détentions et expéditions de bières, après filtration, soutirage et
-conditionnement ; 
+conditionnement ;
 
 b) D'un compte de subdivision du compte principal, pour les bières logées dans des fûts en bois non pourvus d'un revêtement
-intérieur ou extérieur destiné à assurer l'étanchéité. 
+intérieur ou extérieur destiné à assurer l'étanchéité.
 
-VII.-Sans que cela fasse obstacle aux dispositions de l'article 70 de l'annexe I au code général des impôts, la comptabilité
-matières est tenue : 
+VII. – Sans que cela fasse obstacle aux dispositions de l'article 70 de l'annexe I au code général des impôts, la
+comptabilité matières est tenue :
 
 1° Par tarif d'imposition, en volume d'alcool pur et en volume effectif, pour les alcools et les produits alcooligènes
 mentionnés à l'article 338 du code général des impôts, sous réserve des dispositions relatives aux comptes d'âge ou de
-vieillissement prévus par les textes réglementaires en vigueur et les règlements des organismes interprofessionnels ; 
+vieillissement prévus par les textes réglementaires en vigueur et les règlements des organismes interprofessionnels ;
 
 2° Par tarif d'imposition, en volume effectif, par couleur et par appellation d'origine ou dénomination pour les produits
 intermédiaires et les produits mentionnés à l'article 438 dudit code, sous réserve des règlements ou accords
-interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural et de la pêche maritime ; 
+interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural et de la pêche maritime ;
 
-3° Par tarif d'imposition, en volume effectif, par degré alcoométrique, pour les bières ; 
+3° Par tarif d'imposition, en volume effectif, par degré alcoométrique, pour les bières ;
 
 4° Selon les règles fixées par la réglementation communautaire, notamment par le règlement (CE) n° 436/2009 précité, pour les
-produits vitivinicoles autres que le vin ; 
+produits vitivinicoles autres que le vin ;
 
 5° Par tarif d'imposition, par unité de produits ou en grammes, selon le cas, pour les produits mentionnés à l'article 575 A
-du code général des impôts ; 
+du code général des impôts ;
 
 6° Pour les produits qui ne sont pas soumis aux droits mentionnés au deuxième alinéa de l'article 302 B du code général des
-impôts, par nature de produits exclusivement ; 
+impôts, par nature de produits exclusivement ;
 
 7° Par dérogation aux dispositions des 1°, 2° et 3°, les produits concernés par des règles spécifiques de taxation ou
-d'imposition font l'objet d'une gestion comptable séparée. 
+d'imposition font l'objet d'une gestion comptable séparée.
 
 De même, les produits soumis aux articles 450 du code général des impôts ou 661 et 662 du code rural ancien font l'objet
-d'une gestion séparée. 
+d'une gestion séparée.
 
-VIII.-La comptabilité matières est tenue, par exercice comptable, sur un livre aux pages numérotées, jour par jour, sans
-blanc ni rature, ou selon une procédure informatisée. 
+VIII. – La comptabilité matières est tenue, par exercice comptable, sur un livre aux pages numérotées, jour par jour, sans
+blanc ni rature, ou selon une procédure informatisée.
 
 Les inscriptions sur la comptabilité matières doivent être faites au plus tard le jour ouvrable qui suit le jour de la
-réalisation de l'opération constituant une entrée ou une sortie selon les dispositions du B du IX. 
+réalisation de l'opération constituant une entrée ou une sortie selon les dispositions du B du IX.
 
-IX.-Outre les dispositions particulières prévues à l'annexe I au code général des impôts relatives aux bouilleurs de cru et
-aux distilleries, la comptabilité matières comprend les renseignements suivants : 
+IX. – Outre les dispositions particulières prévues à l'annexe I au code général des impôts relatives aux bouilleurs de cru et
+aux distilleries, la comptabilité matières comprend les renseignements suivants :
 
-A.-Renseignements généraux 
+A. – Renseignements généraux
 
 1° La mention, selon le cas : " Comptabilité matières des produits en suspension de droits " ou " Comptabilité matières des
-produits en droits acquittés " ou " Comptes de production ou de transformation " ; 
+produits en droits acquittés " ou " Comptes de production ou de transformation " ;
 
-2° Nom ou raison sociale et adresse du siège social de la société de l'entrepositaire agréé ; 
+2° Nom ou raison sociale et adresse du siège social de la société de l'entrepositaire agréé ;
 
-3° Numéro d'identification ; 
+3° Numéro d'identification ;
 
-4° Lieu où est tenue la comptabilité matières ; 
+4° Lieu où est tenue la comptabilité matières ;
 
-5° Adresse de l'entrepôt fiscal suspensif des droits d'accises pour lequel est tenue cette comptabilité matières ; 
+5° Adresse de l'entrepôt fiscal suspensif des droits d'accises pour lequel est tenue cette comptabilité matières ;
 
-6° Année concernée ; 
+6° Année concernée ;
 
-7° Date du dernier arrêté annuel de la comptabilité matières. 
+7° Date du dernier arrêté annuel de la comptabilité matières.
 
-B.-Renseignements particuliers 
+B. – Renseignements particuliers
 
-1° Le compte principal de la comptabilité matières doit contenir une colonne " Entrées " et une colonne " Sorties ". 
+1° Le compte principal de la comptabilité matières doit contenir une colonne " Entrées " et une colonne " Sorties ".
 
-a) Dans la colonne " Entrées " du compte principal doivent figurer les quantités de produits destinées à être stockées : 
+a) Dans la colonne " Entrées " du compte principal doivent figurer les quantités de produits destinées à être stockées :
 
-1. Qui sont détenues à la date d'ouverture de la comptabilité matières, après arrêté annuel des comptes ; 
+1. Qui sont détenues à la date d'ouverture de la comptabilité matières, après arrêté annuel des comptes ;
 
-2. Qui sont reçues, produites ou transformées dans l'entrepôt suspensif des droits d'accises ; 
+2. Qui sont reçues, produites ou transformées dans l'entrepôt suspensif des droits d'accises ;
 
 3. Que l'entrepositaire agréé a constatées en excédent lors de la réception dans son entrepôt suspensif des droits
-d'accises ; 
+d'accises ;
 
 4. Qui sont replacées en suspension de droits, conformément au IV de l'article 302 G du code général des impôts, pour la
-comptabilité matières des produits en suspension de droits ; 
+comptabilité matières des produits en suspension de droits ;
 
 5. Qui sont reçues dans l'entrepôt suspensif des droits d'accises dans des récipients munis d'une capsule, empreinte,
 vignette ou de toute autre marque fiscale représentative des droits indirects. Dans ce cas, les quantités sont inscrites en
-entrée du compte principal des produits en droits acquittés. 
+entrée du compte principal des produits en droits acquittés.
 
-b) Dans la colonne " Sorties " du compte principal doivent figurer les quantités de produits : 
+b) Dans la colonne " Sorties " du compte principal doivent figurer les quantités de produits :
 
-1. Qui sont sorties de l'entrepôt suspensif des droits d'accises ou mises à la consommation ; 
+1. Qui sont sorties de l'entrepôt suspensif des droits d'accises ou mises à la consommation ;
 
 2. Qui ont fait l'objet d'une apposition de capsules, empreintes, vignettes ou de toutes autres marques fiscales
-représentatives des droits indirects ; 
+représentatives des droits indirects ;
 
 3. Qui sont replacées en suspension de droits dans les conditions fixées au IV de l'article 302 G du code général des impôts,
-pour la comptabilité matières des produits en droits acquittés ; 
+pour la comptabilité matières des produits en droits acquittés ;
 
 4. Qui sont sorties dans des récipients munis d'une capsule, empreinte, vignette ou de toute autre marque fiscale
 représentative des droits indirects. Dans ce cas, les quantités sont inscrites en sortie du compte principal des produits en
-droits acquittés. 
+droits acquittés.
 
-2° (abrogé) 
+2° (abrogé)
 
 3° Les comptes de production ou de transformation du compte principal de la comptabilité matière doivent contenir chacun une
-colonne " Entrées " et une colonne " Sorties ". 
+colonne " Entrées " et une colonne " Sorties ".
 
 a) Dans la colonne " Entrées " des comptes de production ou de transformation doivent figurer les quantités de produits ou de
 toutes autres matières premières destinées à être mises en oeuvre, et leur richesse alcoolique effective ainsi que les
-excédents reconnus par l'entrepositaire agréé lors de la réception dans l'entrepôt fiscal suspensif des droits d'accises. 
+excédents reconnus par l'entrepositaire agréé lors de la réception dans l'entrepôt fiscal suspensif des droits d'accises.
 
-b) (abrogé) 
+b) (abrogé)
 
 4° Une fois effectuée la production ou la transformation des produits, les quantités réellement obtenues de ces produits sont
 inscrites simultanément dans la colonne " Sorties " du compte de production ou de transformation et dans la colonne " Entrées
-" du compte principal, ou uniquement dans la colonne " Entrées " du compte principal, pour les fabricants de bières. 
+" du compte principal, ou uniquement dans la colonne " Entrées " du compte principal, pour les fabricants de bières.
 
-5° Le compte principal doit également contenir les renseignements mentionnés au premier alinéa du 1° du IV. 
+5° Le compte principal doit également contenir les renseignements mentionnés au premier alinéa du 1° du IV.
 
-X.-Les documents et les pièces justificatives nécessaires à l'établissement de la comptabilité matières et la comptabilité
+X. – Les documents et les pièces justificatives nécessaires à l'établissement de la comptabilité matières et la comptabilité
 matières elle-même sont conservés dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des
-procédures fiscales. 
+procédures fiscales.
 
-XI.-La validation des documents mentionnés aux articles 302 M et 302 M ter du code général des impôts pour l'expédition ou
-l'enlèvement de produits n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la tenue de la
-comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614 et 614 A
-dudit code. 
+XI. – La validation des documents mentionnés aux articles 302 M, 302 M bis et 302 M ter du code général des impôts pour
+l'expédition ou l'enlèvement de produits n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à
+la tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles
+614 et 614 A dudit code.
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par
 le directeur interrégional des douanes et droits indirects.
@@ -13729,7 +13732,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 _Cite_:
 
@@ -13740,12 +13743,15 @@ _Cite_:
   - Code général des impôts, CGI. - art. 277 A
   - Code général des impôts, CGI. - art. 302 D
   - Code général des impôts, CGI. - art. 302 G
-  - Code général des impôts, CGI. - art. 302 M
+  - Code général des impôts, CGI. - art. 302 M (VD)
+  - Code général des impôts, CGI. - art. 302 M bis (VD)
+  - Code général des impôts, CGI. - art. 302 M ter (VD)
   - Code général des impôts, CGI. - art. 338
   - Code général des impôts, CGI. - art. 438
   - Code général des impôts, CGI. - art. 450
   - Code général des impôts, CGI. - art. 575 A
   - Code général des impôts, CGI. - art. 614
+  - Livre des procédures fiscales - art. L102 B (V)
   - Code rural ancien - art. 661
   - Code rural - art. L632-1
 
@@ -13920,39 +13926,39 @@ _Cite_:
 
 ###### Article 286 P
 
-I.-Les alcools, boissons alcooliques et tabacs manufacturés destinés à être livrés à des comptoirs de vente, à des boutiques
-de vente à bord et dans le cadre de l'avitaillement sont détenus en suspension de droits d'accises dans un entrepôt fiscal
-suspensif. 
+I. – Les alcools, boissons alcooliques et tabacs manufacturés destinés à être livrés à des comptoirs de vente, à des
+boutiques de vente à bord et dans le cadre de l'avitaillement sont détenus en suspension de droits d'accises dans un entrepôt
+fiscal suspensif.
 
-II.-Les alcools, boissons alcooliques et tabacs manufacturés destinés aux comptoirs de vente circulent dans des contenants
-scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sous couvert du
-document d'accompagnement prévu à l'article 302 M ou à l'article 302 M ter du code général des impôts. 
+II. – Les alcools, boissons alcooliques et tabacs manufacturés destinés aux comptoirs de vente circulent dans des contenants
+scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sous couvert d'un
+des documents prévus aux articles 302 M, 302 M bis et 302 M ter du code général des impôts.
 
 Les alcools, boissons alcooliques et tabacs manufacturés destinés à la vente à bord ou à l'avitaillement circulent dans des
 contenants scellés ou clos de toute autre manière afin de garantir l'intégrité du contenant pendant le transport et sont
 accompagnés d'un document dénommé “ document d'avitaillement et livraisons à emporter ” dont le modèle est fixé par arrêté du
-ministre chargé du budget. 
+ministre chargé du budget.
 
-III.-Lorsque les produits sont chargés à bord, le responsable à bord de la boutique de vente ou le responsable de
+III. – Lorsque les produits sont chargés à bord, le responsable à bord de la boutique de vente ou le responsable de
 l'avitaillement à bord du navire ou de l'aéronef signe le document mentionné au II et prend livraison des produits et
-quantités indiqués sur ledit document. 
+quantités indiqués sur ledit document.
 
 Dans le cas où des produits ont vocation à être vendus dans une boutique de vente à bord et à servir à l'avitaillement du
 navire ou de l'aéronef, deux documents d'avitaillement et livraisons à emporter distincts doivent être fournis en fonction de
-leur usage. 
+leur usage.
 
 Les produits en suspension de droits d'accises destinés à l'avitaillement et à la vente à bord sont stockés de façon
-sécurisée. 
+sécurisée.
 
-IV.-Les alcools, boissons alcooliques et tabacs manufacturés qui ne sont pas consommés à bord des navires et aéronefs ou qui
-ne sont pas vendus dans les boutiques de vente à bord réintègrent l'entrepôt fiscal suspensif ou à défaut peuvent être mis à
-la consommation sur le territoire métropolitain.
+IV. – Les alcools, boissons alcooliques et tabacs manufacturés qui ne sont pas consommés à bord des navires et aéronefs ou
+qui ne sont pas vendus dans les boutiques de vente à bord réintègrent l'entrepôt fiscal suspensif ou à défaut peuvent être
+mis à la consommation sur le territoire métropolitain.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 3
+  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 _Cité par_:
 
@@ -13963,8 +13969,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 M
-  - Code général des impôts, CGI. - art. 302 M ter
+  - Code général des impôts, CGI. - art. 302 M (VD)
+  - Code général des impôts, CGI. - art. 302 M bis (VD)
+  - Code général des impôts, CGI. - art. 302 M ter (VD)
 
 
 ##### Section II : Dispositions propres aux comptoirs de vente<a id=155></a>
@@ -13972,19 +13979,20 @@ _Cite_:
 ###### Article 286 Q
 
 L'entrepositaire agréé qui gère un comptoir de vente tient une comptabilité matières permettant de distinguer les entrées et
-sorties dans chacun des lieux de vente du comptoir de vente et en reprenant les références du document d'accompagnement prévu
-à l'article 302 M ou à l'article 302 M ter du code général des impôts.
+sorties dans chacun des lieux de vente du comptoir de vente et en reprenant les références d'un des documents prévus aux
+articles 302 M, 302 M bis et 302 M ter du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 3
+  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 M
-  - Code général des impôts, CGI. - art. 302 M ter
+  - Code général des impôts, CGI. - art. 302 M (VD)
+  - Code général des impôts, CGI. - art. 302 M bis (VD)
+  - Code général des impôts, CGI. - art. 302 M ter (VD)
 
 
 ##### Section III : Dispositions propres aux boutiques de vente à bord<a id=156></a>
@@ -14186,8 +14194,8 @@ alcooliques en exonération de droits d'accises, prévus au 1° du I de l'articl
 
 17° Autorisation donnée aux entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et des débitants
 de boissons mentionnés à l'article 502 du même code, d'utiliser leurs factures ou tout autre document commercial, en lieu et
-place des documents d'accompagnement mentionnés à l'article 302 M du code précité, prévue par le II de l'article 111 H bis de
-l'annexe III au code général des impôts ; 
+place des documents d'accompagnement mentionnés aux articles 302 M bis et 302 M ter du code précité, prévue par le II de
+l'article 111 H bis de l'annexe III au code général des impôts ; 
 
 18° Agrément des procédés de dénaturation des essences d'absinthe et produits assimilés, prévu par le premier alinéa de
 l'article 178 P de l'annexe III au code général des impôts ; 
@@ -14230,8 +14238,8 @@ prévue par le deuxième alinéa de l'article 54-0 Z de l'annexe IV au code gén
 
 35° Accord de restitution ou de remise des droits et taxes après constatation par le service des douanes et droits indirects
 de la preuve de la sortie du produit du territoire de l'Union européenne ou après présentation d'un des documents mentionnés
-à l'article 302 M du code général des impôts, prévu par le dernier alinéa de l'article 54-0 Z de l'annexe IV au code général
-des impôts ; 
+aux articles 302 M, 302 M bis et 302 M ter du code général des impôts, prévu par le dernier alinéa de l'article 54-0 Z de
+l'annexe IV au code général des impôts ; 
 
 36° Habilitation à répartir les capsules collectives représentatives des droits destinées aux récoltants, prévue par le
 premier alinéa de l'article 54-0 BW de l'annexe IV au code général des impôts ; 
@@ -14304,7 +14312,7 @@ de l'annexe I au même code.
 
 _Modifié par_:
 
-  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+  - Décret n°2016-1584 du 24 novembre 2016 - art. 2
 
 _Cite_:
 
@@ -14314,46 +14322,55 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 275 bis K (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 275 ter B (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 286 N
-  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis (M)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C
-  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D
-  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E
-  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 M (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 N (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H bis (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 F (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 C (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 144 bis (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA
-  - Code général des impôts, annexe 3, CGIAN3. - art. 178 P
+  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 178 P (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 203 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 207 (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 151
-  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM
-  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP
-  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU
-  - Code général des impôts, annexe 4, CGIAN4. - art. 50 C
+  - Code général des impôts, annexe 4, CGIAN4. - art. 151 (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AD bis (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AP (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AU (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AW (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 50 C (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 B (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 52 quater (V)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 I
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V
-  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Z
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54 A (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 BW (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 C (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 G (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 I (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 U (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 V (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 54-0 Z (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 56 J duodecies (V)
-  - Code général des impôts, CGI. - art. 302 D
-  - Code général des impôts, CGI. - art. 302 D bis
-  - Code général des impôts, CGI. - art. 302 G
-  - Code général des impôts, CGI. - art. 302 H ter
-  - Code général des impôts, CGI. - art. 302 J
-  - Code général des impôts, CGI. - art. 302 K
-  - Code général des impôts, CGI. - art. 306
-  - Code général des impôts, CGI. - art. 309
-  - Code général des impôts, CGI. - art. 311 bis
-  - Code général des impôts, CGI. - art. 327
-  - Code général des impôts, CGI. - art. 502
+  - Code général des impôts, CGI. - art. 302 D (V)
+  - Code général des impôts, CGI. - art. 302 D bis (VT)
+  - Code général des impôts, CGI. - art. 302 G (V)
+  - Code général des impôts, CGI. - art. 302 H ter (V)
+  - Code général des impôts, CGI. - art. 302 J (V)
+  - Code général des impôts, CGI. - art. 302 K (V)
+  - Code général des impôts, CGI. - art. 302 M (V)
+  - Code général des impôts, CGI. - art. 302 M bis (V)
+  - Code général des impôts, CGI. - art. 302 M ter (V)
+  - Code général des impôts, CGI. - art. 306 (V)
+  - Code général des impôts, CGI. - art. 309 (V)
+  - Code général des impôts, CGI. - art. 311 bis (V)
+  - Code général des impôts, CGI. - art. 327 (V)
   - Code général des impôts, CGI. - art. 523 (V)
   - Code général des impôts, CGI. - art. 530 (V)
   - Code général des impôts, CGI. - art. 535 (V)
-  - Code général des impôts, CGI. - art. 543 (V)
-  - Code général des impôts, CGI. - art. 568
+  - Code général des impôts, CGI. - art. 568 (VT)
 
 
 ### Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre<a id=160></a>
