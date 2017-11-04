@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-11-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -247,7 +247,7 @@ Version Consolidée au 2017-09-01
       - [Chapitre premier : Obligations des contribuables (art. 368 à 371)](#244)
         - [Section I : Registre public des trusts (art. 368 à 368 C)](#245)
         - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#246)
-        - [Section II : Forains (art. 371)](#247)
+        - [Section II : Personnes n'ayant en France ni domicile ni résidence fixe (art. 371)](#247)
       - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z undecies)](#248)
         - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#249)
         - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#250)
@@ -18245,35 +18245,30 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 306-0 F (V)
 
 
-#### Section II : Forains<a id=247></a>
+#### Section II : Personnes n'ayant en France ni domicile ni résidence fixe<a id=247></a>
 
 ###### Article 371
 
-Les personnes sans domicile ni résidence fixe, mentionnées à l'article 23 du décret n° 70-708 du 31 juillet 1970 relatif à
-l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence
-fixe, sont tenues d'accomplir leurs obligations fiscales auprès des services des impôts dont relève la commune à laquelle
-elles se trouvent rattachées.
+Les personnes sans domicile ni résidence fixe sont tenues d'accomplir leurs obligations fiscales auprès des services des
+impôts dont relève la commune où est situé l'organisme auprès duquel elles ont fait élection de domicile dans les conditions
+prévues à l'article L. 264-1 du code de l'action sociale et des familles. 
 
 Lorsque, pour une même commune, il existe plusieurs services des impôts à compétence territoriale déterminée, les obligations
 fiscales sont accomplies auprès du service désigné par l'administration des impôts.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - CGIAN2 368 bis
+  - Décret n°87-940 du 23 novembre 1987
+
+_Modifié par_:
+
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 4
 
 _Cite_:
 
-  - Décret n°70-708 du 31 juillet 1970 - art. 23 (M)
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
-
-**Liens**:
-
-  - HISTO: Edition du 10 août 1987
+  - Code de l'action sociale et des familles - art. L264-1
 
 
 ### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=248></a>
