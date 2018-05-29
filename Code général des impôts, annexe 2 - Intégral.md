@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2018-04-23
+Version Consolidée au 2018-05-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -252,45 +252,44 @@ Version Consolidée au 2018-04-23
               - [3° : Etablissements industriels. (art. 333 D à 333 G)](#249)
               - [4° : Procédure (art. 333 H)](#250)
             - [B : Évaluation des propriétés non bâties. (art. 333 I à 333 J)](#251)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 368 à 376)](#252)
-      - [Chapitre premier : Obligations des contribuables (art. 368 à 371)](#253)
-        - [Section I : Registre public des trusts (art. 368 à 368 C)](#254)
-        - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#255)
-        - [Section II : Personnes n'ayant en France ni domicile ni résidence fixe (art. 371)](#256)
-      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z undecies)](#257)
-        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#258)
-        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#259)
-        - [Section III : Organismes mixtes de gestion agréés (art. 371 Z bis à 371 Z undecies)](#260)
-      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis N)](#261)
-      - [Chapitre Ier bis B : Certificateurs à l'étranger (art. 371 ter A à 371 ter H)](#262)
-      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#263)
-      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#264)
-      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#265)
-  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#266)
-    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#267)
-      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#268)
-        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#269)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#270)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#271)
-        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#272)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#273)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#274)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#275)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#276)
-        - [I : Dation en paiement (art. 384 A à 384 A ter)](#277)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#278)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#279)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#280)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#281)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#282)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#283)
-    - [Chapitre II : Procédures (art. 396 B à 396 C)](#284)
-      - [III : Dispositions communes (art. 396 B à 396 C)](#285)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#286)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#287)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#288)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#289)
-    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#290)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 370 C à 376)](#252)
+      - [Chapitre premier : Obligations des contribuables (art. 370 C à 371)](#253)
+        - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#254)
+        - [Section II : Personnes n'ayant en France ni domicile ni résidence fixe (art. 371)](#255)
+      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z undecies)](#256)
+        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#257)
+        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#258)
+        - [Section III : Organismes mixtes de gestion agréés (art. 371 Z bis à 371 Z undecies)](#259)
+      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis N)](#260)
+      - [Chapitre Ier bis B : Certificateurs à l'étranger (art. 371 ter A à 371 ter H)](#261)
+      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#262)
+      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#263)
+      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#264)
+  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#265)
+    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#266)
+      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#267)
+        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#268)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#269)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#270)
+        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#271)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#272)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#273)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#274)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#275)
+        - [I : Dation en paiement (art. 384 A à 384 A ter)](#276)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#277)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#278)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#279)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#280)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#281)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#282)
+    - [Chapitre II : Procédures (art. 396 B à 396 C)](#283)
+      - [III : Dispositions communes (art. 396 B à 396 C)](#284)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#285)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#286)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#287)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#288)
+    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#289)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -18354,240 +18353,7 @@ _Cite_:
 
 ### Chapitre premier : Obligations des contribuables<a id=253></a>
 
-#### Section I : Registre public des trusts<a id=254></a>
-
-###### Article 368
-
-I. - Un traitement automatisé de données à caractère personnel dénommé "Registre public des trusts" est mis en œuvre par la
-direction générale des finances publiques.
-
-II. - Les informations traitées, issues du traitement dénommé "Base nationale des données patrimoniales", sont les
-suivantes :
-
-1° La dénomination du trust et son adresse ;
-
-2° La date de constitution, la date d'extinction du trust ;
-
-3° La date et la nature de la déclaration de trust mentionnée à l'article 1649 AB du code général des impôts ;
-
-4° Les éléments d'identification du constituant, du bénéficiaire et de l'administrateur du trust.
-
-Les éléments d'identification du constituant et du bénéficiaire, personne physique, sont leur nom, leur prénom, leur date et
-lieu de naissance, leur date de décès.
-
-Les éléments d'identification de l'administrateur sont son nom, son prénom, sa date et son lieu de naissance.
-
-Les éléments d'identification d'une personne morale sont sa dénomination sociale et son numéro SIREN.
-
-III. - Les informations mentionnées au II sont conservées pendant dix ans après la date d'extinction du trust.
-
-**Nota:**
-
-Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
-article devient sans objet,
-
-Conformément à la décision du Conseil d’Etat n° 400912 du 30 mai 2018 (ECLI:FR:CECHR:2018:400912.20180530), article 1 : Le
-décret n° 2016-567 du 10 mai 2016 relatif au registre public des trusts est annulé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN1 310 quinquies
-
-_Codifié par_:
-
-  - Décret n°88-1001 du 20 octobre 1988
-
-_Modifié par_:
-
-  - Décret n°2016-567 du 10 mai 2016 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-_Annulé par_:
-
-  - Décision n°400912 du 30 mai 2018, v. init.
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 368 B (P)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 368 C (P)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1649 AB
-
-
-###### Article 368 A
-
-I. - Toute personne peut obtenir, par voie électronique, la délivrance des informations mentionnées à l'article 368. L'accès
-au traitement automatisé est réalisé dans le cadre d'une procédure sécurisée d'authentification fixée par arrêté du ministre
-chargé du budget.
-
-II. - A. - La consultation du registre est effectuée, par voie électronique, auprès de la direction générale des finances
-publiques, à partir de l'un des critères de recherche suivants :
-
-1° La dénomination du trust ;
-
-2° L'identité du constituant, du bénéficiaire ou de l'administrateur en indiquant, s'il s'agit d'une personne physique, son
-nom ou, s'il s'agit d'une personne morale, sa dénomination sociale ou son numéro SIREN.
-
-B. - La recherche peut être complétée en y ajoutant l'un des critères facultatifs suivants :
-
-1° La commune ou le pays d'établissement du trust, sa date de constitution ;
-
-2° Pour le constituant ou le bénéficiaire, personne physique, son prénom, sa date de naissance, sa commune, son département
-ou son pays de naissance, sa date de décès ;
-
-3° Pour l'administrateur, personne physique, son prénom, sa date de naissance, sa commune, son département ou son pays de
-naissance.
-
-III. - Les interrogations du registre font l'objet d'un enregistrement journalier qui se traduit par la conservation, pour
-chaque connexion, des éléments suivants :
-
-1° Identifiant de l'usager ;
-
-2° Adresse IP de l'usager ;
-
-3° Date et heure de la recherche.
-
-Ces éléments sont conservés pendant une durée d'un an.
-
-**Nota:**
-
-Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
-article devient sans objet,
-
-Conformément à la décision du Conseil d’Etat n° 400912 du 30 mai 2018 (ECLI:FR:CECHR:2018:400912.20180530), article 1 : Le
-décret n° 2016-567 du 10 mai 2016 relatif au registre public des trusts est annulé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN1 310 sexies
-
-_Nouveaux textes_:
-
-  - CGIAN2 369
-
-_Codifié par_:
-
-  - Décret n°88-1001 du 20 octobre 1988
-
-_Modifié par_:
-
-  - Décret n°2016-567 du 10 mai 2016 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-_Annulé par_:
-
-  - Décision n°400912 du 30 mai 2018, v. init.
-
-
-###### Article 368 B
-
-I.-Lors de chaque accès au traitement mentionné à l'article 368, le demandeur est informé de ses conditions générales
-d'utilisation telles que fixées par arrêté du ministre chargé du budget. 
-
-II.-Le droit d'accès et le droit de rectification, prévus par la loi du 6 janvier 1978 susvisée, s'exercent auprès du
-directeur général des finances publiques. 
-
-Le droit d'opposition prévu par l'article 38 de la même loi ne s'applique pas au présent traitement.
-
-**Nota:**
-
-Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
-article devient sans objet,
-
-Conformément à la décision du Conseil d’Etat n° 400912 du 30 mai 2018 (ECLI:FR:CECHR:2018:400912.20180530), article 1 : Le
-décret n° 2016-567 du 10 mai 2016 relatif au registre public des trusts est annulé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN1 310 septies
-
-_Nouveaux textes_:
-
-  - CGIAN2 369 A
-
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978
-  - Code général des impôts, annexe 2, CGIAN2. - art. 368
-
-_Codifié par_:
-
-  - Décret n°88-1001 du 20 octobre 1988
-
-_Modifié par_:
-
-  - Décret n°2016-567 du 10 mai 2016 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-_Annulé par_:
-
-  - Décision n°400912 du 30 mai 2018, v. init.
-
-
-###### Article 368 C
-
-Les informations faisant l'objet du traitement prévu à l'article 368 sont transmises périodiquement au ministre de la
-justice, aux agents des douanes mentionnés à l'article 28-1 du code de procédure pénale ainsi qu'aux agents des services
-fiscaux mentionnés à l'article 28-2 du même code.
-
-**Nota:**
-
-Conformément aux articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016, le présent
-article devient sans objet,
-
-Conformément à la décision du Conseil d’Etat n° 400912 du 30 mai 2018 (ECLI:FR:CECHR:2018:400912.20180530), article 1 : Le
-décret n° 2016-567 du 10 mai 2016 relatif au registre public des trusts est annulé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN1 310 octies
-
-_Nouveaux textes_:
-
-  - CGIAN2 369 B
-
-_Codifié par_:
-
-  - Décret n°88-1001 du 20 octobre 1988
-
-_Modifié par_:
-
-  - Décret n°2016-567 du 10 mai 2016 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 2
-
-_Annulé par_:
-
-  - Décision n°400912 du 30 mai 2018, v. init.
-
-_Cite_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 368 (P)
-  - Code de procédure pénale - art. 28-1
-
-
-#### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés<a id=255></a>
+#### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés<a id=254></a>
 
 ###### Article 370 C
 
@@ -18683,7 +18449,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 306-0 F (V)
 
 
-#### Section II : Personnes n'ayant en France ni domicile ni résidence fixe<a id=256></a>
+#### Section II : Personnes n'ayant en France ni domicile ni résidence fixe<a id=255></a>
 
 ###### Article 371
 
@@ -18709,9 +18475,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L264-1
 
 
-### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=257></a>
+### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=256></a>
 
-#### Section I : Centres de gestion agréés<a id=258></a>
+#### Section I : Centres de gestion agréés<a id=257></a>
 
 ###### Article 371 A
 
@@ -19363,7 +19129,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### Section II : Associations agréées des professions libérales<a id=259></a>
+#### Section II : Associations agréées des professions libérales<a id=258></a>
 
 ###### Article 371 M
 
@@ -19959,7 +19725,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Y (V)
 
 
-#### Section III : Organismes mixtes de gestion agréés<a id=260></a>
+#### Section III : Organismes mixtes de gestion agréés<a id=259></a>
 
 ###### Article 371 Z bis
 
@@ -20359,7 +20125,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
 
 
-### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=261></a>
+### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=260></a>
 
 ###### Article 371 bis A
 
@@ -20830,7 +20596,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis M (V)
 
 
-### Chapitre Ier bis B : Certificateurs à l'étranger<a id=262></a>
+### Chapitre Ier bis B : Certificateurs à l'étranger<a id=261></a>
 
 ###### Article 371 ter A
 
@@ -20994,7 +20760,7 @@ _Créé par_:
   - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 
-### Chapitre I ter : Centre de formalités des entreprises<a id=263></a>
+### Chapitre I ter : Centre de formalités des entreprises<a id=262></a>
 
 ###### Article 371 AI
 
@@ -21309,7 +21075,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
-### Chapitre II : Sociétés immobilières de copropriété<a id=264></a>
+### Chapitre II : Sociétés immobilières de copropriété<a id=263></a>
 
 ###### Article 372
 
@@ -21460,7 +21226,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=265></a>
+### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=264></a>
 
 ###### Article 376
 
@@ -21519,13 +21285,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*81-1 (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=266></a>
+# Livre II : Recouvrement de l'impôt<a id=265></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=267></a>
+## Chapitre premier : Paiement de l'impôt<a id=266></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=268></a>
+### Section I : Impôts directs et taxes assimilées<a id=267></a>
 
-#### 00I : Etablissement et mise en recouvrement des rôles<a id=269></a>
+#### 00I : Etablissement et mise en recouvrement des rôles<a id=268></a>
 
 ###### Article 376-0 bis
 
@@ -21543,7 +21309,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1658
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=270></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=269></a>
 
 ###### Article 376 bis
 
@@ -21729,7 +21495,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=271></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=270></a>
 
 ###### Article 379
 
@@ -21855,7 +21621,7 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=272></a>
+#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=271></a>
 
 ###### Article 382 bis
 
@@ -21944,7 +21710,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 382 quater (V)
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=273></a>
+#### IV : Taxe sur les salaires. Taux majorés<a id=272></a>
 
 ###### Article 383
 
@@ -21979,9 +21745,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=274></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=273></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=275></a>
+#### I : Taxe sur la valeur ajoutée<a id=274></a>
 
 ###### Article 383 ter
 
@@ -22013,11 +21779,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=276></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=275></a>
 
-#### I : Dation en paiement<a id=277></a>
+#### I : Dation en paiement<a id=276></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=278></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=277></a>
 
 ###### Article 384 A
 
@@ -22100,7 +21866,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=279></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=278></a>
 
 ###### Article 384 A bis
 
@@ -22143,7 +21909,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=280></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=279></a>
 
 ###### Article 384 A ter
 
@@ -22188,9 +21954,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-## Chapitre I bis : Pénalités<a id=281></a>
+## Chapitre I bis : Pénalités<a id=280></a>
 
-### Section I : Commission des infractions fiscales<a id=282></a>
+### Section I : Commission des infractions fiscales<a id=281></a>
 
 ###### Article 384 septies-0 A
 
@@ -22317,7 +22083,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=283></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=282></a>
 
 ###### Article 384 septies A
 
@@ -22354,9 +22120,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=284></a>
+## Chapitre II : Procédures<a id=283></a>
 
-### III : Dispositions communes<a id=285></a>
+### III : Dispositions communes<a id=284></a>
 
 ###### Article 396 B
 
@@ -22424,9 +22190,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1912
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=286></a>
+## Chapitre II bis : Sûretés et privilèges<a id=285></a>
 
-### Section I : Publicité du privilège du Trésor<a id=287></a>
+### Section I : Publicité du privilège du Trésor<a id=286></a>
 
 ###### Article 396 bis
 
@@ -22558,9 +22324,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=288></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=287></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=289></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=288></a>
 
 ###### Article 396 duodecies
 
@@ -22703,7 +22469,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=290></a>
+## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=289></a>
 
 ###### Article 408
 
