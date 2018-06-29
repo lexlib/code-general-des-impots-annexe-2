@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2018-06-23
+Version Consolidée au 2018-06-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -207,87 +207,92 @@ Version Consolidée au 2018-06-23
             - [VI : Etablissement de la cotisation (art. 310 HQ)](#204)
             - [VII : Annualité de la cotisation (art. 310 HS à 310 HT)](#205)
           - [Section III : Règles d'évaluation de la valeur locative des biens imposables (art. 310 I à 310 unvicies)](#206)
-            - [I : Évaluation des propriétés bâties (art. 310 I à 310 P)](#207)
-              - [A : Locaux d'habitation ou à usage professionnel (art. 310 I)](#208)
+            - [I : Évaluation des propriétés bâties (art. 310 I à 310 Q)](#207)
+              - [A : Locaux d'habitation (art. 310 I)](#208)
               - [B : Immobilisations industrielles (art. 310 J bis à 310 L)](#209)
               - [C : Locaux commerciaux et établissements industriels (art. 310 M)](#210)
               - [D : Ports de plaisance (art. 310 N à 310 P)](#211)
-            - [III : Dispositions communes aux biens passibles des impôts directs locaux (art. 310 unvicies)](#212)
-          - [Section IV : Autres taxes communales (art. 311 A à 317 C)](#213)
-            - [I : Redevance communale des mines (art. 311 A à 315)](#214)
-              - [1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux (art. 312 à 313)](#215)
-              - [2° : Répartition du produit de la redevance : les hydrocarbures liquides et gazeux (art. 315)](#216)
-            - [II : Taxes facultatives (art. 316 à 317 C)](#217)
-              - [A : Taxe d'enlèvement des ordures ménagères (art. 316 à 316 A)](#218)
-              - [C : Taxe sur la cession de terrains devenus constructibles (art. 317 A à 317 C)](#219)
-      - [Titre II : Impositions départementales (art. 317 septies E à 317 octies)](#220)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 317 septies E à 317 octies)](#221)
-          - [I bis : Cotisation sur la valeur ajoutée des entreprises (art. 317 septies E)](#222)
-          - [II : Redevance départementale des mines (art. 317 octies)](#223)
-      - [Titre III : Impositions perçues au profit des régions et de la   collectivité de Corse (art. 318 A à 318 D)](#224)
-        - [Chapitre unique : Impôts directs et taxes assimilées (art. 318 A à 318 D)](#225)
-          - [I : Taxe d'apprentissage (art. 318 A)](#226)
-          - [II : Taxe perçue pour la région de Guyane (art. 318 B à 318 D)](#227)
-      - [Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 321 bis à 326 ter)](#228)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 321 bis à 321 ter)](#229)
-          - [Section IV : Taxe pour frais de chambres de métiers et de l'artisanat (art. 321 bis)](#230)
-          - [Section V : Contribution à l'audiovisuel public (art. 321 quater à 321 ter)](#231)
-        - [Chapitre II : Enregistrement, publicité foncière et timbre (art. 326 bis à 326 ter)](#232)
-          - [Section V : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage (art. 326 bis)](#233)
-          - [Section VI  : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel (art. 326 ter)](#234)
-      - [Titre V : Dispositions communes aux titres I à IV (art. 327 à 333 J)](#235)
-        - [Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales (art. 327)](#236)
-        - [Chapitre III : Dispositions relatives à la fiscalité directe locale applicables dans les départements d'outre-mer (art. 329 à 333 J)](#237)
-          - [I : Taxes foncières (art. 330 à 330 A)](#238)
-            - [1° : Taxe foncière sur les propriétés non bâties (art. 330)](#239)
-            - [2° : Dispositions communes aux propriétés bâties et non bâties (art. 330 A)](#240)
-          - [II : Taxe d'habitation (art. 331)](#241)
-          - [III : Dispositions communes aux taxes foncières et à la taxe d'habitation (art. 332 à 332 A)](#242)
-          - [IV : Règles d'évaluation de la valeur locative des biens imposables (art. 333 à 333 J)](#243)
-            - [A : Évaluation des propriétés bâties (art. 333 A à 333 H)](#244)
-              - [1° : Locaux d'habitation ou à usage professionnel (art. 333 B)](#245)
-              - [2° : Locaux commerciaux et biens divers (art. 333 C)](#246)
-              - [3° : Etablissements industriels. (art. 333 D à 333 G)](#247)
-              - [4° : Procédure (art. 333 H)](#248)
-            - [B : Évaluation des propriétés non bâties. (art. 333 I à 333 J)](#249)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 370 C à 376)](#250)
-      - [Chapitre premier : Obligations des contribuables (art. 370 C à 371)](#251)
-        - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#252)
-        - [Section II : Personnes n'ayant en France ni domicile ni résidence fixe (art. 371)](#253)
-      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z undecies)](#254)
-        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#255)
-        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#256)
-        - [Section III : Organismes mixtes de gestion agréés (art. 371 Z bis à 371 Z undecies)](#257)
-      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis N)](#258)
-      - [Chapitre Ier bis B : Certificateurs à l'étranger (art. 371 ter A à 371 ter H)](#259)
-      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#260)
-      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#261)
-      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#262)
-  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#263)
-    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#264)
-      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#265)
-        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#266)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#267)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#268)
-        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#269)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#270)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#271)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#272)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#273)
-        - [I : Dation en paiement (art. 384 A à 384 A ter)](#274)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#275)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#276)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#277)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#278)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#279)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#280)
-    - [Chapitre II : Procédures (art. 396 B à 396 C)](#281)
-      - [III : Dispositions communes (art. 396 B à 396 C)](#282)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#283)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#284)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#285)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#286)
-    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#287)
+              - [E : Locaux professionnels (art. 310 Q)](#212)
+            - [III : Dispositions communes aux biens passibles des impôts directs locaux (art. 310 unvicies)](#213)
+          - [Section IV : Autres taxes communales (art. 311 A à 317 C)](#214)
+            - [I : Redevance communale des mines (art. 311 A à 315)](#215)
+              - [1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux (art. 312 à 313)](#216)
+              - [2° : Répartition du produit de la redevance : les hydrocarbures liquides et gazeux (art. 315)](#217)
+            - [II : Taxes facultatives (art. 316 à 317 C)](#218)
+              - [A : Taxe d'enlèvement des ordures ménagères (art. 316 à 316 A)](#219)
+              - [C : Taxe sur la cession de terrains devenus constructibles (art. 317 A à 317 C)](#220)
+      - [Titre II : Impositions départementales (art. 317 septies E à 317 octies)](#221)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 317 septies E à 317 octies)](#222)
+          - [I bis : Cotisation sur la valeur ajoutée des entreprises (art. 317 septies E)](#223)
+          - [II : Redevance départementale des mines (art. 317 octies)](#224)
+      - [Titre III : Impositions perçues au profit des régions et de la   collectivité de Corse (art. 318 A à 318 D)](#225)
+        - [Chapitre unique : Impôts directs et taxes assimilées (art. 318 A à 318 D)](#226)
+          - [I : Taxe d'apprentissage (art. 318 A)](#227)
+          - [II : Taxe perçue pour la région de Guyane (art. 318 B à 318 D)](#228)
+      - [Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 321 bis à 326 ter)](#229)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 321 bis à 321 ter)](#230)
+          - [Section IV : Taxe pour frais de chambres de métiers et de l'artisanat (art. 321 bis)](#231)
+          - [Section V : Contribution à l'audiovisuel public (art. 321 quater à 321 ter)](#232)
+        - [Chapitre II : Enregistrement, publicité foncière et timbre (art. 326 bis à 326 ter)](#233)
+          - [Section V : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage (art. 326 bis)](#234)
+          - [Section VI  : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel (art. 326 ter)](#235)
+      - [Titre V : Dispositions communes aux titres I à IV (art. 327 à 333 J)](#236)
+        - [Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales (art. 327)](#237)
+        - [Chapitre III : Dispositions relatives à la fiscalité directe locale applicables dans les départements d'outre-mer (art. 329 à 333 J)](#238)
+          - [I : Taxes foncières (art. 330 à 330 A)](#239)
+            - [1° : Taxe foncière sur les propriétés non bâties (art. 330)](#240)
+            - [2° : Dispositions communes aux propriétés bâties et non bâties (art. 330 A)](#241)
+          - [II : Taxe d'habitation (art. 331)](#242)
+          - [III : Dispositions communes aux taxes foncières et à la taxe d'habitation (art. 332 à 332 A)](#243)
+          - [IV : Règles d'évaluation de la valeur locative des biens imposables (art. 333 à 333 J)](#244)
+            - [A : Évaluation des propriétés bâties (art. 333 A à 333 H)](#245)
+              - [1° : Locaux d'habitation ou à usage professionnel (art.  à 333 A)](#246)
+              - [1° : Locaux d'habitation (art. 333 B)](#247)
+              - [3° : Etablissements industriels. (art. 333 D à 333 F)](#248)
+              - [4° : Procédure (art. 333 H)](#249)
+            - [B : Évaluation des propriétés non bâties. (art. 333 I à 333 J)](#250)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 370 C à 376)](#251)
+      - [Chapitre premier : Obligations des contribuables (art. 370 C à 371)](#252)
+        - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#253)
+        - [Section II : Personnes n'ayant en France ni domicile ni résidence fixe (art. 371)](#254)
+      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z undecies)](#255)
+        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#256)
+        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#257)
+        - [Section III : Organismes mixtes de gestion agréés (art. 371 Z bis à 371 Z undecies)](#258)
+      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis N)](#259)
+      - [Chapitre Ier bis B : Certificateurs à l'étranger (art. 371 ter A à 371 ter H)](#260)
+      - [Chapitre Ier bis C : modalités de mise en place et de fonctionnement des commissions départementales des valeurs locatives des locaux professionnels et des commissions départementales des impôts directs locaux (art. 371 ter I à 371 ter R)](#261)
+        - [Section I : Commissions départementales des valeurs locatives des locaux professionnels (art. 371 ter I à 371 ter M)](#262)
+        - [Section II : Commissions départementales des impôts directs locaux (art. 371 ter N à 371 ter R)](#263)
+      - [Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels (art. 371 ter S)](#264)
+      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#265)
+      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#266)
+      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#267)
+  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#268)
+    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#269)
+      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#270)
+        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#271)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#272)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#273)
+        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#274)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#275)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#276)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#277)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#278)
+        - [I : Dation en paiement (art. 384 A à 384 A ter)](#279)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#280)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#281)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#282)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#283)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#284)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#285)
+    - [Chapitre II : Procédures (art. 396 B à 396 C)](#286)
+      - [III : Dispositions communes (art. 396 B à 396 C)](#287)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#288)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#289)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#290)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#291)
+    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#292)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -16325,108 +16330,108 @@ _Cite_:
 
 ##### I : Évaluation des propriétés bâties<a id=207></a>
 
-##### A : Locaux d'habitation ou à usage professionnel<a id=208></a>
+##### A : Locaux d'habitation<a id=208></a>
 
 ###### Article 310 I
 
 Les coefficients prévus au 1 du III de l'article 1496 du code général des impôts qui doivent être utilisés, à compter du 1er
 janvier 1979, jusqu'à la prochaine actualisation des valeurs locatives foncières des propriétés bâties pour la détermination
-de la base d'imposition à la taxe foncière sur les propriétés bâties des locaux d'habitation ou à usage professionnel loués
-sous le régime de la réglementation édictée par la loi n° 48-1360 du 1er septembre 1948 modifiée, sont fixés comme suit : 
+de la base d'imposition à la taxe foncière sur les propriétés bâties des locaux d'habitation loués sous le régime de la
+réglementation édictée par la loi n° 48-1360 du 1er septembre 1948 modifiée, sont fixés comme suit :
 
-<table align="center" cellspacing="0" width="680" cellpadding="0" border="1">
+<table cellpadding="0" border="1" align="center" cellspacing="0">
   <tbody>
     <tr>
-      <td width="529">
+      <td>
 
-CATÉGORIES 
-
-</td>
-      <td width="151">
-
-COEFFICIENT 
+CATÉGORIES
 
 </td>
-    </tr>
-    <tr>
-      <td width="529" valign="top">
+      <td>
 
-Catégorie II A 
-
-</td>
-      <td valign="top" width="151">
-
-2,83 
+COEFFICIENT
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td>
 
-Catégorie II B 
-
-</td>
-      <td valign="top" width="151">
-
-2,49 
+Catégorie II A
 
 </td>
-    </tr>
-    <tr>
-      <td width="529" valign="top">
+      <td>
 
-Catégorie II C 
-
-</td>
-      <td width="151" valign="top">
-
-2,14 
+2,83
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td>
 
-Catégorie III A 
-
-</td>
-      <td width="151" valign="top">
-
-1,93 
+Catégorie II B
 
 </td>
-    </tr>
-    <tr>
-      <td width="529" valign="top">
+      <td>
 
-Catégorie III B 
-
-</td>
-      <td width="151" valign="top">
-
-1,75 
+2,49
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td>
 
-Catégorie IV 
+Catégorie II C
 
 </td>
-      <td width="151" valign="top">
+      <td>
 
-1,00 
+2,14
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td>
 
-Catégorie des locaux soumis au régime du loyer forfaitaire de l'article 34 de la loi du 1er septembre 1948 
+Catégorie III A
 
 </td>
-      <td width="151" valign="top">
+      <td>
+
+1,93
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Catégorie III B
+
+</td>
+      <td>
+
+1,75
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Catégorie IV
+
+</td>
+      <td>
+
+1,00
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Catégorie des locaux soumis au régime du loyer forfaitaire de l'article 34 de la loi du 1er septembre 1948
+
+</td>
+      <td>
 
 1,93
 
@@ -16439,20 +16444,16 @@ Catégorie des locaux soumis au régime du loyer forfaitaire de l'article 34 de 
 
 _Cite_:
 
-  - Loi n°48-1360 du 1 septembre 1948 (V)
-  - Code général des impôts, CGI. - art. 1496 (VD)
-
-_Modifié par_:
-
-  - Décret n°74-399 1974-05-03 art. 1 JORF 12 mai 1974
+  - Loi n°48-1360 du 1er septembre 1948
+  - Code général des impôts, CGI. - art. 1496
 
 _Codifié par_:
 
-  - Décret n°99-382 1999-05-18
+  - Décret n°99-382 du 18 mai 1999
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 31 mars 1999
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
 
 
 ##### B : Immobilisations industrielles<a id=209></a>
@@ -16678,7 +16679,119 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 310 N
 
 
-##### III : Dispositions communes aux biens passibles des impôts directs locaux<a id=212></a>
+##### E : Locaux professionnels<a id=212></a>
+
+###### Article 310 Q
+
+Pour l'application du second alinéa du I de l'article 1498 du code général des impôts, les propriétés bâties mentionnées au
+premier alinéa de ce même I sont classées selon les sous-groupes et catégories suivants :
+
+Sous-groupe I : magasins et lieux de vente :
+
+Catégorie 1 : boutiques et magasins sur rue.
+
+Catégorie 2 : commerces sans accès direct sur la rue.
+
+Catégorie 3 : magasins appartenant à un ensemble commercial.
+
+Catégorie 4 : magasins de grande surface (surface principale comprise entre 400 et 2 500 m2).
+
+Catégorie 5 : magasins de très grande surface (surface principale supérieure ou égale à 2 500 m2).
+
+Catégorie 6 : stations-service, stations de lavage et assimilables.
+
+Catégorie 7 : marchés.
+
+Sous-groupe II : bureaux et locaux divers assimilables :
+
+Catégorie 1 : locaux à usage de bureaux d'agencement ancien.
+
+Catégorie 2 : locaux à usage de bureaux d'agencement récent.
+
+Catégorie 3 : locaux assimilables à des bureaux, mais présentant des aménagements spécifiques.
+
+Sous-groupe III : lieux de dépôt ou de stockage et parcs de stationnement :
+
+Catégorie 1 : lieux de dépôt à ciel ouvert et terrains à usage commercial ou industriel.
+
+Catégorie 2 : lieux de dépôt couverts.
+
+Catégorie 3 : parcs de stationnement à ciel ouvert.
+
+Catégorie 4 : parcs de stationnement couverts.
+
+Catégorie 5 : installations spécifiques de stockage.
+
+Sous-groupe IV : ateliers et autres locaux assimilables :
+
+Catégorie 1 : ateliers artisanaux.
+
+Catégorie 2 : locaux utilisés pour une activité de transformation, de manutention ou de maintenance.
+
+Catégorie 3 : chenils, viviers et autres locaux assimilables.
+
+Sous-groupe V : hôtels et locaux assimilables :
+
+Catégorie 1 : hôtels confort (4 étoiles et plus, ou confort identique).
+
+Catégorie 2 : hôtels supérieur (2 ou 3 étoiles, ou confort identique).
+
+Catégorie 3 : hôtels standard (1 étoile, ou confort identique).
+
+Catégorie 4 : foyers d'hébergement, centres d'accueil, auberges de jeunesse.
+
+Catégorie 5 : hôtels-clubs, villages de vacances et résidences hôtelières.
+
+Sous-groupe VI : établissements de spectacles, de sports et de loisirs :
+
+Catégorie 1 : salles de spectacles et locaux assimilables.
+
+Catégorie 2 : établissements ou terrains réservés à la pratique d'un sport ou à usage de spectacles sportifs.
+
+Catégorie 3 : salles de loisirs diverses.
+
+Catégorie 4 : terrains de camping confortables (3 étoiles et plus, ou confort identique).
+
+Catégorie 5 : terrains de camping ordinaires (1 ou 2 étoiles, ou confort identique).
+
+Catégorie 6 : établissements de détente et de bien-être.
+
+Catégorie 7 : centres de loisirs, centres de colonies de vacances, maisons de jeunes.
+
+Sous-groupe VII : établissements d'enseignement et locaux assimilables :
+
+Catégorie 1 : écoles et institutions privées exploitées dans un but non lucratif.
+
+Catégorie 2 : établissements d'enseignement à but lucratif.
+
+Sous-groupe VIII : cliniques et établissements du secteur sanitaire et social :
+
+Catégorie 1 : cliniques et établissements hospitaliers.
+
+Catégorie 2 : centres médico-sociaux, centres de soins, crèches, haltes-garderies.
+
+Catégorie 3 : maisons de repos, maisons de retraite (médicalisées ou non).
+
+Catégorie 4 : centres de rééducation, de thalassothérapie, établissements thermaux.
+
+Sous-groupe IX : carrières et établissements industriels non évalués selon la méthode comptable :
+
+Catégorie 1 : établissements industriels nécessitant un outillage important autres que les carrières et assimilés.
+
+Catégorie 2 : carrières et établissements assimilables.
+
+Sous-groupe X : établissements présentant des caractéristiques exceptionnelles :
+
+Catégorie 1 : locaux ne relevant d'aucune des catégories précédentes par leurs caractéristiques sortant de l'ordinaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+##### III : Dispositions communes aux biens passibles des impôts directs locaux<a id=213></a>
 
 ###### Article 310 unvicies
 
@@ -16692,9 +16805,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1518 (V)
 
 
-##### Section IV : Autres taxes communales<a id=213></a>
+##### Section IV : Autres taxes communales<a id=214></a>
 
-##### I : Redevance communale des mines<a id=214></a>
+##### I : Redevance communale des mines<a id=215></a>
 
 ###### Article 311 A
 
@@ -16832,7 +16945,7 @@ _Créé par_:
   - HISTO: Edition du 10 août 1987
 
 
-##### 1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux<a id=215></a>
+##### 1° : Répartition du produit de la redevance : substances minérales autres que les hydrocarbures liquides et gazeux<a id=216></a>
 
 ###### Article 312
 
@@ -16885,7 +16998,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 sexies (V)
 
 
-##### 2° : Répartition du produit de la redevance : les hydrocarbures liquides et gazeux<a id=216></a>
+##### 2° : Répartition du produit de la redevance : les hydrocarbures liquides et gazeux<a id=217></a>
 
 ###### Article 315
 
@@ -16921,9 +17034,9 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 312 (V)
 
 
-##### II : Taxes facultatives<a id=217></a>
+##### II : Taxes facultatives<a id=218></a>
 
-##### A : Taxe d'enlèvement des ordures ménagères<a id=218></a>
+##### A : Taxe d'enlèvement des ordures ménagères<a id=219></a>
 
 ###### Article 316
 
@@ -16976,7 +17089,7 @@ _Modifié par_:
   - Loi n°93-1352 1993-12-29 art. 85 I V Finances pour 1994 JORF 30 décembre 1993
 
 
-##### C : Taxe sur la cession de terrains devenus constructibles<a id=219></a>
+##### C : Taxe sur la cession de terrains devenus constructibles<a id=220></a>
 
 ###### Article 317 A
 
@@ -17059,11 +17172,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1529 (V)
 
 
-### Titre II : Impositions départementales<a id=220></a>
+### Titre II : Impositions départementales<a id=221></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=221></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=222></a>
 
-##### I bis : Cotisation sur la valeur ajoutée des entreprises<a id=222></a>
+##### I bis : Cotisation sur la valeur ajoutée des entreprises<a id=223></a>
 
 ###### Article 317 septies E
 
@@ -17087,7 +17200,7 @@ _Créé par_:
   - Décret n°2011-27 du 6 janvier 2011 - art. 1
 
 
-##### II : Redevance départementale des mines<a id=223></a>
+##### II : Redevance départementale des mines<a id=224></a>
 
 ###### Article 317 octies
 
@@ -17110,11 +17223,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1587 (V)
 
 
-### Titre III : Impositions perçues au profit des régions et de la   collectivité de Corse<a id=224></a>
+### Titre III : Impositions perçues au profit des régions et de la   collectivité de Corse<a id=225></a>
 
-#### Chapitre unique : Impôts directs et taxes assimilées<a id=225></a>
+#### Chapitre unique : Impôts directs et taxes assimilées<a id=226></a>
 
-##### I : Taxe d'apprentissage<a id=226></a>
+##### I : Taxe d'apprentissage<a id=227></a>
 
 ###### Article 318 A
 
@@ -17141,7 +17254,7 @@ _Cite_:
   - Code du travail - art. R6241-7 (V)
 
 
-##### II : Taxe perçue pour la région de Guyane<a id=227></a>
+##### II : Taxe perçue pour la région de Guyane<a id=228></a>
 
 ###### Article 318 B
 
@@ -17222,11 +17335,11 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 318 C
 
 
-### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=228></a>
+### Titre IV : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=229></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=229></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=230></a>
 
-##### Section IV : Taxe pour frais de chambres de métiers et de l'artisanat<a id=230></a>
+##### Section IV : Taxe pour frais de chambres de métiers et de l'artisanat<a id=231></a>
 
 ###### Article 321 bis
 
@@ -17276,7 +17389,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1601
 
 
-##### Section V : Contribution à l'audiovisuel public<a id=231></a>
+##### Section V : Contribution à l'audiovisuel public<a id=232></a>
 
 ###### Article 321 quater
 
@@ -17327,9 +17440,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1605 (V)
 
 
-#### Chapitre II : Enregistrement, publicité foncière et timbre<a id=232></a>
+#### Chapitre II : Enregistrement, publicité foncière et timbre<a id=233></a>
 
-##### Section V : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage<a id=233></a>
+##### Section V : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage<a id=234></a>
 
 ###### Article 326 bis
 
@@ -17356,7 +17469,7 @@ _Cite_:
   - Code de l'environnement - art. R423-13 (V)
 
 
-##### Section VI  : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel<a id=234></a>
+##### Section VI  : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel<a id=235></a>
 
 ###### Article 326 ter
 
@@ -17376,9 +17489,9 @@ _Cite_:
   - Code de procédure civile - art. 964
 
 
-### Titre V : Dispositions communes aux titres I à IV<a id=235></a>
+### Titre V : Dispositions communes aux titres I à IV<a id=236></a>
 
-#### Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales<a id=236></a>
+#### Chapitre premier : Fixation des taux à retenir pour le calcul des impositions directes locales<a id=237></a>
 
 ###### Article 327
 
@@ -17405,7 +17518,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1638
 
 
-#### Chapitre III : Dispositions relatives à la fiscalité directe locale applicables dans les départements d'outre-mer<a id=237></a>
+#### Chapitre III : Dispositions relatives à la fiscalité directe locale applicables dans les départements d'outre-mer<a id=238></a>
 
 ###### Article 329
 
@@ -17427,9 +17540,9 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 330
 
 
-##### I : Taxes foncières<a id=238></a>
+##### I : Taxes foncières<a id=239></a>
 
-##### 1° : Taxe foncière sur les propriétés non bâties<a id=239></a>
+##### 1° : Taxe foncière sur les propriétés non bâties<a id=240></a>
 
 ###### Article 330
 
@@ -17460,13 +17573,14 @@ _Cité par_:
   - HISTO: Edition du 10 août 1987
 
 
-##### 2° : Dispositions communes aux propriétés bâties et non bâties<a id=240></a>
+##### 2° : Dispositions communes aux propriétés bâties et non bâties<a id=241></a>
 
 ###### Article 330 A
 
-Les constructions nouvelles ainsi que les changements de consistance ou d'affectation des propriétés bâties ou non bâties
-survenus après le début des travaux d'évaluation sont déclarés à l'administration dans les conditions fixées par l'article
-1406 du code général des impôts. 
+Les constructions nouvelles, les changements de consistance ou d'affectation des propriétés bâties ou non bâties ainsi que
+les changements d'utilisation des propriétés bâties mentionnées au I de l'article 1498 du code général des impôts survenus
+après le début des travaux d'évaluation sont déclarés à l'administration dans les conditions fixées par l'article 1406 du
+même code.
 
 Les propriétaires peuvent demander l'aide des agents de l'administration pour la souscription des formules de déclaration.
 
@@ -17478,18 +17592,18 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°87-940 1987-11-23
+  - Décret n°87-940 du 23 novembre 1987
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1406 (V)
+  - Code général des impôts, CGI. - art. 1498
 
 
-##### II : Taxe d'habitation<a id=241></a>
+##### II : Taxe d'habitation<a id=242></a>
 
 ###### Article 331
 
@@ -17529,7 +17643,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 332 A (V)
 
 
-##### III : Dispositions communes aux taxes foncières et à la taxe d'habitation<a id=242></a>
+##### III : Dispositions communes aux taxes foncières et à la taxe d'habitation<a id=243></a>
 
 ###### Article 332
 
@@ -17591,7 +17705,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1518
 
 
-##### IV : Règles d'évaluation de la valeur locative des biens imposables<a id=243></a>
+##### IV : Règles d'évaluation de la valeur locative des biens imposables<a id=244></a>
 
 ###### Article 333
 
@@ -17599,8 +17713,9 @@ La valeur locative des propriétés bâties et non bâties qui sont situées dan
 de la Martinique, de Mayotte et de la Réunion est déterminée conformément aux règles applicables dans les autres départements
 sous réserve des adaptations fixées par les articles 333 A à 333 J.
 
-Pour le Département de Mayotte, par dérogation aux articles 333 A à 333 J, la valeur locative est déterminée à la date du 1er
-janvier 2012.
+Pour le Département de Mayotte, par dérogation aux articles 333 A à 333 J, la valeur locative des propriétés non bâties et
+des propriétés bâties autres que celles mentionnées au I de l'article 1498 du code général des impôts est déterminée à la
+date du 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
@@ -17614,27 +17729,34 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1182 du 18 décembre 2013 - art. 1
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 333 A
 
 
-##### A : Évaluation des propriétés bâties<a id=244></a>
+##### A : Évaluation des propriétés bâties<a id=245></a>
 
 ###### Article 333 A
 
-Sous réserve des articles 333 B à 333 H, la valeur locative des propriétés bâties est déterminée à la date du 1er janvier
-1975 en application : 
+Sous réserve des articles 333 B à 333 H, la valeur locative des propriétés bâties autres que celles mentionnées au I de
+l'article 1498 du code général des impôts est déterminée à la date du 1er janvier 1975 en application :
 
-Des articles 1494 à 1508 inclus du code général des impôts ; 
+1° Des articles 1494 à 1497, 1499 à 1503, 1505 à 1508 du code général des impôts ;
 
-Des articles 310 J bis, 310 K et 310 L ; 
+2° Des articles 310 J bis, 310 K et 310 L ;
 
-Des articles 324 A à 324 AJ inclus de l'annexe III au code général des impôts.
+3° Des articles 324 A à 324 X et 324 AE à 324 AJ de l'annexe III au même code.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - 1494 à 1497
+  - 1499 à 1503
+  - 1505 à 1508
+  - Code général des impôts, CGI. - art. 1498
 
 _Anciens textes_:
 
@@ -17642,27 +17764,20 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°87-940 1987-11-23
+  - Décret n°87-940 du 23 novembre 1987
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
-
-_Cite_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 310 J bis (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 310 K (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 310 L (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 333 B (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 324 A (V)
-  - Code général des impôts, CGI. - art. 1494 (V)
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 333 (V)
 
 
-##### 1° : Locaux d'habitation ou à usage professionnel<a id=245></a>
+##### 1° : Locaux d'habitation ou à usage professionnel<a id=246></a>
+
+##### 1° : Locaux d'habitation<a id=247></a>
 
 ###### Article 333 B
 
@@ -17697,42 +17812,7 @@ _Cite_:
   - HISTO: Edition du 10 août 1987
 
 
-##### 2° : Locaux commerciaux et biens divers<a id=246></a>
-
-###### Article 333 C
-
-La valeur locative de tous les locaux commerciaux et biens divers peut être déterminée par application de la méthode de
-comparaison prévue au a du 2° de l'article 1498 du code général des impôts. Les termes de comparaison sont choisis dans la
-commune ou hors de celle-ci. 
-
-La date du 1er janvier 1970 mentionnée au deuxième alinéa de l'article 324 A C de l'annexe III au code général des impôts est
-remplacée par celle du 1er janvier 1975.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN2 327 M
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
-
-_Créé par_:
-
-  - Décret n°87-940 1987-11-23 art. 3 JORF 26 novembre 1987
-
-_Abrogé par_:
-
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
-
-_Cite_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AC
-  - Code général des impôts, CGI. - art. 1498
-
-
-##### 3° : Etablissements industriels.<a id=247></a>
+##### 3° : Etablissements industriels.<a id=248></a>
 
 ###### Article 333 D
 
@@ -17806,37 +17886,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1499 (V)
 
 
-###### Article 333 G
-
-Les immobilisations industrielles appartenant à des entreprises qui relèvent du régime défini à l'article 50-0 du code
-général des impôts pour l'établissement de l'impôt sur le revenu, sont évaluées selon les règles fixées par l'article 1500 du
-code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN2 327 Q
-
-_Modifié par_:
-
-  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
-
-_Abrogé par_:
-
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1500
-  - Code général des impôts, CGI. - art. 50-0
-
-
-##### 4° : Procédure<a id=248></a>
+##### 4° : Procédure<a id=249></a>
 
 ###### Article 333 H
 
@@ -17844,20 +17894,19 @@ Pour l'exécution de la première révision quinquennale des évaluations fonci�
 prévues à l'article 1502 du code général des impôts sont souscrites dans les départements de la Guadeloupe, de la Martinique
 et de la Réunion par les redevables de la contribution foncière des propriétés bâties et dans le département de la Guyane par
 les redevables de l'impôt locatif. Lorsqu'une propriété bâtie n'est pas passible de la contribution foncière ou de l'impôt
-locatif, la déclaration est souscrite par l'occupant des locaux. 
+locatif, la déclaration est souscrite par l'occupant des locaux.
 
 Pour la première évaluation des locaux dans le Département de Mayotte, les redevables de l'impôt foncier sur les terrains ou
-de la contribution des patentes sont tenus de souscrire les déclarations prévues à l'article 1502 du code général des
-impôts. 
+de la contribution des patentes sont tenus de souscrire les déclarations prévues à l'article 1502 du code général des impôts.
 
 Les déclarations prévues à l'alinéa précédent pour les locaux à usage professionnel ou commercial sont souscrites par le
-redevable de la contribution des patentes au 1er janvier 2013 de manière commune avec les déclarations prévues à l'article 34
-de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 sur un modèle déclaratif unique, adapté par
-arrêté préfectoral sur proposition du directeur régional des finances publiques. Lorsqu'une propriété bâtie n'est pas
-passible de la contribution des patentes, la déclaration est souscrite par le propriétaire des locaux. 
+redevable de la contribution des patentes au 1er janvier 2013 de manière commune avec les déclarations prévues au XVII de
+l'article 34 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 sur un modèle déclaratif unique,
+adapté par arrêté préfectoral sur proposition du directeur régional des finances publiques. Lorsqu'une propriété bâtie n'est
+pas passible de la contribution des patentes, la déclaration est souscrite par le propriétaire des locaux.
 
 Ces déclarations peuvent être rédigées avec le concours d'agents désignés par le directeur départemental des finances
-publiques. Ces agents assurent la collecte de ces documents. 
+publiques. Ces agents assurent la collecte de ces documents.
 
 Les dates limites de souscription des déclarations sont fixées par arrêté préfectoral sur proposition du directeur
 départemental des finances publiques.
@@ -17874,15 +17923,15 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 34 (VT)
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 34
   - Code général des impôts, CGI. - art. 1502
 
 _Modifié par_:
 
-  - Décret n°2013-1182 du 18 décembre 2013 - art. 1
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
 
 
-##### B : Évaluation des propriétés non bâties.<a id=249></a>
+##### B : Évaluation des propriétés non bâties.<a id=250></a>
 
 ###### Article 333 I
 
@@ -17941,11 +17990,11 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5142-1 (V)
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=250></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=251></a>
 
-### Chapitre premier : Obligations des contribuables<a id=251></a>
+### Chapitre premier : Obligations des contribuables<a id=252></a>
 
-#### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés<a id=252></a>
+#### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés<a id=253></a>
 
 ###### Article 370 C
 
@@ -18041,7 +18090,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 306-0 F (V)
 
 
-#### Section II : Personnes n'ayant en France ni domicile ni résidence fixe<a id=253></a>
+#### Section II : Personnes n'ayant en France ni domicile ni résidence fixe<a id=254></a>
 
 ###### Article 371
 
@@ -18067,9 +18116,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L264-1
 
 
-### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=254></a>
+### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=255></a>
 
-#### Section I : Centres de gestion agréés<a id=255></a>
+#### Section I : Centres de gestion agréés<a id=256></a>
 
 ###### Article 371 A
 
@@ -18721,7 +18770,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### Section II : Associations agréées des professions libérales<a id=256></a>
+#### Section II : Associations agréées des professions libérales<a id=257></a>
 
 ###### Article 371 M
 
@@ -19317,7 +19366,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Y (V)
 
 
-#### Section III : Organismes mixtes de gestion agréés<a id=257></a>
+#### Section III : Organismes mixtes de gestion agréés<a id=258></a>
 
 ###### Article 371 Z bis
 
@@ -19717,7 +19766,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
 
 
-### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=258></a>
+### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=259></a>
 
 ###### Article 371 bis A
 
@@ -20188,7 +20237,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis M (V)
 
 
-### Chapitre Ier bis B : Certificateurs à l'étranger<a id=259></a>
+### Chapitre Ier bis B : Certificateurs à l'étranger<a id=260></a>
 
 ###### Article 371 ter A
 
@@ -20352,7 +20401,408 @@ _Créé par_:
   - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 
-### Chapitre I ter : Centre de formalités des entreprises<a id=260></a>
+### Chapitre Ier bis C : modalités de mise en place et de fonctionnement des commissions départementales des valeurs locatives des locaux professionnels et des commissions départementales des impôts directs locaux<a id=261></a>
+
+#### Section I : Commissions départementales des valeurs locatives des locaux professionnels<a id=262></a>
+
+###### Article 371 ter I
+
+I-Les membres de la commission départementale des valeurs locatives des locaux professionnels mentionnée à l'article 1650 B
+du code général des impôts, autres que les parlementaires, sont désignés dans les conditions définies aux II à V.
+
+II.-Les membres du conseil de Paris sont désignés par celui-ci, siégeant en formation de conseil départemental, dans les deux
+mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers de Paris.
+
+Les membres du conseil départemental sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée
+de leur mandat est la même que celle du mandat des conseillers départementaux.
+
+Les membres du conseil de la Métropole de Lyon sont désignés par celui-ci dans les deux mois qui suivent son renouvellement.
+La durée de leur mandat est la même que celle du mandat des conseillers de la Métropole.
+
+Les maires sont désignés par l'association départementale des maires dans les deux mois qui suivent le renouvellement général
+des conseils municipaux. La durée de leur mandat est la même que celle du mandat des conseillers municipaux.
+
+Les représentants des établissements publics de coopération intercommunale à fiscalité propre sont désignés par l'association
+départementale des maires dans les trois mois qui suivent le renouvellement général des conseils municipaux. La durée de leur
+mandat est la même que celle du mandat des membres de l'organe délibérant des établissements publics de coopération
+intercommunale à fiscalité propre.
+
+III.-S'il existe plusieurs associations de maires dans le département, les maires et les représentants des établissements
+publics de coopération intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département
+après consultation desdites associations.
+
+S'il n'existe aucune association de maires dans le département, les maires et les représentants des établissements publics de
+coopération intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département.
+
+A défaut de désignation dans les délais prévus au II, les membres du conseil de Paris, les membres du conseil départemental,
+les membres du conseil de la Métropole de Lyon, les maires et les représentants des établissements publics de coopération
+intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département.
+
+IV.-Les représentants des contribuables sont désignés par le représentant de l'Etat dans le département, pour six ans, dans
+les trois mois qui suivent le renouvellement général des conseils municipaux. Ils comprennent :
+
+a) Trois personnes désignées après consultation des chambres de commerce et d'industrie territoriales ou, en Ile-de-France,
+des chambres de commerce et d'industrie départementales d'Ile-de-France ;
+
+b) Deux personnes désignées après consultation des chambres de métiers et de l'artisanat départementales ou, à défaut, de
+région ;
+
+c) Trois personnes désignées après consultation des organisations d'employeurs au niveau interprofessionnel les plus
+représentatives dans le département ;
+
+d) Une personne désignée après consultation des organisations représentatives des professions libérales dans le département.
+
+V.-Les représentants de l'administration fiscale sont désignés par le directeur départemental ou, le cas échéant, régional
+des finances publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+###### Article 371 ter J
+
+I-Des suppléants, en nombre égal à celui des titulaires mentionnés aux II à V de l'article 371 ter I, sont désignés dans les
+mêmes conditions pour remplacer les membres de la commission en cas d'absence ou d'empêchement.
+
+II.-Chaque représentant des collectivités territoriales et des établissements publics de coopération intercommunale à
+fiscalité propre peut être accompagné aux séances de la commission soit de son suppléant, soit d'un fonctionnaire relevant de
+l'article 2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique
+territoriale.
+
+Chaque représentant des contribuables peut être accompagné aux séances de la commission soit de son suppléant, soit, après
+autorisation du président de la commission, d'une personne choisie, selon le cas, parmi :
+
+a) Le personnel des chambres de commerce et d'industrie ;
+
+b) Le personnel des chambres de métiers et de l'artisanat ;
+
+c) Les membres ou le personnel des organisations d'employeurs au niveau interprofessionnel les plus représentatives dans le
+département ;
+
+d) Les membres ou le personnel des organisations représentatives des professions libérales dans le département.
+
+Chaque représentant de l'administration fiscale peut être accompagné de son suppléant aux séances de la commission.
+
+Les fonctionnaires mentionnés au premier alinéa, les personnes choisies conformément au deuxième alinéa et, sauf dans les cas
+prévus au I, les suppléants ne participent pas aux débats de la commission.
+
+III.-Une personne désignée à plusieurs titres comme membre titulaire ou suppléant de la commission choisit dans un délai
+d'une semaine la qualité en laquelle elle siège au sein de la commission.
+
+Une personne désignée en application des II à IV de l'article 371 ter I comme membre titulaire ou suppléant de la commission
+départementale des valeurs locatives des locaux professionnels alors qu'elle est membre titulaire ou suppléant de la
+commission départementale des impôts directs locaux choisit, dans un délai d'une semaine, la commission au sein de laquelle
+elle siège.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+###### Article 371 ter K
+
+Un arrêté préfectoral fixe la liste des membres de la commission départementale des valeurs locatives des locaux
+professionnels, autres que les parlementaires et les représentants de l'administration fiscale, dès leur désignation dans les
+conditions prévues aux articles 371 ter I et 371 ter J.
+
+Cet arrêté est publié au recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+###### Article 371 ter L
+
+I-Il est procédé à une nouvelle désignation lorsqu'un des membres de la commission ou son suppléant démissionne, perd la
+qualité au titre de laquelle il a été désigné ou est hors d'état d'exercer ses fonctions. La personne ainsi désignée exerce
+ses fonctions jusqu'à l'expiration du mandat de la personne qu'elle remplace. La désignation est faite par les personnes et
+dans les conditions prévues à l'article 371 ter I, les délais étant calculés à compter de l'événement qui déclenche une
+nouvelle désignation.
+
+La commission siège valablement durant le temps nécessaire pour pourvoir au remplacement des membres dans les cas prévus au
+premier alinéa.
+
+II.-Il est également procédé à une nouvelle désignation :
+
+a) Des conseillers départementaux en cas de renouvellement général des conseils départementaux ;
+
+b) Des conseillers métropolitains en cas de renouvellement général du conseil de la Métropole de Lyon ;
+
+c) Des conseillers de Paris, des maires, des représentants des établissements publics de coopération intercommunale à
+fiscalité propre et des représentants des contribuables en cas de renouvellement général des conseils municipaux ;
+
+La commission suspend ses travaux le vendredi précédant le renouvellement général des conseils départementaux ou des conseils
+municipaux. Les travaux de la commission reprennent au plus tard une semaine après la désignation des nouveaux membres de la
+commission.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+###### Article 371 ter M
+
+I-Les membres de la commission sont réunis, à l'initiative du directeur départemental ou, le cas échéant, régional des
+finances publiques, dans les huit jours suivant la publication de l'arrêté prévu à l'article 371 ter K, afin d'élire, parmi
+les représentants des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité
+propre, le président de la commission et un vice-président chargé de remplacer le président en cas d'absence ou d'empêchement
+de celui-ci.
+
+La séance est présidée par le doyen d'âge. Le scrutin est secret. Nul ne peut être élu s'il n'a recueilli, lors des deux
+premiers tours de scrutin, la majorité des suffrages exprimés. A défaut, il est procédé à un troisième tour de scrutin. Le
+candidat qui a recueilli le plus grand nombre de suffrages est déclaré élu. En cas d'égalité de suffrages, le candidat le
+plus âgé est déclaré élu.
+
+II.-La commission est convoquée par son président, soit de sa propre initiative, soit à la demande de la moitié au moins de
+ses membres, soit à la demande du directeur départemental ou, le cas échéant, régional des finances publiques. Les membres de
+la commission sont convoqués au moins huit jours francs avant la date fixée pour la réunion.
+
+Les séances de la commission ne sont pas publiques. Toutefois, le président peut décider d'entendre toute personne pouvant
+apporter des informations utiles à la commission.
+
+III.-La commission ne délibère que si la moitié au moins de ses membres est présente. Dans le cas où le quorum n'est pas
+atteint, il est aussitôt procédé à une nouvelle convocation et, à l'issue d'un délai d'au moins trois jours francs après
+cette dernière, la commission peut délibérer quel que soit le nombre des membres présents.
+
+Les décisions de la commission sont prises à la majorité des suffrages exprimés.
+
+Les représentants de l'administration fiscale ne prennent pas part aux votes.
+
+Le président a voix prépondérante en cas de partage égal des voix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+#### Section II : Commissions départementales des impôts directs locaux<a id=263></a>
+
+###### Article 371 ter N
+
+I.-Les membres de la commission départementale des impôts directs locaux mentionnée à l'article 1650 C du code général des
+impôts sont désignés dans les conditions définies aux II à V.
+
+II.-Le membre du conseil départemental est désigné par celui-ci dans les deux mois qui suivent son renouvellement. La durée
+de son mandat est la même que celle du mandat des conseillers départementaux.
+
+Les membres du conseil de Paris sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de
+leur mandat est la même que celle du mandat des conseillers de Paris.
+
+Les membres du conseil de la Métropole de Lyon sont désignés par celui-ci dans les deux mois qui suivent son renouvellement.
+La durée de leur mandat est la même que celle du mandat des conseillers de la Métropole.
+
+Les maires sont désignés par l'association départementale des maires dans les deux mois qui suivent le renouvellement général
+des conseils municipaux. La durée de leur mandat est la même que celle du mandat des conseillers municipaux.
+
+Les représentants des établissements publics de coopération intercommunale à fiscalité propre sont désignés par l'association
+départementale des maires dans les trois mois qui suivent le renouvellement général des conseils municipaux. La durée de leur
+mandat est la même que celle des membres de l'organe délibérant des établissements publics de coopération intercommunale à
+fiscalité propre.
+
+III.-S'il existe plusieurs associations de maires dans le département, les maires et les représentants des établissements
+publics de coopération intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département
+après consultation desdites associations.
+
+S'il n'existe aucune association de maires dans le département, les maires et les représentants des établissements publics de
+coopération intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département.
+
+A défaut de désignation dans les délais prévus au II, les membres du conseil de Paris, le membre du conseil départemental,
+les membres du conseil de la Métropole de Lyon, les maires et les représentants des établissements publics de coopération
+intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département.
+
+IV.-Les représentants des contribuables sont désignés par le représentant de l'Etat dans le département, pour six ans, dans
+les trois mois qui suivent le renouvellement général des conseils municipaux. Ils comprennent :
+
+a) Deux personnes désignées après consultation des chambres de commerce et d'industrie territoriales ou, en Ile-de-France,
+des chambres de commerce et d'industrie départementales d'Ile-de-France ;
+
+b) Deux personnes désignées après consultation des chambres de métiers et de l'artisanat départementales ou, à défaut, de
+région ;
+
+c) Une personne désignée après consultation des organisations représentatives des professions libérales dans le département.
+
+V.-Les représentants de l'administration fiscale sont désignés par le directeur départemental ou, le cas échéant, régional
+des finances publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+###### Article 371 ter O
+
+I.-Des suppléants, en nombre égal à celui des titulaires, sont désignés dans les mêmes conditions pour remplacer les membres
+de la commission en cas d'absence ou d'empêchement.
+
+II.-Chaque représentant des collectivités territoriales et des établissements publics de coopération intercommunale à
+fiscalité propre peut être accompagné aux séances de la commission soit de son suppléant, soit d'un fonctionnaire relevant de
+l'article 2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique
+territoriale.
+
+Chaque représentant des contribuables peut être accompagné aux séances de la commission soit de son suppléant soit, après
+autorisation du président de la commission, d'une personne choisie, selon le cas, parmi :
+
+a) Le personnel des chambres de commerce et d'industrie ou des chambres de métiers et de l'artisanat ;
+
+b) Les membres ou le personnel des organisations représentatives des professions libérales dans le département.
+
+Chaque représentant de l'administration fiscale peut être accompagné de son suppléant aux séances de la commission.
+
+Les fonctionnaires mentionnés au premier alinéa, les personnes choisies conformément au deuxième alinéa et, sauf dans les cas
+prévus au I, les suppléants ne participent pas aux débats de la commission.
+
+III.-Une personne désignée à plusieurs titres comme membre titulaire ou suppléant de la commission choisit dans un délai
+d'une semaine la qualité en laquelle elle siège au sein de la commission.
+
+Une personne désignée en application des II à IV de l'article 371 ter N comme membre titulaire ou suppléant de la commission
+départementale des impôts directs locaux alors qu'elle est membre titulaire ou suppléant de la commission départementale des
+valeurs locatives des locaux professionnels choisit, dans un délai d'une semaine, la commission au sein de laquelle elle
+siège.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+###### Article 371 ter P
+
+Un arrêté préfectoral fixe la liste des membres de la commission départementale des impôts directs locaux, autres que les
+représentants de l'administration fiscale, dès leur désignation dans les conditions prévues aux articles 371 ter N et 371 ter
+O.
+
+Cet arrêté est publié au recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+###### Article 371 ter Q
+
+I.-Il est procédé à une nouvelle désignation lorsqu'un des membres de la commission ou son suppléant démissionne, perd la
+qualité au titre de laquelle il a été désigné ou est hors d'état d'exercer ses fonctions. La personne ainsi désignée exerce
+ses fonctions jusqu'à l'expiration du mandat de la personne qu'elle remplace. La désignation est faite par les personnes et
+dans les conditions prévues à l'article 371 ter N, les délais étant calculés à compter de l'événement qui déclenche une
+nouvelle désignation.
+
+La commission siège valablement durant le temps nécessaire pour pourvoir au remplacement des membres dans les cas prévus au
+premier alinéa.
+
+II.-Il est également procédé à une nouvelle désignation :
+
+a) Des conseillers départementaux en cas de renouvellement général des conseils départementaux ;
+
+b) Des conseillers métropolitains en cas de renouvellement général du conseil de la Métropole de Lyon ;
+
+c) Des conseillers de Paris, des maires, des représentants des établissements publics de coopération intercommunale à
+fiscalité propre et des représentants des contribuables en cas de renouvellement général des conseils municipaux.
+
+La commission suspend ses travaux le vendredi précédant le renouvellement général des conseils départementaux ou municipaux.
+Les travaux de la commission reprennent au plus tard une semaine après la désignation des nouveaux membres de la commission.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+###### Article 371 ter R
+
+I.-La commission est convoquée par son président, soit de sa propre initiative, soit à la demande de la moitié au moins de
+ses membres, soit à la demande du directeur départemental ou, le cas échéant, régional des finances publiques. Les membres de
+la commission sont convoqués au moins huit jours francs avant la date fixée pour la réunion.
+
+Les séances de la commission ne sont pas publiques. Toutefois, le président peut décider d'entendre toute personne pouvant
+apporter des informations utiles à la commission.
+
+II.-La commission ne délibère que si la moitié au moins de ses membres est présente. Dans le cas où le quorum n'est pas
+atteint, il est aussitôt procédé à une nouvelle convocation et, à l'issue d'un délai d'au moins trois jours francs après
+cette dernière, la commission peut délibérer quel que soit le nombre des membres présents.
+
+Les décisions de la commission sont prises à la majorité des suffrages exprimés.
+
+Les représentants de l'administration fiscale prennent part aux votes.
+
+Le président a voix prépondérante en cas de partage égal des voix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+
+### Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels<a id=264></a>
+
+###### Article 371 ter S
+
+I.-Les décisions prises par la commission départementale des valeurs locatives des locaux professionnels en application du 3
+du I de l'article 1504 du code général des impôts ou du II de l'article 1518 ter du même code et par la commission
+départementale des impôts directs locaux en application du II ou du III de l'article 1504 précité sont notifiées :
+
+1° Au président du conseil départemental, ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée
+délibérante de la collectivité territoriale unique, ainsi qu'au président du conseil de la Métropole de Lyon ;
+
+2° Aux maires des communes et aux présidents des établissements publics de coopération intercommunale à fiscalité propre du
+département.
+
+Elles sont transmises sans délai au directeur départemental ou, le cas échéant, régional des finances publiques.
+
+Les décisions prises par la commission départementale des valeurs locatives des locaux professionnels ou la commission
+départementale des impôts directs locaux en application du IV de l'article 1504 du code général des impôts sont également
+notifiées dans les conditions prévues à l'alinéa précédent.
+
+II.-Les arrêtés pris en application du II, du III ou du IV de l'article 1504 précité sont notifiés :
+
+1° Au président du conseil départemental, ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée
+délibérante de la collectivité territoriale unique, ainsi qu'au président du conseil de la Métropole de Lyon ;
+
+2° Aux maires des communes et aux présidents des établissements publics de coopération intercommunale à fiscalité propre du
+département ;
+
+3° Au président de la commission départementale des valeurs locatives des locaux professionnels et au président de la
+commission départementale des impôts directs locaux.
+
+III.
+
+IV.-Les décisions et les arrêtés mentionnés aux I à III sont publiés au recueil des actes administratifs de la préfecture du
+département.
+
+V.-Les notifications et les transmissions prévues par le présent article sont effectuées par voie électronique ou, si
+nécessaire, par lettre recommandée avec demande d'avis de réception ou par voie administrative avec récépissé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-535 du 28 juin 2018 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1504
+  - Code général des impôts, CGI. - art. 1518 ter
+
+
+### Chapitre I ter : Centre de formalités des entreprises<a id=265></a>
 
 ###### Article 371 AI
 
@@ -20667,7 +21117,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
-### Chapitre II : Sociétés immobilières de copropriété<a id=261></a>
+### Chapitre II : Sociétés immobilières de copropriété<a id=266></a>
 
 ###### Article 372
 
@@ -20818,7 +21268,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=262></a>
+### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=267></a>
 
 ###### Article 376
 
@@ -20876,13 +21326,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*81-1 (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=263></a>
+# Livre II : Recouvrement de l'impôt<a id=268></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=264></a>
+## Chapitre premier : Paiement de l'impôt<a id=269></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=265></a>
+### Section I : Impôts directs et taxes assimilées<a id=270></a>
 
-#### 00I : Etablissement et mise en recouvrement des rôles<a id=266></a>
+#### 00I : Etablissement et mise en recouvrement des rôles<a id=271></a>
 
 ###### Article 376-0 bis
 
@@ -20900,7 +21350,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1658
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=267></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=272></a>
 
 ###### Article 376 bis
 
@@ -21086,7 +21536,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=268></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=273></a>
 
 ###### Article 379
 
@@ -21212,7 +21662,7 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=269></a>
+#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=274></a>
 
 ###### Article 382 bis
 
@@ -21301,7 +21751,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 382 quater (V)
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=270></a>
+#### IV : Taxe sur les salaires. Taux majorés<a id=275></a>
 
 ###### Article 383
 
@@ -21336,9 +21786,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=271></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=276></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=272></a>
+#### I : Taxe sur la valeur ajoutée<a id=277></a>
 
 ###### Article 383 ter
 
@@ -21370,11 +21820,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=273></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=278></a>
 
-#### I : Dation en paiement<a id=274></a>
+#### I : Dation en paiement<a id=279></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=275></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=280></a>
 
 ###### Article 384 A
 
@@ -21457,7 +21907,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=276></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=281></a>
 
 ###### Article 384 A bis
 
@@ -21500,7 +21950,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=277></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=282></a>
 
 ###### Article 384 A ter
 
@@ -21545,9 +21995,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-## Chapitre I bis : Pénalités<a id=278></a>
+## Chapitre I bis : Pénalités<a id=283></a>
 
-### Section I : Commission des infractions fiscales<a id=279></a>
+### Section I : Commission des infractions fiscales<a id=284></a>
 
 ###### Article 384 septies-0 A
 
@@ -21674,7 +22124,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=280></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=285></a>
 
 ###### Article 384 septies A
 
@@ -21711,9 +22161,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=281></a>
+## Chapitre II : Procédures<a id=286></a>
 
-### III : Dispositions communes<a id=282></a>
+### III : Dispositions communes<a id=287></a>
 
 ###### Article 396 B
 
@@ -21781,9 +22231,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1912
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=283></a>
+## Chapitre II bis : Sûretés et privilèges<a id=288></a>
 
-### Section I : Publicité du privilège du Trésor<a id=284></a>
+### Section I : Publicité du privilège du Trésor<a id=289></a>
 
 ###### Article 396 bis
 
@@ -21915,9 +22365,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=285></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=290></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=286></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=291></a>
 
 ###### Article 396 duodecies
 
@@ -22060,7 +22510,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=287></a>
+## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=292></a>
 
 ###### Article 408
 
