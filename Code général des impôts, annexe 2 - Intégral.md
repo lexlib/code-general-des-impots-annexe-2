@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2018-10-10
+Version Consolidée au 2018-12-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -196,7 +196,7 @@ Version Consolidée au 2018-10-10
             - [2° : Patrimoine artistique national (art. 310 G)](#193)
       - [Titre V : Dispositions communes aux titres Ier, II et IV (art. 310 G bis à 310 G ter)](#194)
         - [Chapitre unique : Suspension des avantages fiscaux attachés aux dons, legs et versements effectués au profit de certains organismes (art. 310 G bis à 310 G ter)](#195)
-    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 310-0 H à 333 J)](#196)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 310-0 H à 334 A)](#196)
       - [Titre premier : Impositions communales (art. 310-0 H à 317 C)](#197)
         - [Chapitre premier : Impôts directs et taxes assimilées (art. 310-0 H à 317 C)](#198)
           - [Section 0I : Taxes foncières (art. 310-0 H à 310-00 H ter)](#199)
@@ -250,48 +250,50 @@ Version Consolidée au 2018-10-10
               - [3° : Etablissements industriels. (art. 333 D à 333 F)](#247)
               - [4° : Procédure (art. 333 H)](#248)
             - [B : Évaluation des propriétés non bâties. (art. 333 I à 333 J)](#249)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 370 C à 376)](#250)
-      - [Chapitre premier : Obligations des contribuables (art. 370 C à 371)](#251)
-        - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#252)
-        - [Section II : Personnes n'ayant en France ni domicile ni résidence fixe (art. 371)](#253)
-      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z undecies)](#254)
-        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#255)
-        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#256)
-        - [Section III : Organismes mixtes de gestion agréés (art. 371 Z bis à 371 Z undecies)](#257)
-      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis N)](#258)
-      - [Chapitre Ier bis B : Certificateurs à l'étranger (art. 371 ter A à 371 ter H)](#259)
-      - [Chapitre Ier bis C : modalités de mise en place et de fonctionnement des commissions départementales des valeurs locatives des locaux professionnels et des commissions départementales des impôts directs locaux (art. 371 ter I à 371 ter R)](#260)
-        - [Section I : Commissions départementales des valeurs locatives des locaux professionnels (art. 371 ter I à 371 ter M)](#261)
-        - [Section II : Commissions départementales des impôts directs locaux (art. 371 ter N à 371 ter R)](#262)
-      - [Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels (art. 371 ter S)](#263)
-      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#264)
-      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#265)
-      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#266)
-  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#267)
-    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#268)
-      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#269)
-        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#270)
-        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#271)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#272)
-        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#273)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#274)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#275)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#276)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#277)
-        - [I : Dation en paiement (art. 384 A à 384 A ter)](#278)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#279)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#280)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#281)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#282)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#283)
-      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#284)
-    - [Chapitre II : Procédures (art. 396 B à 396 C)](#285)
-      - [III : Dispositions communes (art. 396 B à 396 C)](#286)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#287)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#288)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#289)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#290)
-    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#291)
+      - [Titre V BIS : Dispositions relatives à la mise à jour annuelle des tarifs et des valeurs locatives des locaux professionnels (art. 334 A)](#250)
+        - [Chapitre unique : Mise à jour annuelle (art. 334 A)](#251)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 370 C à 376)](#252)
+      - [Chapitre premier : Obligations des contribuables (art. 370 C à 371)](#253)
+        - [Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés (art. 370 C)](#254)
+        - [Section II : Personnes n'ayant en France ni domicile ni résidence fixe (art. 371)](#255)
+      - [Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales (art. 371 A à 371 Z undecies)](#256)
+        - [Section I : Centres de gestion agréés (art. 371 A à 371 LE)](#257)
+        - [Section II : Associations agréées des professions libérales (art. 371 M à 371 Z)](#258)
+        - [Section III : Organismes mixtes de gestion agréés (art. 371 Z bis à 371 Z undecies)](#259)
+      - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis N)](#260)
+      - [Chapitre Ier bis B : Certificateurs à l'étranger (art. 371 ter A à 371 ter H)](#261)
+      - [Chapitre Ier bis C : modalités de mise en place et de fonctionnement des commissions départementales des valeurs locatives des locaux professionnels et des commissions départementales des impôts directs locaux (art. 371 ter I à 371 ter R)](#262)
+        - [Section I : Commissions départementales des valeurs locatives des locaux professionnels (art. 371 ter I à 371 ter M)](#263)
+        - [Section II : Commissions départementales des impôts directs locaux (art. 371 ter N à 371 ter R)](#264)
+      - [Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels (art. 371 ter S)](#265)
+      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#266)
+      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#267)
+      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#268)
+  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#269)
+    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#270)
+      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#271)
+        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#272)
+        - [0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 376 bis à 376 ter)](#273)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#274)
+        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#275)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#276)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#277)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#278)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#279)
+        - [I : Dation en paiement (art. 384 A à 384 A ter)](#280)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#281)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#282)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#283)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies A)](#284)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#285)
+      - [Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux (art. 384 septies A)](#286)
+    - [Chapitre II : Procédures (art. 396 B à 396 C)](#287)
+      - [III : Dispositions communes (art. 396 B à 396 C)](#288)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#289)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#290)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#291)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#292)
+    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#293)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -18115,11 +18117,69 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L5142-1 (V)
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=250></a>
+### Titre V BIS : Dispositions relatives à la mise à jour annuelle des tarifs et des valeurs locatives des locaux professionnels<a id=250></a>
 
-### Chapitre premier : Obligations des contribuables<a id=251></a>
+#### Chapitre unique : Mise à jour annuelle<a id=251></a>
 
-#### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés<a id=252></a>
+###### Article 334 A
+
+I. - Pour l'application du I de l'article 1518 ter du code général des impôts, les tarifs sont mis à jour chaque année, en
+vue de l'établissement des impositions de l'année suivante, en appliquant des coefficients d'évolution aux derniers tarifs
+publiés.
+
+Pour chaque secteur d'évaluation, le coefficient d'évolution est calculé, pour chaque catégorie, en faisant la moyenne de
+l'évolution annuelle des loyers des trois années précédant l'année de la mise à jour.
+
+L'évolution annuelle des loyers du secteur d'évaluation est appréciée, pour chaque catégorie, en faisant le rapport entre la
+moyenne des loyers de l'année et la moyenne des loyers de l'année précédente. Les loyers retenus pour ce calcul sont ceux qui
+remplissent les conditions prévues au II.
+
+Si le nombre de loyers respectant les conditions mentionnées au II est inférieur à quatre, l'évolution annuelle des loyers
+est appréciée dans les conditions prévues au III.
+
+II. - Pour une année et un secteur d'évaluation donnés, les loyers retenus sont les loyers constatés dans les déclarations
+prévues à l'article 1498 bis pour les locaux professionnels et vérifiant les conditions suivantes :
+
+1° Le loyer correspond à un local dont la surface et la catégorie n'ont pas varié depuis l'année précédente ;
+
+2° Le montant du loyer n'est pas nul ou significativement éloigné du loyer moyen dans le secteur d'évaluation ;
+
+3° Le montant du loyer n'a pas fait l'objet d'une variation supérieure à 10 % depuis l'année précédente.
+
+Chaque loyer est exprimé en euros par mètre carré en faisant le rapport entre le loyer annuel déclaré et la surface pondérée
+du local.
+
+III. - Le coefficient d'évolution départemental mentionné aux deuxième et troisième alinéas du IV de l'article 1518 ter
+précité est calculé en faisant la moyenne des coefficients d'évolution départementaux annuels des trois années précédant
+l'année de la mise à jour.
+
+Le coefficient d'évolution départemental annuel est calculé en faisant le rapport entre la moyenne des loyers de l'année et
+la moyenne des loyers de l'année précédente.
+
+Les loyers retenus sont ceux qui remplissent les conditions du II déterminées au niveau du département et qui, en outre,
+relèvent des catégories qui regroupent le plus grand nombre de locaux professionnels et qui ensemble, représentent au total
+plus de la moitié des locaux du département.
+
+Ce coefficient d'évolution départemental est également appliqué aux valeurs locatives des propriétés bâties évaluées dans les
+conditions prévues au III de l'article 1498 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1092 du 5 décembre 2018 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1498
+  - Code général des impôts, CGI. - art. 1518 ter
+
+
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=252></a>
+
+### Chapitre premier : Obligations des contribuables<a id=253></a>
+
+#### Section I bis : Obligations déclaratives des entreprises d'assurance et organismes assimilés<a id=254></a>
 
 ###### Article 370 C
 
@@ -18215,7 +18275,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 306-0 F (V)
 
 
-#### Section II : Personnes n'ayant en France ni domicile ni résidence fixe<a id=253></a>
+#### Section II : Personnes n'ayant en France ni domicile ni résidence fixe<a id=255></a>
 
 ###### Article 371
 
@@ -18241,9 +18301,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L264-1
 
 
-### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=254></a>
+### Chapitre I bis : Centres de gestion agréés et associations agréées des professions libérales<a id=256></a>
 
-#### Section I : Centres de gestion agréés<a id=255></a>
+#### Section I : Centres de gestion agréés<a id=257></a>
 
 ###### Article 371 A
 
@@ -18895,7 +18955,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-#### Section II : Associations agréées des professions libérales<a id=256></a>
+#### Section II : Associations agréées des professions libérales<a id=258></a>
 
 ###### Article 371 M
 
@@ -19491,7 +19551,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Y (V)
 
 
-#### Section III : Organismes mixtes de gestion agréés<a id=257></a>
+#### Section III : Organismes mixtes de gestion agréés<a id=259></a>
 
 ###### Article 371 Z bis
 
@@ -19891,7 +19951,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z octies (V)
 
 
-### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=258></a>
+### Chapitre Ier bis A : Professionnels de l'expertise comptable<a id=260></a>
 
 ###### Article 371 bis A
 
@@ -20362,7 +20422,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis M (V)
 
 
-### Chapitre Ier bis B : Certificateurs à l'étranger<a id=259></a>
+### Chapitre Ier bis B : Certificateurs à l'étranger<a id=261></a>
 
 ###### Article 371 ter A
 
@@ -20526,9 +20586,9 @@ _Créé par_:
   - Décret n°2016-1356 du 11 octobre 2016 - art. 1
 
 
-### Chapitre Ier bis C : modalités de mise en place et de fonctionnement des commissions départementales des valeurs locatives des locaux professionnels et des commissions départementales des impôts directs locaux<a id=260></a>
+### Chapitre Ier bis C : modalités de mise en place et de fonctionnement des commissions départementales des valeurs locatives des locaux professionnels et des commissions départementales des impôts directs locaux<a id=262></a>
 
-#### Section I : Commissions départementales des valeurs locatives des locaux professionnels<a id=261></a>
+#### Section I : Commissions départementales des valeurs locatives des locaux professionnels<a id=263></a>
 
 ###### Article 371 ter I
 
@@ -20716,7 +20776,7 @@ _Créé par_:
   - Décret n°2018-535 du 28 juin 2018 - art. 1
 
 
-#### Section II : Commissions départementales des impôts directs locaux<a id=262></a>
+#### Section II : Commissions départementales des impôts directs locaux<a id=264></a>
 
 ###### Article 371 ter N
 
@@ -20920,7 +20980,7 @@ _Créé par_:
   - PERIME: Décret n°2020-897 du 22 juillet 2020 - art.
 
 
-### Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels<a id=263></a>
+### Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels<a id=265></a>
 
 ###### Article 371 ter S
 
@@ -20971,7 +21031,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1518 ter
 
 
-### Chapitre I ter : Centre de formalités des entreprises<a id=264></a>
+### Chapitre I ter : Centre de formalités des entreprises<a id=266></a>
 
 ###### Article 371 AI
 
@@ -21286,7 +21346,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
-### Chapitre II : Sociétés immobilières de copropriété<a id=265></a>
+### Chapitre II : Sociétés immobilières de copropriété<a id=267></a>
 
 ###### Article 372
 
@@ -21437,7 +21497,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=266></a>
+### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=268></a>
 
 ###### Article 376
 
@@ -21496,13 +21556,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*81-1 (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=267></a>
+# Livre II : Recouvrement de l'impôt<a id=269></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=268></a>
+## Chapitre premier : Paiement de l'impôt<a id=270></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=269></a>
+### Section I : Impôts directs et taxes assimilées<a id=271></a>
 
-#### 00I : Etablissement et mise en recouvrement des rôles<a id=270></a>
+#### 00I : Etablissement et mise en recouvrement des rôles<a id=272></a>
 
 ###### Article 376-0 bis
 
@@ -21520,7 +21580,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1658
 
 
-#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=271></a>
+#### 0I : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=273></a>
 
 ###### Article 376 bis
 
@@ -21706,7 +21766,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 188 bis (Ab)
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=272></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=274></a>
 
 ###### Article 379
 
@@ -21832,7 +21892,7 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=273></a>
+#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=275></a>
 
 ###### Article 382 bis
 
@@ -21921,7 +21981,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 382 quater (V)
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=274></a>
+#### IV : Taxe sur les salaires. Taux majorés<a id=276></a>
 
 ###### Article 383
 
@@ -21956,9 +22016,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=275></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=277></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=276></a>
+#### I : Taxe sur la valeur ajoutée<a id=278></a>
 
 ###### Article 383 ter
 
@@ -21990,11 +22050,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=277></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=279></a>
 
-#### I : Dation en paiement<a id=278></a>
+#### I : Dation en paiement<a id=280></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=279></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=281></a>
 
 ###### Article 384 A
 
@@ -22079,7 +22139,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=280></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=282></a>
 
 ###### Article 384 A bis
 
@@ -22124,7 +22184,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=281></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=283></a>
 
 ###### Article 384 A ter
 
@@ -22170,9 +22230,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-## Chapitre I bis : Pénalités<a id=282></a>
+## Chapitre I bis : Pénalités<a id=284></a>
 
-### Section I : Commission des infractions fiscales<a id=283></a>
+### Section I : Commission des infractions fiscales<a id=285></a>
 
 ###### Article 384 septies-0 A
 
@@ -22299,7 +22359,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=284></a>
+### Section II : Paiement mensuel de l'impôt sur le revenu et des impôts directs locaux<a id=286></a>
 
 ###### Article 384 septies A
 
@@ -22336,9 +22396,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1730 (VT)
 
 
-## Chapitre II : Procédures<a id=285></a>
+## Chapitre II : Procédures<a id=287></a>
 
-### III : Dispositions communes<a id=286></a>
+### III : Dispositions communes<a id=288></a>
 
 ###### Article 396 B
 
@@ -22406,9 +22466,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1912
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=287></a>
+## Chapitre II bis : Sûretés et privilèges<a id=289></a>
 
-### Section I : Publicité du privilège du Trésor<a id=288></a>
+### Section I : Publicité du privilège du Trésor<a id=290></a>
 
 ###### Article 396 bis
 
@@ -22540,9 +22600,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=289></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=291></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=290></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=292></a>
 
 ###### Article 396 duodecies
 
@@ -22685,7 +22745,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=291></a>
+## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=293></a>
 
 ###### Article 408
 
