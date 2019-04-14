@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-04-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -1349,15 +1349,15 @@ f. Les prix Wolf pour l'agriculture, l'art, la médecine, la physique, la chimie
 g. Les prix Balzan dans la catégorie des lettres, sciences morales et arts et dans la catégorie des sciences physiques,
 naturelles, médicales et mathématiques ;
 
-h. Le Japan Prize en sciences ;
+h. Le Japan Prize en sciences et en technologie ;
 
 i. Les prix Lasker pour la recherche médicale ;
 
 j. Les prix Gairdner pour la recherche médicale ;
 
-k. Les prix de la fondation " Fundamental Physics Prize Foundation " dans le domaine de la physique ;
+k. Les prix Dan David pour les sciences, la technologie et les humanités ;
 
-l. Les prix " Breakthrough Prize in Life Sciences " dans le domaine des sciences de la vie ;
+l. Les prix " Breakthrough Prize " dans le domaine des sciences de la vie, des mathématiques et de la physique fondamentale ;
 
 m. Les prix " Shaw " pour l'astronomie, les sciences de la vie et la médecine, les mathématiques ;
 
@@ -1366,13 +1366,25 @@ n. Le prix " Queen Elizabeth Prize for Engineering " dans le domaine de l'ingén
 o. Le prix " Holberg International Memorial Prize " dans les domaines des humanités, des sciences sociales, des arts, du
 droit et de la théologie ;
 
-p. Les " ENI Awards " dans le domaine de l'énergie et de l'environnement.
+p. Les " ENI Awards " dans le domaine de l'énergie et de l'environnement ;
+
+q. Le prix “ Bower Award and Prize for Achievement in Science ” dans les domaines de la chimie, de l'ingénierie mécanique,
+des sciences cognitives et informatiques, des sciences de la terre et de l'environnement, de l'ingénierie électrique, des
+sciences de la vie et de la physique ;
+
+r. Le prix Massry dans le domaine des sciences biomédicales et de la santé ;
+
+s. Le prix “ Warren Alpert Foundation Prize ” dans le domaine des sciences biomédicales et de la santé ;
+
+t. Le prix “ Millenium Technology Prize ” dans le domaine de la technologie ;
+
+u. Les prix Kavli pour l'astrophysique, les nanosciences et les neurosciences.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-839 du 24 juillet 2014 - art. 1
+  - Décret n°2019-316 du 12 avril 2019 - art. 1
 
 _Cite_:
 
