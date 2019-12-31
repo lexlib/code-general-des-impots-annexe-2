@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-01 00:00:01 +0100
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -21906,8 +21906,12 @@ d'outre-mer, l'inscription est requise, selon le cas, au greffe du tribunal de c
 commercialement ou au greffe du tribunal judiciaire dans le ressort duquel se trouve le principal établissement du redevable.
 
 2. Lorsque la publicité est faite, en application du premier alinéa du 4 de l'article 1929 quater du code général des impôts,
-l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard dans le
-mois qui suit l'expiration du délai de neuf mois.
+l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise dans le mois qui suit le
+semestre civil mentionné au 4 de l'article 1929 quater et au plus tard :
+
+a) Le 31 janvier pour les sommes dues au 31 décembre de l'année précédente ;
+
+b) Le 31 juillet pour les sommes dues au 30 juin de l'année courante ;
 
 3. Pour requérir l'inscription des sommes privilégiées dues au Trésor, le comptable public chargé du recouvrement remet ou
 adresse par lettre recommandée avec demande d'avis de réception, au greffier compétent, un bordereau établi en double
@@ -21919,8 +21923,8 @@ b. Désignation du comptable public requérant ;
 
 c. Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable ;
 
-d. Montant des sommes dues au Trésor au dernier jour de la période de neuf mois prévue au 4 de l'article 1929 quater du code
-général des impôts précédant l'inscription.
+d. Montant des sommes dues au Trésor au dernier jour du semestre civil mentionné au 4 de l'article 1929 quater précédant
+l'inscription.
 
 Le comptable avise le contribuable qu'il a requis une inscription à son encontre.
 
@@ -21929,16 +21933,7 @@ la mention d'inscription qui comprend la date de celle-ci et le numéro sous leq
 portant les mêmes mentions est conservé au greffe pour constituer le registre des inscriptions ; le greffier tient en outre
 un répertoire alphabétique.
 
-5. Lorsqu'un redevable a contesté une imposition ayant fait l'objet d'une inscription et qu'il bénéficie du sursis de
-paiement dans les conditions prévues aux articles L. 277 à L. 279 A du livre des procédures fiscales, il peut faire
-mentionner par le greffier l'existence de la contestation ; cette mention est portée en marge de l'inscription.
-
-Le redevable doit produire à cet effet une attestation délivrée par le comptable chargé du recouvrement de l'imposition
-contestée.
-
-La fraction non encore payée d'une imposition contestée ayant fait l'objet d'une mention au registre public figure d'une
-manière distincte sur le bordereau établi par le comptable en vue d'une nouvelle inscription dans les conditions prévues au
-premier alinéa du 6.
+5. (Abrogé)
 
 6. Chaque nouvelle inscription requise par un même comptable à l'encontre du même redevable rend caduque l'inscription
 précédente.
@@ -21961,7 +21956,7 @@ Le greffier mentionne les radiations en marge de l'inscription correspondante.
 comptable public chargé du recouvrement et attestant la subrogation. Si la créance ayant fait l'objet d'une subrogation est
 comprise dans une inscription, le certificat vaut radiation de cette inscription à due concurrence.
 
-8. Les attestations ou certificats prévus aux 5, 6 et 7 sont remis en double exemplaire ou adressés aux greffiers par lettre
+8. Les attestations ou certificats prévus aux 6 et 7 sont remis en double exemplaire ou adressés aux greffiers par lettre
 recommandée avec demande d'avis de réception.L'un des exemplaires est rendu ou renvoyé à titre de récépissé au requérant,
 après avoir été revêtu, dès réception, d'une mention indiquant la date d'accomplissement de la formalité requise. Le deuxième
 exemplaire est conservé au greffe.
@@ -21971,10 +21966,10 @@ existantes, soit un certificat indiquant qu'il n'existe aucune inscription. Chaq
 nommément désigné.
 
 L'état des inscriptions délivré par le greffier doit comporter l'indication du comptable ou du tiers subrogé ayant requis
-l'inscription, la date de l'inscription, le montant des sommes inscrites et, le cas échéant, les mentions de contestations.
+l'inscription, la date de l'inscription et le montant des sommes inscrites.
 
-10. Le modèle du bordereau prévu au 3, des attestations prévues au 5 et au 6 et du certificat prévu au 7 est fixé par arrêté
-conjoint du ministre chargé du budget et du garde des sceaux, ministre de la justice.
+10. Le modèle du bordereau prévu au 3, de l'attestation prévue au 6 et du certificat prévu au 7 est fixé par arrêté conjoint
+du ministre chargé du budget et du garde des sceaux, ministre de la justice.
 
 11. En cas de destruction totale ou partielle ou de disparition, par suite d'un sinistre ou de tout autre fait, du registre
 de publicité des créances privilégiées du Trésor public mentionné à l'article 1er de la loi n° 71-1029 du 24 décembre 1971,
@@ -22013,7 +22008,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-1473 du 26 décembre 2019 - art. 1
 
 _Cité par_:
 
