@@ -1,14 +1,16 @@
 # Article 275 ter C
 
-L'agrément est délivré par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'industrie publié au
-Journal officiel.
+L'agrément est délivré par décision du directeur interrégional ou du directeur régional des douanes et droits indirects
+compétent, mentionnés à l'article 275 ter B.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2004
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
