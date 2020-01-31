@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2020-01-01 00:00:01 +0100
+Version Consolidée au 2020-02-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -8266,8 +8266,9 @@ _Modifié par_:
 
 I.-La demande d'agrément relatif à l'activité d'opérateur de détaxe mentionnée à l'article 262-0 bis du code général des
 impôts est déposée, par voie électronique ou, en cas de recours à la voie postale, par lettre recommandée avec demande d'avis
-de réception, auprès de la direction générale des douanes et droits indirects. Elle est établie au moyen d'un formulaire dont
-le modèle est fixé par arrêté du ministre chargé des douanes.
+de réception, auprès du directeur interrégional des douanes et droits indirects territorialement compétent ou, en Guadeloupe,
+en Guyane, à La Réunion et à Mayotte, auprès du directeur régional des douanes et droits indirects. Elle est établie au moyen
+d'un formulaire dont le modèle est fixé par arrêté du ministre chargé des douanes.
 
 II.-La demande d'agrément est accompagnée des pièces suivantes :
 
@@ -8284,71 +8285,91 @@ la plate-forme d'échange de données informatisées mentionnée au I de l'artic
 qui concerne, notamment, les standards de communication et de modélisation des messages, les conditions de connexion au
 système informatique de l'administration des douanes et le fonctionnement technique du traitement.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1825 du 28 décembre 2017 - art. 1
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 
 ###### Article 202 F
 
-L'administration des douanes dispose d'un délai de trente jours à compter de la date de l'accusé de réception, électronique
-ou postal, de la demande d'agrément pour se prononcer sur la recevabilité de la demande au regard des pièces fournies ainsi
-que du bulletin n° 2 du casier judiciaire de l'opérateur, dont elle demande communication au service compétent.
+Le directeur interrégional ou le directeur régional des douanes et droits indirects territorialement compétent, mentionné à
+l'article 202 E, dispose d'un délai de trente jours à compter de la date de l'accusé de réception, électronique ou postal, de
+la demande d'agrément pour se prononcer sur la recevabilité de la demande au regard des pièces fournies ainsi que du bulletin
+n° 2 du casier judiciaire de l'opérateur, dont il demande communication au service compétent.
 
-Dans le cas où la demande d'agrément est incomplète, le délai d'obtention fixé par l'administration pour la réception des
-pièces et informations supplémentaires proroge d'autant la période de recevabilité.
+Dans le cas où la demande d'agrément est incomplète, le délai d'obtention fixé par le directeur interrégional ou régional
+territorialement compétent pour la réception des pièces et informations supplémentaires proroge d'autant la période de
+recevabilité.
 
-Si, à l'issue du délai prévu au premier alinéa, l'administration a notifié à l'opérateur qu'elle considère sa demande
-irrecevable, le demandeur bénéficie d'un délai de trente jours à compter de cette notification pour faire valoir ses
-observations écrites ou orales. L'administration se prononce ensuite définitivement sur la recevabilité de la demande.
+Si, à l'issue du délai prévu au premier alinéa, le directeur interrégional ou le directeur régional territorialement
+compétent a notifié à l'opérateur qu'il considère sa demande irrecevable, le demandeur bénéficie d'un délai de trente jours à
+compter de cette notification pour faire valoir ses observations écrites ou orales. Le directeur interrégional ou le
+directeur régional territorialement compétent se prononce ensuite définitivement sur la recevabilité de la demande.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-1825 du 28 décembre 2017 - art. 1
 
 _Cité par_:
 
   - Arrêté du 13 janvier 2018 - art. (V)
+
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 
 ##### B : Certification, audit et délivrance de l'agrément<a id=103></a>
 
 ###### Article 202 G
 
-I.-Lorsque la demande est recevable, les services informatiques de la direction générale des douanes et droits indirects
+I.- Lorsque la demande est recevable, les services informatiques de la direction générale des douanes et droits indirects
 mettent à disposition du demandeur un environnement de certification et une équipe l'accompagne dans le cadre de l'obtention
-de la certification de sa plate-forme informatique. La certification est délivrée par la direction générale des douanes et
-droits indirects.
+de la certification de sa plate-forme informatique. La certification est délivrée par le directeur interrégional ou le
+directeur régional des douanes et droits indirects territorialement compétent, mentionné à l'article 202 E.
 
-II.-L'administration des douanes informe l'intéressé de la programmation d'un audit afin de vérifier que les conditions
-d'obtention de l'agrément sont satisfaites et de s'assurer de la capacité de l'opérateur à respecter les obligations que lui
-impose la réglementation au titre de l'activité de détaxe.
+II.- Le directeur interrégional ou le directeur régional des douanes et droits indirects territorialement compétent,
+mentionné au I, informe l'intéressé de la programmation d'un audit afin de vérifier que les conditions d'obtention de
+l'agrément sont satisfaites et de s'assurer de la capacité de l'opérateur à respecter les obligations que lui impose la
+réglementation au titre de l'activité de détaxe.
 
 L'audit est réalisé, dans les conditions prévues à l'article L. 80 I du livre des procédures fiscales, sur la base de
 critères contenus au sein de grilles d'audit publiées par arrêté du ministre chargé des douanes. Chaque grille détaille
 l'ensemble des spécifications nécessaires au bon fonctionnement de l'activité d'opérateur de détaxe.
 
-III.-La décision d'agrément est prise par le ministre chargé des douanes. Elle est rendue sur la base des résultats de
-l'audit mené par les services de l'administration des douanes.
+III.-La décision d'agrément est prise par le directeur interrégional ou le directeur régional des douanes et droit indirects
+territorialement compétent, mentionné au I. Elle est rendue sur la base des résultats de l'audit mené par les services de
+l'administration des douanes.
 
 La décision d'agrément est prise dans un délai de cent vingt jours à compter de la délivrance de la certification
 informatique. Elle est accompagnée du rapport d'audit.
 
-Ce délai peut être prorogé de soixante jours par décision expresse de l'administration des douanes, en cas d'impossibilité
-pour elle d'effectuer l'audit prévu à l'article 202 F dans le délai précité.
+Ce délai peut être prorogé de soixante jours par décision expresse du directeur interrégional ou du directeur régional des
+douanes et droits indirects territorialement compétent, mentionné au I, en cas d'impossibilité pour lui d'effectuer l'audit
+prévu à l'article 202 F dans le délai précité.
 
-Sous réserve des dispositions du troisième alinéa du présent III, le défaut de réponse de l'administration dans le délai
-prévu aux deuxième et troisième alinéas vaut acceptation.
+Sous réserve des dispositions du troisième alinéa du présent III, le défaut de réponse de l'autorité compétente pour délivrer
+l'agrément dans le délai prévu aux deuxième et troisième alinéas vaut acceptation.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-1825 du 28 décembre 2017 - art. 1
 
 _Cité par_:
 
@@ -8356,6 +8377,10 @@ _Cité par_:
   - Arrêté du 13 janvier 2018 - art. (V)
   - Arrêté du 13 janvier 2018 - art. 1
   - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies L (V)
+
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 
 ###### Article 202 H
@@ -8606,19 +8631,26 @@ trimestriels issus du système informatique douanier dédié à la détaxe.
 Les manquements prévus au 2 du présent article sont constatés à l'occasion de leurs contrôles par les agents des douanes ou
 lors d'audits de suivi.
 
-Les amendes sont prononcées par le ministre chargé des douanes. Elles ne peuvent être prononcées avant l'expiration d'un
-délai de trente jours à compter de la notification du document par lequel l'administration a fait connaître à l'opérateur
-concerné la sanction qu'elle se propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé de
-présenter dans ce délai ses observations. Elles sont recouvrées selon les règles, privilèges et garanties applicables en
-matière douanière.
+Les amendes sont prononcées par le directeur interrégional des douanes et droits indirects territorialement compétent ou, en
+Guadeloupe, en Guyane, à La Réunion et à Mayotte, par le directeur régional des douanes et droits indirects. Elles ne peuvent
+être prononcées avant l'expiration d'un délai de trente jours à compter de la notification du document par lequel
+l'administration a fait connaître à l'opérateur concerné la sanction qu'elle se propose d'appliquer, les motifs de celle-ci
+et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations. Elles sont recouvrées selon les
+règles, privilèges et garanties applicables en matière douanière.
 
 Dans les deux cas, l'accès au dossier concernant l'intéressé a lieu à la demande écrite de ses représentants légaux.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1825 du 28 décembre 2017 - art. 1
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 
 ##### G : Suspension et retrait de l'agrément<a id=108></a>
@@ -8626,14 +8658,16 @@ _Créé par_:
 ###### Article 202 M
 
 Lorsque l'opérateur de détaxe ne remplit plus l'une ou plusieurs des conditions auxquelles a été soumise la délivrance de
-l'agrément ou qu'il apparaît qu'il n'est plus en mesure de se conformer aux obligations qui lui incombent, l'administration
-des douanes l'informe de son intention de suspendre l'agrément et des motifs qui justifient cette suspension.
+l'agrément ou qu'il apparaît qu'il n'est plus en mesure de se conformer aux obligations qui lui incombent, le directeur
+interrégional ou le directeur régional des douanes et droits indirects ayant délivré l'agrément, mentionné à l'article 202 G,
+l'informe de son intention de suspendre l'agrément et des motifs qui justifient cette suspension.
 
 Le titulaire dispose d'un délai de trente jours à compter de la communication des motifs de la suspension envisagée pour se
 mettre en conformité avec les obligations en cause ou pour faire valoir ses observations, écrites ou orales.
 
-Si, à l'issue de ce délai de trente jours, les conditions du maintien de l'agrément ne sont pas réunies, l'administration des
-douanes suspend l'agrément. La période de suspension prononcée par l'administration ne peut excéder une année.
+Si, à l'issue de ce délai de trente jours, les conditions du maintien de l'agrément ne sont pas réunies, le directeur
+interrégional ou le directeur régional des douanes et droits indirects ayant délivré l'agrément, mentionné à l'article 202 G,
+suspend l'agrément. La période de suspension prononcée par l'administration ne peut excéder une année.
 
 En cas de suspension, le titulaire de l'agrément a interdiction d'émettre des bordereaux de vente à l'exportation. Il reste
 néanmoins tenu aux obligations qui lui incombent au titre des bordereaux émis précédemment.
@@ -8642,26 +8676,33 @@ Dès réception de la décision de suspension, l'opérateur de détaxe prévient
 état afin que ces derniers ne produisent plus, par son intermédiaire, de bordereaux de vente à l'exportation, quelle que soit
 leur forme.
 
-Lorsqu'elle est saisie par l'opérateur de détaxe qui estime être à nouveau en conformité, l'administration procède à un audit
-de suivi pour vérifier le respect par l'opérateur des critères requis pour l'exercice de son activité, et, si tel est le cas,
-pour lever la suspension. La durée de validité de l'agrément intègre les périodes durant lesquelles l'agrément de l'opérateur
-a été suspendu
+Lorsque l'administration est saisie par l'opérateur de détaxe qui estime être à nouveau en conformité, la décision de lever
+la suspension de l'agrément est prise par le directeur interrégional ou le directeur régional, mentionné au I, après qu'un
+audit de suivi a pu établir le respect, par l'opérateur, des critères requis pour l'exercice de son activité. La durée de
+validité de l'agrément intègre les périodes durant lesquelles l'agrément de l'opérateur a été suspendu
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-1825 du 28 décembre 2017 - art. 1
 
 _Cité par_:
 
   - Arrêté du 13 janvier 2018 - art. (V)
 
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
+
 
 ###### Article 202 N
 
-L'agrément peut être retiré par décision du ministre chargé des douanes si l'opérateur de détaxe ne s'est pas mis en
-conformité avec ses obligations durant le délai de suspension de son agrément.
+L'agrément peut être retiré par décision du directeur interrégional ou le directeur régional des douanes et droits indirects,
+mentionné à l'article 202 G, si l'opérateur de détaxe ne s'est pas mis en conformité avec ses obligations durant le délai de
+suspension de son agrément.
 
 L'agrément ne peut être retiré qu'après que son titulaire a été informé des raisons qui motivent ce retrait. Ce dernier
 bénéficie d'un délai de trente jours, à compter de la communication de ces motifs, pour faire valoir ses observations écrites
@@ -8677,33 +8718,46 @@ forme.
 En cas de retrait, le demandeur ne peut présenter de nouvelle demande d'agrément dans un délai d'un an à compter de la
 notification de ce retrait.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-1825 du 28 décembre 2017 - art. 1
 
 _Cité par_:
 
   - Arrêté du 13 janvier 2018 - art. (V)
 
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
+
 
 ###### Article 202 O
 
-Si l'opérateur de détaxe souhaite cesser son activité, il en informe le ministre chargé des douanes, au plus tard trois mois
-avant la date de fin de l'activité.
+Si l'opérateur de détaxe souhaite cesser son activité, il en informe le directeur interrégional ou le directeur régional des
+douanes et droits indirects ayant délivré l'agrément, mentionné à l'article 202 G, au plus tard trois mois avant la date de
+fin de l'activité.
 
-L'administration des douanes accuse réception de la demande et enregistre une date de fin de validité de l'agrément détenu
-par l'opérateur de détaxe, correspondant à la date de fin d'activité déclarée par ce dernier.
+Ce dernier accuse réception de la demande et enregistre une date de fin de validité de l'agrément détenu par l'opérateur de
+détaxe, correspondant à la date de fin d'activité déclarée par ce dernier.
 
 L'opérateur de détaxe reste tenu à ses obligations pendant une durée de sept mois à compter de la date d'émission de chacun
 des bordereaux de vente à l'exportation précédemment émis.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1825 du 28 décembre 2017 - art. 1
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 
 ##### Section III : Liquidation de la taxe<a id=109></a>
@@ -11992,31 +12046,33 @@ _Cite_:
 
 ###### Article 275 bis F
 
-La garantie du titre est attestée : 
+La garantie du titre est attestée :
 
 1° Par l'apposition d'un poinçon de garantie métallique mentionné au a de l'article 523 du code général des impôts. Les
 poinçons sont remis par la Monnaie de Paris au professionnel habilité qui s'assure de leur bon état et de leur correcte
 conservation. Les poinçons usés sont renvoyés à la direction régionale des douanes et des droits indirects territorialement
-compétente dans le ressort de laquelle le professionnel habilité exerce son activité. 
+compétente dans le ressort de laquelle le professionnel habilité exerce son activité.
 
 Toute disparition ou tout incident lié à la conservation d'un poinçon de garantie métallique est immédiatement signalé par le
 professionnel habilité à la direction régionale des douanes et droits indirects mentionnée au premier alinéa du 1° qui
 procède alors à une enquête. Pendant la durée de l'enquête, l'application de la convention est suspendue. Il appartient au
 professionnel habilité, pendant ce délai, de faire apposer le poinçon par un bureau de garantie ou un organisme de contrôle
 agréé mentionné à l'article 535 du code général des impôts. Si la responsabilité du professionnel habilité est établie à
-l'issue de cette enquête, la convention peut être résiliée ; 
+l'issue de cette enquête, la convention peut être résiliée ;
 
 2° Ou par le marquage au laser, conformément au b de l'article 523 du code général des impôts en utilisant des fichiers
 informatiques supportant la version dématérialisée des poinçons. Ces fichiers sont élaborés, vendus et transférés dans les
-locaux du professionnel habilité par des organismes agréés par le ministre chargé du budget et par le ministre chargé de
-l'industrie sur la base d'un dossier attestant de leur compétence, de leur expérience et de leur honorabilité. Un cahier des
-charges arrêté par ces ministres définit les missions de ces organismes, notamment la vérification de la mise en place et la
-conformité du protocole de sécurité informatique imposé aux professionnels qui demandent l'autorisation d'attester la
-garantie du titre par marquage au laser d'un poinçon, et les conditions d'exercice de ces missions. 
+locaux du professionnel habilité par des organismes agrééspar le directeur interrégional des douanes et droits indirects
+territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, par le directeur régional des douanes et
+droits indirects sur la base d'un dossier attestant de leur compétence, de leur expérience et de leur honorabilité. Un cahier
+des charges arrêté par le ministre chargé des douanes et le ministre chargé de l'industrie définit les missions de ces
+organismes, notamment la vérification de la mise en place et la conformité du protocole de sécurité informatique imposé aux
+professionnels qui demandent l'autorisation d'attester la garantie du titre par marquage au laser d'un poinçon, et les
+conditions d'exercice de ces missions.
 
 Le professionnel habilité s'assure du bon état des fichiers et de leur correcte conservation. Tout fichier dont le
 fonctionnement est devenu défectueux est signalé à la direction régionale des douanes territorialement compétente dans le
-ressort de laquelle le professionnel habilité exerce son activité. 
+ressort de laquelle le professionnel habilité exerce son activité.
 
 Tout incident relatif à la protection des fichiers ou toute constatation de duplication ou de disparition de ces fichiers
 doit être immédiatement signalé par le professionnel habilité à la direction régionale des douanes et droits indirects
@@ -12024,6 +12080,12 @@ mentionnée au premier alinéa du 2° qui procède alors à une enquête. Pendan
 convention est suspendue. Il appartient au professionnel habilité, pendant ce délai, de faire apposer le poinçon par un
 bureau de garantie ou un organisme de contrôle agréé mentionné à l'article 535 du code général des impôts. Si la
 responsabilité du professionnel habilité est établie à l'issue de cette enquête, la convention peut être résiliée.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -12033,7 +12095,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-247 du 21 février 2012 - art. 4
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 _Cité par_:
 
@@ -12045,8 +12107,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 523 (V)
-  - Code général des impôts, CGI. - art. 535 (V)
+  - Code général des impôts, CGI. - art. 523
+  - Code général des impôts, CGI. - art. 535
 
 
 ###### Article 275 bis G
@@ -12214,8 +12276,9 @@ _Modifié par_:
 
 ###### Article 275 ter B
 
-La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits
-indirects et de la direction générale des entreprises qui l'instruisent conjointement.
+La demande d'agrément en qualité d'organisme de contrôle est déposée auprès du directeur interrégional des douanes et droits
+indirects territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, du directeur régional des
+douanes et droits indirects.
 
 Est joint à la demande d'agrément un cahier des charges décrivant l'organisation de l'organisme de contrôle, la procédure et
 les méthodes de contrôle et d'essai permettant de s'assurer du titre des ouvrages, les méthodes utilisées pour attester la
@@ -12233,13 +12296,15 @@ général des impôts est accordée par le directeur interrégional des douanes 
 
 **Nota:**
 
-
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-935 du 7 juillet 2016 - art. 8 (V)
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 _Cité par_:
 
@@ -12253,31 +12318,39 @@ _Cite_:
 
 ###### Article 275 ter C
 
-L'agrément est délivré par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'industrie publié au
-Journal officiel.
+L'agrément est délivré par décision du directeur interrégional ou du directeur régional des douanes et droits indirects
+compétent, mentionnés à l'article 275 ter B.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-661 du 6 juillet 2004 - art. 1 () JORF 8 juillet 2004 en vigueur le 1er juillet 2004
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2004
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 
 ###### Article 275 ter D
 
-Le retrait de l'agrément est prononcé par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'industrie
-et mentionné au Journal officiel. L'arrêté de retrait d'agrément est motivé. Le retrait peut intervenir à la demande de
-l'organisme. Il peut également être décidé d'office par l'administration si l'organisme ne remplit plus les conditions
-auxquelles était subordonné l'agrément ou s'il a manqué aux obligations résultant des articles 275 ter à 275 ter P. Dans ce
-cas, l'organisme est préalablement informé des motifs susceptibles d'entraîner le retrait de l'agrément et est mis à même de
-présenter ses observations dans un délai de trente jours.
+Le retrait de l'agrément est prononcé par décision motivée du directeur interrégional ou du directeur régional des douanes et
+droits indirects compétent, mentionnés à l'article 275 ter B. Le retrait peut intervenir à la demande de l'organisme. Il peut
+également être décidé d'office par l'administration si l'organisme ne remplit plus les conditions auxquelles était subordonné
+l'agrément ou s'il a manqué aux obligations résultant des articles 275 ter à 275 ter P. Dans ce cas, l'organisme est
+préalablement informé des motifs susceptibles d'entraîner le retrait de l'agrément et est mis à même de présenter ses
+observations dans un délai de trente jours.
 
 Lorsqu'un organisme ne remplit plus les conditions prévues par les articles 275 ter à 275 ter P, il est tenu de demander le
 retrait de son agrément et de cesser sans délai d'attester la garantie du titre.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -12287,24 +12360,27 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-247 du 21 février 2012 - art. 12
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 
 ###### Article 275 ter E
 
-Les organismes de contrôle agréés sont placés sous le contrôle du directeur général des douanes et droits indirects et du
-directeur général des entreprises qui peuvent, l'un ou l'autre, sans délai, à titre conservatoire, suspendre l'agrément d'un
-organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait est immédiatement engagée.
+Les organismes de contrôle agréés sont placés sous le contrôle du directeur interrégional ou du directeur régional des
+douanes et droits indirects compétent, mentionnés à l'article 275 ter B, qui peut, sans délai, à titre conservatoire,
+suspendre l'agrément d'un organisme de contrôle qui ne respecte pas ses obligations. La procédure de retrait est
+immédiatement engagée.
 
 **Nota:**
 
-Modification effectuée en conséquence du décret n° 2014-1048 du 15 septembre 2014, article 4.
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 2
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 
 ###### Article 275 ter G
@@ -12316,12 +12392,18 @@ signe caractéristique spécifique à l'ensemble des organismes de contrôle agr
 
 2° Ou le marquage au laser, conformément au b de l'article 523 du code général des impôts, en utilisant des fichiers
 informatiques supportant la version dématérialisée des poinçons. Ces fichiers sont élaborés, vendus et transférés dans les
-locaux de l'organisme de contrôle agréé par des organismes qui sont agréés par le ministre chargé du budget et par le
-ministre chargé de l'industrie sur la base d'un dossier attestant de leur compétence, de leur expérience et de leur
-honorabilité. Un cahier des charges arrêté par ces ministres définit les missions de ces organismes, notamment la
-vérification de la mise en place et la conformité du protocole de sécurité informatique imposé aux professionnels qui
-demandent l'autorisation d'attester la garantie du titre par marquage au laser d'un poinçon, et les conditions d'exercice de
-ces missions.
+locaux de l'organisme de contrôle agréé par des organismes qui sont agréés par le directeur interrégional ou régional
+compétent, mentionnés au 2° de l'article 275 bis F, sur la base d'un dossier attestant de leur compétence, de leur expérience
+et de leur honorabilité. Un cahier des charges arrêté par le ministre chargé des douanes et le ministre chargé de l'industrie
+définit les missions de ces organismes, notamment la vérification de la mise en place et la conformité du protocole de
+sécurité informatique imposé aux professionnels qui demandent l'autorisation d'attester la garantie du titre par marquage au
+laser d'un poinçon, et les conditions d'exercice de ces missions.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -12331,7 +12413,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-247 du 21 février 2012 - art. 14
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 _Cité par_:
 
@@ -14160,17 +14242,33 @@ de l'annexe II au même code ;
 
 63° Autorisation de refonte d'ouvrages aux titres légaux destinés à une commercialisation en dehors du territoire français
 sans apposition des poinçons réglementaires, en application de l'article 543 du code général des impôts et de l'article 208
-de l'annexe I au même code.
+de l'annexe I au même code ;
+
+64° Agrément des commissionnaires en garantie prévu à l'article 535 du code général des impôts ainsi qu'au premier alinéa de
+l'article 56 J septies et aux premier et troisième alinéas de l'article 56 J octies de l'annexe IV à ce code ;
+
+65° Délivrance, suspension et retrait de l'agrément des organismes chargés de l'élaboration, de la vente et du transfert des
+fichiers informatiques supportant la version dématérialisée des poinçons de garantie prévus aux articles 275 bis F et 275 ter
+G de la présente annexe et aux articles 56 J terdecies A à 56 J terdecies E de l'annexe IV ;
+
+66° Délivrance, suspension et retrait de l'agrément des organismes de contrôle chargés d'attester la garantie du titre des
+ouvrages en métaux précieux prévus à l'article 535 II du code général des impôts et aux articles 275 ter à 275 ter P de la
+présente annexe ;
+
+67° Délivrance du numéro d'agrément des personnes responsables de l'embouteillage du produit prévue à l'article 111 I de
+l'annexe III au code général des impôts et au a de l'article 50-0 C de l'annexe IV.
 
 **Nota:**
 
-Modification effectuée en conséquence du décret n° 2017-1284 du 9 août 2017 (art. 1er).
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 3
+  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 _Cite_:
 
