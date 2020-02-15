@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2020-02-01
+Version Consolidée au 2020-02-16
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -35,7 +35,7 @@ Version Consolidée au 2020-02-01
               - [6 : Contrôle des revenus mobiliers. Obligations des collectivités émettrices et des intermédiaires (art. 57 à 60)](#32)
               - [7 : Sociétés de capital-risque. Obligations des actionnaires (art. 60 A à 60 B)](#33)
             - [V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 74-0 B à 74 SJ)](#34)
-              - [1 : Valeurs mobilières, droits sociaux et titres assimilés (art. 74-0 B à 74-0 Q)](#35)
+              - [1 : Valeurs mobilières, droits sociaux et titres assimilés (art. 74-0 B à 74-0 P)](#35)
               - [2 : Biens et droits mobiliers ou immobiliers (art. 74 SA à 74 SJ)](#36)
             - [VI : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité (art. 74 S bis à 74 S ter)](#37)
           - [Section II : Revenu global (art. 75 à 91 quinquies)](#38)
@@ -2167,23 +2167,19 @@ _Créé par_:
 ###### Article 74-0 E bis
 
 En cas de cession de titres après leur retrait d'un plan d'épargne en actions défini à l'article 163 quinquies D du code
-général des impôts dans les conditions prévues à la deuxième phrase du 2 du II de l'article 150-0 A du même code, leur prix
+général des impôts dans les conditions prévues à la troisième phrase du 2 du II de l'article 150-0 A du même code, leur prix
 d'acquisition est réputé égal à leur valeur à la date de ce retrait.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-1649 du 26 décembre 2005 - art. 1 () JORF 28 décembre 2005
+  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 150-0 A (V)
-  - Code général des impôts, CGI. - art. 163 quinquies D (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - Code général des impôts, CGI. - art. 150-0 A
+  - Code général des impôts, CGI. - art. 163 quinquies D
 
 
 ###### Article 74-0 E ter
@@ -2234,14 +2230,18 @@ _Cite_:
 
 Les contribuables qui réalisent des opérations imposables en application de l'article 150-0 A du code général des impôts sont
 tenus de souscrire, dans le délai prévu à l'article 175 du même code, une déclaration spéciale des plus-values sur une
-formule délivrée par l'administration indiquant : 
+formule délivrée par l'administration indiquant :
 
-a) Abrogé ; 
+a) Abrogé ;
 
-b) Le montant du gain net ou de la distribution imposable assorti des éléments nécessaires à sa détermination ; 
+b) Le montant du gain net ou de la distribution imposable assorti des éléments nécessaires à sa détermination ;
 
-c. Le montant des abattements prévus au 1 de l'article 150-0 D et à l'article 150-0 D ter du code général des impôts ainsi
-que les éléments nécessaires à leur détermination. 
+b bis) Le montant de la soulte éventuellement perçue lors de l'opération d'échange ou d'apport réalisée dans les conditions
+prévues à l'article 150-0 B du code général des impôts, ainsi que le montant de la soulte imposable au titre de cette
+opération ;
+
+c) Le cas échéant, le montant des abattements prévus au 1 de l'article 150-0 D et à l'article 150-0 D ter du code général des
+impôts ainsi que les éléments nécessaires à leur détermination.
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en fournissant, pour les titres en dépôt ou inscrits en
 compte auprès d'un intermédiaire habilité, un document établi par ce dernier et faisant apparaître les mêmes éléments. La
@@ -2254,7 +2254,7 @@ D ter du code précité.
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 2
+  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cité par_:
 
@@ -2264,7 +2264,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 K (Ab)
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 L bis (Ab)
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 M (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater J (M)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater J (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies G bis (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 quatervicies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 quinvicies (V)
@@ -2272,10 +2272,10 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 150-0 A
-  - Code général des impôts, CGI. - art. 150-0 D (V)
-  - Code général des impôts, CGI. - art. 150-0 D ter (V)
+  - Code général des impôts, CGI. - art. 150-0 D
+  - Code général des impôts, CGI. - art. 150-0 D ter
   - Code général des impôts, CGI. - art. 175
-  - Code général des impôts, CGI. - art. 199 terdecies-0 A (V)
+  - Code général des impôts, CGI. - art. 199 terdecies-0 A
 
 
 ###### Article 74-0 F bis
@@ -2482,21 +2482,22 @@ _Cité par_:
 ###### Article 74-0 N
 
 1. L'état prévu au 2 de l'article 74-0 M, établi sur une formule délivrée par l'administration, fait apparaître, pour chaque
-plus-value dont le report n'est pas expiré : 
+plus-value dont le report n'est pas expiré :
 
-a) La nature et la date de l'opération ainsi que le régime d'imposition applicable ; 
+a) La nature et la date de l'opération ainsi que le régime d'imposition applicable ;
 
-b) La désignation des sociétés concernées ; 
+b) La désignation des sociétés concernées ;
 
-c) Le montant de ces plus-values au 31 décembre de l'année d'imposition et au 31 décembre de l'année précédente ; 
+c) Le montant de ces plus-values au 31 décembre de l'année d'imposition et au 31 décembre de l'année précédente ;
 
-d) La nature et la date de l'événement ayant entraîné la modification de ce montant ; 
+d) La nature et la date de l'événement ayant entraîné la modification de ce montant ;
 
 e) Le cas échéant, la désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange de titres
-ainsi que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange. 
+ainsi que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange.
 
 2. Pour l'application du 2° du I de l'article 150-0 B ter du code général des impôts, les contribuables joignent, le cas
-échéant, à la formule prévue au 1 une copie des attestations mentionnées à l'article 74-0 L.
+échéant, à la formule prévue au 1 une copie des attestations mentionnées à l'article 41 quatervicies A de l'annexe III à ce
+même code.
 
 **Liens relatifs à cet article**
 
@@ -2506,17 +2507,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-177 du 22 février 2016 - art. 1
+  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 L (Ab)
-  - Code général des impôts, CGI. - art. 150-0 B ter (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 L
+  - Code général des impôts, CGI. - art. 150-0 B ter
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 M (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 O (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 O (M)
 
 
 ###### Article 74-0 O
@@ -2562,31 +2563,6 @@ Modification effectuée en conséquence de la loi n° 2017-1837 du 30 décembre 
 _Modifié par_:
 
   - Décret n°2018-500 du 20 juin 2018 - art. 3
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 150-0 D ter
-
-
-###### Article 74-0 Q
-
-Les conditions d'effectif, de chiffre d'affaires ou de total de bilan mentionnées au a du 3° du II de l'article 150-0 D ter
-du code général des impôts sont déterminées sur la base des comptes de la société dont les titres ou droits sont cédés. Si
-cette société établit des comptes consolidés, les conditions précitées sont déterminées sur la base de ces comptes.
-
-**Nota:**
-
-Modification effectuée en conséquence de la loi n° 2017-1837 du 30 décembre 2017 (art. 28-I-17° et VI C).
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-500 du 20 juin 2018 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cite_:
 
@@ -3561,94 +3537,107 @@ _Cite_:
 
 ###### Article 91 quater G
 
-L'organisme auprès duquel un plan d'épargne en actions est ouvert adresse au service d'assiette dont relève sa résidence,
-avant le 16 février de chaque année, les renseignements suivants relatifs à l'année précédente en les mentionnant sur la
-déclaration prévue au 1 de l'article 242 ter du code général des impôts : 
+L'organisme auprès duquel un plan d'épargne en actions mentionné à l'article 163 quinquies D du code général des impôts est
+ouvert adresse au service d'assiette dont relève sa résidence, avant le 16 février de chaque année, les renseignements
+suivants relatifs à l'année précédente en les mentionnant sur la déclaration prévue au 1 de l'article 242 ter du même code :
 
-a) Les nom, prénom et adresse du titulaire ; 
+a) Les nom, prénom et adresse du titulaire ;
 
-b) Les références du plan ; 
+b) Les références du plan ;
 
-c) La date d'ouverture du plan. 
+c) La date d'ouverture du plan.
 
 L'organisme fait également figurer distinctement la date du premier retrait de sommes ou de valeurs figurant sur le plan ou
-celle du premier rachat du contrat de capitalisation. 
+celle du premier rachat du contrat de capitalisation.
 
 En cas de clôture du plan avant ou, dans les conditions prévues au 2 bis du II de l'article 150-0 A du code général des
-impôts, après l'expiration de la cinquième année, il indique : 
+impôts, après l'expiration de la cinquième année ou, en l'absence de clôture du plan, en cas de retrait ou rachat effectué
+sur celui-ci dans les conditions prévues au  troisième alinéa du II de l'article L. 221-32 du code monétaire et financier ou
+au IV du même article, il indique :
 
-a. La valeur liquidative du plan ou la valeur de rachat du contrat de capitalisation à la date de clôture, diminuée des
-sommes ou valeurs correspondant à des retraits ou à des rachats réalisés, concomitamment à la clôture, en vue de la création
-ou de la reprise d'une entreprise ; 
+a. La valeur liquidative du plan ou la valeur de rachat du contrat de capitalisation à la date de clôture ou de retrait ou
+rachat, diminuée des sommes ou valeurs correspondant à des retraits ou à des rachats réalisés, concomitamment à la clôture ou
+au retrait ou rachat mentionné à l'alinéa précédent, en vue de la création ou de la reprise d'une entreprise ;
 
 b. Le montant cumulé des versements effectués depuis l'ouverture du plan, diminué du montant des versements correspondant à
-des retraits ou rachats n'entraînant pas la clôture de ce plan. 
+de précédents retraits ou rachats n'entraînant pas la clôture de ce plan ;
 
-L'organisme indique distinctement le montant des produits procurés par les placements effectués en actions ou parts de
-sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à l'exception des intérêts versés, dans les
-conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, aux titres de
-capital de sociétés régies par cette loi.
+c. Le montant du retrait ou du rachat effectué dans les conditions prévues au  troisième alinéa du II de l'article L. 221-32
+du code monétaire et financier ou au IV du même article.
+
+L'organisme indique distinctement le montant des produits procurés par des placements pour lesquels, en vertu du  5° bis de
+l'article 157 du code général des impôts , l'exonération est susceptible d'être limitée. L'organisme indique également
+distinctement le montant de la cession ou du retrait des obligations remboursables en actions ou des actions reçues en
+remboursement.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2020-122 du 13 février 2020, les dispositions de la deuxième phrase du dernier alinéa
+de l'article 91 quater G, dans sa rédaction issue du f du 6° de l'article 1er du présent décret, s'applique à compter du
+dépôt de la déclaration prévue au 1 de l'article 242 ter du code général des impôts au titre des revenus perçus en 2020.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°47-1775 du 10 septembre 1947 - art. 14 (V)
-  - Code général des impôts, CGI. - art. 150-0 A (VT)
-  - Code général des impôts, CGI. - art. 242 ter (V)
-
 _Modifié par_:
 
-  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cité par_:
 
   - Code monétaire et financier - art. D221-113-7 (V)
 
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 150-0 A
+  - Code général des impôts, CGI. - art. 157
+  - Code général des impôts, CGI. - art. 163 quinquies D
+  - Code monétaire et financier - art. L221-32
+
 
 ###### Article 91 quater H
 
-Le titulaire d'un plan d'épargne en actions détermine à partir de la valeur d'acquisition ou de souscription des titres
-concernés le montant des produits, qui ne bénéficient pas de l'exonération prévue au 5° bis de l'article 157 du code général
-des impôts, et fait apparaître distinctement le revenu correspondant sur la déclaration prévue au 1 de l'article 170 du même
-code.
+Le titulaire d'un plan d'épargne en actions mentionné à l'article 163 quinquies D du code général des impôts détermine à
+partir de la valeur d'acquisition ou de souscription des titres concernés le montant des produits et des plus-values, qui ne
+bénéficient pas de l'exonération prévue au 5° bis de l'article 157 du code général des impôts, et fait apparaître
+distinctement le revenu correspondant sur la déclaration prévue au 1 de l'article 170 du même code.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 157 (V)
-  - Code général des impôts, CGI. - art. 170 (V)
+  - Code général des impôts, CGI. - art. 157
+  - Code général des impôts, CGI. - art. 163 quinquies D
+  - Code général des impôts, CGI. - art. 170
 
 
 ###### Article 91 quater I
 
-Le transfert d'un plan d'épargne en actions d'un organisme gestionnaire à un autre ne constitue pas un retrait si le
-titulaire remet au premier organisme gestionnaire un certificat d'identification du plan sur lequel le transfert doit avoir
-lieu ; ce certificat est établi par l'organisme auprès duquel le plan est transféré. 
+Le transfert d'un plan d'épargne en actions mentionné à l' article 163 quinquies D du code général des impôts  d'un organisme
+gestionnaire à un autre ne constitue pas un retrait si le titulaire remet au premier organisme gestionnaire un certificat
+d'identification du plan sur lequel le transfert doit avoir lieu ; ce certificat est établi par l'organisme auprès duquel le
+plan est transféré.
 
-Dans ce cas, le premier organisme gestionnaire communique au nouveau gestionnaire : 
+Dans ce cas, le premier organisme gestionnaire communique au nouveau gestionnaire :
 
-a. La date d'ouverture du plan ; 
+a. La date d'ouverture du plan ;
 
 b. Le montant cumulé des versements effectués sur le plan, diminué du montant des versements correspondant aux retraits ou
-rachats effectués précédemment au transfert du plan et n'ayant pas entraîné sa clôture ; 
+rachats effectués précédemment au transfert du plan et n'ayant pas entraîné sa clôture ;
 
-c. Les renseignements mentionnés à l'article R. 96 D-1 du livre des procédures fiscales ; 
+c. Les renseignements mentionnés à l'article R. 96 D-1 du livre des procédures fiscales ;
 
-d. Les renseignements nécessaires au nouveau gestionnaire pour la détermination de l'assiette et du montant de la
-contribution sociale généralisée, de la contribution pour le remboursement de la dette sociale, du prélèvement social et de
-la contribution additionnelle à ce prélèvement qui seront, le cas échéant, dus ultérieurement.
+d. Les renseignements nécessaires au nouveau gestionnaire pour la détermination de l'assiette et du montant des prélèvements
+sociaux qui seront, le cas échéant, dus ultérieurement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-567 du 17 avril 2007 - art. 1 () JORF 19 avril 2007
+  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cité par_:
 
@@ -3656,15 +3645,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. R96 D-1 (V)
+  - Code général des impôts, CGI. - art. 163 quinquies D
+  - Livre des procédures fiscales - art. R96 D-1
 
 
 ###### Article 91 quater J
 
 Le gain net défini au 6 de l'article 150-0 D du code général des impôts réalisé depuis l'ouverture d'un plan d'épargne en
-actions est, le cas échéant, diminué du montant des produits qui n'ont pas bénéficié de l'exonération prévue au 5° bis de
-l'article 157 du même code. Le contribuable joint à la déclaration mentionnée à l'article 74-0 F les éléments nécessaires à
-la détermination de cette correction 
+actions mentionné à l'article 163 quinquies D du code général des impôts est, le cas échéant, diminué du montant des produits
+et des plus-values qui n'ont pas bénéficié de l'exonération prévue au 5° bis de l'article 157 du même code. Le contribuable
+joint à la déclaration mentionnée à l'article 74-0 F les éléments nécessaires à la détermination de cette correction
 
 Lorsque la clôture du plan intervient avant l'expiration de la cinquième année, cette déclaration doit faire apparaître sous
 une rubrique spéciale le montant du gain net visé au premier alinéa assorti des éléments nécessaires à sa détermination.
@@ -3673,53 +3663,50 @@ une rubrique spéciale le montant du gain net visé au premier alinéa assorti d
 
 _Modifié par_:
 
-  - Décret n°2014-1223 du 21 octobre 2014 - art. 1
+  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F (V)
   - Code général des impôts, CGI. - art. 150-0 D
-  - Code général des impôts, CGI. - art. 157 (V)
+  - Code général des impôts, CGI. - art. 163 quinquies D
 
 
 ###### Article 91 quater K
 
 Afin de bénéficier des dispositions du deuxième alinéa du II de l'article L. 221-32 du code monétaire et financier, le
-titulaire du plan d'épargne en actions adresse à l'organisme gestionnaire du plan un document attestant sur l'honneur que les
-sommes ou valeurs dont il demande le retrait, ou le rachat s'agissant d'un contrat de capitalisation, sont destinées à être
-affectées au financement de la création ou de la reprise d'une entreprise dans les conditions fixées par la deuxième phrase
-du 2 du II de l'article 150-0 A du code général des impôts. 
+titulaire d'un plan d'épargne en actions mentionné à l'article 163 quinquies D du code général des impôts adresse à
+l'organisme gestionnaire du plan un document attestant sur l'honneur que les sommes ou valeurs dont il demande le retrait, ou
+le rachat s'agissant d'un contrat de capitalisation, sont destinées à être affectées au financement de la création ou de la
+reprise d'une entreprise dans les conditions fixées par la troisième phrase du 2 du II de l'article 150-0 A du code général
+des impôts.
 
-Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan adresse à l'organisme gestionnaire : 
+Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan adresse à l'organisme gestionnaire :
 
 a. En cas d'affectation des sommes au financement de la création d'une entreprise exerçant une activité industrielle,
 commerciale, artisanale, agricole ou libérale, la copie du récépissé de dépôt de dossier de création d'entreprise tel que
 prévu à l'article L. 123-9-1 du code de commerce, à l'article L. 311-2-1 du code rural et de la pêche maritime ou à l'article
 19-1 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat ou tout
-document officiel comportant l'immatriculation de l'entreprise et son identification ; 
+document officiel comportant l'immatriculation de l'entreprise et son identification ;
 
 b. En cas d'affectation des sommes au financement de la reprise d'une entreprise exerçant une activité mentionnée au a, la
-copie du document constatant l'opération, soumis à la formalité de l'enregistrement et mentionné aux articles 635
-,638 ou 639 du code général des impôts, accompagnée de tout document officiel comportant l'immatriculation de l'entreprise et
-son identification ; 
+copie du document constatant l'opération, soumis à la formalité de l'enregistrement et mentionné aux articles 635,638 ou 639
+du code général des impôts, accompagnée de tout document officiel comportant l'immatriculation de l'entreprise et son
+identification ;
 
 c. Une attestation sur l'honneur délivrée par l'entrepreneur individuel, la société ou, s'agissant de la reprise d'une
 entreprise, le cédant, mentionnant la date et le montant des sommes ou valeurs investies dans l'entreprise par le titulaire
-du plan conformément aux conditions fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité ; 
+du plan conformément aux conditions fixées par la  troisième phrase du 2 du II de l'article 150-0 A précité ;
 
 d. L'identité et l'adresse de la ou des personnes exerçant dans la société créée ou reprise l'une des fonctions énumérées au
 1° du 1 du III de l'article 975 du code général des impôts ou de l'exploitant individuel de l'entreprise créée ou reprise et,
 si nécessaire, la justification que l'un de ceux-ci est le conjoint ou le partenaire lié par un pacte civil de solidarité,
-l'ascendant ou le descendant du titulaire du plan. 
+l'ascendant ou le descendant du titulaire du plan.
 
-Si l'une des conditions énumérées au présent article n'est pas respectée, le retrait ou le rachat entraîne la clôture du plan
-d'épargne en actions en application du premier alinéa du II de l'article L. 221-32 du code monétaire et financier et, en cas
-de retrait ou de rachat avant l'expiration de la cinquième année du plan, l'imposition du gain net réalisé depuis l'ouverture
-du plan dans les conditions prévues à la première phrase du 2 du II de l'article 150-0 A du code général des impôts.
-
-**Nota:**
-
-Modification effectuée en conséquence de la loi n° 2017-1837 du 30 décembre 2017 (art. 31-I A, B 34° et IX B 1).
+En cas de non-respect des formalités prévues au présent article, le retrait ou le rachat entraîne la clôture du plan
+d'épargne en actions en application du  premier alinéa du II de l'article L. 221-32 du code monétaire et financier et
+l'imposition du gain net réalisé depuis l'ouverture du plan dans les conditions prévues à la  première phrase du 2 du II de
+l'article 150-0 A du code général des impôts .
 
 **Liens relatifs à cet article**
 
@@ -3727,26 +3714,63 @@ _Cite_:
 
   - Loi n°96-603 du 5 juillet 1996 - art. 19-1
   - Code de commerce - art. L123-9-1
+  - Code général des impôts, CGI.
   - Code général des impôts, CGI. - art. 150-0 A
-  - Code général des impôts, CGI. - art. 635
-  - Code général des impôts, CGI. - art. 638
-  - Code général des impôts, CGI. - art. 975
+  - Code général des impôts, CGI. - art. 163 quinquies D
   - Code rural - art. L311-2-1
   - Code monétaire et financier - art. L221-32
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 3
+  - Décret n°2020-122 du 13 février 2020 - art. 1
+
+
+###### Article 91 quater K bis
+
+Afin de bénéficier des dispositions du troisième alinéa du II de l'article L. 221-32 du code monétaire et financier, le
+titulaire d'un plan d'épargne en actions mentionné à l'article 163 quinquies D du code général des impôts adresse à
+l'organisme gestionnaire du plan, préalablement au retrait ou au rachat, un document attestant sur l'honneur que les retraits
+de liquidités ou les rachats effectués sur le plan résultent de l'un des évènements mentionnés à ce même alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-122 du 13 février 2020 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 163 quinquies D
+  - Code monétaire et financier - art. L221-32
+
+
+###### Article 91 quater K ter
+
+Afin de bénéficier des dispositions du IV de l'article L. 221-32 du code monétaire et financier, le titulaire d'un plan
+d'épargne en actions mentionné à l'article 163 quinquies D du code général des impôts adresse à l'organisme gestionnaire du
+plan, préalablement au retrait ou au rachat, une copie de la décision faisant état de la mise en œuvre de la procédure de
+liquidation mentionnée à ce même IV.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-122 du 13 février 2020 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 163 quinquies D
+  - Code monétaire et financier - art. L221-32
 
 
 ###### Article 91 quater L
 
-I. – Afin de mettre les porteurs de parts ou actionnaires des organismes mentionnés au c du 2° du I de l'article L. 221-31 du
-code monétaire et financier en mesure de justifier de l'éligibilité de leur investissement au plan d'épargne en actions, ces
+I. – Afin de mettre les porteurs de parts ou actionnaires des organismes mentionnés au 2° du I de l'article L. 221-31 du code
+monétaire et financier en mesure de justifier de l'éligibilité de leur investissement au plan d'épargne en actions, ces
 organismes ou, en l'absence de personnalité morale, leur gérant ou leur représentant à l'égard des tiers doivent s'engager,
 dans un document destiné à l'information des souscripteurs et devant être produit à l'Autorité des marchés financiers en vue
 de la commercialisation en France des titres concernés, à investir leurs actifs de manière permanente à 75 % au moins en
-titres ou droits mentionnés aux a, b et c du 1° du I de l'article L. 221-31 précité.
+titres ou droits mentionnés aux a et b du 1° du I de l'article L. 221-31 précité.
 
 Ils doivent en outre indiquer, dans leurs rapports annuel ou semestriel, dont l'administration peut demander la
 communication, la proportion d'investissement de leurs actifs en titres et droits mentionnés au premier alinéa effectivement
@@ -3757,13 +3781,13 @@ au plan d'épargne en actions par la production, sur demande de l'administration
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-810 du 6 juillet 2006 - art. 1 () JORF 8 juillet 2006
+  - Décret n°2020-122 du 13 février 2020 - art. 1
 
 _Cite_:
 
-  - Code monétaire et financier - art. L221-31 (VT)
+  - Code monétaire et financier - art. L221-31
 
 
 ##### VI : Déduction des pensions alimentaires<a id=45></a>
