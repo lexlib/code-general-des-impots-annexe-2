@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2020-02-16
+Version Consolidée au 2020-05-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -15060,7 +15060,14 @@ Les apports visés aux articles 301 B à 301 E doivent être rémunérés par l'
 la société bénéficiaire. Toutefois, ils peuvent faire l'objet de règlements sous une autre forme dans la limite de 10 % de la
 valeur nominale des droits attribués.
 
+La condition tenant à l'attribution de droits représentatifs du capital de la société bénéficiaire prévue à l'alinéa
+précédent n'est pas requise dans les situations prévues au II de l'article L. 236-3 du code de commerce.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-623 du 22 mai 2020 - art. 1
 
 _Cité par_:
 
