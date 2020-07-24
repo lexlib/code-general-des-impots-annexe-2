@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 2  
-Version Consolidée au 2020-06-12
+Version Consolidée au 2020-07-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 1 à 376)](#1)
     - [Première partie : Impôts d'Etat (art. 1 à 310 G ter)](#2)
@@ -83,7 +83,7 @@ Version Consolidée au 2020-06-12
           - [V bis : Réévaluation des immeubles et titres de sociétés à prépondérance immobilière (art. 171 P bis à 171 P ter)](#80)
           - [VII bis : Sociétés de capital-risque (art. 171 AL à 171 AS bis)](#81)
           - [VII ter : Fonds communs de placement à risques et fonds professionnel de capital investissement (art. 171 AT à 171 AW)](#82)
-          - [VIII : Réductions d'impôts pour l'achat de biens culturels (art. 171 BA à 171 BH)](#83)
+          - [VIII : Réductions d'impôts pour l'achat de biens culturels (art. 171 BA à 171 BG)](#83)
           - [IX : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale (art. 171 BI à 171 BJ)](#84)
           - [X : Déclaration des investissements réalisés outre-mer et mise en concurrence des intermédiaires en défiscalisation (art. 171 BK à 171 BL)](#85)
       - [Titre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 173 à 267 quater H)](#86)
@@ -261,36 +261,35 @@ Version Consolidée au 2020-06-12
         - [Section III : Organismes mixtes de gestion agréés (art. 371 Z bis à 371 Z undecies)](#258)
       - [Chapitre Ier bis A : Professionnels de l'expertise comptable (art. 371 bis A à 371 bis N)](#259)
       - [Chapitre Ier bis B : Certificateurs à l'étranger (art. 371 ter A à 371 ter H)](#260)
-      - [Chapitre Ier bis C : modalités de mise en place et de fonctionnement des commissions départementales des valeurs locatives des locaux professionnels et des commissions départementales des impôts directs locaux (art. 371 ter I à 371 ter R)](#261)
+      - [Chapitre Ier bis C : modalités de mise en place et de fonctionnement des commissions départementales des valeurs locatives des locaux professionnels et des commissions départementales des impôts directs locaux (art. 371 ter I à 371 ter M)](#261)
         - [Section I : Commissions départementales des valeurs locatives des locaux professionnels (art. 371 ter I à 371 ter M)](#262)
-        - [Section II : Commissions départementales des impôts directs locaux (art. 371 ter N à 371 ter R)](#263)
-      - [Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels (art. 371 ter S)](#264)
-      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#265)
-      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#266)
-      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#267)
-  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#268)
-    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#269)
-      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#270)
-        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#271)
-        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#272)
-        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#273)
-        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#274)
-      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#275)
-        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#276)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#277)
-        - [I : Dation en paiement (art. 384 A à 384 A ter)](#278)
-          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#279)
-          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#280)
-          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#281)
-    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies-0 I)](#282)
-      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#283)
-    - [Chapitre II : Procédures (art. 396 B à 396 C)](#284)
-      - [III : Dispositions communes (art. 396 B à 396 C)](#285)
-    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#286)
-      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#287)
-    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#288)
-      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#289)
-    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#290)
+      - [Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels (art. 371 ter S)](#263)
+      - [Chapitre I ter : Centre de formalités des entreprises (art. 371 AI à 371-0 AQ bis)](#264)
+      - [Chapitre II : Sociétés immobilières de copropriété (art. 372 à 375)](#265)
+      - [Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques (art. 376)](#266)
+  - [Livre II : Recouvrement de l'impôt (art. 376-0 bis à 410)](#267)
+    - [Chapitre premier : Paiement de l'impôt (art. 376-0 bis à 384 A ter)](#268)
+      - [Section I : Impôts directs et taxes assimilées (art. 376-0 bis à 383)](#269)
+        - [00I : Etablissement et mise en recouvrement des rôles (art. 376-0 bis)](#270)
+        - [III : Sociétés étrangères ayant des exploitations en France. Retenue à la source (art. 379 à 382)](#271)
+        - [III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité (art. 382 bis à 382 ter)](#272)
+        - [IV : Taxe sur les salaires. Taux majorés (art. 383)](#273)
+      - [Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées (art. 383 ter)](#274)
+        - [I : Taxe sur la valeur ajoutée (art. 383 ter)](#275)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 A à 384 A ter)](#276)
+        - [I : Dation en paiement (art. 384 A à 384 A ter)](#277)
+          - [1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique (art. 384 A à 384-0 A bis)](#278)
+          - [2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres (art. 384 A bis)](#279)
+          - [3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels (art. 384 A ter)](#280)
+    - [Chapitre I bis : Pénalités (art. 384 septies-0 A à 384 septies-0 I)](#281)
+      - [Section I : Commission des infractions fiscales (art. 384 septies-0 A à 384 septies-0 I)](#282)
+    - [Chapitre II : Procédures (art. 396 B à 396 C)](#283)
+      - [III : Dispositions communes (art. 396 B à 396 C)](#284)
+    - [Chapitre II bis : Sûretés et privilèges (art. 396 bis)](#285)
+      - [Section I : Publicité du privilège du Trésor (art. 396 bis)](#286)
+    - [Chapitre II ter : Dégrèvements et restitutions d'impôts (art. 396 duodecies à 396 undecies)](#287)
+      - [Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes (art. 396 duodecies à 396 undecies)](#288)
+    - [Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects (art. 408 à 410)](#289)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'Etat<a id=2></a>
@@ -1271,13 +1270,21 @@ _Cite_:
 ###### Article 39
 
 Pour bénéficier de l'exonération prévue au 19° de l'article 81 du code général des impôts, le salarié doit inscrire son nom
-sur les titres-restaurant si cette mention n'a pas été apposée par l'employeur ou par le comité d'entreprise.
+sur les titres-restaurant si cette mention n'a pas été apposée par l'employeur ou par le comité social et économique.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er-I et 9-II de l'ordonnance n° 2017-1386 du 22 septembre 2017.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2020-897 du 22 juillet 2020 - art.
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 81 (V)
+  - Code général des impôts, CGI. - art. 81
 
 
 ##### II bis : Bénéfices des professions non commerciales<a id=23></a>
@@ -5734,26 +5741,26 @@ effectuée par année.
 
 Pour cette régularisation, le montant des droits exigibles au titre de la majoration de la taxe sur les salaires est
 déterminé en appliquant le taux de 4,25 % à la fraction de la rémunération effectivement allouée à chaque salarié au cours de
-l'année civile, qui est comprise entre 7 924 € et 15 822 € et le taux de 9,35 % à la fraction excédant 15 572 € et en
+l'année civile, qui est comprise entre 8 004 € et 15 981 € et le taux de 9,35 % à la fraction excédant 15 981 € et en
 multipliant le chiffre ainsi déterminé par le rapport qui existe entre le montant de la rémunération qui a été payée pendant
 la période d'application de la majoration et le montant total de la rémunération annuelle.
 
 Les droits dus ne peuvent toutefois excéder le chiffre obtenu en appliquant au montant de la rémunération dont chaque salarié
 a bénéficié au cours de la période d'application de la majoration les taux de :
 
-4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 7 924 € et 15 822 € ;
+4,25 % à la fraction de cette rémunération qui, ajustée à l'année, est comprise entre 8 004 € et 15 981 € ;
 
-9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 15 822 €.
+9,35 % à la fraction de cette rémunération qui, ajustée à l'année, dépasse 15 981 €.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l’article 2-I-2° a de la loi n° 2018-1317 du 28 décembre 2018.
+Modifications effectuées en conséquence de l’article 2-I-2° a de la loi n° 2019-1479 du 28 décembre 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 2
+  - Décret n°2020-897 du 22 juillet 2020 - art.
 
 _Cité par_:
 
@@ -5762,7 +5769,7 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 383
-  - Code général des impôts, CGI. - art. 231 (M)
+  - Code général des impôts, CGI. - art. 231
 
 
 ###### Article 144
@@ -5770,7 +5777,7 @@ _Cite_:
 La déclaration des traitements et salaires que les employeurs sont tenus de souscrire en exécution des dispositions de
 l'article 87 du code général des impôts doit, pour ceux d'entre eux qui sont redevables en totalité ou partiellement de la
 taxe sur les salaires, faire ressortir distinctement, pour chaque bénéficiaire dont la rémunération individuelle annuelle a
-excédé 7 924 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
+excédé 8 004 €, le montant des salaires et rétributions payés en argent ou en nature durant la période d'application de la
 majoration de la taxe sur les salaires.
 
 Elle doit comporter, en outre, l'indication du montant des compléments de droits acquittés en application de l'article 142 à
@@ -5778,13 +5785,13 @@ raison des rémunérations payées pendant cette même période.
 
 **Nota:**
 
-Modification effectuée en conséquence de l’article 2-I-2° a de la loi n° 2018-1317 du 28 décembre 2018.
+Modification effectuée en conséquence de l’article 2-I-2° a de la loi n° 2019-1479 du 28 décembre 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-559 du 6 juin 2019 - art. 2
+  - Décret n°2020-897 du 22 juillet 2020 - art.
 
 _Cite_:
 
@@ -7526,32 +7533,6 @@ _Créé par_:
   - HISTO: Edition du 31 août 2002
 
 
-###### Article 171 BE
-
-L'entreprise qui souhaite bénéficier de la réduction d'impôt pour acquisition de biens culturels prévue à l'article 238 bis-0
-AB du code général des impôts adresse sa demande en deux exemplaires au ministre chargé de la culture. Celui-ci transmet l'un
-des exemplaires au ministre chargé du budget et procède aussitôt à l'instruction de la demande.
-
-**Nota:**
-
-En conséquence de l’article 29-III-8° et IV D de la loi n° 2019-1479 du 28 décembre 2019, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-
-**Liens**:
-
-  - PERIME: Décret n°2020-897 du 22 juillet 2020 - art.
-  - HISTO: Edition du 31 août 2002
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 238 bis-0 AB
-
-
 ###### Article 171 BF
 
 Dans le cas où l'entreprise, pour quelque motif que ce soit, n'acquiert pas le bien en cause, elle en informe immédiatement
@@ -7603,27 +7584,6 @@ _Cite_:
   - Code du patrimoine - art. L111-4
   - Code du patrimoine - art. L611-1 (VT)
   - Code du patrimoine - art. R212-79
-
-
-###### Article 171 BH
-
-La décision du ministre chargé du budget est notifiée à l'entreprise par lettre recommandée avec demande d'avis de réception.
-Le ministre chargé de la culture en est informé.
-
-**Nota:**
-
-En conséquence de l’article 29-III-8° et IV D de la loi n° 2019-1479 du 28 décembre 2019, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2002-754 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
-
-**Liens**:
-
-  - PERIME: Décret n°2020-897 du 22 juillet 2020 - art.
-  - HISTO: Edition du 31 août 2002
 
 
 ##### IX : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale<a id=84></a>
@@ -7698,7 +7658,7 @@ c) Son numéro d'identité tel que défini au premier alinéa de l'article R. 12
 2. Pour chaque opération ouvrant droit à l'un des avantages fiscaux mentionnés au premier alinéa de l'article 242 septies
 précité :
 
-a) Les éléments mentionnés au neuvième alinéa du même article ;
+a) Les éléments mentionnés au dixième alinéa du même article ;
 
 b) La référence à l'article du code général des impôts sur le fondement duquel l'opération est réalisée ;
 
@@ -7726,18 +7686,18 @@ IV. – La charte de déontologie mentionnée au huitième alinéa de l'article 
 
 **Nota:**
 
-Voir l'annexe au décret n° 2015-149 du 10 février 2015.
+Modification effectuée en conséquence de l’article 131-I-4° c et III B 1 et 2 de la loi n° 2018-1317 du 28 décembre 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-149 du 10 février 2015 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art.
 
 _Cite_:
 
-  - Code de commerce - art. R123-221 (V)
-  - Code général des impôts, CGI. - art. 242 septies (V)
+  - Code de commerce - art. R123-221
+  - Code général des impôts, CGI. - art. 242 septies
 
 
 ###### Article 171 BL
@@ -14308,11 +14268,11 @@ Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dis
 Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
 applicables à la date de leur présentation.
 
+Le 31° devient sans objet.
+
+Modification effectuée en conséquence de l'article 1er de l'arrêté du 12 juin 2018.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2020-68 du 30 janvier 2020 - art. 16
 
 _Cite_:
 
@@ -14534,8 +14494,8 @@ a) L'engagement de conservation souscrit par le défunt ou le donateur, pour lui
 avec un ou plusieurs autres associés, d'une durée minimale de deux ans, est en cours au jour de la transmission à titre
 gratuit ;
 
-b) Cet engagement a été respecté pour le pourcentage et le nombre de titres prévus au b du 1° lors de sa souscription
-jusqu'au jour de la transmission à titre gratuit ; En cas d'interposition d'une ou plusieurs sociétés entre un associé partie
+b) Cet engagement a été respecté pour le pourcentage et le nombre de titres prévus au a du 1° lors de sa souscription
+jusqu'au jour de la transmission à titre gratuit. En cas d'interposition d'une ou plusieurs sociétés entre un associé partie
 à l'engagement autre que le bénéficiaire mentionné au premier alinéa du présent I et la société dont les parts ou actions
 font l'objet de cet engagement, cette dernière fournit les attestations mentionnées au 1° du IV du présent article,
 transmises par la ou les sociétés interposées ;
@@ -14625,11 +14585,15 @@ fournit la ou les attestations mentionnées au 1° du présent IV transmises par
 b) Le cas échéant, la limitation, par ses statuts, des droits de l'usufruitier dans les conditions prévues par l'avant-
 dernier alinéa de l'article 787 B précité en cas de donation de titres consentie avec réserve d'usufruit.
 
+**Nota:**
+
+Modification effectuée en conséquence de l’article 1er du décret n° 2019-653 du 27 juin 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-653 du 27 juin 2019 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art.
 
 _Cité par_:
 
@@ -15219,7 +15183,7 @@ _Cite_:
 I. – Le patrimoine immobilier des sociétés mentionnées au d et au e du 1 du I bis de l'article 990 I du code général des
 impôts et l'actif des organismes de placement collectif mentionnés au même e sont composés d'immeubles bâtis respectant les
 conditions mentionnées aux a à c de l'article 279-0 bis A du code précité ou d'immeubles bâtis financés dans les conditions
-mentionnées aux articles R. 331-17 à R. 331-21 du code de la construction et de l'habitation ou de droits réels portant sur
+mentionnées aux articles D. 331-17 à D. 331-21 du code de la construction et de l'habitation ou de droits réels portant sur
 ces derniers immeubles. 
 
 II. – Le nombre de salariés, le chiffre d'affaires et le total de bilan de la société émettrice des titres mentionnés au b du
@@ -15266,18 +15230,22 @@ de personnalité morale, leur gérant ou représentant à l'égard des tiers, ti
 fiscale tout document justifiant de la valeur retenue pour la détermination de la proportion d'investissement prévue au
 neuvième alinéa du 2 du I bis de l'article 990 I du code général des impôts dans les conditions prévues au présent article.
 
+**Nota:**
+
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-918 du 4 juillet 2016 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art.
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 279-0 bis A (V)
-  - Code général des impôts, CGI. - art. 990 I (V)
-  - Code du travail - art. L3332-17-1 (VT)
-  - Code de la construction et de l'habitation. - art. R331-17 (V)
+  - Code général des impôts, CGI. - art. 279-0 bis A
+  - Code général des impôts, CGI. - art. 990 I
+  - Code du travail - art. L3332-17-1
+  - Code de la construction et de l'habitation. - art. D331-17
 
 
 ##### 0I : Taxe sur les conventions d'assurance<a id=187></a>
@@ -20410,8 +20378,8 @@ _Créé par_:
 
 ###### Article 371 ter I
 
-I-Les membres de la commission départementale des valeurs locatives des locaux professionnels mentionnée à l'article 1650 B
-du code général des impôts, autres que les parlementaires, sont désignés dans les conditions définies aux II à V.
+I-Les membres de la commission départementale des valeurs locatives mentionnée à l'article 1650 B du code général des impôts,
+autres que les parlementaires, sont désignés dans les conditions définies aux II à V.
 
 II.-Les membres du conseil de Paris sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de
 leur mandat est la même que celle du mandat des conseillers de Paris.
@@ -20458,11 +20426,15 @@ d) Une personne désignée après consultation des organisations représentative
 V.-Les représentants de l'administration fiscale sont désignés par le directeur départemental ou, le cas échéant, régional
 des finances publiques.
 
+**Nota:**
+
+Modification effectuée en conséquence de l’article 146-IX H de la loi n° 2019-1479 du 28 décembre 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art.
 
 
 ###### Article 371 ter J
@@ -20500,26 +20472,31 @@ départementale des valeurs locatives des locaux professionnels alors qu'elle es
 commission départementale des impôts directs locaux choisit, dans un délai d'une semaine, la commission au sein de laquelle
 elle siège.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Créé par_:
+Le second alinéa du III devient sans objet.
 
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
+Modification effectuée en conséquence de l’article 146-IX I de la loi n° 2019-1479 du 28 décembre 2019.
+
 
 
 ###### Article 371 ter K
 
-Un arrêté préfectoral fixe la liste des membres de la commission départementale des valeurs locatives des locaux
-professionnels, autres que les parlementaires et les représentants de l'administration fiscale, dès leur désignation dans les
-conditions prévues aux articles 371 ter I et 371 ter J.
+Un arrêté préfectoral fixe la liste des membres de la commission départementale des valeurs locatives, autres que les
+parlementaires et les représentants de l'administration fiscale, dès leur désignation dans les conditions prévues aux
+articles 371 ter I et 371 ter J.
 
 Cet arrêté est publié au recueil des actes administratifs du département.
 
+**Nota:**
+
+Modification effectuée en conséquence de l’article 146-IX H de la loi n° 2019-1479 du 28 décembre 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art.
 
 
 ###### Article 371 ter L
@@ -20590,217 +20567,12 @@ _Créé par_:
   - Décret n°2018-535 du 28 juin 2018 - art. 1
 
 
-#### Section II : Commissions départementales des impôts directs locaux<a id=263></a>
-
-###### Article 371 ter N
-
-I.-Les membres de la commission départementale des impôts directs locaux mentionnée à l'article 1650 C du code général des
-impôts sont désignés dans les conditions définies aux II à V.
-
-II.-Le membre du conseil départemental est désigné par celui-ci dans les deux mois qui suivent son renouvellement. La durée
-de son mandat est la même que celle du mandat des conseillers départementaux.
-
-Les membres du conseil de Paris sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de
-leur mandat est la même que celle du mandat des conseillers de Paris.
-
-Les membres du conseil de la Métropole de Lyon sont désignés par celui-ci dans les deux mois qui suivent son renouvellement.
-La durée de leur mandat est la même que celle du mandat des conseillers de la Métropole.
-
-Les maires sont désignés par l'association départementale des maires dans les deux mois qui suivent le renouvellement général
-des conseils municipaux. La durée de leur mandat est la même que celle du mandat des conseillers municipaux.
-
-Les représentants des établissements publics de coopération intercommunale à fiscalité propre sont désignés par l'association
-départementale des maires dans les trois mois qui suivent le renouvellement général des conseils municipaux. La durée de leur
-mandat est la même que celle des membres de l'organe délibérant des établissements publics de coopération intercommunale à
-fiscalité propre.
-
-III.-S'il existe plusieurs associations de maires dans le département, les maires et les représentants des établissements
-publics de coopération intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département
-après consultation desdites associations.
-
-S'il n'existe aucune association de maires dans le département, les maires et les représentants des établissements publics de
-coopération intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département.
-
-A défaut de désignation dans les délais prévus au II, les membres du conseil de Paris, le membre du conseil départemental,
-les membres du conseil de la Métropole de Lyon, les maires et les représentants des établissements publics de coopération
-intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département.
-
-IV.-Les représentants des contribuables sont désignés par le représentant de l'Etat dans le département, pour six ans, dans
-les trois mois qui suivent le renouvellement général des conseils municipaux. Ils comprennent :
-
-a) Deux personnes désignées après consultation des chambres de commerce et d'industrie territoriales ou, en Ile-de-France,
-des chambres de commerce et d'industrie départementales d'Ile-de-France ;
-
-b) Deux personnes désignées après consultation des chambres de métiers et de l'artisanat départementales ou, à défaut, de
-région ;
-
-c) Une personne désignée après consultation des organisations représentatives des professions libérales dans le département.
-
-V.-Les représentants de l'administration fiscale sont désignés par le directeur départemental ou, le cas échéant, régional
-des finances publiques.
-
-**Nota:**
-
-En conséquence de l’article 146-IX I de la loi n° 2019-1479 du 28 décembre 2019, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2020-897 du 22 juillet 2020 - art.
-
-
-###### Article 371 ter O
-
-I.-Des suppléants, en nombre égal à celui des titulaires, sont désignés dans les mêmes conditions pour remplacer les membres
-de la commission en cas d'absence ou d'empêchement.
-
-II.-Chaque représentant des collectivités territoriales et des établissements publics de coopération intercommunale à
-fiscalité propre peut être accompagné aux séances de la commission soit de son suppléant, soit d'un fonctionnaire relevant de
-l'article 2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique
-territoriale.
-
-Chaque représentant des contribuables peut être accompagné aux séances de la commission soit de son suppléant soit, après
-autorisation du président de la commission, d'une personne choisie, selon le cas, parmi :
-
-a) Le personnel des chambres de commerce et d'industrie ou des chambres de métiers et de l'artisanat ;
-
-b) Les membres ou le personnel des organisations représentatives des professions libérales dans le département.
-
-Chaque représentant de l'administration fiscale peut être accompagné de son suppléant aux séances de la commission.
-
-Les fonctionnaires mentionnés au premier alinéa, les personnes choisies conformément au deuxième alinéa et, sauf dans les cas
-prévus au I, les suppléants ne participent pas aux débats de la commission.
-
-III.-Une personne désignée à plusieurs titres comme membre titulaire ou suppléant de la commission choisit dans un délai
-d'une semaine la qualité en laquelle elle siège au sein de la commission.
-
-Une personne désignée en application des II à IV de l'article 371 ter N comme membre titulaire ou suppléant de la commission
-départementale des impôts directs locaux alors qu'elle est membre titulaire ou suppléant de la commission départementale des
-valeurs locatives des locaux professionnels choisit, dans un délai d'une semaine, la commission au sein de laquelle elle
-siège.
-
-**Nota:**
-
-En conséquence de l’article 146-IX I de la loi n° 2019-1479 du 28 décembre 2019, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2020-897 du 22 juillet 2020 - art.
-
-
-###### Article 371 ter P
-
-Un arrêté préfectoral fixe la liste des membres de la commission départementale des impôts directs locaux, autres que les
-représentants de l'administration fiscale, dès leur désignation dans les conditions prévues aux articles 371 ter N et 371 ter
-O.
-
-Cet arrêté est publié au recueil des actes administratifs du département.
-
-**Nota:**
-
-En conséquence de l’article 146-IX I de la loi n° 2019-1479 du 28 décembre 2019, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2020-897 du 22 juillet 2020 - art.
-
-
-###### Article 371 ter Q
-
-I.-Il est procédé à une nouvelle désignation lorsqu'un des membres de la commission ou son suppléant démissionne, perd la
-qualité au titre de laquelle il a été désigné ou est hors d'état d'exercer ses fonctions. La personne ainsi désignée exerce
-ses fonctions jusqu'à l'expiration du mandat de la personne qu'elle remplace. La désignation est faite par les personnes et
-dans les conditions prévues à l'article 371 ter N, les délais étant calculés à compter de l'événement qui déclenche une
-nouvelle désignation.
-
-La commission siège valablement durant le temps nécessaire pour pourvoir au remplacement des membres dans les cas prévus au
-premier alinéa.
-
-II.-Il est également procédé à une nouvelle désignation :
-
-a) Des conseillers départementaux en cas de renouvellement général des conseils départementaux ;
-
-b) Des conseillers métropolitains en cas de renouvellement général du conseil de la Métropole de Lyon ;
-
-c) Des conseillers de Paris, des maires, des représentants des établissements publics de coopération intercommunale à
-fiscalité propre et des représentants des contribuables en cas de renouvellement général des conseils municipaux.
-
-La commission suspend ses travaux le vendredi précédant le renouvellement général des conseils départementaux ou municipaux.
-Les travaux de la commission reprennent au plus tard une semaine après la désignation des nouveaux membres de la commission.
-
-**Nota:**
-
-En conséquence de l’article 146-IX I de la loi n° 2019-1479 du 28 décembre 2019, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2020-897 du 22 juillet 2020 - art.
-
-
-###### Article 371 ter R
-
-I.-La commission est convoquée par son président, soit de sa propre initiative, soit à la demande de la moitié au moins de
-ses membres, soit à la demande du directeur départemental ou, le cas échéant, régional des finances publiques. Les membres de
-la commission sont convoqués au moins huit jours francs avant la date fixée pour la réunion.
-
-Les séances de la commission ne sont pas publiques. Toutefois, le président peut décider d'entendre toute personne pouvant
-apporter des informations utiles à la commission.
-
-II.-La commission ne délibère que si la moitié au moins de ses membres est présente. Dans le cas où le quorum n'est pas
-atteint, il est aussitôt procédé à une nouvelle convocation et, à l'issue d'un délai d'au moins trois jours francs après
-cette dernière, la commission peut délibérer quel que soit le nombre des membres présents.
-
-Les décisions de la commission sont prises à la majorité des suffrages exprimés.
-
-Les représentants de l'administration fiscale prennent part aux votes.
-
-Le président a voix prépondérante en cas de partage égal des voix.
-
-**Nota:**
-
-En conséquence de l’article 146-IX I de la loi n° 2019-1479 du 28 décembre 2019, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2020-897 du 22 juillet 2020 - art.
-
-
-### Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels<a id=264></a>
+### Chapitre Ier bis D : modalités de publication et de notification des décisions prises en vue de la détermination des paramètres d'évaluation des valeurs locatives des locaux professionnels<a id=263></a>
 
 ###### Article 371 ter S
 
-I.-Les décisions prises par la commission départementale des valeurs locatives des locaux professionnels en application du 3
-du I de l'article 1504 du code général des impôts ou du II de l'article 1518 ter du même code et par la commission
-départementale des impôts directs locaux en application du II ou du III de l'article 1504 précité sont notifiées :
+I.-Les décisions prises par la commission départementale des valeurs locatives en application du 3 du I et du III de
+l'article 1504 du code général des impôts ou du II de l'article 1518 ter du même code sont notifiées :
 
 1° Au président du conseil départemental, ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée
 délibérante de la collectivité territoriale unique, au président du conseil de la Métropole de Lyon, ainsi qu'au maire de
@@ -20811,11 +20583,10 @@ département.
 
 Elles sont transmises sans délai au directeur départemental ou, le cas échéant, régional des finances publiques.
 
-Les décisions prises par la commission départementale des valeurs locatives des locaux professionnels ou la commission
-départementale des impôts directs locaux en application du IV de l'article 1504 du code général des impôts sont également
-notifiées dans les conditions prévues à l'alinéa précédent.
+Les décisions prises par la commission départementale des valeurs locatives en application du IV de l'article 1504 du code
+général des impôts sont également notifiées dans les conditions prévues à l'alinéa précédent.
 
-II.-Les arrêtés pris en application du II, du III ou du IV de l'article 1504 précité sont notifiés :
+II.-Les arrêtés pris en application du III ou du IV de l'article 1504 précité sont notifiés :
 
 1° Au président du conseil départemental, ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée
 délibérante de la collectivité territoriale unique, au président du conseil de la Métropole de Lyon, ainsi qu'au maire de
@@ -20845,11 +20616,15 @@ département.
 V.-Les notifications et les transmissions prévues par le présent article sont effectuées par voie électronique ou, si
 nécessaire, par lettre recommandée avec demande d'avis de réception ou par voie administrative avec récépissé.
 
+**Nota:**
+
+Modification effectuée en conséquence de l’article 146-IX C de la loi n° 2019-1479 du 28 décembre 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-535 du 28 juin 2018 - art. 1
+  - Décret n°2020-897 du 22 juillet 2020 - art.
 
 _Cite_:
 
@@ -20857,7 +20632,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1518 ter
 
 
-### Chapitre I ter : Centre de formalités des entreprises<a id=265></a>
+### Chapitre I ter : Centre de formalités des entreprises<a id=264></a>
 
 ###### Article 371 AI
 
@@ -21173,7 +20948,7 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 AI
 
 
-### Chapitre II : Sociétés immobilières de copropriété<a id=266></a>
+### Chapitre II : Sociétés immobilières de copropriété<a id=265></a>
 
 ###### Article 372
 
@@ -21324,7 +21099,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=267></a>
+### Chapitre III : Compétences des fonctionnaires de la direction générale des finances publiques<a id=266></a>
 
 ###### Article 376
 
@@ -21383,13 +21158,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*81-1 (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=268></a>
+# Livre II : Recouvrement de l'impôt<a id=267></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=269></a>
+## Chapitre premier : Paiement de l'impôt<a id=268></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=270></a>
+### Section I : Impôts directs et taxes assimilées<a id=269></a>
 
-#### 00I : Etablissement et mise en recouvrement des rôles<a id=271></a>
+#### 00I : Etablissement et mise en recouvrement des rôles<a id=270></a>
 
 ###### Article 376-0 bis
 
@@ -21407,7 +21182,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1658
 
 
-#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=272></a>
+#### III : Sociétés étrangères ayant des exploitations en France. Retenue à la source<a id=271></a>
 
 ###### Article 379
 
@@ -21533,7 +21308,7 @@ _Cite_:
   - CGIAN2 380, 381
 
 
-#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=273></a>
+#### III bis : Solidarité entre époux et partenaires liés par un pacte civil de solidarité<a id=272></a>
 
 ###### Article 382 bis
 
@@ -21622,7 +21397,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 382 quater (V)
 
 
-#### IV : Taxe sur les salaires. Taux majorés<a id=274></a>
+#### IV : Taxe sur les salaires. Taux majorés<a id=273></a>
 
 ###### Article 383
 
@@ -21657,9 +21432,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 143 (V)
 
 
-### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=275></a>
+### Section I bis : Taxes sur le chiffre d'affaires et taxes assimilées<a id=274></a>
 
-#### I : Taxe sur la valeur ajoutée<a id=276></a>
+#### I : Taxe sur la valeur ajoutée<a id=275></a>
 
 ###### Article 383 ter
 
@@ -21691,11 +21466,11 @@ _Cite_:
   - HISTO: Edition du 31 mars 2000
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=277></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=276></a>
 
-#### I : Dation en paiement<a id=278></a>
+#### I : Dation en paiement<a id=277></a>
 
-##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=279></a>
+##### 1° Remise d'œuvres d'art, de livres, d'objets de collection, de documents de haute valeur artistique ou historique<a id=278></a>
 
 ###### Article 384 A
 
@@ -21780,7 +21555,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 A (V)
 
 
-##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=280></a>
+##### 2° : Remise d'immeubles au Conservatoire de l'espace littoral et des rivages lacustres<a id=279></a>
 
 ###### Article 384 A bis
 
@@ -21825,7 +21600,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=281></a>
+##### 3° : Remise d'immeubles en nature de bois et forêts ou espaces naturels<a id=280></a>
 
 ###### Article 384 A ter
 
@@ -21871,9 +21646,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1716 bis
 
 
-## Chapitre I bis : Pénalités<a id=282></a>
+## Chapitre I bis : Pénalités<a id=281></a>
 
-### Section I : Commission des infractions fiscales<a id=283></a>
+### Section I : Commission des infractions fiscales<a id=282></a>
 
 ###### Article 384 septies-0 A
 
@@ -22000,9 +21775,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1741 A (V)
 
 
-## Chapitre II : Procédures<a id=284></a>
+## Chapitre II : Procédures<a id=283></a>
 
-### III : Dispositions communes<a id=285></a>
+### III : Dispositions communes<a id=284></a>
 
 ###### Article 396 B
 
@@ -22070,9 +21845,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1912
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=286></a>
+## Chapitre II bis : Sûretés et privilèges<a id=285></a>
 
-### Section I : Publicité du privilège du Trésor<a id=287></a>
+### Section I : Publicité du privilège du Trésor<a id=286></a>
 
 ###### Article 396 bis
 
@@ -22202,9 +21977,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 207 sexies (V)
 
 
-## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=288></a>
+## Chapitre II ter : Dégrèvements et restitutions d'impôts<a id=287></a>
 
-### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=289></a>
+### Section II : Juridiction gracieuse. Comité du contentieux fiscal, douanier et des changes<a id=288></a>
 
 ###### Article 396 duodecies
 
@@ -22347,7 +22122,7 @@ prépondérante.
 
 
 
-## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=290></a>
+## Chapitre V : Compétences des fonctionnaires de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects<a id=289></a>
 
 ###### Article 408
 
